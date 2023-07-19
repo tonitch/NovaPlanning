@@ -5448,8 +5448,8 @@
                 },
                 {
                     "title": "Simulation\nMr BUYS\nNiP.0A11",
-                    "start": "2024-04-15T15:45:00",
-                    "end": "2024-04-15T17:45:00",
+                    "start": "2024-04-17T15:45:00",
+                    "end": "2024-04-17T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -5629,7 +5629,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Deep Learning\nMr MAHMOUDI, Mme COOLS, Mr AMEL\nHo.AteliersArchi",
+                    "title": "Advanced Deep Learning\nMme COOLS, Mr AMEL, Mr MAHMOUDI\nHo.AteliersArchi",
                     "start": "2023-12-14T08:30:00",
                     "end": "2023-12-14T11:30:00",
                     "color": "#79007d"
@@ -5641,7 +5641,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Deep Learning\nMr MAHMOUDI, Mme COOLS, Mr AMEL\nHo.AteliersArchi",
+                    "title": "Advanced Deep Learning\nMme COOLS, Mr AMEL, Mr MAHMOUDI\nHo.AteliersArchi",
                     "start": "2023-12-21T08:30:00",
                     "end": "2023-12-21T11:30:00",
                     "color": "#79007d"
@@ -5685,7 +5685,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr SIEBERT, Mr BRIFFOTEAUX\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr SIEBERT, Mr NDJIA NJIKE, Mr BRIFFOTEAUX\nHo.06PC",
                     "start": "2023-11-08T13:30:00",
                     "end": "2023-11-08T17:30:00",
                     "color": "#79007d"
@@ -5697,7 +5697,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr SIEBERT, Mr BRIFFOTEAUX\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr SIEBERT, Mr NDJIA NJIKE, Mr BRIFFOTEAUX\nHo.06PC",
                     "start": "2023-11-15T13:30:00",
                     "end": "2023-11-15T17:30:00",
                     "color": "#79007d"
@@ -5709,7 +5709,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr SIEBERT, Mr BRIFFOTEAUX\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr SIEBERT, Mr NDJIA NJIKE, Mr BRIFFOTEAUX\nHo.06PC",
                     "start": "2023-11-22T13:30:00",
                     "end": "2023-11-22T17:30:00",
                     "color": "#79007d"
@@ -5721,7 +5721,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr SIEBERT, Mr BRIFFOTEAUX\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr SIEBERT, Mr NDJIA NJIKE, Mr BRIFFOTEAUX\nHo.06PC",
                     "start": "2023-11-29T13:30:00",
                     "end": "2023-11-29T17:30:00",
                     "color": "#79007d"
@@ -5739,7 +5739,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr SIEBERT, Mr BRIFFOTEAUX\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr SIEBERT, Mr NDJIA NJIKE, Mr BRIFFOTEAUX\nHo.06PC",
                     "start": "2023-12-13T13:30:00",
                     "end": "2023-12-13T17:30:00",
                     "color": "#79007d"
@@ -5751,7 +5751,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr SIEBERT, Mr BRIFFOTEAUX\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr SIEBERT, Mr NDJIA NJIKE, Mr BRIFFOTEAUX\nHo.06PC",
                     "start": "2023-12-22T14:00:00",
                     "end": "2023-12-22T18:00:00",
                     "color": "#79007d"
@@ -6163,7 +6163,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cloud computing\nMr MAHMOUDI, Mme COOLS, Mr BENDJELLOUL\nHo.IGLab",
+                    "title": "Cloud computing\nMme COOLS, Mr BENDJELLOUL, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-04-15T13:30:00",
                     "end": "2024-04-15T17:30:00",
                     "color": "#5c98ff"
@@ -6181,7 +6181,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cloud computing\nMr MAHMOUDI, Mme COOLS, Mr BENDJELLOUL\nHo.IGLab",
+                    "title": "Cloud computing\nMme COOLS, Mr BENDJELLOUL, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-04-22T13:30:00",
                     "end": "2024-04-22T17:30:00",
                     "color": "#5c98ff"
@@ -6199,7 +6199,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cloud computing\nMr MAHMOUDI, Mme COOLS, Mr BENDJELLOUL\nHo.IGLab",
+                    "title": "Cloud computing\nMme COOLS, Mr BENDJELLOUL, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-04-29T13:30:00",
                     "end": "2024-04-29T17:30:00",
                     "color": "#5c98ff"
@@ -6267,13 +6267,13 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Communications analogiques et num\u00e9riques\nMr GROS, Mme MOEYAERT\nDo.TeleLab",
+                    "title": "Communications analogiques et num\u00e9riques\nMme MOEYAERT, Mr GROS\nDo.TeleLab",
                     "start": "2024-03-28T08:30:00",
                     "end": "2024-03-28T11:30:00",
                     "color": "#79007d"
                 },
                 {
-                    "title": "Communications analogiques et num\u00e9riques\nMr GROS, Mme MOEYAERT\nDo.TeleLab",
+                    "title": "Communications analogiques et num\u00e9riques\nMme MOEYAERT, Mr GROS\nDo.TeleLab",
                     "start": "2024-03-28T13:30:00",
                     "end": "2024-03-28T16:30:00",
                     "color": "#79007d"
@@ -6904,80 +6904,80 @@
                 },
                 {
                     "title": "Deep Learning for Natural Language and Sequence Processing\nMr DUPONT\nNiV\u00e9sale.030",
-                    "start": "2024-05-15T13:30:00",
-                    "end": "2024-05-15T15:30:00",
+                    "start": "2024-05-17T15:45:00",
+                    "end": "2024-05-17T17:45:00",
                     "color": "#5c98ff"
                 }
             ],
             "D\u00e9fis en intelligence artificielle": [
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-10-05T18:00:00",
                     "end": "2023-10-05T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-10-12T18:00:00",
                     "end": "2023-10-12T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-10-19T18:00:00",
                     "end": "2023-10-19T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-10-26T18:00:00",
                     "end": "2023-10-26T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-11-02T18:00:00",
                     "end": "2023-11-02T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-11-09T18:00:00",
                     "end": "2023-11-09T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-11-16T18:00:00",
                     "end": "2023-11-16T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-11-23T18:00:00",
                     "end": "2023-11-23T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-11-30T18:00:00",
                     "end": "2023-11-30T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-12-07T18:00:00",
                     "end": "2023-12-07T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-12-14T18:00:00",
                     "end": "2023-12-14T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
                     "start": "2023-12-21T18:00:00",
                     "end": "2023-12-21T21:00:00",
                     "color": "#5c98ff"
@@ -7828,8 +7828,8 @@
                 },
                 {
                     "title": "Knowledge representation and reasoning\nMr WIJSEN\nNiP.0A07",
-                    "start": "2024-04-19T10:30:00",
-                    "end": "2024-04-19T12:30:00",
+                    "start": "2024-04-19T08:15:00",
+                    "end": "2024-04-19T10:15:00",
                     "color": "#878787"
                 },
                 {
@@ -7864,8 +7864,8 @@
                 },
                 {
                     "title": "Knowledge representation and reasoning\nMr WIJSEN\nNiP.0A07",
-                    "start": "2024-05-10T10:30:00",
-                    "end": "2024-05-10T12:30:00",
+                    "start": "2024-05-10T15:45:00",
+                    "end": "2024-05-10T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -7876,8 +7876,8 @@
                 },
                 {
                     "title": "Knowledge representation and reasoning\nMr WIJSEN\nNiP.0A07",
-                    "start": "2024-05-17T10:30:00",
-                    "end": "2024-05-17T12:30:00",
+                    "start": "2024-05-16T15:45:00",
+                    "end": "2024-05-16T17:45:00",
                     "color": "#878787"
                 }
             ],
@@ -7895,7 +7895,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Multimedia information retrieval\nMr MAHMOUDI, Mme COOLS\nHo.IGLab",
+                    "title": "Multimedia information retrieval\nMme COOLS, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T16:30:00",
                     "color": "#878787"
@@ -7913,7 +7913,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Multimedia information retrieval\nMr MAHMOUDI, Mme COOLS\nHo.IGLab",
+                    "title": "Multimedia information retrieval\nMme COOLS, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T16:30:00",
                     "color": "#878787"
@@ -7925,7 +7925,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Multimedia information retrieval\nMr MAHMOUDI, Mme COOLS\nHo.IGLab",
+                    "title": "Multimedia information retrieval\nMme COOLS, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-03-04T13:30:00",
                     "end": "2024-03-04T16:30:00",
                     "color": "#878787"
@@ -7937,7 +7937,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Multimedia information retrieval\nMr MAHMOUDI, Mme COOLS\nHo.IGLab",
+                    "title": "Multimedia information retrieval\nMme COOLS, Mr MAHMOUDI\nHo.IGLab",
                     "start": "2024-03-11T13:30:00",
                     "end": "2024-03-11T16:30:00",
                     "color": "#878787"
@@ -8200,8 +8200,8 @@
                 },
                 {
                     "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11",
-                    "start": "2024-03-11T15:45:00",
-                    "end": "2024-03-11T17:45:00",
+                    "start": "2024-03-12T15:45:00",
+                    "end": "2024-03-12T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -8253,15 +8253,15 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
-                    "start": "2024-04-18T13:30:00",
-                    "end": "2024-04-18T15:30:00",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11",
+                    "start": "2024-04-18T10:30:00",
+                    "end": "2024-04-18T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11",
-                    "start": "2024-04-19T13:30:00",
-                    "end": "2024-04-19T15:30:00",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
+                    "start": "2024-04-18T13:30:00",
+                    "end": "2024-04-18T15:30:00",
                     "color": "#878787"
                 },
                 {
@@ -8271,7 +8271,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E20",
                     "start": "2024-04-26T13:30:00",
                     "end": "2024-04-26T15:30:00",
                     "color": "#878787"
@@ -9113,19 +9113,19 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Networks for multimedia and the Internet of things\nMr GROS, Mme MOEYAERT\nDo.TeleSC",
+                    "title": "Networks for multimedia and the Internet of things\nMme MOEYAERT, Mr GROS\nDo.TeleSC",
                     "start": "2024-04-19T13:30:00",
                     "end": "2024-04-19T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Networks for multimedia and the Internet of things\nMr GROS, Mme MOEYAERT\nDo.TeleSC",
+                    "title": "Networks for multimedia and the Internet of things\nMme MOEYAERT, Mr GROS\nDo.TeleSC",
                     "start": "2024-04-26T13:30:00",
                     "end": "2024-04-26T17:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Networks for multimedia and the Internet of things\nMr GROS, Mme MOEYAERT\nDo.TeleSC",
+                    "title": "Networks for multimedia and the Internet of things\nMme MOEYAERT, Mr GROS\nDo.TeleSC",
                     "start": "2024-05-03T08:30:00",
                     "end": "2024-05-03T12:30:00",
                     "color": "#878787"
@@ -9299,7 +9299,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Optimisation non lin\u00e9aire\nMr VANDAELE, Mr NDJIA NJIKE\nHo.05",
+                    "title": "Optimisation non lin\u00e9aire\nMr NDJIA NJIKE, Mr VANDAELE\nHo.05",
                     "start": "2023-09-19T15:45:00",
                     "end": "2023-09-19T17:45:00",
                     "color": "#878787"
@@ -9311,7 +9311,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Optimisation non lin\u00e9aire\nMr VANDAELE, Mr NDJIA NJIKE\nHo.05",
+                    "title": "Optimisation non lin\u00e9aire\nMr NDJIA NJIKE, Mr VANDAELE\nHo.05",
                     "start": "2023-09-26T15:45:00",
                     "end": "2023-09-26T17:45:00",
                     "color": "#878787"
@@ -9323,7 +9323,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Optimisation non lin\u00e9aire\nMr VANDAELE, Mr NDJIA NJIKE\nHo.05",
+                    "title": "Optimisation non lin\u00e9aire\nMr NDJIA NJIKE, Mr VANDAELE\nHo.05",
                     "start": "2023-10-03T15:45:00",
                     "end": "2023-10-03T17:45:00",
                     "color": "#878787"
@@ -9335,7 +9335,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Optimisation non lin\u00e9aire\nMr VANDAELE, Mr NDJIA NJIKE\nHo.05",
+                    "title": "Optimisation non lin\u00e9aire\nMr NDJIA NJIKE, Mr VANDAELE\nHo.05",
                     "start": "2023-10-10T15:45:00",
                     "end": "2023-10-10T17:45:00",
                     "color": "#878787"
@@ -9353,7 +9353,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Optimisation non lin\u00e9aire\nMr VANDAELE, Mr NDJIA NJIKE\nHo.05",
+                    "title": "Optimisation non lin\u00e9aire\nMr NDJIA NJIKE, Mr VANDAELE\nHo.05",
                     "start": "2023-10-24T13:30:00",
                     "end": "2023-10-24T15:30:00",
                     "color": "#878787"
@@ -9925,37 +9925,37 @@
             ],
             "S\u00e9minaire Intelligence Artificielle": [
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-03T18:00:00",
                     "end": "2023-10-03T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-10T18:00:00",
                     "end": "2023-10-10T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-17T18:00:00",
                     "end": "2023-10-17T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-24T18:00:00",
                     "end": "2023-10-24T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-31T18:00:00",
                     "end": "2023-10-31T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI, Mr BEN TAIEB\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUTOIT, Mr BEN TAIEB, Mr MAHMOUDI, Mr SIEBERT, Mr DUPONT\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-07T18:00:00",
                     "end": "2023-11-07T20:00:00",
                     "color": "#878787"
@@ -10122,8 +10122,8 @@
                 },
                 {
                     "title": "Simulation\nMr BUYS\nNiP.0A11",
-                    "start": "2024-04-15T15:45:00",
-                    "end": "2024-04-15T17:45:00",
+                    "start": "2024-04-17T15:45:00",
+                    "end": "2024-04-17T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -10214,14 +10214,14 @@
                 },
                 {
                     "title": "Software evolution\nMr MENS\nNiB4.119",
-                    "start": "2024-04-19T15:45:00",
-                    "end": "2024-04-19T17:45:00",
+                    "start": "2024-04-17T08:15:00",
+                    "end": "2024-04-17T10:15:00",
                     "color": "#878787"
                 },
                 {
                     "title": "Software evolution\nMr MENS\nNiB4.119",
-                    "start": "2024-04-26T15:45:00",
-                    "end": "2024-04-26T17:45:00",
+                    "start": "2024-04-25T13:30:00",
+                    "end": "2024-04-25T15:30:00",
                     "color": "#878787"
                 }
             ],
@@ -18844,8 +18844,8 @@
                 },
                 {
                     "title": "Simulation\nMr BUYS\nNiP.0A11",
-                    "start": "2024-04-15T15:45:00",
-                    "end": "2024-04-15T17:45:00",
+                    "start": "2024-04-17T15:45:00",
+                    "end": "2024-04-17T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -20904,8 +20904,8 @@
                 },
                 {
                     "title": "Knowledge representation and reasoning\nMr WIJSEN\nNiP.0A07",
-                    "start": "2024-04-19T10:30:00",
-                    "end": "2024-04-19T12:30:00",
+                    "start": "2024-04-19T08:15:00",
+                    "end": "2024-04-19T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -20940,8 +20940,8 @@
                 },
                 {
                     "title": "Knowledge representation and reasoning\nMr WIJSEN\nNiP.0A07",
-                    "start": "2024-05-10T10:30:00",
-                    "end": "2024-05-10T12:30:00",
+                    "start": "2024-05-10T15:45:00",
+                    "end": "2024-05-10T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -20952,8 +20952,8 @@
                 },
                 {
                     "title": "Knowledge representation and reasoning\nMr WIJSEN\nNiP.0A07",
-                    "start": "2024-05-17T10:30:00",
-                    "end": "2024-05-17T12:30:00",
+                    "start": "2024-05-16T15:45:00",
+                    "end": "2024-05-16T17:45:00",
                     "color": "#5c98ff"
                 }
             ],
@@ -21032,8 +21032,8 @@
                 },
                 {
                     "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11",
-                    "start": "2024-03-11T15:45:00",
-                    "end": "2024-03-11T17:45:00",
+                    "start": "2024-03-12T15:45:00",
+                    "end": "2024-03-12T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -21085,15 +21085,15 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
-                    "start": "2024-04-18T13:30:00",
-                    "end": "2024-04-18T15:30:00",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11",
+                    "start": "2024-04-18T10:30:00",
+                    "end": "2024-04-18T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11",
-                    "start": "2024-04-19T13:30:00",
-                    "end": "2024-04-19T15:30:00",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
+                    "start": "2024-04-18T13:30:00",
+                    "end": "2024-04-18T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -21103,7 +21103,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E20",
                     "start": "2024-04-26T13:30:00",
                     "end": "2024-04-26T15:30:00",
                     "color": "#5c98ff"
@@ -23044,14 +23044,14 @@
                 },
                 {
                     "title": "Software evolution\nMr MENS\nNiB4.119",
-                    "start": "2024-04-19T15:45:00",
-                    "end": "2024-04-19T17:45:00",
+                    "start": "2024-04-17T08:15:00",
+                    "end": "2024-04-17T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
                     "title": "Software evolution\nMr MENS\nNiB4.119",
-                    "start": "2024-04-26T15:45:00",
-                    "end": "2024-04-26T17:45:00",
+                    "start": "2024-04-25T13:30:00",
+                    "end": "2024-04-25T15:30:00",
                     "color": "#5c98ff"
                 }
             ]
