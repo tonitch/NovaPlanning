@@ -5411,21 +5411,21 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-02-19T15:45:00",
-                    "end": "2024-02-19T17:45:00",
+                    "title": "Simulation\nMr BUYS\nNiB6.18",
+                    "start": "2024-02-20T13:30:00",
+                    "end": "2024-02-20T15:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Simulation\nMr BUYS\nNiB4.119",
+                    "start": "2024-02-27T13:30:00",
+                    "end": "2024-02-27T15:30:00",
                     "color": "#878787"
                 },
                 {
                     "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-02-26T15:45:00",
-                    "end": "2024-02-26T17:45:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-03-04T15:45:00",
-                    "end": "2024-03-04T17:45:00",
+                    "start": "2024-03-06T15:45:00",
+                    "end": "2024-03-06T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -5574,12 +5574,6 @@
                 },
                 {
                     "title": "Advanced Operating Systems\nMr BUYS\nNiB4.120",
-                    "start": "2024-02-21T08:15:00",
-                    "end": "2024-02-21T10:15:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Advanced Operating Systems\nMr BUYS\nNiB4.120",
                     "start": "2024-02-28T08:15:00",
                     "end": "2024-02-28T10:15:00",
                     "color": "#5c98ff"
@@ -5588,6 +5582,12 @@
                     "title": "Advanced Operating Systems\nMr BUYS\nNiB4.120",
                     "start": "2024-03-06T08:15:00",
                     "end": "2024-03-06T10:15:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Advanced Operating Systems\nMr BUYS\nNiB4.120",
+                    "start": "2024-03-13T08:15:00",
+                    "end": "2024-03-13T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -7738,8 +7738,8 @@
                 },
                 {
                     "title": "Knowledge representation and reasoning\nMr WIJSEN\nNiB4.233",
-                    "start": "2024-02-21T15:45:00",
-                    "end": "2024-02-21T17:45:00",
+                    "start": "2024-02-20T15:45:00",
+                    "end": "2024-02-20T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -7767,15 +7767,15 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Knowledge representation and reasoning\n\nNiP.0A07",
+                    "title": "Knowledge representation and reasoning\n\nNiP.0A11",
                     "start": "2024-03-01T10:30:00",
                     "end": "2024-03-01T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Knowledge representation and reasoning\n\nNiB4.233",
-                    "start": "2024-03-06T15:45:00",
-                    "end": "2024-03-06T17:45:00",
+                    "title": "Knowledge representation and reasoning\nMr WIJSEN\nNiP.3E20",
+                    "start": "2024-03-05T15:45:00",
+                    "end": "2024-03-05T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -10085,21 +10085,21 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-02-19T15:45:00",
-                    "end": "2024-02-19T17:45:00",
+                    "title": "Simulation\nMr BUYS\nNiB6.18",
+                    "start": "2024-02-20T13:30:00",
+                    "end": "2024-02-20T15:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Simulation\nMr BUYS\nNiB4.119",
+                    "start": "2024-02-27T13:30:00",
+                    "end": "2024-02-27T15:30:00",
                     "color": "#878787"
                 },
                 {
                     "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-02-26T15:45:00",
-                    "end": "2024-02-26T17:45:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-03-04T15:45:00",
-                    "end": "2024-03-04T17:45:00",
+                    "start": "2024-03-06T15:45:00",
+                    "end": "2024-03-06T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -10153,9 +10153,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Software evolution\n\nNiDeVinci.Russel",
-                    "start": "2024-02-19T13:30:00",
-                    "end": "2024-02-19T17:45:00",
+                    "title": "Software evolution\n\nNiDeVinci.Vaughan",
+                    "start": "2024-02-21T08:15:00",
+                    "end": "2024-02-21T12:30:00",
                     "color": "#878787"
                 },
                 {
@@ -10171,9 +10171,9 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Software evolution\n\nNiDeVinci.Russel",
-                    "start": "2024-03-04T13:30:00",
-                    "end": "2024-03-04T17:45:00",
+                    "title": "Software evolution\n\nNiDeVinci.Vaughan",
+                    "start": "2024-03-07T13:30:00",
+                    "end": "2024-03-07T17:45:00",
                     "color": "#878787"
                 },
                 {
@@ -18807,21 +18807,21 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-02-19T15:45:00",
-                    "end": "2024-02-19T17:45:00",
+                    "title": "Simulation\nMr BUYS\nNiB6.18",
+                    "start": "2024-02-20T13:30:00",
+                    "end": "2024-02-20T15:30:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Simulation\nMr BUYS\nNiB4.119",
+                    "start": "2024-02-27T13:30:00",
+                    "end": "2024-02-27T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
                     "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-02-26T15:45:00",
-                    "end": "2024-02-26T17:45:00",
-                    "color": "#5c98ff"
-                },
-                {
-                    "title": "Simulation\nMr BUYS\nNiP.0A07",
-                    "start": "2024-03-04T15:45:00",
-                    "end": "2024-03-04T17:45:00",
+                    "start": "2024-03-06T15:45:00",
+                    "end": "2024-03-06T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -20814,8 +20814,8 @@
                 },
                 {
                     "title": "Knowledge representation and reasoning\nMr WIJSEN\nNiB4.233",
-                    "start": "2024-02-21T15:45:00",
-                    "end": "2024-02-21T17:45:00",
+                    "start": "2024-02-20T15:45:00",
+                    "end": "2024-02-20T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -20843,15 +20843,15 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Knowledge representation and reasoning\n\nNiP.0A07",
+                    "title": "Knowledge representation and reasoning\n\nNiP.0A11",
                     "start": "2024-03-01T10:30:00",
                     "end": "2024-03-01T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Knowledge representation and reasoning\n\nNiB4.233",
-                    "start": "2024-03-06T15:45:00",
-                    "end": "2024-03-06T17:45:00",
+                    "title": "Knowledge representation and reasoning\nMr WIJSEN\nNiP.3E20",
+                    "start": "2024-03-05T15:45:00",
+                    "end": "2024-03-05T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -22983,9 +22983,9 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Software evolution\n\nNiDeVinci.Russel",
-                    "start": "2024-02-19T13:30:00",
-                    "end": "2024-02-19T17:45:00",
+                    "title": "Software evolution\n\nNiDeVinci.Vaughan",
+                    "start": "2024-02-21T08:15:00",
+                    "end": "2024-02-21T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -23001,9 +23001,9 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Software evolution\n\nNiDeVinci.Russel",
-                    "start": "2024-03-04T13:30:00",
-                    "end": "2024-03-04T17:45:00",
+                    "title": "Software evolution\n\nNiDeVinci.Vaughan",
+                    "start": "2024-03-07T13:30:00",
+                    "end": "2024-03-07T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
