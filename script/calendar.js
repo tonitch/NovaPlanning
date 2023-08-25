@@ -48,7 +48,6 @@
                     title,
                     start,
                     end,
-                    color,
                 }
                 ics_events.push(ics_event)
 
