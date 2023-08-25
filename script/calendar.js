@@ -75,7 +75,6 @@ function checkRemoveData(key, cond) {
 }
 
 function calendar(events) {
-    console.log(events)
     let calendarEl = document.getElementById('calendar');
     let calendar = new FullCalendar.Calendar(calendarEl, {
         locale: 'fr',
