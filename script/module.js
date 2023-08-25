@@ -2,7 +2,6 @@ import ics from 'https://cdn.skypack.dev/ics';
 import FileSaver from 'https://cdn.skypack.dev/file-saver';
 window.download_ics = () => {
     const { error, value } = ics.createEvents(ics_events)
-
     if (error) {
         console.log(error)
 
