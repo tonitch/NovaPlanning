@@ -2877,6 +2877,14 @@
                     "color": "#878787"
                 }
             ],
+            "Mati\u00e8re \u00e0 pr\u00e9ciser": [
+                {
+                    "title": "Mati\u00e8re \u00e0 pr\u00e9ciser\nMme VAN LANCKER\n",
+                    "start": "2023-09-12T09:00:00",
+                    "end": "2023-09-12T11:00:00",
+                    "color": "#878787"
+                }
+            ],
             " Nombres complexes": [
                 {
                     "title": " Nombres complexes\nMr MICHAUX, Mr RAMLOT\nNiGA.Plisnier",
@@ -14412,6 +14420,14 @@
                     "title": "Intro au calcul scientifique\nMr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-05-16T10:30:00",
                     "end": "2024-05-16T12:30:00",
+                    "color": "#fc4747"
+                }
+            ],
+            "Mati\u00e8re \u00e0 pr\u00e9ciser": [
+                {
+                    "title": "Mati\u00e8re \u00e0 pr\u00e9ciser\nMme VAN LANCKER\n",
+                    "start": "2023-09-12T09:00:00",
+                    "end": "2023-09-12T11:00:00",
                     "color": "#fc4747"
                 }
             ],
