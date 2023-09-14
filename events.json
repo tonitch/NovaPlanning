@@ -2487,43 +2487,43 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMr DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-03-12T13:30:00",
                     "end": "2024-03-12T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMr DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-03-19T13:30:00",
                     "end": "2024-03-19T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMr DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-03-26T13:30:00",
                     "end": "2024-03-26T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMr DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-04-16T13:30:00",
                     "end": "2024-04-16T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMr DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-04-23T13:30:00",
                     "end": "2024-04-23T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMr DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-04-30T13:30:00",
                     "end": "2024-04-30T16:30:00",
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Electronique\nMr DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiB4.12ALab",
+                    "title": "Electronique\nMme DAUBIE, Mme DEVOUGE, Mr DELPLACE\nNiB4.12ALab",
                     "start": "2024-05-07T13:30:00",
                     "end": "2024-05-07T16:30:00",
                     "color": "#44fcdb"
@@ -2693,7 +2693,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for science\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiV\u00e9sale.030, NiGA.Turing, NiB4.Penrose, NiP.0E10, NiGA.Pascal",
+                    "title": "English for science\nMme CHAUVEAU, Mme VAN LANCKER, Mr DEVILEZ\nNiV\u00e9sale.030, NiGA.Turing, NiB4.Penrose, NiGA.Pascal, NiP.0E10",
                     "start": "2023-12-18T10:30:00",
                     "end": "2023-12-18T12:30:00",
                     "color": "#878787"
@@ -2859,21 +2859,21 @@
             ],
             "Formation LaTex": [
                 {
-                    "title": "Formation LaTex\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Formation LaTex\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2023-09-19T13:30:00",
                     "end": "2023-09-19T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Formation LaTex\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
-                    "start": "2023-10-03T13:30:00",
-                    "end": "2023-10-03T15:30:00",
+                    "title": "Formation LaTex\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiDeVinci.Russel",
+                    "start": "2023-10-02T15:45:00",
+                    "end": "2023-10-02T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Formation LaTex\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
-                    "start": "2023-10-10T13:30:00",
-                    "end": "2023-10-10T15:30:00",
+                    "title": "Formation LaTex\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "start": "2023-10-03T13:30:00",
+                    "end": "2023-10-03T15:30:00",
                     "color": "#878787"
                 }
             ],
@@ -3029,91 +3029,91 @@
             ],
             "Probabilit\u00e9s": [
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
                     "start": "2024-02-08T08:15:00",
                     "end": "2024-02-08T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
                     "start": "2024-02-15T08:15:00",
                     "end": "2024-02-15T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiV\u00e9sale.030",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiV\u00e9sale.030",
                     "start": "2024-02-20T15:45:00",
                     "end": "2024-02-20T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
                     "start": "2024-02-22T08:15:00",
                     "end": "2024-02-22T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiV\u00e9sale.030",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiV\u00e9sale.030",
                     "start": "2024-02-27T15:45:00",
                     "end": "2024-02-27T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
                     "start": "2024-02-29T08:15:00",
                     "end": "2024-02-29T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiV\u00e9sale.030",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiV\u00e9sale.030",
                     "start": "2024-03-05T15:45:00",
                     "end": "2024-03-05T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
                     "start": "2024-03-07T08:15:00",
                     "end": "2024-03-07T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
                     "start": "2024-03-14T08:15:00",
                     "end": "2024-03-14T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
                     "start": "2024-03-21T08:15:00",
                     "end": "2024-03-21T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
                     "start": "2024-03-28T08:15:00",
                     "end": "2024-03-28T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
                     "start": "2024-04-18T08:15:00",
                     "end": "2024-04-18T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
                     "start": "2024-04-25T08:15:00",
                     "end": "2024-04-25T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.18",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.18",
                     "start": "2024-05-02T08:15:00",
                     "end": "2024-05-02T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Probabilit\u00e9s\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB6.124",
+                    "title": "Probabilit\u00e9s\nMr GROSSE\u2011ERDMANN, Mr THIANDOUM\nNiB6.124",
                     "start": "2024-05-16T08:15:00",
                     "end": "2024-05-16T10:15:00",
                     "color": "#fc4747"
@@ -3525,181 +3525,181 @@
             ],
             "Syst\u00e8mes d'exploitation": [
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-09-19T08:15:00",
                     "end": "2023-09-19T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-09-19T15:45:00",
                     "end": "2023-09-19T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-09-20T08:15:00",
                     "end": "2023-09-20T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-09-20T13:30:00",
                     "end": "2023-09-20T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-09-26T08:15:00",
                     "end": "2023-09-26T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-09-26T15:45:00",
                     "end": "2023-09-26T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-10-03T08:15:00",
                     "end": "2023-10-03T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-10-03T15:45:00",
                     "end": "2023-10-03T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-10-04T08:15:00",
                     "end": "2023-10-04T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-10-04T15:45:00",
                     "end": "2023-10-04T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-10-10T08:15:00",
                     "end": "2023-10-10T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-10-17T08:15:00",
                     "end": "2023-10-17T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-10-17T13:30:00",
                     "end": "2023-10-17T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-10-17T15:45:00",
                     "end": "2023-10-17T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-10-24T08:15:00",
                     "end": "2023-10-24T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-10-24T15:45:00",
                     "end": "2023-10-24T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-11-07T08:15:00",
                     "end": "2023-11-07T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-11-07T15:45:00",
                     "end": "2023-11-07T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-11-14T08:15:00",
                     "end": "2023-11-14T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-11-14T15:45:00",
                     "end": "2023-11-14T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-11-21T08:15:00",
                     "end": "2023-11-21T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-11-21T15:45:00",
                     "end": "2023-11-21T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-11-28T08:15:00",
                     "end": "2023-11-28T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-11-28T15:45:00",
                     "end": "2023-11-28T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-12-05T08:15:00",
                     "end": "2023-12-05T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-12-05T15:45:00",
                     "end": "2023-12-05T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-12-12T08:15:00",
                     "end": "2023-12-12T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-12-12T15:45:00",
                     "end": "2023-12-12T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiP.0A11",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiP.0A11",
                     "start": "2023-12-19T08:15:00",
                     "end": "2023-12-19T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Syst\u00e8mes d'exploitation\nMr DELGRANGE, Mr DYNEROWICZ\nNiDeVinci.Vaughan",
+                    "title": "Syst\u00e8mes d'exploitation\nMr DYNEROWICZ, Mr DELGRANGE\nNiDeVinci.Vaughan",
                     "start": "2023-12-19T15:45:00",
                     "end": "2023-12-19T17:45:00",
                     "color": "#5c98ff"
@@ -14065,15 +14065,15 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Formation LaTeX\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
-                    "start": "2023-10-03T13:30:00",
-                    "end": "2023-10-03T15:30:00",
+                    "title": "Formation LaTeX\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Russel",
+                    "start": "2023-10-02T15:45:00",
+                    "end": "2023-10-02T17:45:00",
                     "color": "#878787"
                 },
                 {
                     "title": "Formation LaTeX\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiDeVinci.Vaughan, NiDeVinci.Russel",
-                    "start": "2023-10-10T13:30:00",
-                    "end": "2023-10-10T15:30:00",
+                    "start": "2023-10-03T13:30:00",
+                    "end": "2023-10-03T15:30:00",
                     "color": "#878787"
                 }
             ],
@@ -21523,15 +21523,15 @@
             ],
             "M\u00e9thodes statistiques": [
                 {
-                    "title": "M\u00e9thodes statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.120",
-                    "start": "2023-10-04T10:30:00",
-                    "end": "2023-10-04T12:30:00",
+                    "title": "M\u00e9thodes statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.0A11",
+                    "start": "2023-09-26T13:30:00",
+                    "end": "2023-09-26T15:30:00",
                     "color": "#fca044"
                 },
                 {
-                    "title": "M\u00e9thodes statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiP.0A11",
-                    "start": "2023-10-11T10:30:00",
-                    "end": "2023-10-11T12:30:00",
+                    "title": "M\u00e9thodes statistiques\nMr THIANDOUM, Mr GROSSE\u2011ERDMANN\nNiB4.120",
+                    "start": "2023-10-04T10:30:00",
+                    "end": "2023-10-04T12:30:00",
                     "color": "#fca044"
                 },
                 {
@@ -22664,8 +22664,8 @@
                 },
                 {
                     "title": "Projet de probabilit\u00e9s et statistiques III\nMr GROSSE\u2011ERDMANN\nNiB4.0013",
-                    "start": "2023-10-11T08:15:00",
-                    "end": "2023-10-11T10:15:00",
+                    "start": "2023-10-06T10:30:00",
+                    "end": "2023-10-06T12:30:00",
                     "color": "#fc4747"
                 },
                 {
