@@ -45,7 +45,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiP.0A07, NiB4.120",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB4.120, NiP.0A07",
                     "start": "2023-11-20T08:15:00",
                     "end": "2023-11-20T10:15:00",
                     "color": "#00ad3d"
@@ -69,7 +69,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiP.0A07, NiB4.120",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB4.120, NiP.0A07",
                     "start": "2023-12-11T08:15:00",
                     "end": "2023-12-11T10:15:00",
                     "color": "#00ad3d"
@@ -1431,7 +1431,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Physique g\u00e9n\u00e9rale I - TP\nMme LACROIX\nNiDeVinci.Mirzakhani, NiB6.18",
+                    "title": "Physique g\u00e9n\u00e9rale I - TP\nMme LACROIX\nNiB6.18, NiDeVinci.Mirzakhani",
                     "start": "2023-10-19T10:30:00",
                     "end": "2023-10-19T12:30:00",
                     "color": "#44fcdb"
@@ -1636,6 +1636,12 @@
                     "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Curie",
                     "start": "2023-09-20T10:30:00",
                     "end": "2023-09-20T12:30:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Programmation et algorithmique I\n\nNiDeVinci.Mirzakhani",
+                    "start": "2023-09-20T15:45:00",
+                    "end": "2023-09-20T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -4111,25 +4117,25 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.124",
                     "start": "2023-09-20T10:30:00",
                     "end": "2023-09-20T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-10-04T10:30:00",
                     "end": "2023-10-04T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-10-09T10:30:00",
                     "end": "2023-10-09T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.0A11",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-16T13:30:00",
                     "end": "2023-10-16T15:30:00",
                     "color": "#5c98ff"
@@ -4141,31 +4147,31 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E10",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiV\u00e9sale.020",
                     "start": "2023-10-30T10:30:00",
                     "end": "2023-10-30T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-11-06T10:30:00",
                     "end": "2023-11-06T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E11",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-11-16T10:30:00",
                     "end": "2023-11-16T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E11",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-11-23T10:30:00",
                     "end": "2023-11-23T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-27T08:15:00",
                     "end": "2023-11-27T10:15:00",
                     "color": "#5c98ff"
@@ -4177,7 +4183,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-12-04T08:15:00",
                     "end": "2023-12-04T10:15:00",
                     "color": "#5c98ff"
@@ -4195,13 +4201,13 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-12-15T08:15:00",
                     "end": "2023-12-15T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00",
                     "color": "#5c98ff"
@@ -4265,13 +4271,13 @@
             ],
             "English for scientific communication Partie 2": [
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-02-09T08:15:00",
                     "end": "2024-02-09T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-02-16T08:15:00",
                     "end": "2024-02-16T10:15:00",
                     "color": "#878787"
@@ -4289,37 +4295,37 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-03-08T08:15:00",
                     "end": "2024-03-08T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-03-15T08:15:00",
                     "end": "2024-03-15T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-03-22T08:15:00",
                     "end": "2024-03-22T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-03-29T08:15:00",
                     "end": "2024-03-29T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-04-26T08:15:00",
                     "end": "2024-04-26T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.0E10, NiP.3E20",
+                    "title": "English for scientific communication Partie 2\nMr DEVILEZ\nNiP.3E20, NiP.0E10",
                     "start": "2024-05-03T08:15:00",
                     "end": "2024-05-03T10:15:00",
                     "color": "#878787"
@@ -5491,13 +5497,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.0A11, NiP.3E20",
+                    "title": "Simulation\nMr BUYS\nNiP.3E20, NiP.0A11",
                     "start": "2024-05-06T15:45:00",
                     "end": "2024-05-06T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.0A11, NiP.3E20",
+                    "title": "Simulation\nMr BUYS\nNiP.3E20, NiP.0A11",
                     "start": "2024-05-13T15:45:00",
                     "end": "2024-05-13T17:45:00",
                     "color": "#878787"
@@ -5723,7 +5729,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr BRIFFOTEAUX, Mr NDJIA NJIKE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr BRIFFOTEAUX, Mr SIEBERT\nHo.06PC",
                     "start": "2023-11-08T13:30:00",
                     "end": "2023-11-08T17:30:00",
                     "color": "#79007d"
@@ -5735,7 +5741,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr BRIFFOTEAUX, Mr NDJIA NJIKE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr BRIFFOTEAUX, Mr SIEBERT\nHo.06PC",
                     "start": "2023-11-15T13:30:00",
                     "end": "2023-11-15T17:30:00",
                     "color": "#79007d"
@@ -5747,7 +5753,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr BRIFFOTEAUX, Mr NDJIA NJIKE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr BRIFFOTEAUX, Mr SIEBERT\nHo.06PC",
                     "start": "2023-11-22T13:30:00",
                     "end": "2023-11-22T17:30:00",
                     "color": "#79007d"
@@ -5759,7 +5765,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr BRIFFOTEAUX, Mr NDJIA NJIKE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr BRIFFOTEAUX, Mr SIEBERT\nHo.06PC",
                     "start": "2023-11-29T13:30:00",
                     "end": "2023-11-29T17:30:00",
                     "color": "#79007d"
@@ -5777,7 +5783,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr BRIFFOTEAUX, Mr NDJIA NJIKE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr BRIFFOTEAUX, Mr SIEBERT\nHo.06PC",
                     "start": "2023-12-13T13:30:00",
                     "end": "2023-12-13T17:30:00",
                     "color": "#79007d"
@@ -5789,7 +5795,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Machine Learning\nMr BRIFFOTEAUX, Mr NDJIA NJIKE, Mr SIEBERT\nHo.06PC",
+                    "title": "Advanced Machine Learning\nMr NDJIA NJIKE, Mr BRIFFOTEAUX, Mr SIEBERT\nHo.06PC",
                     "start": "2023-12-22T14:00:00",
                     "end": "2023-12-22T18:00:00",
                     "color": "#79007d"
@@ -6601,25 +6607,25 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.124",
                     "start": "2023-09-20T10:30:00",
                     "end": "2023-09-20T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-10-04T10:30:00",
                     "end": "2023-10-04T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-10-09T10:30:00",
                     "end": "2023-10-09T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.0A11",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-16T13:30:00",
                     "end": "2023-10-16T15:30:00",
                     "color": "#5c98ff"
@@ -6631,31 +6637,31 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E10",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiV\u00e9sale.020",
                     "start": "2023-10-30T10:30:00",
                     "end": "2023-10-30T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-11-06T10:30:00",
                     "end": "2023-11-06T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E11",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-11-16T10:30:00",
                     "end": "2023-11-16T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E11",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-11-23T10:30:00",
                     "end": "2023-11-23T12:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-27T08:15:00",
                     "end": "2023-11-27T10:15:00",
                     "color": "#5c98ff"
@@ -6667,7 +6673,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-12-04T08:15:00",
                     "end": "2023-12-04T10:15:00",
                     "color": "#5c98ff"
@@ -6685,13 +6691,13 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-12-15T08:15:00",
                     "end": "2023-12-15T10:15:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiP.3E20",
+                    "title": "Cryptographie et s\u00e9curit\u00e9 des syst\u00e8mes informatiques\nMr BUYS\nNiB6.18",
                     "start": "2023-12-18T08:15:00",
                     "end": "2023-12-18T10:15:00",
                     "color": "#5c98ff"
@@ -9337,7 +9343,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Optimisation non lin\u00e9aire\nMr VANDAELE, Mr NDJIA NJIKE\nHo.05",
+                    "title": "Optimisation non lin\u00e9aire\nMr NDJIA NJIKE, Mr VANDAELE\nHo.05",
                     "start": "2023-09-22T13:30:00",
                     "end": "2023-09-22T15:30:00",
                     "color": "#878787"
@@ -9349,7 +9355,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Optimisation non lin\u00e9aire\nMr VANDAELE, Mr NDJIA NJIKE\nHo.05",
+                    "title": "Optimisation non lin\u00e9aire\nMr NDJIA NJIKE, Mr VANDAELE\nHo.05",
                     "start": "2023-09-26T15:45:00",
                     "end": "2023-09-26T17:45:00",
                     "color": "#878787"
@@ -9361,7 +9367,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Optimisation non lin\u00e9aire\nMr VANDAELE, Mr NDJIA NJIKE\nHo.05",
+                    "title": "Optimisation non lin\u00e9aire\nMr NDJIA NJIKE, Mr VANDAELE\nHo.05",
                     "start": "2023-10-03T15:45:00",
                     "end": "2023-10-03T17:45:00",
                     "color": "#878787"
@@ -9373,7 +9379,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Optimisation non lin\u00e9aire\nMr VANDAELE, Mr NDJIA NJIKE\nHo.05",
+                    "title": "Optimisation non lin\u00e9aire\nMr NDJIA NJIKE, Mr VANDAELE\nHo.05",
                     "start": "2023-10-10T15:45:00",
                     "end": "2023-10-10T17:45:00",
                     "color": "#878787"
@@ -9391,7 +9397,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Optimisation non lin\u00e9aire\nMr VANDAELE, Mr NDJIA NJIKE\nHo.05",
+                    "title": "Optimisation non lin\u00e9aire\nMr NDJIA NJIKE, Mr VANDAELE\nHo.05",
                     "start": "2023-10-24T13:30:00",
                     "end": "2023-10-24T15:30:00",
                     "color": "#878787"
@@ -10415,7 +10421,7 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiP.0A07, NiB4.120, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB4.120, NiP.0A07, NiGA.Plisnier",
                     "start": "2023-11-20T08:15:00",
                     "end": "2023-11-20T10:15:00",
                     "color": "#00ad3d"
@@ -10433,13 +10439,13 @@
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiP.0A07, NiV\u00e9sale.020, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiV\u00e9sale.020, NiP.0A07, NiGA.Plisnier",
                     "start": "2023-11-27T10:30:00",
                     "end": "2023-11-27T12:30:00",
                     "color": "#00ad3d"
                 },
                 {
-                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiP.0A07, NiB4.120, NiGA.Plisnier",
+                    "title": "Aide \u00e0 la r\u00e9ussite\nMme BRIDOUX, Mme LACROIX\nNiB4.120, NiP.0A07, NiGA.Plisnier",
                     "start": "2023-12-11T08:15:00",
                     "end": "2023-12-11T10:15:00",
                     "color": "#00ad3d"
@@ -11745,55 +11751,55 @@
             ],
             "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue": [
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-09-18T08:15:00",
                     "end": "2023-09-18T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr MICHAUX\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr MICHAUX, Mr TROESTLER\nNiGA.VanGogh",
                     "start": "2023-09-18T13:30:00",
                     "end": "2023-09-18T16:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-09-25T08:15:00",
                     "end": "2023-09-25T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-10-02T08:15:00",
                     "end": "2023-10-02T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-10-09T08:15:00",
                     "end": "2023-10-09T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-10-16T08:15:00",
                     "end": "2023-10-16T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-10-23T08:15:00",
                     "end": "2023-10-23T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie, NiGA.Plisnier",
                     "start": "2023-10-30T08:15:00",
                     "end": "2023-10-30T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr TROESTLER, Mr MICHAUX\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Evaluation continue\nMme BRIDOUX, Mr MICHAUX, Mr TROESTLER\nNiGA.VanGogh",
                     "start": "2023-11-06T08:15:00",
                     "end": "2023-11-06T12:15:00",
                     "color": "#fc4747"
@@ -12063,85 +12069,85 @@
             ],
             "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique": [
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-09-18T10:30:00",
                     "end": "2023-09-18T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-09-21T08:15:00",
                     "end": "2023-09-21T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-09-25T10:30:00",
                     "end": "2023-09-25T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-09-28T08:15:00",
                     "end": "2023-09-28T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-10-02T10:30:00",
                     "end": "2023-10-02T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.VanGogh",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.VanGogh",
                     "start": "2023-10-04T15:45:00",
                     "end": "2023-10-04T17:45:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-10-05T08:15:00",
                     "end": "2023-10-05T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-10-12T08:15:00",
                     "end": "2023-10-12T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-10-13T08:15:00",
                     "end": "2023-10-13T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-10-16T10:30:00",
                     "end": "2023-10-16T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-10-19T08:15:00",
                     "end": "2023-10-19T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-10-23T10:30:00",
                     "end": "2023-10-23T12:30:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-10-26T08:15:00",
                     "end": "2023-10-26T10:15:00",
                     "color": "#fc4747"
                 },
                 {
-                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr TROESTLER, Mr BRIHAYE\nNiGA.Curie",
+                    "title": "Math\u00e9matiques \u00e9l\u00e9mentaires - Logique\nMme BRIDOUX, Mr BRIHAYE, Mr TROESTLER\nNiGA.Curie",
                     "start": "2023-10-30T10:30:00",
                     "end": "2023-10-30T12:30:00",
                     "color": "#fc4747"
@@ -12576,6 +12582,12 @@
                     "title": "Programmation et algorithmique I\nMr MELOT\nNiGA.Curie",
                     "start": "2023-09-20T10:30:00",
                     "end": "2023-09-20T12:30:00",
+                    "color": "#5c98ff"
+                },
+                {
+                    "title": "Programmation et algorithmique I\n\nNiDeVinci.Mirzakhani",
+                    "start": "2023-09-20T15:45:00",
+                    "end": "2023-09-20T17:45:00",
                     "color": "#5c98ff"
                 },
                 {
@@ -15802,6 +15814,12 @@
                     "title": "Analyse et conception des syst\u00e8mes d'enseignement\nMr DEROBERTMASURE\nNiGA.VanGogh",
                     "start": "2024-03-28T10:30:00",
                     "end": "2024-03-28T12:30:00",
+                    "color": "#878787"
+                },
+                {
+                    "title": "Analyse et conception des syst\u00e8mes d'enseignement\nMr DEROBERTMASURE\n",
+                    "start": "2024-04-17T15:45:00",
+                    "end": "2024-04-17T17:45:00",
                     "color": "#878787"
                 },
                 {
