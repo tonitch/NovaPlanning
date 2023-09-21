@@ -23,7 +23,6 @@ function parse_event(events) {
         for (const [cursus, courses] of Object.entries(cursus_list)) {
             const year_container = document.createElement("div");
             cursus_div.appendChild(year_container);
-
             
             const title_box = document.createElement("div");
             title_box.className = "title-box";
@@ -41,7 +40,7 @@ function parse_event(events) {
             title.onclick = derollCourses;
             title_box.appendChild(title);
 
-            const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "", true);
+            const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "", "", true);
             title_box.appendChild(checkall.children[0]);
             title_box.appendChild(checkall.children[0]);
 
@@ -53,8 +52,9 @@ function parse_event(events) {
             //var row = createRow(cursus,"Tout sélectionner",onCheckAll,"")
             //table.appendChild(row);
 
-            for (const [course, _] of Object.entries(courses)) {
-                const row = createRow(cursus + "_" + course, course, onCheck, cursus);
+            for (const [course, event] of Object.entries(courses)) {
+                let base_color = event[0]["color"];
+                const row = createRow(cursus + "_" + course, course, onCheck, cursus, base_color);
                 row.id = cursus + "_" + course;
                 
                 table.appendChild(row);
@@ -76,14 +76,13 @@ function derollCourses(e) {
 }
 
 
-function createRow(id, text, onclick, name) {
+function createRow(id, text, onclick, name, color) {
     const row = document.createElement("tr");
 
     const checkbox_container = document.createElement("td");
     row.appendChild(checkbox_container);
 
-
-    const div = createRowDiv(id, text, onclick, name);
+    const div = createRowDiv(id, text, onclick, name, color);
     checkbox_container.appendChild(div);
 
     return row;
@@ -110,23 +109,34 @@ function onClickButtonList(e) {
     document.getElementById("scrlbtn").innerHTML = e.target.innerHTML;
 }
 
-function createRowDiv(id, text, onclick, name, title=false) {
+function createRowDiv(id, text, onclick, name, base_color, title=false) {
     const div = document.createElement("div");
     div.className = "checkbox-line";
     div.id = id;
-    
+
     const checkbox_input = document.createElement("input");
     checkbox_input.id = id;
     checkbox_input.type = "checkbox";
     checkbox_input.onclick = onclick;
     checkbox_input.name = name;
     div.appendChild(checkbox_input);
-
+    
     if (!title) {
         const colorBox = document.createElement("input");
         colorBox.type = "color";
         colorBox.className = "colorWell";
-        colorBox.value = localStorage.getItem(id);
+        let color = "#878787";
+        
+        regex_mathc_color = base_color.match("^#(?:[0-9a-fA-F]{3}){1,2}$")
+        
+        if (regex_mathc_color !== null & base_color.match("^#(?:[0-9a-fA-F]{3}){1,2}$").length === 1) {
+            color = base_color;
+        }
+
+        if (localStorage.getItem("COLORDATA "+id) !== null) {
+            color = localStorage.getItem("COLORDATA "+id)
+        }
+        colorBox.value = color;
         div.appendChild(colorBox);
     }
 
@@ -135,7 +145,7 @@ function createRowDiv(id, text, onclick, name, title=false) {
     label.innerHTML = text;
     div.appendChild(label);
 
-    checkbox_input.checked = localStorage.getItem(id) === "";
+    checkbox_input.checked = localStorage.getItem(id) !== null;
 
     return div;
 }
@@ -162,11 +172,13 @@ function onCheck(e) {
 }
 
 function changeColor(id, color) {
-    localStorage.setItem(id, color);
+    if (localStorage.getItem(id) !== null) {
+        localStorage.setItem(id, color);    
+    }
 }
 
 function toggle_course(id, remove=false){
-    if (remove || localStorage.getItem(id) === ""){
+    if (remove || localStorage.getItem(id) !== null){
         localStorage.removeItem(id)
     }else {
         localStorage.setItem(id,"")
@@ -186,7 +198,7 @@ function startupColor() {
     let colorWell = document.querySelectorAll(".colorWell")
 
     colorWell.forEach((colorBox) => {
-        colorBox.value = localStorage.getItem(colorBox.parentElement.id);
+        colorBox.value = localStorage.getItem("COLORDATA " + colorBox.parentElement.id);
         colorBox.addEventListener("change", updateColor, false);
         colorBox.select();
     })
@@ -194,6 +206,8 @@ function startupColor() {
 
 function updateColor(e) {
     changeColor(e.target.parentElement.id, e.target.value);
+    id = e.target.parentElement.id;
+    localStorage.setItem("COLORDATA " + id, e.target.value);
 }
 
 window.addEventListener("load", startupColor, false);
