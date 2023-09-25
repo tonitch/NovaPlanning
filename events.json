@@ -4597,15 +4597,15 @@
                     "color": "#fca044"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nWa.SalleAca",
-                    "start": "2023-10-12T13:30:00",
-                    "end": "2023-10-12T15:30:00",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR\nRosaParks.1.09.Delmas\u2011Marty",
+                    "start": "2023-10-10T08:15:00",
+                    "end": "2023-10-10T10:15:00",
                     "color": "#fca044"
                 },
                 {
-                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMr ETTAHAR\nWa.236L",
-                    "start": "2023-10-13T15:45:00",
-                    "end": "2023-10-13T17:45:00",
+                    "title": "Introduction \u00e0 la comptabilit\u00e9\nMme BUGHIN\nWa.SalleAca",
+                    "start": "2023-10-12T13:30:00",
+                    "end": "2023-10-12T15:30:00",
                     "color": "#fca044"
                 },
                 {
@@ -4777,7 +4777,7 @@
             ],
             "Machine Learning I": [
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-05T13:30:00",
                     "end": "2024-02-05T15:30:00",
                     "color": "#878787"
@@ -4789,13 +4789,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00",
                     "color": "#878787"
@@ -4831,7 +4831,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A07",
                     "start": "2024-03-18T13:30:00",
                     "end": "2024-03-18T15:30:00",
                     "color": "#878787"
@@ -4849,7 +4849,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11, NiB6.18",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00",
                     "color": "#878787"
@@ -5673,7 +5673,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Deep Learning\nMr AMEL, Mr MAHMOUDI, Mme COOLS\nHo.AteliersArchi",
+                    "title": "Advanced Deep Learning\nMr MAHMOUDI, Mme COOLS, Mr AMEL\nHo.AteliersArchi",
                     "start": "2023-12-14T08:30:00",
                     "end": "2023-12-14T11:30:00",
                     "color": "#79007d"
@@ -5685,7 +5685,7 @@
                     "color": "#79007d"
                 },
                 {
-                    "title": "Advanced Deep Learning\nMr AMEL, Mr MAHMOUDI, Mme COOLS\nHo.AteliersArchi",
+                    "title": "Advanced Deep Learning\nMr MAHMOUDI, Mme COOLS, Mr AMEL\nHo.AteliersArchi",
                     "start": "2023-12-21T08:30:00",
                     "end": "2023-12-21T11:30:00",
                     "color": "#79007d"
@@ -6005,7 +6005,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.23, Ho.25bisLab",
+                    "title": "Ateliers de mod\u00e9lisation en recherche op\u00e9rationnelle\nMr GILLIS, Mr TUYTTENS\nHo.25bisLab, Ho.23",
                     "start": "2023-12-12T13:30:00",
                     "end": "2023-12-12T17:30:00",
                     "color": "#5c98ff"
@@ -6949,73 +6949,73 @@
             ],
             "D\u00e9fis en intelligence artificielle": [
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-10-05T18:00:00",
                     "end": "2023-10-05T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-10-12T18:00:00",
                     "end": "2023-10-12T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-10-19T18:00:00",
                     "end": "2023-10-19T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-10-26T18:00:00",
                     "end": "2023-10-26T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-11-02T18:00:00",
                     "end": "2023-11-02T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-11-09T18:00:00",
                     "end": "2023-11-09T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-11-16T18:00:00",
                     "end": "2023-11-16T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-11-23T18:00:00",
                     "end": "2023-11-23T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-11-30T18:00:00",
                     "end": "2023-11-30T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-12-07T18:00:00",
                     "end": "2023-12-07T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-12-14T18:00:00",
                     "end": "2023-12-14T21:00:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "D\u00e9fis en intelligence artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani, NiDeVinci.Russel",
+                    "title": "D\u00e9fis en intelligence artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Russel, NiDeVinci.Mirzakhani",
                     "start": "2023-12-21T18:00:00",
                     "end": "2023-12-21T21:00:00",
                     "color": "#5c98ff"
@@ -7581,7 +7581,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-02-15T10:30:00",
                     "end": "2024-02-15T12:30:00",
                     "color": "#878787"
@@ -7593,7 +7593,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-02-22T10:30:00",
                     "end": "2024-02-22T12:30:00",
                     "color": "#878787"
@@ -7605,7 +7605,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-02-29T10:30:00",
                     "end": "2024-02-29T12:30:00",
                     "color": "#878787"
@@ -7617,13 +7617,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-03-07T10:30:00",
                     "end": "2024-03-07T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiGA.Turing",
                     "start": "2024-03-08T10:30:00",
                     "end": "2024-03-08T12:30:00",
                     "color": "#878787"
@@ -7635,13 +7635,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-03-14T10:30:00",
                     "end": "2024-03-14T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiGA.Turing",
                     "start": "2024-03-15T10:30:00",
                     "end": "2024-03-15T12:30:00",
                     "color": "#878787"
@@ -7653,13 +7653,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-03-21T10:30:00",
                     "end": "2024-03-21T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiGA.Turing",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiGA.Turing",
                     "start": "2024-03-22T10:30:00",
                     "end": "2024-03-22T12:30:00",
                     "color": "#878787"
@@ -7671,61 +7671,61 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-03-28T10:30:00",
                     "end": "2024-03-28T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-04-17T08:15:00",
                     "end": "2024-04-17T10:15:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-04-18T10:30:00",
                     "end": "2024-04-18T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-04-23T15:45:00",
                     "end": "2024-04-23T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-04-25T10:30:00",
                     "end": "2024-04-25T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-04-30T15:45:00",
                     "end": "2024-04-30T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-05-02T10:30:00",
                     "end": "2024-05-02T12:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-05-07T15:45:00",
                     "end": "2024-05-07T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-05-14T15:45:00",
                     "end": "2024-05-14T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Introduction au calcul scientifique (Anum)\nMr LECOMTE, Mr TROESTLER\nNiDeVinci.Russel",
+                    "title": "Introduction au calcul scientifique (Anum)\nMr TROESTLER, Mr LECOMTE\nNiDeVinci.Russel",
                     "start": "2024-05-16T08:15:00",
                     "end": "2024-05-16T10:15:00",
                     "color": "#878787"
@@ -7983,7 +7983,7 @@
             ],
             "Machine Learning I": [
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-05T13:30:00",
                     "end": "2024-02-05T15:30:00",
                     "color": "#878787"
@@ -7995,13 +7995,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00",
                     "color": "#878787"
@@ -8037,7 +8037,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A07",
                     "start": "2024-03-18T13:30:00",
                     "end": "2024-03-18T15:30:00",
                     "color": "#878787"
@@ -8055,7 +8055,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00",
                     "color": "#878787"
@@ -8249,7 +8249,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
                     "start": "2024-03-15T13:30:00",
                     "end": "2024-03-15T15:30:00",
                     "color": "#878787"
@@ -8285,7 +8285,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
                     "start": "2024-03-29T13:30:00",
                     "end": "2024-03-29T15:30:00",
                     "color": "#878787"
@@ -8297,7 +8297,7 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Machine Learning II\nMr BEN TAIEB\nNiDeVinci.Vaughan, NiP.3E11",
+                    "title": "Machine Learning II\nMr BEN TAIEB\nNiP.3E11, NiDeVinci.Vaughan",
                     "start": "2024-04-18T13:30:00",
                     "end": "2024-04-18T15:30:00",
                     "color": "#878787"
@@ -9957,37 +9957,37 @@
             ],
             "S\u00e9minaire Intelligence Artificielle": [
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-03T18:00:00",
                     "end": "2023-10-03T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-10T18:00:00",
                     "end": "2023-10-10T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-17T18:00:00",
                     "end": "2023-10-17T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-24T18:00:00",
                     "end": "2023-10-24T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-31T18:00:00",
                     "end": "2023-10-31T20:00:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT, Mr MAHMOUDI\nNiDeVinci.Mirzakhani",
+                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Mirzakhani",
                     "start": "2023-11-07T18:00:00",
                     "end": "2023-11-07T20:00:00",
                     "color": "#878787"
@@ -10159,13 +10159,13 @@
                     "color": "#878787"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.3E20, NiP.0A11",
+                    "title": "Simulation\nMr BUYS\nNiP.0A11, NiP.3E20",
                     "start": "2024-05-06T15:45:00",
                     "end": "2024-05-06T17:45:00",
                     "color": "#878787"
                 },
                 {
-                    "title": "Simulation\nMr BUYS\nNiP.3E20, NiP.0A11",
+                    "title": "Simulation\nMr BUYS\nNiP.0A11, NiP.3E20",
                     "start": "2024-05-13T15:45:00",
                     "end": "2024-05-13T17:45:00",
                     "color": "#878787"
@@ -17485,7 +17485,7 @@
             ],
             "Machine Learning I": [
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-05T13:30:00",
                     "end": "2024-02-05T15:30:00",
                     "color": "#5c98ff"
@@ -17497,13 +17497,13 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A11",
                     "start": "2024-02-19T13:30:00",
                     "end": "2024-02-19T15:30:00",
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB4.Penrose",
                     "start": "2024-02-26T13:30:00",
                     "end": "2024-02-26T15:30:00",
                     "color": "#5c98ff"
@@ -17539,7 +17539,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\n",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiP.0A07",
                     "start": "2024-03-18T13:30:00",
                     "end": "2024-03-18T15:30:00",
                     "color": "#5c98ff"
@@ -17557,7 +17557,7 @@
                     "color": "#5c98ff"
                 },
                 {
-                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18",
+                    "title": "Machine Learning I\nMr BEN TAIEB\nNiB6.18, NiP.0A11",
                     "start": "2024-03-25T13:30:00",
                     "end": "2024-03-25T15:30:00",
                     "color": "#5c98ff"
