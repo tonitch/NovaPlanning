@@ -88,8 +88,21 @@ h1 {
     z-index: 5;
 }
 
-.colorWell {
-    width: 25px;
-    hight: 25px;
-    border: 2px solid white;
+
+
+input[type="color"] {
+	-webkit-appearance: none;
+	border: none;
+	width: 40px;
+	height: 20px;
+	cursor: pointer;
+	padding: -10;
+	background-color: white;
+}
+input[type="color"]::-webkit-color-swatch-wrapper {
+	padding: 0;
+}
+input[type="color"]::-webkit-color-swatch {
+	border: none;
+	border-radius: 10px;
 }
