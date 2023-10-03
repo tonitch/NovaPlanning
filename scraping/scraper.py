@@ -105,7 +105,7 @@ def get_information(driver,name, course_id):
 
             
 options = Options()
-options.headless = True
+options.add_argument('-headless')
 driver = webdriver.Firefox(options=options)
 driver.get("https://hplanning2023.umons.ac.be/invite")
 time.sleep(WAITING_TIME) # wait for the page to load
