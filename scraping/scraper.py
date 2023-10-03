@@ -106,7 +106,7 @@ def get_information(driver,name, course_id):
             
 options = Options()
 options.headless = True
-driver = webdriver.Firefox()//options=options
+driver = webdriver.Chrome()//options=options
 driver.get("https://hplanning2023.umons.ac.be/invite")
 time.sleep(WAITING_TIME) # wait for the page to load
 move_to_start_position(driver)
