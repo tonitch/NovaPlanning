@@ -14,8 +14,9 @@ import os
 
 from course_info import course_info
 from course_math import course_math
+from course_physics import course_physics
 
-course_dict = {"INFO": course_info, "MATH": course_math}
+course_dict = {"INFO": course_info, "MATH": course_math, "PHYS": course_physics}
 
 WAITING_TIME = 5
 output = {}
@@ -27,7 +28,8 @@ colorTab = {
     "ORANGE": "#fca044",
     "GREY": "#878787",
     "GREEN": "#00ad3d",
-    "PURPLE": "#79007d"
+    "PURPLE": "#79007d",
+    "YELLOW" : "GREY"
 }
 
 def getColor(color):
@@ -103,7 +105,7 @@ def get_information(driver,name, course_id):
 
             output[course_id][name][course_name].append({'title':title,'start':start,'end':end, 'color': color})
 
-            
+
 options = Options()
 options.add_argument('-headless')
 driver = webdriver.Firefox(options=options)
@@ -121,11 +123,17 @@ time.sleep(WAITING_TIME)
 move_down(driver,1)
 time.sleep(WAITING_TIME)
 get_information(driver,"BAB1 MATH", "MATH")
+time.sleep(WAITING_TIME)
+move_to_combo(driver)
+time.sleep(WAITING_TIME)
+move_down(driver,2)
+time.sleep(WAITING_TIME)
+get_information(driver,"BAB1 PHYS", "PHYS")
 
 time.sleep(WAITING_TIME)
 move_to_combo(driver)
 time.sleep(WAITING_TIME)
-move_down(driver,23)
+move_down(driver,21)
 time.sleep(WAITING_TIME)
 get_information(driver,"BAB2 INFO", "INFO")
 time.sleep(WAITING_TIME)
