@@ -2983,7 +2983,7 @@
                     "color": "#fc4747"
                 },
                 {
-                    "title": " Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiV\u00e9sale.025",
+                    "title": " Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiV\u00e9sale.020",
                     "start": "2023-10-13T10:30:00",
                     "end": "2023-10-13T12:30:00",
                     "color": "#fc4747"
@@ -10236,12 +10236,6 @@
             "S\u00e9minaire Intelligence Artificielle": [
                 {
                     "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Mirzakhani",
-                    "start": "2023-10-10T18:00:00",
-                    "end": "2023-10-10T20:00:00",
-                    "color": "#878787"
-                },
-                {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr DUPONT, Mr BEN TAIEB, Mr DUTOIT, Mr MAHMOUDI, Mr SIEBERT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-17T18:00:00",
                     "end": "2023-10-17T20:00:00",
                     "color": "#878787"
@@ -12587,7 +12581,7 @@
                     "color": "#44fcdb"
                 },
                 {
-                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiV\u00e9sale.025",
+                    "title": "Nombres complexes\nMr RAMLOT, Mr MICHAUX\nNiV\u00e9sale.020",
                     "start": "2023-10-13T10:30:00",
                     "end": "2023-10-13T12:30:00",
                     "color": "#44fcdb"
@@ -23262,12 +23256,6 @@
                 }
             ],
             "S\u00e9minaire Intelligence Artificielle": [
-                {
-                    "title": "S\u00e9minaire Intelligence Artificielle\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
-                    "start": "2023-10-10T18:00:00",
-                    "end": "2023-10-10T20:00:00",
-                    "color": "#5c98ff"
-                },
                 {
                     "title": "S\u00e9minaire Intelligence Artificielle\nMr MAHMOUDI, Mr BEN TAIEB, Mr SIEBERT, Mr DUTOIT, Mr DUPONT\nNiDeVinci.Mirzakhani",
                     "start": "2023-10-17T18:00:00",
