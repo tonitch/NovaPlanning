@@ -127,10 +127,11 @@ function createRowDiv(id, text, onclick, name, base_color, title=false) {
         colorBox.className = "colorWell";
         let color = "#878787";
         
-        regex_mathc_color = base_color.match("^#(?:[0-9a-fA-F]{3}){1,2}$")
-        
-        if (regex_mathc_color !== null & base_color.match("^#(?:[0-9a-fA-F]{3}){1,2}$").length === 1) {
-            color = base_color;
+        regex_match_color = base_color.match("^#(?:[0-9a-fA-F]{3}){1,2}$")
+        if (regex_match_color !== null) {
+            if (base_color.match("^#(?:[0-9a-fA-F]{3}){1,2}$").length === 1) {
+                color = base_color;
+            }
         }
 
         if (localStorage.getItem("COLORDATA "+id) !== null) {
