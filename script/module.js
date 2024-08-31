@@ -1,4 +1,4 @@
-/*import ics from 'https://cdn.skypack.dev/ics';
+import ics from 'https://cdn.skypack.dev/ics';
 import FileSaver from 'https://cdn.skypack.dev/file-saver';
 window.download_ics = () => {
     const { error, value } = ics.createEvents(ics_events)
@@ -10,7 +10,7 @@ window.download_ics = () => {
         let blob = new Blob([out], {type: "text/plain;charset=utf-8"});
         FileSaver.saveAs(blob, "cours.ics");
     }
-}*/
+}
 
 window.download_list = () => {
     let list = {}

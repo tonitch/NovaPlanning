@@ -55,7 +55,6 @@
             });
             events = events.concat(course_events)
         }
-
         calendar(events);
 
     }).catch(error => {
@@ -126,5 +125,6 @@ function calendar(events) {
           });
         },
     });
+    
     calendar.render();
 }
