@@ -53,7 +53,11 @@ function parse_event(events) {
             //table.appendChild(row);
 
             for (const [course, event] of Object.entries(courses)) {
-                let base_color = event[0]["color"];
+                console.log(event)
+                let base_color =  "#0026ad"
+                if (event.length !== 0) {
+                    base_color = event[0]["color"];
+                }
                 const row = createRow(cursus + "_" + course, course, onCheck, cursus, base_color);
                 row.id = cursus + "_" + course;
                 
