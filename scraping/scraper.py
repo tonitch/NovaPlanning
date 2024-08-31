@@ -58,7 +58,7 @@ def move_to_start_position(driver):
 
 
 def move_to_combo(driver):
-    select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-select "]')
+    select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-select  ie-ripple"]')
     action = ActionChains(driver)
     action.move_to_element(select)
     action.move_by_offset(5,5)
@@ -66,7 +66,7 @@ def move_to_combo(driver):
     action.perform()
 
 def move_down(driver,n,begin_enter=False):
-    time.sleep(0.5)
+    time.sleep(0.2)
     action = ActionChains(driver)
     if(begin_enter):
         action.send_keys(Keys.ENTER)
@@ -90,6 +90,7 @@ def get_information(driver,name, course_id):
 
     for i in range(1,len(tables),2):
         course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td/span')[0].text
+        print(course_name)
         if course_name in course:
             course_name, color_ = course[course_name]
             color = getColor(color_)
@@ -98,24 +99,25 @@ def get_information(driver,name, course_id):
         list_cursus = tables[i+1].find_elements(By.XPATH,'./td/div/table/tbody/tr')
         for cursus in list_cursus:
             info  = cursus.find_elements(By.XPATH,'./td')
-
-            date  = info[0].find_element(By.XPATH,'./ul/li').get_attribute("innerHTML").replace("&nbsp;", " ")
+            date  = info[0].find_element(By.XPATH,'./div').get_attribute("innerHTML").replace("&nbsp;", " ")
             _time = info[1].get_attribute("innerHTML").replace("&nbsp;", " ")
-            start = dateparser.parse(date + ' ' + _time[3:8]).strftime("%Y-%m-%dT%H:%M:%S")
-            end   = dateparser.parse(date + ' ' + _time[10:17]).strftime("%Y-%m-%dT%H:%M:%S")
+            row_date = dateparser.parse(date + ' ' + _time[3:8])
+            if row_date != None:
+                start = row_date.strftime("%Y-%m-%dT%H:%M:%S")
+                end   = dateparser.parse(date + ' ' + _time[10:17]).strftime("%Y-%m-%dT%H:%M:%S")
 
-            teacher = info[3].get_attribute("innerHTML").replace("&nbsp;", " ")
-            room = info[4].get_attribute("innerHTML").replace("&nbsp;", " ")
-            title = course_name + '\n' + teacher + '\n' + room
+                teacher = info[3].get_attribute("innerHTML").replace("&nbsp;", " ")
+                room = info[4].get_attribute("innerHTML").replace("&nbsp;", " ")
+                title = course_name + '\n' + teacher + '\n' + room
 
-            output[course_id][name][course_name].append({'title':title,'start':start,'end':end, 'color': color})
+                output[course_id][name][course_name].append({'title':title,'start':start,'end':end, 'color': color})
 
 
 options = Options()
 options.add_argument('-headless')
 driver = webdriver.Firefox(options=options)
 
-driver.get("https://hplanning2023.umons.ac.be/invite")
+driver.get("https://hplanning2024.umons.ac.be/invite")
 move_to_start_position(driver)
 move_to_combo(driver)
 element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CLASS_NAME, 'liste-as-options')))
@@ -206,8 +208,6 @@ move_down(driver,1)
 get_information(driver,"AESS PHYS", "PHYS")
 
 driver.close()
-
-print(output)
 
 with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(output, indent=4))
