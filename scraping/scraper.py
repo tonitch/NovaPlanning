@@ -83,7 +83,7 @@ def get_information(driver,name, course_id):
     print(name)
     course = course_dict[course_id]
     WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,'//table[@class="as-content"]/tbody/tr')))
-    time.sleep(0.2)
+    time.sleep(0.5)
     tables = driver.find_elements(By.XPATH,'//table[@class="as-content"]/tbody/tr')
     # print(tables)
     color = getColor("")
