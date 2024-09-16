@@ -66,7 +66,7 @@ def move_to_combo(driver):
     action.perform()
 
 def move_down(driver,n,begin_enter=False):
-    time.sleep(0.2)
+    time.sleep(0.3)
     action = ActionChains(driver)
     if(begin_enter):
         action.send_keys(Keys.ENTER)
