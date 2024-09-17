@@ -99,6 +99,7 @@ def get_information(driver,name, course_id):
         list_cursus = tables[i+1].find_elements(By.XPATH,'./td/div/table/tbody/tr')
         for cursus in list_cursus:
             info  = cursus.find_elements(By.XPATH,'./td')
+            driver.implicitly_wait(0.1)
             date  = info[0].find_element(By.XPATH,'./div').get_attribute("innerHTML").replace("&nbsp;", " ")
             _time = info[1].get_attribute("innerHTML").replace("&nbsp;", " ")
             row_date = dateparser.parse(date + ' ' + _time[3:8])
