@@ -19,6 +19,7 @@ function parse_event(events) {
         cursus_div.id = option;
         cursus_div.style.display= "none";
         document.getElementById("cursus-content").appendChild(cursus_div);
+        console.log(cursus_div.id)
 
         for (const [cursus, courses] of Object.entries(cursus_list)) {
             const year_container = document.createElement("div");
@@ -53,13 +54,12 @@ function parse_event(events) {
             //table.appendChild(row);
 
             for (const [course, event] of Object.entries(courses)) {
-                console.log(event)
                 let base_color =  "#0026ad"
                 if (event.length !== 0) {
                     base_color = event[0]["color"];
                 }
-                const row = createRow(cursus + "_" + course, course, onCheck, cursus, base_color);
-                row.id = cursus + "_" + course;
+                const row = createRow(cursus_div.id + "$" + cursus + "_" + course, course, onCheck, cursus, base_color);
+                row.id = cursus_div.id + "$" + cursus + "_" + course;
                 
                 table.appendChild(row);
             }
@@ -149,7 +149,6 @@ function createRowDiv(id, text, onclick, name, base_color, title=false) {
     label.htmlFor = id;
     label.innerHTML = text;
     div.appendChild(label);
-
     checkbox_input.checked = localStorage.getItem(id) !== null;
 
     return div;
