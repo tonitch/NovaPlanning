@@ -5,6 +5,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
+from selenium.common.exceptions import StaleElementReferenceException, TimeoutException, MoveTargetOutOfBoundsException
 
 from datetime import datetime   
 import dateparser
@@ -12,15 +13,11 @@ import json
 import time
 import os
 
-from course_info import course_info
-from course_math import course_math
-from course_physics import course_physics
-from course_chimie import course_chimie
-
-course_dict = {"INFO": course_info, "MATH": course_math, "PHYS": course_physics, "CHIMIE": course_chimie}
+from course_names_dict import course_dict
 
 WAITING_TIME = 5
 output = {}
+list_names = []
 
 colorTab = {
     "BLUE": "#5c98ff",
@@ -76,30 +73,25 @@ def move_down(driver,n,begin_enter=False):
     action.perform()
     WebDriverWait(driver, 10).until(EC.staleness_of)
 
-def get_information(driver,name, course_id):
+def get_information(driver):
+    WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,'//table[@class="as-content"]/tbody/tr')))
+    tables = driver.find_elements(By.XPATH,'//table[@class="as-content"]/tbody/tr')
+    color = getColor("")
+
+    name, course_id = course_dict[tables[0].text]
     if course_id not in output:
         output[course_id] = {}
     output[course_id][name] = {}
     print(name)
-    course = course_dict[course_id]
-    WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.XPATH,'//table[@class="as-content"]/tbody/tr')))
-    driver.implicitly_wait(0.5)
-    tables = driver.find_elements(By.XPATH,'//table[@class="as-content"]/tbody/tr')
-    # print(tables)
-    color = getColor("")
-    
     for i in range(1,len(tables),2):
         course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td/span')[0].text
-        print(course_name)
-        if course_name in course:
-            course_name, color_ = course[course_name]
-            color = getColor(color_)
+        # print(course_name)
         if course_name not in output[course_id][name]:
             output[course_id][name][course_name] = []
         list_cursus = tables[i+1].find_elements(By.XPATH,'./td/div/table/tbody/tr')
-        for cursus in list_cursus:
+        for i in range(len(list_cursus)):            
+            cursus = list_cursus[i]
             info  = cursus.find_elements(By.XPATH,'./td')
-            driver.implicitly_wait(0.1)
             date  = info[0].find_element(By.XPATH,'./div').get_attribute("innerHTML").replace("&nbsp;", " ")
             _time = info[1].get_attribute("innerHTML").replace("&nbsp;", " ")
             row_date = dateparser.parse(date + ' ' + _time[3:8])
@@ -113,14 +105,36 @@ def get_information(driver,name, course_id):
 
                 output[course_id][name][course_name].append({'title':title,'start':start,'end':end, 'color': color})
 
-
 options = Options()
 options.add_argument('-headless')
-driver = webdriver.Chrome(options=options)
+driver = webdriver.Firefox(options=options)
+url = "https://hplanning2024.umons.ac.be/invite"
+driver.get(url)
+driver.refresh()
+for i in range(221):
+    flag = True
+    while flag:
+        try:
+            move_to_start_position(driver)
+            move_to_combo(driver)
+            element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'liste-as-options')))
+            move_down(driver,i)
+            get_information(driver)
+            driver.refresh()
+        except Exception as e:
+            print(e)
+            driver.close()
+            driver = webdriver.Firefox(options)
+            driver.get(url)
+            driver.refresh()
+        else:
+            flag=False
 
-driver.get("https://hplanning2024.umons.ac.be/invite")
-move_to_start_position(driver)
-move_to_combo(driver)
+    driver.implicitly_wait(1)
+
+
+
+'''move_to_combo(driver)
 element = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CLASS_NAME, 'liste-as-options')))
 move_down(driver,11)
 get_information(driver,"BAB1 CHIMIE", "CHIMIE")
@@ -207,7 +221,7 @@ get_information(driver,"AESS MATH", "MATH")
 move_to_combo(driver)
 element = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'liste-as-options')))
 move_down(driver,1)
-get_information(driver,"AESS PHYS", "PHYS")
+get_information(driver,"AESS PHYS", "PHYS")'''
 
 driver.close()
 
