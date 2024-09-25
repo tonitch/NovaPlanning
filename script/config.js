@@ -8,10 +8,12 @@
 }();
 
 function parse_event(events) {
+
+    var i = 0;
     for (const [option, cursus_list] of Object.entries(events)){
         const button_course = document.createElement("button");
         button_course.innerHTML = option;
-        button_course.className = "buttonList";
+        button_course.className = ("buttonList " + (i%2 ? "impair" : "pair"));
         button_course.onclick = onClickButtonList;
         document.getElementById("sbl-course").appendChild(button_course)
 
@@ -19,15 +21,19 @@ function parse_event(events) {
         cursus_div.id = option;
         cursus_div.style.display= "none";
         document.getElementById("cursus-content").appendChild(cursus_div);
-        console.log(cursus_div.id)
+
+        i++;
 
         for (const [cursus, courses] of Object.entries(cursus_list)) {
             const year_container = document.createElement("div");
             cursus_div.appendChild(year_container);
+
+            console.log(year_container.id)
             
             const title_box = document.createElement("div");
             title_box.className = "title-box";
             year_container.appendChild(title_box);
+
 
             const img = document.createElement("img");
             img.src = "./arrow.png";
@@ -41,7 +47,7 @@ function parse_event(events) {
             title.onclick = derollCourses;
             title_box.appendChild(title);
 
-            const checkall = createRowDiv(cursus, "Tout sélectionner", onCheckAll, "", "", true);
+            const checkall = createRowDiv(cursus_div.id + "$" + cursus, "Tout sélectionner", onCheckAll, "", "", true);
             title_box.appendChild(checkall.children[0]);
             title_box.appendChild(checkall.children[0]);
 
@@ -58,7 +64,7 @@ function parse_event(events) {
                 if (event.length !== 0) {
                     base_color = event[0]["color"];
                 }
-                const row = createRow(cursus_div.id + "$" + cursus + "_" + course, course, onCheck, cursus, base_color);
+                const row = createRow(cursus_div.id + "$" + cursus + "_" + course, course, onCheck, cursus_div.id + "$" + cursus, base_color);
                 row.id = cursus_div.id + "$" + cursus + "_" + course;
                 
                 table.appendChild(row);
@@ -86,6 +92,7 @@ function createRow(id, text, onclick, name, color) {
     const checkbox_container = document.createElement("td");
     row.appendChild(checkbox_container);
 
+    // console.log("id : " + id)
     const div = createRowDiv(id, text, onclick, name, color);
     checkbox_container.appendChild(div);
 
@@ -119,6 +126,7 @@ function createRowDiv(id, text, onclick, name, base_color, title=false) {
     div.id = id;
 
     const checkbox_input = document.createElement("input");
+
     checkbox_input.id = id;
     checkbox_input.type = "checkbox";
     checkbox_input.onclick = onclick;
