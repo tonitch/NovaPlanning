@@ -20,10 +20,10 @@ output = {}
 temp_filter = [
     "Sc. informatiques",
     "Sc. mathématiques",
-    # "Sc. chimiques",
+    "Sc. chimiques",
     "Sc. physiques",
-    # "Sc. biomédicales",
-    # "Sc. pharmaceutiques"
+    "Sc. biomédicales",
+    "Sc. pharmaceutiques"
     ]
 
 colorTab = {
@@ -70,8 +70,10 @@ def get_information(driver):
 
     print(f"Cursus : {cursus} -- Year : {year} -- Specialisation : {specialisation} -- Site : {site}")
 
-    output[cursus] = {}
-    output[cursus][year] = {}
+    if cursus not in output:
+        output[cursus] = {}
+    if year not in output[cursus]:
+        output[cursus][year] = {}
 
     deploy_all_courses(driver)
     get_printable(driver)
@@ -84,11 +86,12 @@ def get_information(driver):
         # print(ligne.text)
         if "séance" in ligne.text:
             course_name = ligne.find_element(By.XPATH, './td[2]')
-            output[cursus][year][course_name.text] = []
+            if course_name.text not in output[cursus][year]:
+                output[cursus][year][course_name.text] = []
         else:
             left = ligne.find_element(By.XPATH, './td[1]')
             spliter = re.search(r'(.*) de (\d+h\d+) à (\d+h\d+)', left.text)
-            date = spliter.group(1) if spliter else left.text 
+            date = spliter.group(1) if spliter else left.text
             start = spliter.group(2) if spliter and len(spliter.groups()) >= 2 else ""
             end = spliter.group(3) if spliter and len(spliter.groups()) >= 3 else ""
 
@@ -178,7 +181,7 @@ def close_printable(driver):
 
 
 options = Options()
-# options.add_argument('-headless')
+options.add_argument('-headless')
 driver = webdriver.Firefox(options=options)
 driver.set_window_size(1920, 1080)
 url = "https://hplanning2025.umons.ac.be/invite"
