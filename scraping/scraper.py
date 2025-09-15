@@ -187,14 +187,27 @@ driver.refresh()
 
 select_recap_cours(driver)
 
-
 click_dropdown_cours(driver)
 move_down(driver,0, 2)
 get_information(driver)
-for i in range(262):
-    click_dropdown_cours(driver)
-    move_down(driver,1, i + 2)
-    get_information(driver)
+
+i = 0
+while i <=262:
+    try:
+        click_dropdown_cours(driver)
+        move_down(driver,1, i + 2)
+        get_information(driver)
+        i += 1
+        print(f"{i}/262")
+    except TimeoutException:
+        print("timeout, trying to rescue")
+        driver.close()
+        driver = webdriver.Firefox(options=options)
+        driver.get(url)
+        driver.refresh()
+        select_recap_cours(driver)
+        click_dropdown_cours(driver)
+        move_down(driver, i, 2)
 
 driver.close()
 
