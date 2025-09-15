@@ -125,12 +125,15 @@ def select_recap_cours(driver):
 
 
 def click_dropdown_cours(driver):
-    select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-select  ie-ripple"]')
-    action = ActionChains(driver)
-    action.move_to_element(select)
-    action.click()
-    action.perform()
-    # WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, 'liste-as-options')))
+    dropdowned = False
+    while not dropdowned:
+        select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-select  ie-ripple"]')
+        action = ActionChains(driver)
+        action.move_to_element(select)
+        action.click()
+        action.perform()
+        if WebDriverWait(driver, 10).until(EC.visibility_of_element_located((By.CLASS_NAME, 'liste-as-options'))):
+            dropdowned = True
 
 
 def move_down(driver,n, i):
@@ -173,7 +176,7 @@ def get_printable(driver):
     action.perform()
 
 def close_printable(driver):
-    close_icon = driver.find_element(By.CLASS_NAME, 'icon_fermeture_widget')
+    close_icon = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.CLASS_NAME, 'icon_fermeture_widget')))
     action = ActionChains(driver)
     action.move_to_element(close_icon)
     action.click()
