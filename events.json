@@ -419,7 +419,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme HENOUMONT\nNiGA.VanGogh",
+                    "title": "Chimie générale I\nMme HENOUMONT\nNiVésale.LaFontaine, NiGA.VanGogh",
                     "start": "2025-09-29T16:00:00",
                     "end": "2025-09-29T18:00:00",
                     "color": "#0026ad"
@@ -2836,8 +2836,8 @@
             "Biochimie métabolique TP": [
                 {
                     "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiGA.Gutenberg",
-                    "start": "2025-09-30T15:45:00",
-                    "end": "2025-09-30T16:45:00",
+                    "start": "2025-09-30T16:15:00",
+                    "end": "2025-09-30T17:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -4563,13 +4563,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale\nMme LUPANT\nNiP.1E12",
+                    "title": "Physiologie générale\nMme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-05T18:00:00",
                     "end": "2025-11-05T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale\nMme LUPANT\nNiP.1E12",
+                    "title": "Physiologie générale\nMme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-07T08:15:00",
                     "end": "2025-11-07T10:15:00",
                     "color": "#0026ad"
@@ -4581,7 +4581,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale\nMme LUPANT\nNiB6.06",
+                    "title": "Physiologie générale\nMme AKAN, Mme LUPANT\nNiB6.06",
                     "start": "2025-11-13T08:15:00",
                     "end": "2025-11-13T10:15:00",
                     "color": "#0026ad"
@@ -4593,19 +4593,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale\nMme LUPANT\nNiP.1E12",
+                    "title": "Physiologie générale\nMme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-17T08:15:00",
                     "end": "2025-11-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale\nMme LUPANT\nNiP.1E12",
+                    "title": "Physiologie générale\nMme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-19T18:00:00",
                     "end": "2025-11-19T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale\n\nMme LUPANT",
+                    "title": "Physiologie générale\n\nMme AKAN, Mme LUPANT",
                     "start": "2025-11-20T08:15:00",
                     "end": "2025-11-20T10:15:00",
                     "color": "#0026ad"
@@ -4649,7 +4649,7 @@
             ],
             "Physiologie générale TP": [
                 {
-                    "title": "Physiologie générale TP\nMme LUPANT\nNiGA.Curie",
+                    "title": "Physiologie générale TP\nMme AKAN, Mme LUPANT\nNiGA.Curie",
                     "start": "2025-10-21T15:45:00",
                     "end": "2025-10-21T17:45:00",
                     "color": "#0026ad"
@@ -4661,37 +4661,37 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale TP\nMme TASSIN, Mme LUPANT\nNiP.0C14",
+                    "title": "Physiologie générale TP\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.0C14",
                     "start": "2025-11-21T08:15:00",
                     "end": "2025-11-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale TP\nMme TASSIN, Mme LUPANT\nNiVésale.030",
+                    "title": "Physiologie générale TP\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiVésale.030",
                     "start": "2025-11-24T13:30:00",
                     "end": "2025-11-24T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale TP\nMme TASSIN, Mme LUPANT\nNiP.0C14",
+                    "title": "Physiologie générale TP\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.0C14",
                     "start": "2025-11-28T08:15:00",
                     "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale TP\nMme TASSIN, Mme LUPANT\nNiB6.18",
+                    "title": "Physiologie générale TP\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiB6.18",
                     "start": "2025-12-01T09:00:00",
                     "end": "2025-12-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale TP\nMme TASSIN, Mme LUPANT\nNiB6.18",
+                    "title": "Physiologie générale TP\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiB6.18",
                     "start": "2025-12-01T13:30:00",
                     "end": "2025-12-01T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale TP\nMme LUPANT\nNiB6.211, NiGA.VanGogh, NiGA.Gutenberg",
+                    "title": "Physiologie générale TP\nMme AKAN, Mme LUPANT\nNiB6.211, NiGA.VanGogh, NiGA.Gutenberg",
                     "start": "2025-12-17T08:15:00",
                     "end": "2025-12-17T10:15:00",
                     "color": "#0026ad"
@@ -6060,7 +6060,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. modèles/métho. Biomed\nMme TAGLIATTI, Mme LEMOINE\nNiP.0C14",
+                    "title": "Initiat. modèles/métho. Biomed\nMme LEMOINE, Mme TAGLIATTI\nNiP.0C14",
                     "start": "2025-11-04T13:30:00",
                     "end": "2025-11-04T17:30:00",
                     "color": "#0026ad"
@@ -6072,7 +6072,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. modèles/métho. Biomed\nMme TAGLIATTI, Mme LEMOINE\nNiP.0C14",
+                    "title": "Initiat. modèles/métho. Biomed\nMme LEMOINE, Mme TAGLIATTI\nNiP.0C14",
                     "start": "2025-11-14T08:30:00",
                     "end": "2025-11-14T12:30:00",
                     "color": "#0026ad"
@@ -6096,7 +6096,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. modèles/métho. Biomed\nMme TAGLIATTI, Mme LEMOINE\nNiP.0C14",
+                    "title": "Initiat. modèles/métho. Biomed\nMme LEMOINE, Mme TAGLIATTI\nNiP.0C14",
                     "start": "2025-12-16T08:00:00",
                     "end": "2025-12-16T12:30:00",
                     "color": "#0026ad"
@@ -6676,21 +6676,21 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.020",
-                    "start": "2025-12-12T10:30:00",
-                    "end": "2025-12-12T12:30:00",
+                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiB6.124",
+                    "start": "2025-12-11T08:15:00",
+                    "end": "2025-12-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL\nNiGA.Plisnier",
-                    "start": "2025-12-19T10:30:00",
-                    "end": "2025-12-19T12:30:00",
+                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.020",
+                    "start": "2025-12-12T10:30:00",
+                    "end": "2025-12-12T12:30:00",
                     "color": "#0026ad"
                 }
             ],
             "Physio/Physiopath néphro.": [
                 {
-                    "title": "Physio/Physiopath néphro.\nMme LUPANT\nNiP.0C14",
+                    "title": "Physio/Physiopath néphro.\nMme LUPANT, Mme AKAN\nNiP.0C14",
                     "start": "2025-11-14T13:30:00",
                     "end": "2025-11-14T17:30:00",
                     "color": "#0026ad"
@@ -6732,7 +6732,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath néphro.\nMme LUPANT\nNiP.0C14",
+                    "title": "Physio/Physiopath néphro.\nMme LUPANT, Mme AKAN\nNiP.0C14",
                     "start": "2025-11-28T13:30:00",
                     "end": "2025-11-28T17:30:00",
                     "color": "#0026ad"
@@ -6770,13 +6770,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN\nNiGA.Plisnier",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme LUPANT\nNiGA.Plisnier",
                     "start": "2025-09-18T10:30:00",
                     "end": "2025-09-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN\nPCM.500",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme LUPANT\nPCM.500",
                     "start": "2025-09-22T08:00:00",
                     "end": "2025-09-22T10:00:00",
                     "color": "#0026ad"
@@ -6794,7 +6794,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT\nNiGA.Interactiv1, NiGA.Interactiv2",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-09-29T08:15:00",
                     "end": "2025-09-29T10:15:00",
                     "color": "#0026ad"
@@ -6812,7 +6812,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT\nNiGA.Interactiv1, NiGA.Interactiv2",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-13T10:30:00",
                     "end": "2025-10-13T12:30:00",
                     "color": "#0026ad"
@@ -6824,13 +6824,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-10-14T18:00:00",
                     "end": "2025-10-14T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-10-15T08:15:00",
                     "end": "2025-10-15T10:15:00",
                     "color": "#0026ad"
@@ -6842,7 +6842,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT\nNiGA.Interactiv1, NiGA.Interactiv2",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-20T10:30:00",
                     "end": "2025-10-20T12:30:00",
                     "color": "#0026ad"
@@ -6866,19 +6866,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-28T17:45:00",
                     "end": "2025-11-28T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN\nNiGA.Plisnier, NiGA.VanGogh, NiVésale.020",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiGA.Plisnier, NiGA.VanGogh, NiVésale.020",
                     "start": "2025-12-18T08:15:00",
                     "end": "2025-12-18T10:15:00",
                     "color": "#0026ad"
@@ -26663,7 +26663,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.110111P, Wa.Hotyat, Wa.112P",
+                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.Hotyat, Wa.110111P, Wa.112P",
                     "start": "2025-10-16T18:00:00",
                     "end": "2025-10-16T21:00:00",
                     "color": "#0026ad"
@@ -26888,7 +26888,7 @@
             ],
             "Stage prépa vie sco": [
                 {
-                    "title": "Stage prépa vie sco\nMme DUROISIN\nNiVésale.025",
+                    "title": "Stage prépa vie sco\n\nMme DUROISIN",
                     "start": "2025-09-30T16:45:00",
                     "end": "2025-09-30T19:45:00",
                     "color": "#0026ad"
@@ -27462,7 +27462,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.Hotyat, Wa.110111P, Wa.112P",
+                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.110111P, Wa.Hotyat, Wa.112P",
                     "start": "2025-10-16T18:00:00",
                     "end": "2025-10-16T21:00:00",
                     "color": "#0026ad"
@@ -27751,7 +27751,7 @@
             ],
             "Stage prépa vie sco": [
                 {
-                    "title": "Stage prépa vie sco\nMme DUROISIN\nNiVésale.025",
+                    "title": "Stage prépa vie sco\n\nMme DUROISIN",
                     "start": "2025-09-30T16:45:00",
                     "end": "2025-09-30T19:45:00",
                     "color": "#0026ad"
@@ -30595,27 +30595,27 @@
             ],
             "Intro.à la microéconomie": [
                 {
-                    "title": "Intro.à la microéconomie\n\n",
-                    "start": "2025-09-29T13:30:00",
-                    "end": "2025-09-29T15:30:00",
+                    "title": "Intro.à la microéconomie\nMme STARON\nNiP.0A11",
+                    "start": "2025-10-08T08:15:00",
+                    "end": "2025-10-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro.à la microéconomie\n\n",
-                    "start": "2025-10-06T13:30:00",
-                    "end": "2025-10-06T15:30:00",
+                    "title": "Intro.à la microéconomie\nMme STARON\nNiP.0A11",
+                    "start": "2025-10-15T08:15:00",
+                    "end": "2025-10-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro.à la microéconomie\n\n",
-                    "start": "2025-10-13T13:30:00",
-                    "end": "2025-10-13T15:30:00",
+                    "title": "Intro.à la microéconomie\nMme STARON\nNiP.0A11",
+                    "start": "2025-10-22T08:15:00",
+                    "end": "2025-10-22T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro.à la microéconomie\n\n",
-                    "start": "2025-10-20T13:30:00",
-                    "end": "2025-10-20T15:30:00",
+                    "title": "Intro.à la microéconomie\nMme STARON\nNiP.3E20",
+                    "start": "2025-11-12T08:15:00",
+                    "end": "2025-11-12T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -30719,31 +30719,31 @@
             ],
             "Nombres complexes": [
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-09-19T10:30:00",
                     "end": "2025-09-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.LaFontaine",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.LaFontaine",
                     "start": "2025-09-23T13:30:00",
                     "end": "2025-09-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.030",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.030",
                     "start": "2025-10-03T10:30:00",
                     "end": "2025-10-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.025",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.025",
                     "start": "2025-10-10T10:30:00",
                     "end": "2025-10-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-10-17T10:30:00",
                     "end": "2025-10-17T12:30:00",
                     "color": "#0026ad"
@@ -30761,7 +30761,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
@@ -31339,7 +31339,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-09-30T08:15:00",
                     "end": "2025-09-30T10:15:00",
                     "color": "#0026ad"
@@ -31351,13 +31351,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiDeVinci.Russel",
                     "start": "2025-10-07T08:15:00",
                     "end": "2025-10-07T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
                     "start": "2025-10-14T08:15:00",
                     "end": "2025-10-14T10:15:00",
                     "color": "#0026ad"
@@ -31369,7 +31369,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
                     "start": "2025-10-21T08:15:00",
                     "end": "2025-10-21T10:15:00",
                     "color": "#0026ad"
@@ -31381,7 +31381,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
                     "start": "2025-11-04T08:15:00",
                     "end": "2025-11-04T10:15:00",
                     "color": "#0026ad"
@@ -31405,19 +31405,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
                     "start": "2025-11-18T08:15:00",
                     "end": "2025-11-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiP.0A07",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiP.0A07",
                     "start": "2025-11-21T08:15:00",
                     "end": "2025-11-21T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
                     "start": "2025-11-25T08:15:00",
                     "end": "2025-11-25T10:15:00",
                     "color": "#0026ad"
@@ -31429,19 +31429,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiDeVinci.Russel",
                     "start": "2025-12-02T08:15:00",
                     "end": "2025-12-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiP.0A07",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiP.0A07",
                     "start": "2025-12-05T08:15:00",
                     "end": "2025-12-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiP.0A11",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiP.0A11",
                     "start": "2025-12-09T08:15:00",
                     "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
@@ -32507,7 +32507,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro à la compta\nM. FEUILLET\nWa.236L",
+                    "title": "Intro à la compta\nM. FEUILLET\nWa.Drechsel",
                     "start": "2025-10-10T15:45:00",
                     "end": "2025-10-10T17:45:00",
                     "color": "#0026ad"
@@ -50773,7 +50773,7 @@
             ],
             "Structures de données I": [
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiP.0A11",
+                    "title": "Structures de données I\nMme BRUYERE, M. VANDENHOVE\nNiP.0A11",
                     "start": "2025-09-16T08:15:00",
                     "end": "2025-09-16T10:15:00",
                     "color": "#0026ad"
@@ -50797,7 +50797,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-09-30T08:15:00",
                     "end": "2025-09-30T10:15:00",
                     "color": "#0026ad"
@@ -50809,13 +50809,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2025-10-07T08:15:00",
                     "end": "2025-10-07T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-10-14T08:15:00",
                     "end": "2025-10-14T10:15:00",
                     "color": "#0026ad"
@@ -50827,7 +50827,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-10-21T08:15:00",
                     "end": "2025-10-21T10:15:00",
                     "color": "#0026ad"
@@ -50839,7 +50839,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-11-04T08:15:00",
                     "end": "2025-11-04T10:15:00",
                     "color": "#0026ad"
@@ -50863,19 +50863,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-11-18T08:15:00",
                     "end": "2025-11-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nMme BRUYERE, M. VANDENHOVE\nNiP.0A07",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiP.0A07",
                     "start": "2025-11-21T08:15:00",
                     "end": "2025-11-21T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-11-25T08:15:00",
                     "end": "2025-11-25T10:15:00",
                     "color": "#0026ad"
@@ -50887,19 +50887,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2025-12-02T08:15:00",
                     "end": "2025-12-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nMme BRUYERE, M. VANDENHOVE\nNiP.0A07",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiP.0A07",
                     "start": "2025-12-05T08:15:00",
                     "end": "2025-12-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiP.0A11",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiP.0A11",
                     "start": "2025-12-09T08:15:00",
                     "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
@@ -60736,20 +60736,7 @@
                 }
             ],
             "Sem. méthod. Sc. math A": [],
-            "Sem. méthod. Sc. math B": [
-                {
-                    "title": "Sem. méthod. Sc. math B\nM. MICHAUX, Mme MOUSSET\nNiBSM.010.Lonsdale",
-                    "start": "2025-11-12T13:15:00",
-                    "end": "2025-11-12T16:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Sem. méthod. Sc. math B\nM. MICHAUX, Mme MOUSSET\nNiP.3E20",
-                    "start": "2025-11-26T13:15:00",
-                    "end": "2025-11-26T16:30:00",
-                    "color": "#0026ad"
-                }
-            ],
+            "Sem. méthod. Sc. math B": [],
             "Stage prép.ens.math.": [
                 {
                     "title": "Stage prép.ens.math.\n\nM. MICHAUX",
@@ -60760,7 +60747,7 @@
             ],
             "Stage prépa vie sco": [
                 {
-                    "title": "Stage prépa vie sco\nMme DUROISIN\nNiVésale.025",
+                    "title": "Stage prépa vie sco\n\nMme DUROISIN",
                     "start": "2025-09-30T16:45:00",
                     "end": "2025-09-30T19:45:00",
                     "color": "#0026ad"
@@ -60833,12 +60820,6 @@
                     "title": "Econométrie - AAEP\nMme VOLRAL\nWa.Drechsel",
                     "start": "2025-10-07T08:15:00",
                     "end": "2025-10-07T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Econométrie - AAEP\nMme VOLRAL\nWa.Drechsel",
-                    "start": "2025-10-14T08:15:00",
-                    "end": "2025-10-14T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -61898,81 +61879,80 @@
             "Organis de l'ens second en CF": [],
             "Quest app dida phys": [
                 {
-                    "title": "Quest app dida phys\nMme FERREIRA QUEZADA, Mme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\nMme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2025-10-08T16:45:00",
                     "end": "2025-10-08T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme FERREIRA QUEZADA, Mme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\nMme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2025-10-15T16:45:00",
                     "end": "2025-10-15T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme FERREIRA QUEZADA, Mme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\nM. LO BUE, Mme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "start": "2025-11-12T13:30:00",
+                    "end": "2025-11-12T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Quest app dida phys\nM. LO BUE, Mme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "start": "2025-11-19T13:30:00",
+                    "end": "2025-11-19T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Quest app dida phys\nMme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-02-04T13:30:00",
                     "end": "2026-02-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme FERREIRA QUEZADA, Mme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\nMme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-02-11T13:30:00",
                     "end": "2026-02-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme FERREIRA QUEZADA, Mme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\nMme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-02-18T13:30:00",
                     "end": "2026-02-18T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme FERREIRA QUEZADA, Mme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\nMme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-02-25T17:15:00",
                     "end": "2026-02-25T20:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme FERREIRA QUEZADA, Mme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\nMme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-04T17:15:00",
                     "end": "2026-03-04T20:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme FERREIRA QUEZADA, Mme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\nMme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-11T17:15:00",
                     "end": "2026-03-11T20:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme FERREIRA QUEZADA, Mme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\nMme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-25T17:15:00",
                     "end": "2026-03-25T20:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme FERREIRA QUEZADA, Mme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\nMme LACROIX, Mme FERREIRA QUEZADA, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-04-08T17:15:00",
                     "end": "2026-04-08T20:15:00",
                     "color": "#0026ad"
                 }
             ],
             "Sem. méthod. Sc. math A": [],
-            "Sem. méthod. Sc. math B": [
-                {
-                    "title": "Sem. méthod. Sc. math B\nMme MOUSSET, M. MICHAUX\nNiBSM.010.Lonsdale",
-                    "start": "2025-11-12T13:15:00",
-                    "end": "2025-11-12T16:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Sem. méthod. Sc. math B\nMme MOUSSET, M. MICHAUX\nNiP.3E20",
-                    "start": "2025-11-26T13:15:00",
-                    "end": "2025-11-26T16:30:00",
-                    "color": "#0026ad"
-                }
-            ],
+            "Sem. méthod. Sc. math B": [],
             "Sém.méth.sp.phys A": [],
             "Stage prépa. Phys": [
                 {
@@ -62000,7 +61980,7 @@
             ],
             "Stage prépa vie sco": [
                 {
-                    "title": "Stage prépa vie sco\nMme DUROISIN\nNiVésale.025",
+                    "title": "Stage prépa vie sco\n\nMme DUROISIN",
                     "start": "2025-09-30T16:45:00",
                     "end": "2025-09-30T19:45:00",
                     "color": "#0026ad"
@@ -62202,6 +62182,18 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Quest app dida phys\nMme MAINIL, M. LO BUE, Mme FERREIRA QUEZADA, Mme LACROIX\nNiBSM.016.Dresselhaus",
+                    "start": "2025-11-12T13:30:00",
+                    "end": "2025-11-12T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Quest app dida phys\nMme MAINIL, M. LO BUE, Mme FERREIRA QUEZADA, Mme LACROIX\nNiBSM.016.Dresselhaus",
+                    "start": "2025-11-19T13:30:00",
+                    "end": "2025-11-19T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Quest app dida phys\nMme MAINIL, Mme FERREIRA QUEZADA, Mme LACROIX\nNiBSM.016.Dresselhaus",
                     "start": "2026-02-04T13:30:00",
                     "end": "2026-02-04T15:30:00",
@@ -62291,20 +62283,7 @@
                 }
             ],
             "Sem. méthod. Sc. math A": [],
-            "Sem. méthod. Sc. math B": [
-                {
-                    "title": "Sem. méthod. Sc. math B\nMme MOUSSET, M. MICHAUX\nNiBSM.010.Lonsdale",
-                    "start": "2025-11-12T13:15:00",
-                    "end": "2025-11-12T16:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Sem. méthod. Sc. math B\nMme MOUSSET, M. MICHAUX\nNiP.3E20",
-                    "start": "2025-11-26T13:15:00",
-                    "end": "2025-11-26T16:30:00",
-                    "color": "#0026ad"
-                }
-            ],
+            "Sem. méthod. Sc. math B": [],
             "Sém.méth.sp.phys A": [],
             "Stage prépa. Phys": [
                 {
@@ -62340,7 +62319,7 @@
             ],
             "Stage prépa vie sco": [
                 {
-                    "title": "Stage prépa vie sco\nMme DUROISIN\nNiVésale.025",
+                    "title": "Stage prépa vie sco\n\nMme DUROISIN",
                     "start": "2025-09-30T16:45:00",
                     "end": "2025-09-30T19:45:00",
                     "color": "#0026ad"
@@ -62780,7 +62759,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme HENOUMONT\nNiGA.VanGogh",
+                    "title": "Chimie générale I\nMme HENOUMONT\nNiGA.VanGogh, NiVésale.LaFontaine",
                     "start": "2025-09-29T16:00:00",
                     "end": "2025-09-29T18:00:00",
                     "color": "#0026ad"
@@ -65437,8 +65416,8 @@
             "Biochimie métabolique TP": [
                 {
                     "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiGA.Gutenberg",
-                    "start": "2025-09-30T15:45:00",
-                    "end": "2025-09-30T16:45:00",
+                    "start": "2025-09-30T16:15:00",
+                    "end": "2025-09-30T17:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -67100,6 +67079,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Spectroscopies Pharma/Biomed\nMme LAURENT\nNiGA.Gutenberg",
+                    "start": "2025-10-01T10:30:00",
+                    "end": "2025-10-01T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Spectroscopies Pharma/Biomed\nMme LAURENT\nNiVésale.LaFontaine",
                     "start": "2025-10-02T08:15:00",
                     "end": "2025-10-02T10:15:00",
@@ -67127,12 +67112,6 @@
                     "title": "Spectroscopies Pharma/Biomed\nMme LAURENT\nNiVésale.LaFontaine",
                     "start": "2025-11-13T08:15:00",
                     "end": "2025-11-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Spectroscopies Pharma/Biomed\nMme LAURENT\nNiVésale.LaFontaine",
-                    "start": "2025-11-20T08:15:00",
-                    "end": "2025-11-20T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -67838,14 +67817,8 @@
                 },
                 {
                     "title": "English, part 3\nM. DEVILEZ\nNiGA.Pascal",
-                    "start": "2025-12-04T08:15:00",
-                    "end": "2025-12-04T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English, part 3\nM. DEVILEZ\nNiB6.06",
-                    "start": "2025-12-04T10:30:00",
-                    "end": "2025-12-04T12:30:00",
+                    "start": "2025-12-01T15:45:00",
+                    "end": "2025-12-01T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -68573,9 +68546,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiGA.Plisnier",
-                    "start": "2025-12-01T15:45:00",
-                    "end": "2025-12-01T17:45:00",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.025",
+                    "start": "2025-12-01T13:30:00",
+                    "end": "2025-12-01T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -68585,15 +68558,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.020",
-                    "start": "2025-12-12T10:30:00",
-                    "end": "2025-12-12T12:30:00",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiB6.124",
+                    "start": "2025-12-11T08:15:00",
+                    "end": "2025-12-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL\nNiGA.Plisnier",
-                    "start": "2025-12-19T10:30:00",
-                    "end": "2025-12-19T12:30:00",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.020",
+                    "start": "2025-12-12T10:30:00",
+                    "end": "2025-12-12T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -82052,7 +82025,7 @@
             ],
             "Stage prépa vie sco": [
                 {
-                    "title": "Stage prépa vie sco\nMme DUROISIN\nNiVésale.025",
+                    "title": "Stage prépa vie sco\n\nMme DUROISIN",
                     "start": "2025-09-30T16:45:00",
                     "end": "2025-09-30T19:45:00",
                     "color": "#0026ad"
@@ -84555,7 +84528,7 @@
             ],
             "Stage prépa vie sco": [
                 {
-                    "title": "Stage prépa vie sco\nMme DUROISIN\nNiVésale.025",
+                    "title": "Stage prépa vie sco\n\nMme DUROISIN",
                     "start": "2025-09-30T16:45:00",
                     "end": "2025-09-30T19:45:00",
                     "color": "#0026ad"
@@ -84623,7 +84596,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.Hotyat, Wa.110111P, Wa.112P",
+                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.112P, Wa.Hotyat, Wa.110111P",
                     "start": "2025-10-16T18:00:00",
                     "end": "2025-10-16T21:00:00",
                     "color": "#0026ad"
@@ -84757,6 +84730,18 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Quest app dida phys\nMme MAINIL, Mme FERREIRA QUEZADA, M. LO BUE, Mme LACROIX\nNiBSM.016.Dresselhaus",
+                    "start": "2025-11-12T13:30:00",
+                    "end": "2025-11-12T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Quest app dida phys\nMme MAINIL, Mme FERREIRA QUEZADA, M. LO BUE, Mme LACROIX\nNiBSM.016.Dresselhaus",
+                    "start": "2025-11-19T13:30:00",
+                    "end": "2025-11-19T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Quest app dida phys\nMme MAINIL, Mme FERREIRA QUEZADA, Mme LACROIX\nNiBSM.016.Dresselhaus",
                     "start": "2026-02-04T13:30:00",
                     "end": "2026-02-04T15:30:00",
@@ -84846,20 +84831,7 @@
                 }
             ],
             "Sem. méthod. Sc. math A": [],
-            "Sem. méthod. Sc. math B": [
-                {
-                    "title": "Sem. méthod. Sc. math B\nMme MOUSSET, M. MICHAUX\nNiBSM.010.Lonsdale",
-                    "start": "2025-11-12T13:15:00",
-                    "end": "2025-11-12T16:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Sem. méthod. Sc. math B\nMme MOUSSET, M. MICHAUX\nNiP.3E20",
-                    "start": "2025-11-26T13:15:00",
-                    "end": "2025-11-26T16:30:00",
-                    "color": "#0026ad"
-                }
-            ],
+            "Sem. méthod. Sc. math B": [],
             "Sém.méth.sp.phys A": [],
             "Séminaire Méthodo sp Phys B": [],
             "Stage prépa. Phys": [
@@ -84904,7 +84876,7 @@
             ],
             "Stage prépa vie sco": [
                 {
-                    "title": "Stage prépa vie sco\nMme DUROISIN\nNiVésale.025",
+                    "title": "Stage prépa vie sco\n\nMme DUROISIN",
                     "start": "2025-09-30T16:45:00",
                     "end": "2025-09-30T19:45:00",
                     "color": "#0026ad"
