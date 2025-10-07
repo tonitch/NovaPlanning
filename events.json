@@ -1333,7 +1333,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro. anat. humaine/ima. méd.\n\nM. LECHIEN",
+                    "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN\nPCM.500",
                     "start": "2026-02-24T16:00:00",
                     "end": "2026-02-24T18:00:00",
                     "color": "#0026ad"
@@ -4040,12 +4040,6 @@
                 },
                 {
                     "title": "Initiat. recherche Pharm/Biome\nM. LABIAU\nNiP.0C14",
-                    "start": "2025-10-10T08:00:00",
-                    "end": "2025-10-10T12:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Initiat. recherche Pharm/Biome\nM. LABIAU\nNiP.0C14",
                     "start": "2025-10-13T08:00:00",
                     "end": "2025-10-13T12:45:00",
                     "color": "#0026ad"
@@ -4072,12 +4066,6 @@
                     "title": "Initiat. recherche Pharm/Biome\nMme TAGLIATTI\nNiP.3C07Lab",
                     "start": "2025-10-17T08:00:00",
                     "end": "2025-10-17T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Initiat. recherche Pharm/Biome\nM. LABIAU\nNiP.0C14",
-                    "start": "2025-10-17T08:00:00",
-                    "end": "2025-10-17T12:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -9490,7 +9478,7 @@
             ],
             "Molecul & Cell Biology Cancer": [
                 {
-                    "title": "Molecul & Cell Biology Cancer\n\nM. JOURNE",
+                    "title": "Molecul & Cell Biology Cancer\nM. JOURNE\nNiP.3E10",
                     "start": "2025-10-06T10:30:00",
                     "end": "2025-10-06T12:30:00",
                     "color": "#0026ad"
@@ -9526,7 +9514,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Molecul & Cell Biology Cancer\n\nM. JOURNE",
+                    "title": "Molecul & Cell Biology Cancer\nM. JOURNE\nNiP.3E10",
                     "start": "2025-10-06T10:30:00",
                     "end": "2025-10-06T12:30:00",
                     "color": "#0026ad"
@@ -9538,7 +9526,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Molecul & Cell Biology Cancer\nM. JOURNE\nNiP.3E20, NiMen.Pauling",
+                    "title": "Molecul & Cell Biology Cancer\nM. JOURNE\nNiMen.Pauling, NiP.3E20",
                     "start": "2025-11-17T10:30:00",
                     "end": "2025-11-17T12:30:00",
                     "color": "#0026ad"
@@ -21000,15 +20988,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie moléculaire\nM. BELJONNE, M. CORNIL\nNiMen.Pauling",
-                    "start": "2025-10-13T08:15:00",
-                    "end": "2025-10-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Spectroscopie moléculaire\n\nM. BROCORENS",
                     "start": "2025-10-15T13:30:00",
                     "end": "2025-10-15T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Spectroscopie moléculaire\nM. BELJONNE, M. CORNIL\nNiBSM.016.Dresselhaus",
+                    "start": "2025-10-16T10:30:00",
+                    "end": "2025-10-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -22954,15 +22942,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie moléculaire\nM. BELJONNE, M. CORNIL\nNiMen.Pauling",
-                    "start": "2025-10-13T08:15:00",
-                    "end": "2025-10-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Spectroscopie moléculaire\n\nM. BROCORENS",
                     "start": "2025-10-15T13:30:00",
                     "end": "2025-10-15T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Spectroscopie moléculaire\nM. BELJONNE, M. CORNIL\nNiBSM.016.Dresselhaus",
+                    "start": "2025-10-16T10:30:00",
+                    "end": "2025-10-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -26691,7 +26679,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.112P, Wa.Hotyat, Wa.110111P",
+                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.110111P, Wa.Hotyat, Wa.112P",
                     "start": "2025-10-16T18:00:00",
                     "end": "2025-10-16T21:00:00",
                     "color": "#0026ad"
@@ -26805,6 +26793,14 @@
                     "title": "Stage prépa. Phys\nMme LACROIX\nNiBSM.008.Kwolek",
                     "start": "2025-10-01T17:30:00",
                     "end": "2025-10-01T19:30:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "Stage 1 chimie": [
+                {
+                    "title": "Stage 1 chimie\nM. VERCOUTER, M. HUSTACHE, M. VAN VOOREN, Mme DIEU, M. PODRECCA, M. SIMON\nNiVésale.020",
+                    "start": "2025-10-22T16:45:00",
+                    "end": "2025-10-22T18:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -27454,7 +27450,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.Hotyat, Wa.112P, Wa.110111P",
+                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.112P, Wa.Hotyat, Wa.110111P",
                     "start": "2025-10-16T18:00:00",
                     "end": "2025-10-16T21:00:00",
                     "color": "#0026ad"
@@ -27632,6 +27628,14 @@
                     "title": "Stage prépa. Phys\nMme LACROIX\nNiBSM.008.Kwolek",
                     "start": "2025-10-01T17:30:00",
                     "end": "2025-10-01T19:30:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "Stage 1 chimie": [
+                {
+                    "title": "Stage 1 chimie\nM. PODRECCA, M. SIMON, M. HUSTACHE, M. VAN VOOREN, M. VERCOUTER, Mme DIEU\nNiVésale.020",
+                    "start": "2025-10-22T16:45:00",
+                    "end": "2025-10-22T18:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -40617,6 +40621,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Bases de données II\nM. WIJSEN\nCha.ZG.N.1.18",
+                    "start": "2025-10-17T18:00:00",
+                    "end": "2025-10-17T21:00:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Bases de données II\nM. WIJSEN\nCha.ZG.W.0.01",
                     "start": "2025-10-22T18:00:00",
                     "end": "2025-10-22T21:00:00",
@@ -40680,12 +40690,6 @@
                     "title": "Bases de données II\nM. BONTE, M. WIJSEN\nCha.ZG.S.1.07",
                     "start": "2025-12-05T18:00:00",
                     "end": "2025-12-05T21:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Bases de données II\nM. WIJSEN\nCha.ZG.W.0.01",
-                    "start": "2025-12-12T18:00:00",
-                    "end": "2025-12-12T21:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -52549,12 +52553,6 @@
             ],
             "Intro gest. d'act. fin. - AAEP": [
                 {
-                    "title": "Intro gest. d'act. fin. - AAEP\nMme CROQUET\nPCM.200",
-                    "start": "2025-10-06T10:30:00",
-                    "end": "2025-10-06T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Intro gest. d'act. fin. - AAEP\nMme CROQUET\nWa.Drechsel",
                     "start": "2025-10-24T10:30:00",
                     "end": "2025-10-24T12:30:00",
@@ -52612,6 +52610,12 @@
                     "title": "Intro gest. d'act. fin. - AAEP\nMme CROQUET\nWa.Drechsel",
                     "start": "2025-12-12T10:30:00",
                     "end": "2025-12-12T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro gest. d'act. fin. - AAEP\nMme CROQUET\nWa.Hotyat",
+                    "start": "2025-12-12T13:30:00",
+                    "end": "2025-12-12T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -53297,9 +53301,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Marchés et act. finan. - AAEP\nMme POZNIAK\nNiGA.Curie",
-                    "start": "2025-10-14T15:45:00",
-                    "end": "2025-10-14T17:45:00",
+                    "title": "Marchés et act. finan. - AAEP\nMme POZNIAK\nNiGA.Gutenberg",
+                    "start": "2025-10-21T15:45:00",
+                    "end": "2025-10-21T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -54725,12 +54729,6 @@
                     "title": "Théorie des modèles I\nM. RAMLOT, M. MICHAUX\nNiP.3E11",
                     "start": "2025-10-16T13:30:00",
                     "end": "2025-10-16T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie des modèles I\nM. RAMLOT, M. MICHAUX\nNiP.3E11",
-                    "start": "2025-10-20T13:30:00",
-                    "end": "2025-10-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -61469,120 +61467,6 @@
                     "start": "2025-10-03T08:15:00",
                     "end": "2025-10-03T10:15:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-10-06T08:15:00",
-                    "end": "2025-10-06T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-10-10T08:15:00",
-                    "end": "2025-10-10T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-10-13T08:15:00",
-                    "end": "2025-10-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-10-17T08:15:00",
-                    "end": "2025-10-17T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-10-20T08:15:00",
-                    "end": "2025-10-20T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-10-24T08:15:00",
-                    "end": "2025-10-24T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-11-03T08:15:00",
-                    "end": "2025-11-03T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-07T08:15:00",
-                    "end": "2025-11-07T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER, M. SKVORTSOV\nNiBSM.002.Knight",
-                    "start": "2025-11-14T08:15:00",
-                    "end": "2025-11-14T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-11-17T08:15:00",
-                    "end": "2025-11-17T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.016.Dresselhaus",
-                    "start": "2025-11-20T08:15:00",
-                    "end": "2025-11-20T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-21T08:15:00",
-                    "end": "2025-11-21T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-11-24T08:15:00",
-                    "end": "2025-11-24T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-28T08:15:00",
-                    "end": "2025-11-28T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-12-01T08:15:00",
-                    "end": "2025-12-01T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-12-05T08:15:00",
-                    "end": "2025-12-05T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-12-08T08:15:00",
-                    "end": "2025-12-08T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-12-12T08:15:00",
-                    "end": "2025-12-12T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-12-15T08:15:00",
-                    "end": "2025-12-15T10:15:00",
-                    "color": "#0026ad"
                 }
             ],
             "Dida physique": [
@@ -63793,7 +63677,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro. anat. humaine/ima. méd.\n\nM. LECHIEN",
+                    "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN\nPCM.500",
                     "start": "2026-02-24T16:00:00",
                     "end": "2026-02-24T18:00:00",
                     "color": "#0026ad"
@@ -76543,7 +76427,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique Classique II\nM. LHOST, M. BOULANGER\nNiBSM.010.Lonsdale",
+                    "title": "Mécanique Classique II\nM. LHOST\nNiBSM.010.Lonsdale",
                     "start": "2025-10-10T10:30:00",
                     "end": "2025-10-10T12:30:00",
                     "color": "#0026ad"
@@ -76555,7 +76439,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique Classique II\nM. LHOST, M. BOULANGER\nNiBSM.010.Lonsdale",
+                    "title": "Mécanique Classique II\nM. LHOST\nNiBSM.010.Lonsdale",
                     "start": "2025-10-17T10:30:00",
                     "end": "2025-10-17T12:30:00",
                     "color": "#0026ad"
@@ -76567,7 +76451,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique Classique II\nM. LHOST, M. BOULANGER\nNiBSM.010.Lonsdale",
+                    "title": "Mécanique Classique II\nM. LHOST\nNiBSM.010.Lonsdale",
                     "start": "2025-10-24T10:30:00",
                     "end": "2025-10-24T12:30:00",
                     "color": "#0026ad"
@@ -76579,7 +76463,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique Classique II\nM. LHOST, M. BOULANGER\nNiBSM.010.Lonsdale",
+                    "title": "Mécanique Classique II\nM. LHOST\nNiBSM.010.Lonsdale",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
@@ -76591,7 +76475,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique Classique II\nM. LHOST, M. BOULANGER\nNiBSM.010.Lonsdale",
+                    "title": "Mécanique Classique II\nM. LHOST\nNiBSM.010.Lonsdale",
                     "start": "2025-11-14T10:30:00",
                     "end": "2025-11-14T12:30:00",
                     "color": "#0026ad"
@@ -76603,7 +76487,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique Classique II\nM. LHOST, M. BOULANGER\nNiBSM.010.Lonsdale",
+                    "title": "Mécanique Classique II\nM. LHOST\nNiBSM.010.Lonsdale",
                     "start": "2025-11-21T10:30:00",
                     "end": "2025-11-21T12:30:00",
                     "color": "#0026ad"
@@ -76615,7 +76499,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique Classique II\nM. LHOST, M. BOULANGER\nNiBSM.010.Lonsdale",
+                    "title": "Mécanique Classique II\nM. LHOST\nNiBSM.010.Lonsdale",
                     "start": "2025-11-28T10:30:00",
                     "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
@@ -76627,7 +76511,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique Classique II\nM. LHOST, M. BOULANGER\nNiBSM.010.Lonsdale",
+                    "title": "Mécanique Classique II\nM. LHOST\nNiBSM.010.Lonsdale",
                     "start": "2025-12-05T10:30:00",
                     "end": "2025-12-05T12:30:00",
                     "color": "#0026ad"
@@ -76639,7 +76523,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique Classique II\nM. LHOST, M. BOULANGER\nNiBSM.010.Lonsdale",
+                    "title": "Mécanique Classique II\nM. LHOST\nNiBSM.010.Lonsdale",
                     "start": "2025-12-12T10:30:00",
                     "end": "2025-12-12T12:30:00",
                     "color": "#0026ad"
@@ -78583,18 +78467,6 @@
                 },
                 {
                     "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-10-06T08:15:00",
-                    "end": "2025-10-06T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-10-10T08:15:00",
-                    "end": "2025-10-10T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
                     "start": "2025-10-13T08:15:00",
                     "end": "2025-10-13T10:15:00",
                     "color": "#0026ad"
@@ -78621,12 +78493,6 @@
                     "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
                     "start": "2025-11-24T08:15:00",
                     "end": "2025-11-24T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-12-15T08:15:00",
-                    "end": "2025-12-15T10:15:00",
                     "color": "#0026ad"
                 }
             ]
@@ -79141,37 +79007,37 @@
             ],
             "Electronique appliquée": [
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. VERSCHEUREN\nHo.24",
+                    "title": "Electronique appliquée\nM. VERSCHEUREN, M. DUALIBE\nHo.24",
                     "start": "2025-09-19T10:30:00",
                     "end": "2025-09-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. VERSCHEUREN\nHo.24",
+                    "title": "Electronique appliquée\nM. VERSCHEUREN, M. DUALIBE\nHo.24",
                     "start": "2025-09-26T10:30:00",
                     "end": "2025-09-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. VERSCHEUREN\nHo.24",
+                    "title": "Electronique appliquée\nM. VERSCHEUREN, M. DUALIBE\nHo.24",
                     "start": "2025-10-03T10:30:00",
                     "end": "2025-10-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. VERSCHEUREN\nHo.24",
+                    "title": "Electronique appliquée\nM. VERSCHEUREN, M. DUALIBE\nHo.24",
                     "start": "2025-10-10T10:30:00",
                     "end": "2025-10-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. VERSCHEUREN\nHo.24",
+                    "title": "Electronique appliquée\nM. VERSCHEUREN, M. DUALIBE\nHo.24",
                     "start": "2025-10-17T10:30:00",
                     "end": "2025-10-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. VERSCHEUREN\nHo.24",
+                    "title": "Electronique appliquée\nM. VERSCHEUREN, M. DUALIBE\nHo.24",
                     "start": "2025-10-24T10:30:00",
                     "end": "2025-10-24T12:30:00",
                     "color": "#0026ad"
@@ -79195,7 +79061,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. SCOHIER, M. VERSCHEUREN\nDo.SEMI.Lab",
+                    "title": "Electronique appliquée\nM. VERSCHEUREN, M. SCOHIER, M. DUALIBE\nDo.SEMI.Lab",
                     "start": "2025-11-20T13:30:00",
                     "end": "2025-11-20T16:30:00",
                     "color": "#0026ad"
@@ -79207,7 +79073,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. SCOHIER, M. VERSCHEUREN\nDo.SEMI.Lab",
+                    "title": "Electronique appliquée\nM. VERSCHEUREN, M. SCOHIER, M. DUALIBE\nDo.SEMI.Lab",
                     "start": "2025-11-27T13:30:00",
                     "end": "2025-11-27T16:30:00",
                     "color": "#0026ad"
@@ -79219,7 +79085,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. SCOHIER, M. VERSCHEUREN\nDo.SEMI.Lab",
+                    "title": "Electronique appliquée\nM. VERSCHEUREN, M. SCOHIER, M. DUALIBE\nDo.SEMI.Lab",
                     "start": "2025-12-04T13:30:00",
                     "end": "2025-12-04T16:30:00",
                     "color": "#0026ad"
@@ -79243,7 +79109,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. SCOHIER, M. VERSCHEUREN\nHo.03",
+                    "title": "Electronique appliquée\nM. VERSCHEUREN, M. SCOHIER, M. DUALIBE\nHo.03",
                     "start": "2025-12-19T08:30:00",
                     "end": "2025-12-19T11:30:00",
                     "color": "#0026ad"
@@ -79612,13 +79478,13 @@
             ],
             "Intro to ML & DS": [
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-02-02T13:30:00",
                     "end": "2026-02-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-02-09T13:30:00",
                     "end": "2026-02-09T15:30:00",
                     "color": "#0026ad"
@@ -79630,151 +79496,151 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-02-16T13:30:00",
                     "end": "2026-02-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-02-23T13:30:00",
                     "end": "2026-02-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-03-02T13:30:00",
                     "end": "2026-03-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.012.Hermann",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.012.Hermann",
                     "start": "2026-03-04T10:30:00",
                     "end": "2026-03-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-03-09T13:30:00",
                     "end": "2026-03-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-03-10T13:30:00",
                     "end": "2026-03-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-03-23T13:30:00",
                     "end": "2026-03-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-03-24T13:30:00",
                     "end": "2026-03-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-03-25T10:30:00",
                     "end": "2026-03-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-03-30T13:30:00",
                     "end": "2026-03-30T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-03-31T13:30:00",
                     "end": "2026-03-31T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-04-03T10:30:00",
                     "end": "2026-04-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-04-07T13:30:00",
                     "end": "2026-04-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-04-08T10:30:00",
                     "end": "2026-04-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
                     "start": "2026-04-10T10:30:00",
                     "end": "2026-04-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-04-10T15:45:00",
                     "end": "2026-04-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-04-13T13:30:00",
                     "end": "2026-04-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-04-15T10:30:00",
                     "end": "2026-04-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiGA.Turing",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiGA.Turing",
                     "start": "2026-04-17T10:30:00",
                     "end": "2026-04-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-05-04T13:30:00",
                     "end": "2026-05-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-05-05T13:30:00",
                     "end": "2026-05-05T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
                     "start": "2026-05-08T10:30:00",
                     "end": "2026-05-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-05-11T13:30:00",
                     "end": "2026-05-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
@@ -81302,7 +81168,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
+                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
                     "start": "2025-11-05T10:30:00",
                     "end": "2025-11-05T12:30:00",
                     "color": "#0026ad"
@@ -81320,7 +81186,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
+                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
                     "start": "2025-11-12T10:30:00",
                     "end": "2025-11-12T12:30:00",
                     "color": "#0026ad"
@@ -81332,7 +81198,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
+                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
                     "start": "2025-11-19T10:30:00",
                     "end": "2025-11-19T12:30:00",
                     "color": "#0026ad"
@@ -81422,9 +81288,45 @@
             ],
             "Structure des hadrons": [
                 {
-                    "title": "Structure des hadrons\n\nNiBSM.004.Penrose",
+                    "title": "Structure des hadrons\nM. SEMAY\nNiBSM.004.Penrose",
+                    "start": "2026-03-02T08:15:00",
+                    "end": "2026-03-02T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Structure des hadrons\nM. SEMAY\nNiBSM.004.Penrose",
+                    "start": "2026-03-09T08:15:00",
+                    "end": "2026-03-09T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Structure des hadrons\nM. SEMAY\nNiBSM.004.Penrose",
+                    "start": "2026-03-23T08:15:00",
+                    "end": "2026-03-23T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Structure des hadrons\nM. SEMAY\nNiBSM.004.Penrose",
+                    "start": "2026-03-30T08:15:00",
+                    "end": "2026-03-30T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Structure des hadrons\nM. SEMAY\nNiBSM.004.Penrose",
+                    "start": "2026-04-13T13:30:00",
+                    "end": "2026-04-13T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Structure des hadrons\nM. SEMAY\nNiBSM.004.Penrose",
                     "start": "2026-05-04T08:15:00",
                     "end": "2026-05-04T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Structure des hadrons\nM. SEMAY\nNiBSM.004.Penrose",
+                    "start": "2026-05-11T08:15:00",
+                    "end": "2026-05-11T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -81462,61 +81364,61 @@
             ],
             "Technologies plasma trait A": [
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-11-05T15:45:00",
                     "end": "2025-11-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-11-12T15:45:00",
                     "end": "2025-11-12T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-11-13T10:30:00",
                     "end": "2025-11-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-11-19T15:45:00",
                     "end": "2025-11-19T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-11-20T10:30:00",
                     "end": "2025-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-11-26T15:45:00",
                     "end": "2025-11-26T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-12-03T15:45:00",
                     "end": "2025-12-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-12-10T15:45:00",
                     "end": "2025-12-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-12-17T15:45:00",
                     "end": "2025-12-17T17:45:00",
                     "color": "#0026ad"
@@ -81566,9 +81468,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-10-10T08:15:00",
-                    "end": "2025-10-10T10:15:00",
+                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
+                    "start": "2025-10-10T10:30:00",
+                    "end": "2025-10-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -81578,9 +81480,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-10-17T08:15:00",
-                    "end": "2025-10-17T10:15:00",
+                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.016.Dresselhaus",
+                    "start": "2025-10-17T10:30:00",
+                    "end": "2025-10-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -81590,9 +81492,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-10-24T08:15:00",
-                    "end": "2025-10-24T10:15:00",
+                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
+                    "start": "2025-10-24T10:30:00",
+                    "end": "2025-10-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -81602,15 +81504,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-07T08:15:00",
-                    "end": "2025-11-07T10:15:00",
+                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
+                    "start": "2025-11-07T10:30:00",
+                    "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. SKVORTSOV, M. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-14T08:15:00",
-                    "end": "2025-11-14T10:15:00",
+                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
+                    "start": "2025-11-14T10:30:00",
+                    "end": "2025-11-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -81626,9 +81528,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-21T08:15:00",
-                    "end": "2025-11-21T10:15:00",
+                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
+                    "start": "2025-11-21T10:30:00",
+                    "end": "2025-11-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -81638,9 +81540,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-28T08:15:00",
-                    "end": "2025-11-28T10:15:00",
+                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
+                    "start": "2025-11-28T10:30:00",
+                    "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -81650,9 +81552,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-12-05T08:15:00",
-                    "end": "2025-12-05T10:15:00",
+                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.015.Feynman",
+                    "start": "2025-12-05T10:30:00",
+                    "end": "2025-12-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -81662,9 +81564,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-12-12T08:15:00",
-                    "end": "2025-12-12T10:15:00",
+                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
+                    "start": "2025-12-12T10:30:00",
+                    "end": "2025-12-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -84085,120 +83987,6 @@
                     "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
                     "start": "2025-10-03T08:15:00",
                     "end": "2025-10-03T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-10-06T08:15:00",
-                    "end": "2025-10-06T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-10-10T08:15:00",
-                    "end": "2025-10-10T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-10-13T08:15:00",
-                    "end": "2025-10-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-10-17T08:15:00",
-                    "end": "2025-10-17T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-10-20T08:15:00",
-                    "end": "2025-10-20T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-10-24T08:15:00",
-                    "end": "2025-10-24T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-11-03T08:15:00",
-                    "end": "2025-11-03T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-07T08:15:00",
-                    "end": "2025-11-07T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. SKVORTSOV, M. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-14T08:15:00",
-                    "end": "2025-11-14T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-11-17T08:15:00",
-                    "end": "2025-11-17T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.016.Dresselhaus",
-                    "start": "2025-11-20T08:15:00",
-                    "end": "2025-11-20T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-21T08:15:00",
-                    "end": "2025-11-21T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-11-24T08:15:00",
-                    "end": "2025-11-24T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-11-28T08:15:00",
-                    "end": "2025-11-28T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-12-01T08:15:00",
-                    "end": "2025-12-01T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-12-05T08:15:00",
-                    "end": "2025-12-05T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-12-08T08:15:00",
-                    "end": "2025-12-08T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2025-12-12T08:15:00",
-                    "end": "2025-12-12T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
-                    "start": "2025-12-15T08:15:00",
-                    "end": "2025-12-15T10:15:00",
                     "color": "#0026ad"
                 }
             ],
