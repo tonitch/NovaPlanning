@@ -879,7 +879,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nMme GODEAU\nNiVésale.020",
+                    "title": "Chimie organique I\nMme GODEAU, Mme BEAUCHOT\nNiVésale.020, Jo.Stievenart",
                     "start": "2025-10-14T10:30:00",
                     "end": "2025-10-14T12:30:00",
                     "color": "#0026ad"
@@ -7966,9 +7966,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie intégrée\nM. WATTIEZ, Mme COPPEE, M. COLET\nNiB6.06",
+                    "title": "Biologie intégrée\nM. CONOTTE, M. WATTIEZ, Mme COPPEE, M. COLET, M. SAND, Mme TAGLIATTI\nNiB6.06",
                     "start": "2025-12-03T13:30:00",
-                    "end": "2025-12-03T15:30:00",
+                    "end": "2025-12-03T16:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -9228,7 +9228,7 @@
             ],
             "Interdisciplinary Program?": [
                 {
-                    "title": "Interdisciplinary Program?\n\nNiGA.Pascal, NiGA.Escher",
+                    "title": "Interdisciplinary Program?\n\nNiGA.Escher, NiGA.Pascal",
                     "start": "2026-03-24T10:30:00",
                     "end": "2026-03-24T12:30:00",
                     "color": "#0026ad"
@@ -9270,7 +9270,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Interdisciplinary Program?\n\nNiGA.Pascal, NiGA.Escher",
+                    "title": "Interdisciplinary Program?\n\nNiGA.Escher, NiGA.Pascal",
                     "start": "2026-04-14T10:30:00",
                     "end": "2026-04-14T12:30:00",
                     "color": "#0026ad"
@@ -9288,13 +9288,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Interdisciplinary Program?\n\nNiGA.Pascal, NiGA.Escher",
+                    "title": "Interdisciplinary Program?\n\nNiGA.Escher, NiGA.Pascal",
                     "start": "2026-05-05T10:30:00",
                     "end": "2026-05-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Interdisciplinary Program?\n\nNiP.0A07, NiGA.Escher",
+                    "title": "Interdisciplinary Program?\n\nNiGA.Escher, NiP.0A07",
                     "start": "2026-05-06T10:30:00",
                     "end": "2026-05-06T12:30:00",
                     "color": "#0026ad"
@@ -9306,7 +9306,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Interdisciplinary Program?\n\nNiGA.Pascal, NiGA.Escher",
+                    "title": "Interdisciplinary Program?\n\nNiGA.Escher, NiGA.Pascal",
                     "start": "2026-05-12T10:30:00",
                     "end": "2026-05-12T12:30:00",
                     "color": "#0026ad"
@@ -10681,6 +10681,12 @@
                     "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiB6.124",
                     "start": "2025-10-02T10:30:00",
                     "end": "2025-10-02T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiBSM.012.Hermann",
+                    "start": "2025-10-13T08:15:00",
+                    "end": "2025-10-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -21060,6 +21066,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Spectroscopie moléculaire\n\nM. BROCORENS",
+                    "start": "2025-12-11T13:30:00",
+                    "end": "2025-12-11T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Spectroscopie moléculaire\nM. CORNIL, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-12-15T08:15:00",
                     "end": "2025-12-15T10:15:00",
@@ -23011,6 +23023,12 @@
                     "title": "Spectroscopie moléculaire\n\nM. BROCORENS",
                     "start": "2025-12-10T13:00:00",
                     "end": "2025-12-10T17:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Spectroscopie moléculaire\n\nM. BROCORENS",
+                    "start": "2025-12-11T13:30:00",
+                    "end": "2025-12-11T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -25847,6 +25865,12 @@
                     "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiB6.124",
                     "start": "2025-10-02T10:30:00",
                     "end": "2025-10-02T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiBSM.012.Hermann",
+                    "start": "2025-10-13T08:15:00",
+                    "end": "2025-10-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -46859,7 +46883,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin. et géom. I. B\nMme DE CORTE, Mme FOUGNIES, Mme VOLKOV\nNiGA.VanGogh",
+                    "title": "Alg. lin. et géom. I. B\nMme FOUGNIES, M. CAVENAILE, Mme VOLKOV\nNiGA.VanGogh",
                     "start": "2026-03-20T10:30:00",
                     "end": "2026-03-20T12:30:00",
                     "color": "#0026ad"
@@ -48812,12 +48836,6 @@
                     "title": "Algèbre linéaire & géométrieII\nMme VOLKOV\nNiBSM.010.Lonsdale",
                     "start": "2025-10-09T13:30:00",
                     "end": "2025-10-09T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Algèbre linéaire & géométrieII\nM. RAMLOT\nNiP.0A11",
-                    "start": "2025-10-14T13:30:00",
-                    "end": "2025-10-14T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -51069,6 +51087,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Algèbre III\nM. RAMLOT\nNiGA.Plisnier",
+                    "start": "2025-10-13T13:30:00",
+                    "end": "2025-10-13T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Algèbre III\nMme VOLKOV\nNiP.3E11",
                     "start": "2025-10-13T15:45:00",
                     "end": "2025-10-13T17:45:00",
@@ -51078,12 +51102,6 @@
                     "title": "Algèbre III\nMme VOLKOV\nNiP.0A11",
                     "start": "2025-10-14T10:30:00",
                     "end": "2025-10-14T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Algèbre III\nM. RAMLOT\nNiP.3E11",
-                    "start": "2025-10-17T13:30:00",
-                    "end": "2025-10-17T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -62045,13 +62063,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme PAMART, Mme LUPANT, M. LAMBOTTE, Mme HOCQ, Mme GODEAU\nNiGA.VanGogh",
+                    "title": "_\nMme PAMART, Mme LUPANT, Mme HOCQ, M. LAMBOTTE, Mme GODEAU\nNiGA.VanGogh",
                     "start": "2025-09-23T18:00:00",
                     "end": "2025-09-23T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme PAMART, Mme HORDIES, Mme LUPANT, M. LAMBOTTE, Mme HOCQ, Mme GODEAU\nNiGA.Curie",
+                    "title": "_\nMme PAMART, Mme HORDIES, Mme LUPANT, Mme HOCQ, M. LAMBOTTE, Mme GODEAU\nNiGA.Curie",
                     "start": "2025-11-04T18:00:00",
                     "end": "2025-11-04T20:00:00",
                     "color": "#0026ad"
@@ -62627,7 +62645,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme BEAUCHOT, Mme GODEAU\nNiGA.Gutenberg, NiGA.Curie, NiB6.124, NiP.0A07, NiB6.18, NiVésale.023, Jo.Stievenart, NiB6.211",
+                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme BEAUCHOT, Mme GODEAU\nNiGA.Gutenberg, NiGA.Curie, NiB6.124, NiP.0A07, NiVésale.023, Jo.Stievenart, NiB6.211, NiB6.18",
                     "start": "2025-12-17T13:30:00",
                     "end": "2025-12-17T15:30:00",
                     "color": "#0026ad"
@@ -62862,6 +62880,12 @@
                     "title": "Chimie organique I\nMme BEAUCHOT, Mme GODEAU\nNiB6.03Lab",
                     "start": "2025-10-10T13:30:00",
                     "end": "2025-10-10T18:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie organique I\nMme BEAUCHOT, Mme GODEAU\nNiVésale.020, Jo.Stievenart",
+                    "start": "2025-10-14T10:30:00",
+                    "end": "2025-10-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63427,7 +63451,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. recherche Pharm/Biome\nMme TAGLIATTI, M. LABIAU\nNiGA.VanGogh",
+                    "title": "Initiat. recherche Pharm/Biome\nM. LABIAU, Mme TAGLIATTI\nNiGA.VanGogh",
                     "start": "2026-04-17T13:30:00",
                     "end": "2026-04-17T18:30:00",
                     "color": "#0026ad"
@@ -70282,8 +70306,8 @@
                 },
                 {
                     "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv1, NiGA.Interactiv2",
-                    "start": "2025-10-28T15:15:00",
-                    "end": "2025-10-28T17:45:00",
+                    "start": "2025-10-28T13:30:00",
+                    "end": "2025-10-28T16:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -71595,7 +71619,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin. et géom. I. B\nMme DE CORTE\nNiB6.124",
+                    "title": "Alg. lin. et géom. I. B\nM. CAVENAILE\nNiB6.124",
                     "start": "2026-02-10T08:15:00",
                     "end": "2026-02-10T10:15:00",
                     "color": "#0026ad"
@@ -71607,7 +71631,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin. et géom. I. B\nMme DE CORTE\nNiB6.124",
+                    "title": "Alg. lin. et géom. I. B\nM. CAVENAILE\nNiB6.124",
                     "start": "2026-02-17T08:15:00",
                     "end": "2026-02-17T10:15:00",
                     "color": "#0026ad"
@@ -71619,7 +71643,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin. et géom. I. B\nMme DE CORTE\nNiB6.124",
+                    "title": "Alg. lin. et géom. I. B\nM. CAVENAILE\nNiB6.124",
                     "start": "2026-02-24T08:15:00",
                     "end": "2026-02-24T10:15:00",
                     "color": "#0026ad"
@@ -71631,7 +71655,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin. et géom. I. B\nMme DE CORTE\nNiB6.124",
+                    "title": "Alg. lin. et géom. I. B\nM. CAVENAILE\nNiB6.124",
                     "start": "2026-03-03T08:15:00",
                     "end": "2026-03-03T10:15:00",
                     "color": "#0026ad"
@@ -71643,7 +71667,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin. et géom. I. B\nMme DE CORTE\nNiB6.124",
+                    "title": "Alg. lin. et géom. I. B\nM. CAVENAILE\nNiB6.124",
                     "start": "2026-03-10T08:15:00",
                     "end": "2026-03-10T10:15:00",
                     "color": "#0026ad"
@@ -71655,19 +71679,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin. et géom. I. B\nMme FOUGNIES, Mme DE CORTE, Mme VOLKOV\nNiGA.VanGogh",
+                    "title": "Alg. lin. et géom. I. B\nMme FOUGNIES, M. CAVENAILE, Mme VOLKOV\nNiGA.VanGogh",
                     "start": "2026-03-20T10:30:00",
                     "end": "2026-03-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin. et géom. I. B\nMme DE CORTE\nNiB6.124",
+                    "title": "Alg. lin. et géom. I. B\nM. CAVENAILE\nNiB6.124",
                     "start": "2026-03-24T08:15:00",
                     "end": "2026-03-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin. et géom. I. B\nMme DE CORTE\nNiB6.124",
+                    "title": "Alg. lin. et géom. I. B\nM. CAVENAILE\nNiB6.124",
                     "start": "2026-03-31T08:15:00",
                     "end": "2026-03-31T10:15:00",
                     "color": "#0026ad"
@@ -71681,7 +71705,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin.et géom. I. A.\nMme DE CORTE\nNiP.0A07",
+                    "title": "Alg. lin.et géom. I. A.\nM. CAVENAILE\nNiP.0A07",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
@@ -71693,7 +71717,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin.et géom. I. A.\nMme DE CORTE\nNiP.0A07",
+                    "title": "Alg. lin.et géom. I. A.\nM. CAVENAILE\nNiP.0A07",
                     "start": "2025-11-14T10:30:00",
                     "end": "2025-11-14T12:30:00",
                     "color": "#0026ad"
@@ -71705,7 +71729,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin.et géom. I. A.\nMme DE CORTE\nNiP.0A07",
+                    "title": "Alg. lin.et géom. I. A.\nM. CAVENAILE\nNiP.0A07",
                     "start": "2025-11-21T10:30:00",
                     "end": "2025-11-21T12:30:00",
                     "color": "#0026ad"
@@ -71717,7 +71741,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin.et géom. I. A.\nMme DE CORTE\nNiP.0A07",
+                    "title": "Alg. lin.et géom. I. A.\nM. CAVENAILE\nNiP.0A07",
                     "start": "2025-11-28T10:30:00",
                     "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
@@ -71729,7 +71753,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin.et géom. I. A.\nMme DE CORTE\nNiP.0A07",
+                    "title": "Alg. lin.et géom. I. A.\nM. CAVENAILE\nNiP.0A07",
                     "start": "2025-12-05T10:30:00",
                     "end": "2025-12-05T12:30:00",
                     "color": "#0026ad"
@@ -71741,7 +71765,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin.et géom. I. A.\nMme DE CORTE\nNiB6.18",
+                    "title": "Alg. lin.et géom. I. A.\nM. CAVENAILE\nNiB6.18",
                     "start": "2025-12-11T10:30:00",
                     "end": "2025-12-11T12:30:00",
                     "color": "#0026ad"
@@ -71753,7 +71777,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin.et géom. I. A.\nMme DE CORTE\nNiP.0A07",
+                    "title": "Alg. lin.et géom. I. A.\nM. CAVENAILE\nNiP.0A07",
                     "start": "2025-12-19T10:30:00",
                     "end": "2025-12-19T12:30:00",
                     "color": "#0026ad"
@@ -76833,12 +76857,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.3E20",
-                    "start": "2025-10-14T10:30:00",
-                    "end": "2025-10-14T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
                     "start": "2025-10-16T10:30:00",
                     "end": "2025-10-16T12:30:00",
@@ -77663,7 +77681,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. MAES, M. CAVENAILE\nNiBSM.004.Penrose",
                     "start": "2025-10-16T10:30:00",
                     "end": "2025-10-16T12:30:00",
                     "color": "#0026ad"
@@ -77675,7 +77693,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. MAES, M. CAVENAILE\nNiBSM.004.Penrose",
                     "start": "2025-10-23T10:30:00",
                     "end": "2025-10-23T12:30:00",
                     "color": "#0026ad"
@@ -77687,13 +77705,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. MAES, M. CAVENAILE\nNiBSM.004.Penrose",
                     "start": "2025-11-06T10:30:00",
                     "end": "2025-11-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. MAES, M. CAVENAILE\nNiBSM.004.Penrose",
                     "start": "2025-11-10T15:45:00",
                     "end": "2025-11-10T17:45:00",
                     "color": "#0026ad"
@@ -77723,7 +77741,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. MAES, M. CAVENAILE\nNiBSM.004.Penrose",
                     "start": "2025-12-04T08:15:00",
                     "end": "2025-12-04T10:15:00",
                     "color": "#0026ad"
@@ -79458,13 +79476,13 @@
             ],
             "Intro to ML & DS": [
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-02-02T13:30:00",
                     "end": "2026-02-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-02-09T13:30:00",
                     "end": "2026-02-09T15:30:00",
                     "color": "#0026ad"
@@ -79476,151 +79494,151 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-02-16T13:30:00",
                     "end": "2026-02-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-02-23T13:30:00",
                     "end": "2026-02-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-03-02T13:30:00",
                     "end": "2026-03-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.012.Hermann",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.012.Hermann",
                     "start": "2026-03-04T10:30:00",
                     "end": "2026-03-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-03-09T13:30:00",
                     "end": "2026-03-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-03-10T13:30:00",
                     "end": "2026-03-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-03-23T13:30:00",
                     "end": "2026-03-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-03-24T13:30:00",
                     "end": "2026-03-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-03-25T10:30:00",
                     "end": "2026-03-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-03-30T13:30:00",
                     "end": "2026-03-30T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-03-31T13:30:00",
                     "end": "2026-03-31T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-04-03T10:30:00",
                     "end": "2026-04-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-04-07T13:30:00",
                     "end": "2026-04-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-04-08T10:30:00",
                     "end": "2026-04-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
                     "start": "2026-04-10T10:30:00",
                     "end": "2026-04-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-04-10T15:45:00",
                     "end": "2026-04-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-04-13T13:30:00",
                     "end": "2026-04-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-04-15T10:30:00",
                     "end": "2026-04-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiGA.Turing",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiGA.Turing",
                     "start": "2026-04-17T10:30:00",
                     "end": "2026-04-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-05-04T13:30:00",
                     "end": "2026-05-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-05-05T13:30:00",
                     "end": "2026-05-05T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
                     "start": "2026-05-08T10:30:00",
                     "end": "2026-05-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-05-11T13:30:00",
                     "end": "2026-05-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
@@ -80090,7 +80108,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-10-16T10:30:00",
                     "end": "2025-10-16T12:30:00",
                     "color": "#0026ad"
@@ -80102,7 +80120,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-10-23T10:30:00",
                     "end": "2025-10-23T12:30:00",
                     "color": "#0026ad"
@@ -80114,13 +80132,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-11-06T10:30:00",
                     "end": "2025-11-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-11-10T15:45:00",
                     "end": "2025-11-10T17:45:00",
                     "color": "#0026ad"
@@ -80150,7 +80168,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-12-04T08:15:00",
                     "end": "2025-12-04T10:15:00",
                     "color": "#0026ad"
@@ -80174,7 +80192,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-12-18T13:30:00",
                     "end": "2025-12-18T15:30:00",
                     "color": "#0026ad"
@@ -81154,7 +81172,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
+                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
                     "start": "2025-11-05T10:30:00",
                     "end": "2025-11-05T12:30:00",
                     "color": "#0026ad"
@@ -81172,7 +81190,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
+                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
                     "start": "2025-11-12T10:30:00",
                     "end": "2025-11-12T12:30:00",
                     "color": "#0026ad"
@@ -81184,7 +81202,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
+                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
                     "start": "2025-11-19T10:30:00",
                     "end": "2025-11-19T12:30:00",
                     "color": "#0026ad"
@@ -81350,61 +81368,61 @@
             ],
             "Technologies plasma trait A": [
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2025-11-05T15:45:00",
                     "end": "2025-11-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2025-11-12T15:45:00",
                     "end": "2025-11-12T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2025-11-13T10:30:00",
                     "end": "2025-11-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2025-11-19T15:45:00",
                     "end": "2025-11-19T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2025-11-20T10:30:00",
                     "end": "2025-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2025-11-26T15:45:00",
                     "end": "2025-11-26T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2025-12-03T15:45:00",
                     "end": "2025-12-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2025-12-10T15:45:00",
                     "end": "2025-12-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2025-12-17T15:45:00",
                     "end": "2025-12-17T17:45:00",
                     "color": "#0026ad"
@@ -81901,55 +81919,55 @@
             ],
             "CéramAv": [
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-11-03T10:30:00",
                     "end": "2025-11-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-11-04T15:45:00",
                     "end": "2025-11-04T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-11-06T08:15:00",
                     "end": "2025-11-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-11-10T10:30:00",
                     "end": "2025-11-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-11-13T08:15:00",
                     "end": "2025-11-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-11-17T10:30:00",
                     "end": "2025-11-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-11-18T15:45:00",
                     "end": "2025-11-18T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-11-20T08:15:00",
                     "end": "2025-11-20T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-11-25T15:45:00",
                     "end": "2025-11-25T17:45:00",
                     "color": "#0026ad"
@@ -81961,7 +81979,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-12-02T15:45:00",
                     "end": "2025-12-02T17:45:00",
                     "color": "#0026ad"
@@ -81973,7 +81991,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-12-09T15:45:00",
                     "end": "2025-12-09T17:45:00",
                     "color": "#0026ad"
@@ -81985,7 +82003,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. HOCQUET, M. GONON\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
                     "start": "2025-12-16T15:45:00",
                     "end": "2025-12-16T17:45:00",
                     "color": "#0026ad"
@@ -82697,7 +82715,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-10-16T10:30:00",
                     "end": "2025-10-16T12:30:00",
                     "color": "#0026ad"
@@ -82709,7 +82727,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-10-23T10:30:00",
                     "end": "2025-10-23T12:30:00",
                     "color": "#0026ad"
@@ -82721,13 +82739,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-11-06T10:30:00",
                     "end": "2025-11-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-11-10T15:45:00",
                     "end": "2025-11-10T17:45:00",
                     "color": "#0026ad"
@@ -82757,7 +82775,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-12-04T08:15:00",
                     "end": "2025-12-04T10:15:00",
                     "color": "#0026ad"
