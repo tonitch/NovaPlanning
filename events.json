@@ -1541,7 +1541,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
                     "start": "2026-03-05T13:30:00",
                     "end": "2026-03-05T15:30:00",
                     "color": "#0026ad"
@@ -1553,7 +1553,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
                     "start": "2026-03-12T13:30:00",
                     "end": "2026-03-12T15:30:00",
                     "color": "#0026ad"
@@ -2917,12 +2917,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie animale et mét. alte.\nMme TAGLIATTI\nNiMen.Pauling",
-                    "start": "2025-10-15T08:15:00",
-                    "end": "2025-10-15T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Biologie animale et mét. alte.\nM. CONOTTE\nNiP.0C14",
                     "start": "2025-11-19T13:30:00",
                     "end": "2025-11-19T17:30:00",
@@ -3098,14 +3092,6 @@
                     "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiVésale.025",
                     "start": "2026-04-13T10:30:00",
                     "end": "2026-04-13T12:30:00",
-                    "color": "#0026ad"
-                }
-            ],
-            "Carnet de suivi": [
-                {
-                    "title": "Carnet de suivi\nM. LABIAU, Mme TAGLIATTI\nNiGA.Pascal",
-                    "start": "2025-10-22T08:15:00",
-                    "end": "2025-10-22T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -3625,7 +3611,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.211",
+                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE\nNiB6.211",
                     "start": "2026-03-09T08:15:00",
                     "end": "2026-03-09T10:15:00",
                     "color": "#0026ad"
@@ -3679,7 +3665,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiVésale.025",
+                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE\nNiVésale.025",
                     "start": "2026-05-15T08:15:00",
                     "end": "2026-05-15T10:15:00",
                     "color": "#0026ad"
@@ -16292,31 +16278,31 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim org: mécanismes réact\nM. COULEMBIER, Mme MINCHEVA\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoissier",
                     "start": "2025-10-20T10:30:00",
                     "end": "2025-10-20T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim org: mécanismes réact\nM. COULEMBIER, Mme MINCHEVA\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoissier",
                     "start": "2025-10-21T10:30:00",
                     "end": "2025-10-21T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim org: mécanismes réact\nM. COULEMBIER, Mme MINCHEVA\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoissier",
                     "start": "2025-10-22T10:30:00",
                     "end": "2025-10-22T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim org: mécanismes réact\nM. COULEMBIER, Mme MINCHEVA\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoissier",
                     "start": "2025-10-23T10:30:00",
                     "end": "2025-10-23T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim org: mécanismes réact\nM. COULEMBIER, Mme MINCHEVA\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoissier",
                     "start": "2025-10-24T10:30:00",
                     "end": "2025-10-24T17:30:00",
                     "color": "#0026ad"
@@ -16337,6 +16323,18 @@
                     "title": "Chim org: mécanismes réact\nM. COULEMBIER\nNiP.0A07",
                     "start": "2025-12-04T10:30:00",
                     "end": "2025-12-04T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chim org: mécanismes réact\nM. COULEMBIER\nNiB6.124",
+                    "start": "2025-12-18T10:30:00",
+                    "end": "2025-12-18T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chim org: mécanismes réact\nM. COULEMBIER\nNiB6.124",
+                    "start": "2025-12-19T10:30:00",
+                    "end": "2025-12-19T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -16566,7 +16564,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique I\nM. KONSTANTINIDIS, Mme BOL\nNiP.0A07",
+                    "title": "Chimie analytique I\nMme BOL, M. KONSTANTINIDIS\nNiP.0A07",
                     "start": "2026-05-07T08:15:00",
                     "end": "2026-05-07T10:15:00",
                     "color": "#0026ad"
@@ -16744,13 +16742,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compl.Phys.générale\nM. BRASSEUR, Mme DEVOUGE, Mme DAUBIE\nNiBSM.106Lab.Drude",
+                    "title": "Compl.Phys.générale\nMme DAUBIE, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
                     "start": "2025-11-07T13:30:00",
                     "end": "2025-11-07T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compl.Phys.générale\nM. BRASSEUR, Mme DEVOUGE, Mme DAUBIE\nNiBSM.106Lab.Drude",
+                    "title": "Compl.Phys.générale\nMme DAUBIE, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
                     "start": "2025-11-12T13:30:00",
                     "end": "2025-11-12T16:30:00",
                     "color": "#0026ad"
@@ -16768,7 +16766,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compl.Phys.générale\nM. BRASSEUR, Mme DEVOUGE, Mme DAUBIE\nNiBSM.106Lab.Drude",
+                    "title": "Compl.Phys.générale\nMme DAUBIE, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
                     "start": "2025-11-14T13:30:00",
                     "end": "2025-11-14T16:30:00",
                     "color": "#0026ad"
@@ -16786,7 +16784,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compl.Phys.générale\nM. BRASSEUR, Mme DEVOUGE, Mme DAUBIE\nNiBSM.106Lab.Drude",
+                    "title": "Compl.Phys.générale\nMme DAUBIE, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
                     "start": "2025-11-28T13:30:00",
                     "end": "2025-11-28T16:30:00",
                     "color": "#0026ad"
@@ -16812,7 +16810,7 @@
             ],
             "English for Science, part 1": [
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-09-15T08:15:00",
                     "end": "2025-09-15T10:15:00",
                     "color": "#0026ad"
@@ -16824,7 +16822,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-09-22T08:15:00",
                     "end": "2025-09-22T10:15:00",
                     "color": "#0026ad"
@@ -16836,7 +16834,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-09-29T08:15:00",
                     "end": "2025-09-29T10:15:00",
                     "color": "#0026ad"
@@ -16848,7 +16846,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-10-06T08:15:00",
                     "end": "2025-10-06T10:15:00",
                     "color": "#0026ad"
@@ -16860,81 +16858,45 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-10-13T08:15:00",
                     "end": "2025-10-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-10-13T10:30:00",
-                    "end": "2025-10-13T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-10-20T08:15:00",
                     "end": "2025-10-20T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-11-03T08:15:00",
                     "end": "2025-11-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-11-03T10:30:00",
-                    "end": "2025-11-03T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-11-17T08:15:00",
                     "end": "2025-11-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-11-17T10:30:00",
-                    "end": "2025-11-17T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-11-24T08:15:00",
                     "end": "2025-11-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-11-24T10:30:00",
-                    "end": "2025-11-24T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-12-01T08:15:00",
                     "end": "2025-12-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-12-01T10:30:00",
-                    "end": "2025-12-01T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-12-08T08:15:00",
                     "end": "2025-12-08T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-12-08T10:30:00",
-                    "end": "2025-12-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -16942,139 +16904,67 @@
                     "start": "2025-12-15T08:15:00",
                     "end": "2025-12-15T10:15:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-12-15T10:30:00",
-                    "end": "2025-12-15T12:30:00",
-                    "color": "#0026ad"
                 }
             ],
             "English for Science, part 2": [
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
-                    "start": "2026-02-02T08:15:00",
-                    "end": "2026-02-02T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiVésale.030, NiGA.Pascal",
                     "start": "2026-02-02T10:30:00",
                     "end": "2026-02-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
-                    "start": "2026-02-09T08:15:00",
-                    "end": "2026-02-09T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiVésale.030, NiGA.Pascal",
                     "start": "2026-02-09T10:30:00",
                     "end": "2026-02-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
-                    "start": "2026-02-16T08:15:00",
-                    "end": "2026-02-16T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiVésale.030, NiGA.Pascal",
                     "start": "2026-02-16T10:30:00",
                     "end": "2026-02-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
-                    "start": "2026-02-23T08:15:00",
-                    "end": "2026-02-23T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiVésale.030, NiGA.Pascal",
                     "start": "2026-02-23T10:30:00",
                     "end": "2026-02-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
-                    "start": "2026-03-02T08:15:00",
-                    "end": "2026-03-02T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiVésale.030, NiGA.Pascal",
                     "start": "2026-03-02T10:30:00",
                     "end": "2026-03-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
-                    "start": "2026-03-09T08:15:00",
-                    "end": "2026-03-09T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiVésale.030, NiGA.Pascal",
                     "start": "2026-03-09T10:30:00",
                     "end": "2026-03-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
-                    "start": "2026-03-23T08:15:00",
-                    "end": "2026-03-23T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiVésale.030, NiGA.Pascal",
                     "start": "2026-03-23T10:30:00",
                     "end": "2026-03-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
-                    "start": "2026-03-30T08:15:00",
-                    "end": "2026-03-30T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiVésale.030, NiGA.Pascal",
                     "start": "2026-03-30T10:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
-                    "start": "2026-04-13T08:15:00",
-                    "end": "2026-04-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiVésale.030, NiGA.Pascal",
                     "start": "2026-04-13T10:30:00",
                     "end": "2026-04-13T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
-                    "start": "2026-05-04T08:15:00",
-                    "end": "2026-05-04T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiDeVinci.Wüster, NiDeVinci.Montague",
-                    "start": "2026-05-11T08:15:00",
-                    "end": "2026-05-11T10:15:00",
                     "color": "#0026ad"
                 }
             ],
             "Enjeux et défis dév dur": [
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07, RosaParks.2.06",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.07, RosaParks.1.07, RosaParks.2.06, RosaParks.1.08, RosaParks.2.08",
                     "start": "2025-10-27T08:15:00",
                     "end": "2025-10-27T12:00:00",
                     "color": "#0026ad"
@@ -17092,7 +16982,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07, RosaParks.2.06",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.07, RosaParks.1.07, RosaParks.2.06, RosaParks.1.08, RosaParks.2.08",
                     "start": "2025-10-31T10:30:00",
                     "end": "2025-10-31T12:30:00",
                     "color": "#0026ad"
@@ -17104,7 +16994,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07, RosaParks.2.06",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.07, RosaParks.1.07, RosaParks.2.06, RosaParks.1.08, RosaParks.2.08",
                     "start": "2025-10-31T15:45:00",
                     "end": "2025-10-31T17:45:00",
                     "color": "#0026ad"
@@ -17116,7 +17006,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.07, RosaParks.1.07, RosaParks.1.08, RosaParks.2.08",
                     "start": "2025-11-18T20:00:00",
                     "end": "2025-11-18T21:00:00",
                     "color": "#0026ad"
@@ -17128,7 +17018,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.07, RosaParks.1.07, RosaParks.1.08, RosaParks.2.08",
                     "start": "2025-12-02T20:00:00",
                     "end": "2025-12-02T21:00:00",
                     "color": "#0026ad"
@@ -17140,7 +17030,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07, RosaParks.2.06",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.07, RosaParks.1.07, RosaParks.2.06, RosaParks.1.08, RosaParks.2.08",
                     "start": "2026-02-17T20:00:00",
                     "end": "2026-02-17T21:00:00",
                     "color": "#0026ad"
@@ -17158,13 +17048,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.1.08, RosaParks.1.07, RosaParks.2.10.Du_Bois, RosaParks.3.07, RosaParks.2.07",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.07, RosaParks.1.07, RosaParks.3.07, RosaParks.2.10.Du_Bois, RosaParks.1.08",
                     "start": "2026-03-20T08:15:00",
                     "end": "2026-03-20T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\n\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.10.Du_Bois, RosaParks.3.07",
+                    "title": "Enjeux et défis dév dur\n\nRosaParks.1.07, RosaParks.3.07, RosaParks.2.10.Du_Bois, RosaParks.1.08, RosaParks.2.08",
                     "start": "2026-04-07T18:00:00",
                     "end": "2026-04-07T21:00:00",
                     "color": "#0026ad"
@@ -17186,55 +17076,55 @@
             ],
             "Exer. thermo": [
                 {
-                    "title": "Exer. thermo\nMme MOHAMMED, M. GABRIELE, Mme BOL\nNiVésale.LaFontaine",
+                    "title": "Exer. thermo\nMme MOHAMMED, Mme BOL, M. GABRIELE\nNiVésale.LaFontaine",
                     "start": "2025-09-22T13:30:00",
                     "end": "2025-09-22T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exer. thermo\nMme MOHAMMED, M. GABRIELE, Mme BOL\nNiVésale.LaFontaine",
+                    "title": "Exer. thermo\nMme MOHAMMED, Mme BOL, M. GABRIELE\nNiVésale.LaFontaine",
                     "start": "2025-09-29T13:30:00",
                     "end": "2025-09-29T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exer. thermo\nMme MOHAMMED, M. GABRIELE, Mme BOL\nNiB6.18",
+                    "title": "Exer. thermo\nMme MOHAMMED, Mme BOL, M. GABRIELE\nNiB6.18",
                     "start": "2025-10-06T13:30:00",
                     "end": "2025-10-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exer. thermo\nMme MOHAMMED, M. GABRIELE, Mme BOL\nNiB6.18",
+                    "title": "Exer. thermo\nMme MOHAMMED, Mme BOL, M. GABRIELE\nNiB6.18",
                     "start": "2025-10-13T13:30:00",
                     "end": "2025-10-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exer. thermo\nMme MOHAMMED, M. GABRIELE, Mme BOL\nNiB6.18",
+                    "title": "Exer. thermo\nMme MOHAMMED, Mme BOL, M. GABRIELE\nNiB6.18",
                     "start": "2025-11-04T10:30:00",
                     "end": "2025-11-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exer. thermo\nMme MOHAMMED, M. GABRIELE, Mme BOL\nNiB6.18",
+                    "title": "Exer. thermo\nMme MOHAMMED, Mme BOL, M. GABRIELE\nNiB6.18",
                     "start": "2025-11-20T08:15:00",
                     "end": "2025-11-20T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exer. thermo\nMme MOHAMMED, M. GABRIELE, Mme BOL\nNiB6.18",
+                    "title": "Exer. thermo\nMme MOHAMMED, Mme BOL, M. GABRIELE\nNiB6.18",
                     "start": "2025-11-25T10:30:00",
                     "end": "2025-11-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exer. thermo\nMme MOHAMMED, M. GABRIELE, Mme BOL\nNiB6.18",
+                    "title": "Exer. thermo\nMme MOHAMMED, Mme BOL, M. GABRIELE\nNiB6.18",
                     "start": "2025-11-27T08:15:00",
                     "end": "2025-11-27T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exer. thermo\nMme MOHAMMED, M. GABRIELE, Mme BOL\nNiB6.18",
+                    "title": "Exer. thermo\nMme MOHAMMED, Mme BOL, M. GABRIELE\nNiB6.18",
                     "start": "2025-12-04T08:15:00",
                     "end": "2025-12-04T10:15:00",
                     "color": "#0026ad"
@@ -17246,7 +17136,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exer. thermo\nMme MOHAMMED, M. GABRIELE, Mme BOL\nNiB6.18",
+                    "title": "Exer. thermo\nMme MOHAMMED, Mme BOL, M. GABRIELE\nNiB6.18",
                     "start": "2025-12-16T10:30:00",
                     "end": "2025-12-16T12:30:00",
                     "color": "#0026ad"
@@ -17786,31 +17676,31 @@
             ],
             "TP Thermo": [
                 {
-                    "title": "TP Thermo\nM. GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMme BOL, M. GABRIELE\nNiMen.MacDiarmid",
                     "start": "2025-12-08T13:30:00",
                     "end": "2025-12-08T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP Thermo\nM. GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMme BOL, M. GABRIELE\nNiMen.MacDiarmid",
                     "start": "2025-12-09T13:30:00",
                     "end": "2025-12-09T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP Thermo\nM. GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMme BOL, M. GABRIELE\nNiMen.MacDiarmid",
                     "start": "2025-12-10T13:30:00",
                     "end": "2025-12-10T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP Thermo\nM. GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMme BOL, M. GABRIELE\nNiMen.MacDiarmid",
                     "start": "2025-12-11T13:30:00",
                     "end": "2025-12-11T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP Thermo\nM. GABRIELE, Mme BOL\nNiMen.MacDiarmid",
+                    "title": "TP Thermo\nMme BOL, M. GABRIELE\nNiMen.MacDiarmid",
                     "start": "2025-12-12T13:30:00",
                     "end": "2025-12-12T17:30:00",
                     "color": "#0026ad"
@@ -19782,6 +19672,18 @@
                     "start": "2025-10-20T15:45:00",
                     "end": "2025-10-20T17:45:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Chim macro : structure propr.\nM. RAQUEZ\nNiMen.Pauling",
+                    "start": "2025-11-03T13:30:00",
+                    "end": "2025-11-03T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chim macro : structure propr.\nM. RAQUEZ\nNiBSM.002.Knight",
+                    "start": "2025-11-06T13:30:00",
+                    "end": "2025-11-06T15:30:00",
+                    "color": "#0026ad"
                 }
             ],
             "Chim.indus. sém": [
@@ -21661,6 +21563,18 @@
                     "title": "Chim macro : structure propr.\nM. RAQUEZ\nNiMen.Pauling",
                     "start": "2025-10-20T15:45:00",
                     "end": "2025-10-20T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chim macro : structure propr.\nM. RAQUEZ\nNiMen.Pauling",
+                    "start": "2025-11-03T13:30:00",
+                    "end": "2025-11-03T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chim macro : structure propr.\nM. RAQUEZ\nNiBSM.002.Knight",
+                    "start": "2025-11-06T13:30:00",
+                    "end": "2025-11-06T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -23611,6 +23525,18 @@
                     "title": "Chim macro : structure propr.\nM. RAQUEZ\nNiMen.Pauling",
                     "start": "2025-10-20T15:45:00",
                     "end": "2025-10-20T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chim macro : structure propr.\nM. RAQUEZ\nNiMen.Pauling",
+                    "start": "2025-11-03T13:30:00",
+                    "end": "2025-11-03T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chim macro : structure propr.\nM. RAQUEZ\nNiBSM.002.Knight",
+                    "start": "2025-11-06T13:30:00",
+                    "end": "2025-11-06T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -29701,67 +29627,67 @@
             ],
             "Bases de données I Partie B": [
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-10-08T15:45:00",
                     "end": "2025-10-08T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-10-15T15:45:00",
                     "end": "2025-10-15T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-10-22T15:45:00",
                     "end": "2025-10-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-11-05T15:45:00",
                     "end": "2025-11-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-11-12T15:45:00",
                     "end": "2025-11-12T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-11-19T15:45:00",
                     "end": "2025-11-19T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-11-25T10:30:00",
                     "end": "2025-11-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-11-26T15:45:00",
                     "end": "2025-11-26T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-12-03T15:45:00",
                     "end": "2025-12-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-12-10T15:45:00",
                     "end": "2025-12-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I Partie B\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données I Partie B\nM. WIJSEN, M. BONTE\nNiDeVinci.Russel",
                     "start": "2025-12-17T15:45:00",
                     "end": "2025-12-17T17:45:00",
                     "color": "#0026ad"
@@ -29843,37 +29769,37 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique\nM. DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Electronique\nMme DEVOUGE, M. DELPLACE, Mme DAUBIE\nNiBSM.106Lab.Drude",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique\nM. DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Electronique\nMme DEVOUGE, M. DELPLACE, Mme DAUBIE\nNiBSM.106Lab.Drude",
                     "start": "2026-03-10T13:30:00",
                     "end": "2026-03-10T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique\nM. DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Electronique\nMme DEVOUGE, M. DELPLACE, Mme DAUBIE\nNiBSM.106Lab.Drude",
                     "start": "2026-03-24T13:30:00",
                     "end": "2026-03-24T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique\nM. DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Electronique\nMme DEVOUGE, M. DELPLACE, Mme DAUBIE\nNiBSM.106Lab.Drude",
                     "start": "2026-03-31T13:30:00",
                     "end": "2026-03-31T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique\nM. DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Electronique\nMme DEVOUGE, M. DELPLACE, Mme DAUBIE\nNiBSM.106Lab.Drude",
                     "start": "2026-04-07T13:30:00",
                     "end": "2026-04-07T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique\nM. DELPLACE, Mme DAUBIE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Electronique\nMme DEVOUGE, M. DELPLACE, Mme DAUBIE\nNiBSM.106Lab.Drude",
                     "start": "2026-04-14T13:30:00",
                     "end": "2026-04-14T16:30:00",
                     "color": "#0026ad"
@@ -29881,145 +29807,97 @@
             ],
             "English for Science, part 1": [
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-09-15T08:15:00",
                     "end": "2025-09-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-09-15T10:30:00",
                     "end": "2025-09-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-09-22T08:15:00",
                     "end": "2025-09-22T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-09-22T10:30:00",
                     "end": "2025-09-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-09-29T08:15:00",
                     "end": "2025-09-29T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-09-29T10:30:00",
                     "end": "2025-09-29T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-10-06T08:15:00",
                     "end": "2025-10-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-10-06T10:30:00",
                     "end": "2025-10-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-10-13T08:15:00",
-                    "end": "2025-10-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-10-13T10:30:00",
                     "end": "2025-10-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-10-20T08:15:00",
-                    "end": "2025-10-20T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-10-20T10:30:00",
                     "end": "2025-10-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-11-03T08:15:00",
-                    "end": "2025-11-03T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-11-03T10:30:00",
                     "end": "2025-11-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-11-17T08:15:00",
-                    "end": "2025-11-17T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-11-17T10:30:00",
                     "end": "2025-11-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-11-24T08:15:00",
-                    "end": "2025-11-24T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-12-01T08:15:00",
-                    "end": "2025-12-01T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-12-01T10:30:00",
                     "end": "2025-12-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
-                    "start": "2025-12-08T08:15:00",
-                    "end": "2025-12-08T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-12-08T10:30:00",
                     "end": "2025-12-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiDeVinci.Wüster, NiDeVinci.Montague",
-                    "start": "2025-12-15T08:15:00",
-                    "end": "2025-12-15T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.008.Kwolek, NiVésale.030, NiGA.Pascal",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.008.Kwolek",
                     "start": "2025-12-15T10:30:00",
                     "end": "2025-12-15T12:30:00",
                     "color": "#0026ad"
@@ -30033,21 +29911,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
-                    "start": "2026-02-02T10:30:00",
-                    "end": "2026-02-02T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
                     "start": "2026-02-09T08:15:00",
                     "end": "2026-02-09T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
-                    "start": "2026-02-09T10:30:00",
-                    "end": "2026-02-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -30057,21 +29923,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
-                    "start": "2026-02-16T10:30:00",
-                    "end": "2026-02-16T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
                     "start": "2026-02-23T08:15:00",
                     "end": "2026-02-23T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
-                    "start": "2026-02-23T10:30:00",
-                    "end": "2026-02-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -30081,21 +29935,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
-                    "start": "2026-03-02T10:30:00",
-                    "end": "2026-03-02T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
                     "start": "2026-03-09T08:15:00",
                     "end": "2026-03-09T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
-                    "start": "2026-03-09T10:30:00",
-                    "end": "2026-03-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -30105,21 +29947,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
-                    "start": "2026-03-23T10:30:00",
-                    "end": "2026-03-23T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
                     "start": "2026-03-30T08:15:00",
                     "end": "2026-03-30T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
-                    "start": "2026-03-30T10:30:00",
-                    "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -30129,21 +29959,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
-                    "start": "2026-04-13T10:30:00",
-                    "end": "2026-04-13T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.015.Feynman, NiVésale.030, NiGA.Pascal",
                     "start": "2026-05-04T08:15:00",
                     "end": "2026-05-04T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiVésale.030, NiGA.Pascal, NiBSM.002.Knight",
-                    "start": "2026-05-04T10:30:00",
-                    "end": "2026-05-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -30151,17 +29969,11 @@
                     "start": "2026-05-11T08:15:00",
                     "end": "2026-05-11T10:15:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiDeVinci.Wüster, NiDeVinci.Montague",
-                    "start": "2026-05-11T10:30:00",
-                    "end": "2026-05-11T12:30:00",
-                    "color": "#0026ad"
                 }
             ],
             "Enjeux et défis dév dur": [
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.2.07, RosaParks.1.07, RosaParks.2.06, RosaParks.1.08",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07, RosaParks.2.06",
                     "start": "2025-10-27T08:15:00",
                     "end": "2025-10-27T12:00:00",
                     "color": "#0026ad"
@@ -30185,7 +29997,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.2.07, RosaParks.1.07, RosaParks.2.06, RosaParks.1.08",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07, RosaParks.2.06",
                     "start": "2025-10-31T15:45:00",
                     "end": "2025-10-31T17:45:00",
                     "color": "#0026ad"
@@ -30197,7 +30009,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.2.07, RosaParks.1.07, RosaParks.1.08",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07",
                     "start": "2025-11-18T20:00:00",
                     "end": "2025-11-18T21:00:00",
                     "color": "#0026ad"
@@ -30209,7 +30021,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.2.07, RosaParks.1.07, RosaParks.1.08",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07",
                     "start": "2025-12-02T20:00:00",
                     "end": "2025-12-02T21:00:00",
                     "color": "#0026ad"
@@ -30221,7 +30033,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.2.07, RosaParks.1.07, RosaParks.2.06, RosaParks.1.08",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07, RosaParks.2.06",
                     "start": "2026-02-17T20:00:00",
                     "end": "2026-02-17T21:00:00",
                     "color": "#0026ad"
@@ -30239,13 +30051,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.07, RosaParks.2.10.Du_Bois, RosaParks.1.07, RosaParks.1.08, RosaParks.3.07",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.3.07, RosaParks.2.10.Du_Bois, RosaParks.1.08, RosaParks.1.07, RosaParks.2.07",
                     "start": "2026-03-20T08:15:00",
                     "end": "2026-03-20T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\n\nRosaParks.2.08, RosaParks.2.10.Du_Bois, RosaParks.1.07, RosaParks.1.08, RosaParks.3.07",
+                    "title": "Enjeux et défis dév dur\n\nRosaParks.2.08, RosaParks.3.07, RosaParks.2.10.Du_Bois, RosaParks.1.08, RosaParks.1.07",
                     "start": "2026-04-07T18:00:00",
                     "end": "2026-04-07T21:00:00",
                     "color": "#0026ad"
@@ -30253,19 +30065,19 @@
             ],
             "Equations différentielles et i": [
                 {
-                    "title": "Equations différentielles et i\nM. TROESTLER, Mme DUMONCEAU\nNiGA.Plisnier",
+                    "title": "Equations différentielles et i\nMme DUMONCEAU, M. TROESTLER\nNiGA.Plisnier",
                     "start": "2026-02-04T10:30:00",
                     "end": "2026-02-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Equations différentielles et i\nM. TROESTLER, Mme DUMONCEAU\nNiB6.18",
+                    "title": "Equations différentielles et i\nMme DUMONCEAU, M. TROESTLER\nNiB6.18",
                     "start": "2026-02-04T13:30:00",
                     "end": "2026-02-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Equations différentielles et i\nM. TROESTLER, Mme DUMONCEAU\nNiB6.124",
+                    "title": "Equations différentielles et i\nMme DUMONCEAU, M. TROESTLER\nNiB6.124",
                     "start": "2026-02-05T15:45:00",
                     "end": "2026-02-05T17:45:00",
                     "color": "#0026ad"
@@ -30277,25 +30089,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Equations différentielles et i\nM. TROESTLER, Mme DUMONCEAU\nNiGA.Plisnier",
+                    "title": "Equations différentielles et i\nMme DUMONCEAU, M. TROESTLER\nNiGA.Plisnier",
                     "start": "2026-02-11T10:30:00",
                     "end": "2026-02-11T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Equations différentielles et i\nM. TROESTLER, Mme DUMONCEAU\nNiB6.124",
+                    "title": "Equations différentielles et i\nMme DUMONCEAU, M. TROESTLER\nNiB6.124",
                     "start": "2026-02-12T15:45:00",
                     "end": "2026-02-12T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Equations différentielles et i\nM. TROESTLER, Mme DUMONCEAU\nNiGA.Plisnier",
+                    "title": "Equations différentielles et i\nMme DUMONCEAU, M. TROESTLER\nNiGA.Plisnier",
                     "start": "2026-02-18T10:30:00",
                     "end": "2026-02-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Equations différentielles et i\nM. TROESTLER, Mme DUMONCEAU\nNiB6.124",
+                    "title": "Equations différentielles et i\nMme DUMONCEAU, M. TROESTLER\nNiB6.124",
                     "start": "2026-02-19T15:45:00",
                     "end": "2026-02-19T17:45:00",
                     "color": "#0026ad"
@@ -30307,7 +30119,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Equations différentielles et i\nM. TROESTLER, Mme DUMONCEAU\nNiGA.Plisnier",
+                    "title": "Equations différentielles et i\nMme DUMONCEAU, M. TROESTLER\nNiGA.Plisnier",
                     "start": "2026-02-25T10:30:00",
                     "end": "2026-02-25T12:30:00",
                     "color": "#0026ad"
@@ -30319,7 +30131,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Equations différentielles et i\nM. TROESTLER, Mme DUMONCEAU\nNiGA.Plisnier",
+                    "title": "Equations différentielles et i\nMme DUMONCEAU, M. TROESTLER\nNiGA.Plisnier",
                     "start": "2026-03-04T10:30:00",
                     "end": "2026-03-04T12:30:00",
                     "color": "#0026ad"
@@ -30583,31 +30395,31 @@
             ],
             "Nombres complexes": [
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-09-19T10:30:00",
                     "end": "2025-09-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.LaFontaine",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.LaFontaine",
                     "start": "2025-09-23T13:30:00",
                     "end": "2025-09-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.030",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.030",
                     "start": "2025-10-03T10:30:00",
                     "end": "2025-10-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.025",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.025",
                     "start": "2025-10-10T10:30:00",
                     "end": "2025-10-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-10-17T10:30:00",
                     "end": "2025-10-17T12:30:00",
                     "color": "#0026ad"
@@ -30625,7 +30437,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
@@ -31199,25 +31011,25 @@
             ],
             "Structures de données I": [
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiP.0A11",
+                    "title": "Structures de données I\nMme BRUYERE, M. VANDENHOVE\nNiP.0A11",
                     "start": "2025-09-16T08:15:00",
                     "end": "2025-09-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiP.0A11",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiP.0A11",
                     "start": "2025-09-16T15:45:00",
                     "end": "2025-09-16T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.010.Lonsdale",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiBSM.010.Lonsdale",
                     "start": "2025-09-17T15:45:00",
                     "end": "2025-09-17T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiBSM.010.Lonsdale",
+                    "title": "Structures de données I\nMme BRUYERE, M. VANDENHOVE\nNiBSM.010.Lonsdale",
                     "start": "2025-09-24T15:45:00",
                     "end": "2025-09-24T17:45:00",
                     "color": "#0026ad"
@@ -31229,7 +31041,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.010.Lonsdale",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiBSM.010.Lonsdale",
                     "start": "2025-10-01T15:45:00",
                     "end": "2025-10-01T17:45:00",
                     "color": "#0026ad"
@@ -31241,19 +31053,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-10-14T08:15:00",
                     "end": "2025-10-14T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiVésale.030",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiVésale.030",
                     "start": "2025-10-17T15:45:00",
                     "end": "2025-10-17T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-10-21T08:15:00",
                     "end": "2025-10-21T10:15:00",
                     "color": "#0026ad"
@@ -31265,79 +31077,79 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-11-04T08:15:00",
                     "end": "2025-11-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2025-11-07T08:15:00",
                     "end": "2025-11-07T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiP.0A11",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiP.0A11",
                     "start": "2025-11-10T08:15:00",
                     "end": "2025-11-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiP.0A07",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiP.0A07",
                     "start": "2025-11-14T08:15:00",
                     "end": "2025-11-14T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-11-18T08:15:00",
                     "end": "2025-11-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiP.0A07",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiP.0A07",
                     "start": "2025-11-21T08:15:00",
                     "end": "2025-11-21T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiBSM.008.Kwolek",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2025-11-25T08:15:00",
                     "end": "2025-11-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiP.0A07",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiP.0A07",
                     "start": "2025-11-28T08:15:00",
                     "end": "2025-11-28T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2025-12-02T08:15:00",
                     "end": "2025-12-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiP.0A07",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiP.0A07",
                     "start": "2025-12-05T08:15:00",
                     "end": "2025-12-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiP.0A11",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiP.0A11",
                     "start": "2025-12-09T08:15:00",
                     "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiP.0A07",
+                    "title": "Structures de données I\nMme BRUYERE, M. VANDENHOVE\nNiP.0A07",
                     "start": "2025-12-12T08:15:00",
                     "end": "2025-12-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, M. VANDENHOVE, Mme BRUYERE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2025-12-19T08:15:00",
                     "end": "2025-12-19T10:15:00",
                     "color": "#0026ad"
@@ -51159,7 +50971,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre III\nM. RAMLOT, Mme VOLKOV\nNiP.0A11",
+                    "title": "Algèbre III\nMme VOLKOV, M. RAMLOT\nNiP.0A11",
                     "start": "2025-12-16T10:30:00",
                     "end": "2025-12-16T12:30:00",
                     "color": "#0026ad"
@@ -52591,13 +52403,13 @@
             ],
             "Intro to ML & DS": [
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-02-02T13:30:00",
                     "end": "2026-02-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-02-09T13:30:00",
                     "end": "2026-02-09T15:30:00",
                     "color": "#0026ad"
@@ -52609,163 +52421,163 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-02-16T13:30:00",
                     "end": "2026-02-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-02-17T13:30:00",
                     "end": "2026-02-17T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-02-23T13:30:00",
                     "end": "2026-02-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-02-24T13:30:00",
                     "end": "2026-02-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-03-02T13:30:00",
                     "end": "2026-03-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.012.Hermann",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.012.Hermann",
                     "start": "2026-03-04T10:30:00",
                     "end": "2026-03-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-03-09T13:30:00",
                     "end": "2026-03-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-03-10T13:30:00",
                     "end": "2026-03-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-03-23T13:30:00",
                     "end": "2026-03-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-03-24T13:30:00",
                     "end": "2026-03-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-03-25T10:30:00",
                     "end": "2026-03-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-03-30T13:30:00",
                     "end": "2026-03-30T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-03-31T13:30:00",
                     "end": "2026-03-31T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-04-03T10:30:00",
                     "end": "2026-04-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-04-07T13:30:00",
                     "end": "2026-04-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-04-08T10:30:00",
                     "end": "2026-04-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
                     "start": "2026-04-10T10:30:00",
                     "end": "2026-04-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-04-10T15:45:00",
                     "end": "2026-04-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-04-13T13:30:00",
                     "end": "2026-04-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-04-15T10:30:00",
                     "end": "2026-04-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiGA.Turing",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiGA.Turing",
                     "start": "2026-04-17T10:30:00",
                     "end": "2026-04-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-05-04T13:30:00",
                     "end": "2026-05-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-05-05T13:30:00",
                     "end": "2026-05-05T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
                     "start": "2026-05-08T10:30:00",
                     "end": "2026-05-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-05-11T13:30:00",
                     "end": "2026-05-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
@@ -52779,7 +52591,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro. à la réal. fin. - AAEP\n\nM. FINET",
+                    "title": "Intro. à la réal. fin. - AAEP\nM. FINET\nNiVésale.023",
                     "start": "2025-10-14T13:30:00",
                     "end": "2025-10-14T15:30:00",
                     "color": "#0026ad"
@@ -52815,7 +52627,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro. à la réal. fin. - AAEP\n\nM. FINET",
+                    "title": "Intro. à la réal. fin. - AAEP\nM. FINET\nNiVésale.LaFontaine",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T15:30:00",
                     "color": "#0026ad"
@@ -60619,6 +60431,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Econométrie - AAEP\n\nWa.Hotyat",
+                    "start": "2025-10-28T13:30:00",
+                    "end": "2025-10-28T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Econométrie - AAEP\nMme VOLRAL\nWa.Drechsel",
                     "start": "2025-11-18T08:15:00",
                     "end": "2025-11-18T10:15:00",
@@ -62033,13 +61851,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.LaFontaine",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.LaFontaine",
                     "start": "2025-09-19T10:30:00",
                     "end": "2025-09-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.020",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.020",
                     "start": "2025-09-23T12:30:00",
                     "end": "2025-09-23T13:30:00",
                     "color": "#0026ad"
@@ -62513,13 +62331,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiVésale.023, NiVésale.025",
+                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiVésale.025, NiVésale.023",
                     "start": "2025-11-13T13:30:00",
                     "end": "2025-11-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiVésale.LaFontaine, NiVésale.025",
+                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiVésale.025, NiVésale.LaFontaine",
                     "start": "2025-11-13T15:45:00",
                     "end": "2025-11-13T17:45:00",
                     "color": "#0026ad"
@@ -62627,7 +62445,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme BEAUCHOT, Mme GODEAU\nNiGA.Gutenberg, NiGA.Curie, NiB6.124, NiP.0A07, NiB6.18, NiVésale.023, Jo.Stievenart, NiB6.211",
+                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme BEAUCHOT, Mme GODEAU\nNiGA.Gutenberg, NiGA.Curie, NiVésale.023, NiB6.124, NiB6.18, NiP.0A07, Jo.Stievenart, NiB6.211",
                     "start": "2025-12-17T13:30:00",
                     "end": "2025-12-17T15:30:00",
                     "color": "#0026ad"
@@ -63061,49 +62879,49 @@
             ],
             "Elem. bota. A.": [
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-02-03T08:15:00",
                     "end": "2026-02-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-02-04T15:45:00",
                     "end": "2026-02-04T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-02-10T08:15:00",
                     "end": "2026-02-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-02-17T08:15:00",
                     "end": "2026-02-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-02-24T08:15:00",
                     "end": "2026-02-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-03-03T08:15:00",
                     "end": "2026-03-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-03-10T08:15:00",
                     "end": "2026-03-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-03-24T08:15:00",
                     "end": "2026-03-24T10:15:00",
                     "color": "#0026ad"
@@ -63115,13 +62933,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-04-07T08:15:00",
                     "end": "2026-04-07T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-04-10T13:30:00",
                     "end": "2026-04-10T15:30:00",
                     "color": "#0026ad"
@@ -63133,7 +62951,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiVésale.LaFontaine",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiVésale.LaFontaine",
                     "start": "2026-04-16T10:30:00",
                     "end": "2026-04-16T12:30:00",
                     "color": "#0026ad"
@@ -63819,9 +63637,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE\nJo.Stievenart",
-                    "start": "2026-02-04T08:00:00",
-                    "end": "2026-02-04T10:00:00",
+                    "title": "Math appl sciences de la vie\nM. LAMBOTTE\nNiVésale.025",
+                    "start": "2026-02-04T13:30:00",
+                    "end": "2026-02-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63831,9 +63649,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE\nJo.Stievenart",
-                    "start": "2026-02-11T08:00:00",
-                    "end": "2026-02-11T10:00:00",
+                    "title": "Math appl sciences de la vie\nM. LAMBOTTE\nNiB6.124",
+                    "start": "2026-02-11T13:30:00",
+                    "end": "2026-02-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63849,12 +63667,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE\nJo.Stievenart",
-                    "start": "2026-02-18T08:00:00",
-                    "end": "2026-02-18T10:00:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
                     "start": "2026-02-19T13:30:00",
                     "end": "2026-02-19T15:30:00",
@@ -63867,15 +63679,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE\nJo.Stievenart",
-                    "start": "2026-02-25T08:00:00",
-                    "end": "2026-02-25T10:00:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
                     "start": "2026-02-26T13:30:00",
                     "end": "2026-02-26T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Math appl sciences de la vie\nM. LAMBOTTE\nNiVésale.LaFontaine",
+                    "start": "2026-02-27T13:30:00",
+                    "end": "2026-02-27T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63885,7 +63697,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
                     "start": "2026-03-05T13:30:00",
                     "end": "2026-03-05T15:30:00",
                     "color": "#0026ad"
@@ -63897,9 +63709,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
                     "start": "2026-03-12T13:30:00",
                     "end": "2026-03-12T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Math appl sciences de la vie\nM. LAMBOTTE\nNiVésale.LaFontaine",
+                    "start": "2026-03-17T13:30:00",
+                    "end": "2026-03-17T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63939,15 +63757,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE\nJo.Stievenart",
-                    "start": "2026-05-06T08:00:00",
-                    "end": "2026-05-06T10:00:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Math appl sciences de la vie\nM. SIMON\nNiGA.VanGogh",
                     "start": "2026-05-06T13:30:00",
                     "end": "2026-05-06T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Math appl sciences de la vie\nM. LAMBOTTE\nNiVésale.LaFontaine",
+                    "start": "2026-05-15T15:45:00",
+                    "end": "2026-05-15T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -71712,8 +71530,8 @@
                 },
                 {
                     "title": "Alg. lin.et géom. I. A.\nM. CAVENAILE\nNiP.0A07",
-                    "start": "2025-11-21T10:30:00",
-                    "end": "2025-11-21T12:30:00",
+                    "start": "2025-11-19T15:45:00",
+                    "end": "2025-11-19T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -77678,20 +77496,14 @@
                 },
                 {
                     "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
-                    "start": "2025-10-20T15:45:00",
-                    "end": "2025-10-20T17:45:00",
+                    "start": "2025-10-20T13:30:00",
+                    "end": "2025-10-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Micro et nanophotonique\nM. MAES, M. CAVENAILE\nNiBSM.004.Penrose",
                     "start": "2025-10-23T10:30:00",
                     "end": "2025-10-23T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
-                    "start": "2025-11-03T15:45:00",
-                    "end": "2025-11-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -77929,25 +77741,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-10-14T10:30:00",
                     "end": "2025-10-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.004.Penrose",
-                    "start": "2025-10-20T13:30:00",
-                    "end": "2025-10-20T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-10-21T10:30:00",
                     "end": "2025-10-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-11-04T10:30:00",
                     "end": "2025-11-04T12:30:00",
                     "color": "#0026ad"
@@ -77971,7 +77777,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-11-18T10:30:00",
                     "end": "2025-11-18T12:30:00",
                     "color": "#0026ad"
@@ -77983,7 +77789,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-11-25T10:30:00",
                     "end": "2025-11-25T12:30:00",
                     "color": "#0026ad"
@@ -78013,7 +77819,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.004.Penrose",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-12-11T08:15:00",
                     "end": "2025-12-11T10:15:00",
                     "color": "#0026ad"
@@ -80105,8 +79911,8 @@
                 },
                 {
                     "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
-                    "start": "2025-10-20T15:45:00",
-                    "end": "2025-10-20T17:45:00",
+                    "start": "2025-10-20T13:30:00",
+                    "end": "2025-10-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -80117,8 +79923,8 @@
                 },
                 {
                     "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
-                    "start": "2025-11-03T15:45:00",
-                    "end": "2025-11-03T17:45:00",
+                    "start": "2025-11-03T13:30:00",
+                    "end": "2025-11-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -80338,25 +80144,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-10-14T10:30:00",
                     "end": "2025-10-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.004.Penrose",
-                    "start": "2025-10-20T13:30:00",
-                    "end": "2025-10-20T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-10-21T10:30:00",
                     "end": "2025-10-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-11-04T10:30:00",
                     "end": "2025-11-04T12:30:00",
                     "color": "#0026ad"
@@ -80380,7 +80180,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-11-18T10:30:00",
                     "end": "2025-11-18T12:30:00",
                     "color": "#0026ad"
@@ -80392,7 +80192,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-11-25T10:30:00",
                     "end": "2025-11-25T12:30:00",
                     "color": "#0026ad"
@@ -80422,7 +80222,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.004.Penrose",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-12-11T08:15:00",
                     "end": "2025-12-11T10:15:00",
                     "color": "#0026ad"
@@ -82712,20 +82512,14 @@
                 },
                 {
                     "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
-                    "start": "2025-10-20T15:45:00",
-                    "end": "2025-10-20T17:45:00",
+                    "start": "2025-10-20T13:30:00",
+                    "end": "2025-10-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2025-10-23T10:30:00",
                     "end": "2025-10-23T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
-                    "start": "2025-11-03T15:45:00",
-                    "end": "2025-11-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -83082,25 +82876,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-10-14T10:30:00",
                     "end": "2025-10-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.004.Penrose",
-                    "start": "2025-10-20T13:30:00",
-                    "end": "2025-10-20T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-10-21T10:30:00",
                     "end": "2025-10-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-11-04T10:30:00",
                     "end": "2025-11-04T12:30:00",
                     "color": "#0026ad"
@@ -83124,7 +82912,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-11-18T10:30:00",
                     "end": "2025-11-18T12:30:00",
                     "color": "#0026ad"
@@ -83136,7 +82924,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiP.0A07",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-11-25T10:30:00",
                     "end": "2025-11-25T12:30:00",
                     "color": "#0026ad"
@@ -83166,7 +82954,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.004.Penrose",
+                    "title": "Physique surfaces et interface\n\nM. LECLERE",
                     "start": "2025-12-11T08:15:00",
                     "end": "2025-12-11T10:15:00",
                     "color": "#0026ad"
