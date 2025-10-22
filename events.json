@@ -2583,19 +2583,19 @@
         "BAB2": {
             "_": [
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
+                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
                     "start": "2025-09-16T10:30:00",
                     "end": "2025-09-16T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
+                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
                     "start": "2025-09-16T11:30:00",
                     "end": "2025-09-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.020",
+                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.020",
                     "start": "2025-09-23T12:30:00",
                     "end": "2025-09-23T13:30:00",
                     "color": "#0026ad"
@@ -3175,13 +3175,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English I, part 1\nM. DEVILEZ\nNiGA.Pascal",
+                    "title": "English I, part 1\nM. DEVILEZ\nNiVésale.030",
                     "start": "2025-10-23T08:15:00",
                     "end": "2025-10-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English I, part 1\nM. DEVILEZ\nNiGA.Pascal",
+                    "title": "English I, part 1\nM. DEVILEZ\nNiB6.227Lab",
                     "start": "2025-10-23T10:30:00",
                     "end": "2025-10-23T12:30:00",
                     "color": "#0026ad"
@@ -3653,19 +3653,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.124",
+                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiB6.124",
                     "start": "2026-04-08T08:15:00",
                     "end": "2026-04-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiVésale.025",
+                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiVésale.025",
                     "start": "2026-04-10T08:15:00",
                     "end": "2026-04-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.211",
+                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiB6.211",
                     "start": "2026-04-13T10:30:00",
                     "end": "2026-04-13T12:30:00",
                     "color": "#0026ad"
@@ -3777,13 +3777,13 @@
             ],
             "Histologie générale TP": [
                 {
-                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2025-10-20T13:30:00",
                     "end": "2025-10-20T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2025-11-07T15:45:00",
                     "end": "2025-11-07T18:45:00",
                     "color": "#0026ad"
@@ -3801,31 +3801,31 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2025-11-21T15:45:00",
                     "end": "2025-11-21T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2025-11-24T09:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2025-12-08T09:30:00",
                     "end": "2025-12-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2025-12-15T09:30:00",
                     "end": "2025-12-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2025-12-16T15:45:00",
                     "end": "2025-12-16T18:45:00",
                     "color": "#0026ad"
@@ -3901,55 +3901,55 @@
             ],
             "Histologie spéciale TP/Exerc.": [
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2026-02-06T15:45:00",
                     "end": "2026-02-06T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2026-02-11T15:45:00",
                     "end": "2026-02-11T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2026-03-04T15:45:00",
                     "end": "2026-03-04T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2026-03-26T13:30:00",
                     "end": "2026-03-26T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2026-03-30T09:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2026-04-01T15:45:00",
                     "end": "2026-04-01T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2026-04-08T15:45:00",
                     "end": "2026-04-08T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2026-05-04T09:30:00",
                     "end": "2026-05-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FIEVET, M. GENNAUX, Mme FRAU\nNiP.1E12",
                     "start": "2026-05-11T16:00:00",
                     "end": "2026-05-11T19:00:00",
                     "color": "#0026ad"
@@ -15831,12 +15831,6 @@
                 },
                 {
                     "title": "Opt géo et thermo - Theorie\nM. MAES\nNiVésale.020",
-                    "start": "2025-11-21T13:30:00",
-                    "end": "2025-11-21T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Opt géo et thermo - Theorie\nM. MAES\nNiVésale.020",
                     "start": "2025-11-28T13:30:00",
                     "end": "2025-11-28T15:30:00",
                     "color": "#0026ad"
@@ -20412,12 +20406,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie des surfaces\nM. THIRY\nNiBSM.016.Dresselhaus",
-                    "start": "2025-10-22T08:15:00",
-                    "end": "2025-10-22T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Physico-chimie des surfaces\nM. THIRY\nNiGA.Pascal",
                     "start": "2025-11-18T10:30:00",
                     "end": "2025-11-18T12:30:00",
@@ -22295,12 +22283,6 @@
                     "title": "Physico-chimie des surfaces\nMme BOL\nNiMen.Lauterbur",
                     "start": "2025-10-14T13:30:00",
                     "end": "2025-10-14T18:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physico-chimie des surfaces\nM. THIRY\nNiBSM.016.Dresselhaus",
-                    "start": "2025-10-22T08:15:00",
-                    "end": "2025-10-22T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -25206,12 +25188,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie des surfaces\nM. THIRY\nNiBSM.016.Dresselhaus",
-                    "start": "2025-10-22T08:15:00",
-                    "end": "2025-10-22T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Physico-chimie des surfaces\nM. THIRY\nNiGA.Pascal",
                     "start": "2025-11-18T10:30:00",
                     "end": "2025-11-18T12:30:00",
@@ -26351,61 +26327,61 @@
             ],
             "Technologies plasma trait A": [
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-05T15:45:00",
                     "end": "2025-11-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-12T15:45:00",
                     "end": "2025-11-12T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-13T10:30:00",
                     "end": "2025-11-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-19T15:45:00",
                     "end": "2025-11-19T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-20T10:30:00",
                     "end": "2025-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-26T15:45:00",
                     "end": "2025-11-26T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-12-03T15:45:00",
                     "end": "2025-12-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-12-10T15:45:00",
                     "end": "2025-12-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-12-17T15:45:00",
                     "end": "2025-12-17T17:45:00",
                     "color": "#0026ad"
@@ -31133,7 +31109,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nMme BRUYERE, M. DUSOLLIER, M. VANDENHOVE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2025-12-02T08:15:00",
                     "end": "2025-12-02T10:15:00",
                     "color": "#0026ad"
@@ -32229,7 +32205,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro à la compta\n\nMme BUGHIN",
+                    "title": "Intro à la compta\nMme BUGHIN\nWa.Drechsel",
                     "start": "2025-10-23T13:30:00",
                     "end": "2025-10-23T15:30:00",
                     "color": "#0026ad"
@@ -40762,12 +40738,6 @@
                 },
                 {
                     "title": "Rech opérationnelle et applic\n\nM. VAN CAUWELAERT",
-                    "start": "2025-10-21T18:00:00",
-                    "end": "2025-10-21T21:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Rech opérationnelle et applic\n\nM. VAN CAUWELAERT",
                     "start": "2025-11-04T18:00:00",
                     "end": "2025-11-04T21:00:00",
                     "color": "#0026ad"
@@ -40788,6 +40758,12 @@
                     "title": "Rech opérationnelle et applic\n\nM. VAN CAUWELAERT",
                     "start": "2025-12-09T18:00:00",
                     "end": "2025-12-09T21:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Rech opérationnelle et applic\n\nM. VAN CAUWELAERT",
+                    "start": "2025-12-12T18:00:00",
+                    "end": "2025-12-12T21:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -50607,7 +50583,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2025-12-02T08:15:00",
                     "end": "2025-12-02T10:15:00",
                     "color": "#0026ad"
@@ -71121,14 +71097,20 @@
                 },
                 {
                     "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv1, NiGA.Interactiv2",
-                    "start": "2025-10-31T15:45:00",
-                    "end": "2025-10-31T18:45:00",
+                    "start": "2025-11-07T15:45:00",
+                    "end": "2025-11-07T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv1, NiGA.Interactiv2",
-                    "start": "2025-11-07T15:45:00",
-                    "end": "2025-11-07T18:45:00",
+                    "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "start": "2025-12-06T08:15:00",
+                    "end": "2025-12-06T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "start": "2025-12-13T08:15:00",
+                    "end": "2025-12-13T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -73171,12 +73153,6 @@
                     "title": "Opt géo et thermo - Theorie\nM. MAES\nNiVésale.LaFontaine",
                     "start": "2025-11-14T13:30:00",
                     "end": "2025-11-14T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Opt géo et thermo - Theorie\nM. MAES\nNiVésale.020",
-                    "start": "2025-11-21T13:30:00",
-                    "end": "2025-11-21T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -78650,7 +78626,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Astrophysique atom et contemp.\nM. PALMERI, Mme CARVAJAL GALLEGO\nNiBSM.004.Penrose",
+                    "title": "Astrophysique atom et contemp.\nMme CARVAJAL GALLEGO, M. PALMERI\nNiBSM.004.Penrose",
                     "start": "2025-11-14T08:15:00",
                     "end": "2025-11-14T12:15:00",
                     "color": "#0026ad"
@@ -78662,7 +78638,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Astrophysique atom et contemp.\nM. PALMERI, Mme CARVAJAL GALLEGO\nNiBSM.016.Dresselhaus",
+                    "title": "Astrophysique atom et contemp.\nMme CARVAJAL GALLEGO, M. PALMERI\nNiBSM.016.Dresselhaus",
                     "start": "2025-11-24T13:30:00",
                     "end": "2025-11-24T17:30:00",
                     "color": "#0026ad"
@@ -78680,7 +78656,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Astrophysique atom et contemp.\nM. PALMERI, Mme CARVAJAL GALLEGO\nNiBSM.016.Dresselhaus",
+                    "title": "Astrophysique atom et contemp.\nMme CARVAJAL GALLEGO, M. PALMERI\nNiBSM.016.Dresselhaus",
                     "start": "2025-12-08T13:30:00",
                     "end": "2025-12-08T17:30:00",
                     "color": "#0026ad"
@@ -80111,9 +80087,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
-                    "start": "2025-12-18T08:15:00",
-                    "end": "2025-12-18T10:15:00",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.008.Kwolek",
+                    "start": "2025-12-18T10:30:00",
+                    "end": "2025-12-18T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -80933,7 +80909,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.016.Dresselhaus",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-25T10:30:00",
                     "end": "2026-03-25T12:30:00",
                     "color": "#0026ad"
@@ -80957,7 +80933,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.016.Dresselhaus",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.016.Dresselhaus",
                     "start": "2026-04-03T15:45:00",
                     "end": "2026-04-03T17:45:00",
                     "color": "#0026ad"
@@ -80987,7 +80963,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2026-04-16T13:30:00",
                     "end": "2026-04-16T15:30:00",
                     "color": "#0026ad"
@@ -81017,7 +80993,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2026-05-08T13:30:00",
                     "end": "2026-05-08T15:30:00",
                     "color": "#0026ad"
@@ -81029,13 +81005,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2026-05-15T13:30:00",
                     "end": "2026-05-15T15:30:00",
                     "color": "#0026ad"
@@ -81085,7 +81061,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
+                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
                     "start": "2025-11-05T10:30:00",
                     "end": "2025-11-05T12:30:00",
                     "color": "#0026ad"
@@ -81103,7 +81079,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
+                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
                     "start": "2025-11-12T10:30:00",
                     "end": "2025-11-12T12:30:00",
                     "color": "#0026ad"
@@ -81115,7 +81091,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
+                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
                     "start": "2025-11-19T10:30:00",
                     "end": "2025-11-19T12:30:00",
                     "color": "#0026ad"
@@ -81281,61 +81257,61 @@
             ],
             "Technologies plasma trait A": [
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-05T15:45:00",
                     "end": "2025-11-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-12T15:45:00",
                     "end": "2025-11-12T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-13T10:30:00",
                     "end": "2025-11-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-19T15:45:00",
                     "end": "2025-11-19T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-20T10:30:00",
                     "end": "2025-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-26T15:45:00",
                     "end": "2025-11-26T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-12-03T15:45:00",
                     "end": "2025-12-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-12-10T15:45:00",
                     "end": "2025-12-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-12-17T15:45:00",
                     "end": "2025-12-17T17:45:00",
                     "color": "#0026ad"
@@ -82706,9 +82682,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.004.Penrose",
-                    "start": "2025-12-18T08:15:00",
-                    "end": "2025-12-18T10:15:00",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.008.Kwolek",
+                    "start": "2025-12-18T10:30:00",
+                    "end": "2025-12-18T12:30:00",
                     "color": "#0026ad"
                 }
             ],
