@@ -2279,6 +2279,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Reméd. Chimie générale I\nMme GODEAU\nJo.Stievenart",
+                    "start": "2025-10-27T13:30:00",
+                    "end": "2025-10-27T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Reméd. Chimie générale I\nMme GODEAU, M. LAMBOTTE, Mme PAMART, M. VAN LEUVEN\nNiGA.VanGogh",
                     "start": "2025-10-28T10:30:00",
                     "end": "2025-10-28T12:30:00",
@@ -4317,6 +4323,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Physio/Physiopath syst. cardi.\n\nM. LEGRAND",
+                    "start": "2026-03-25T18:00:00",
+                    "end": "2026-03-25T20:00:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Physio/Physiopath syst. cardi.\nM. LEGRAND\nNiGA.Curie",
                     "start": "2026-03-31T10:30:00",
                     "end": "2026-03-31T12:30:00",
@@ -4649,6 +4661,24 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Physiologie générale TP\nMme LUPANT\nNiP.0A07",
+                    "start": "2025-11-13T14:00:00",
+                    "end": "2025-11-13T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Physiologie générale TP\nMme LUPANT\nNiP.0A07",
+                    "start": "2025-11-13T15:45:00",
+                    "end": "2025-11-13T17:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Physiologie générale TP\nMme LUPANT\nNiVésale.025",
+                    "start": "2025-11-18T13:30:00",
+                    "end": "2025-11-18T15:00:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Physiologie générale TP\nMme TASSIN, Mme LUPANT, Mme AKAN\nNiP.0C14",
                     "start": "2025-11-21T08:15:00",
                     "end": "2025-11-21T12:30:00",
@@ -4661,8 +4691,8 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale TP\nMme TASSIN, Mme LUPANT, Mme AKAN\nNiP.0C14",
-                    "start": "2025-11-28T08:15:00",
+                    "title": "Physiologie générale TP\nMme LUPANT\nNiVésale.025",
+                    "start": "2025-11-28T11:00:00",
                     "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
                 },
@@ -10886,7 +10916,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Research Techn. Neuroscience\nM. DE KERCHOVE D'EXAERDE\nNiB6.06",
+                    "title": "Research Techn. Neuroscience\nM. DE KERCHOVE D'EXAERDE\nNiP.3E20",
                     "start": "2025-11-13T15:45:00",
                     "end": "2025-11-13T18:45:00",
                     "color": "#0026ad"
@@ -10976,7 +11006,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Research Techn. Neuroscience\nM. DE KERCHOVE D'EXAERDE\nNiB6.06",
+                    "title": "Research Techn. Neuroscience\nM. DE KERCHOVE D'EXAERDE\nNiP.3E20",
                     "start": "2025-11-13T15:45:00",
                     "end": "2025-11-13T18:45:00",
                     "color": "#0026ad"
@@ -64479,6 +64509,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Reméd. Chimie générale I\nMme GODEAU\nJo.Stievenart",
+                    "start": "2025-10-27T13:30:00",
+                    "end": "2025-10-27T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Reméd. Chimie générale I\nMme PAMART, M. VAN LEUVEN, M. LAMBOTTE, Mme GODEAU\nNiGA.VanGogh",
                     "start": "2025-10-28T10:30:00",
                     "end": "2025-10-28T12:30:00",
@@ -65297,7 +65333,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. BLANKERT\nNiB6.124",
+                    "title": "Chimie analytique quantitative\nM. BLANKERT\nNiVésale.020",
                     "start": "2025-11-13T15:45:00",
                     "end": "2025-11-13T17:45:00",
                     "color": "#0026ad"
@@ -81391,7 +81427,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.004.Penrose",
+                    "title": "Théorie quant champs I\nM. BOULANGER\nNiBSM.002.Knight, NiBSM.004.Penrose",
                     "start": "2025-10-24T10:30:00",
                     "end": "2025-10-24T12:30:00",
                     "color": "#0026ad"
