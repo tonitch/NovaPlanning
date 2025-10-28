@@ -2897,12 +2897,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nMme DECARNONCLE\nNiP.3C07Lab",
-                    "start": "2025-12-02T13:30:00",
-                    "end": "2025-12-02T18:00:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.18",
                     "start": "2025-12-10T16:45:00",
                     "end": "2025-12-10T18:45:00",
@@ -24462,7 +24456,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.organo\n\nM. DE WINTER",
+                    "title": "Introd.chim.organo\nM. DE WINTER\nNiBSM.002.Knight",
                     "start": "2025-10-27T13:30:00",
                     "end": "2025-10-27T15:30:00",
                     "color": "#0026ad"
@@ -24480,7 +24474,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.organo\n\nM. DE WINTER",
+                    "title": "Introd.chim.organo\nM. DE WINTER\nNiMen.Pauling",
                     "start": "2025-11-14T10:30:00",
                     "end": "2025-11-14T12:30:00",
                     "color": "#0026ad"
@@ -27698,6 +27692,12 @@
                     "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2025-12-08T10:30:00",
                     "end": "2025-12-08T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX\nNiGA.Plisnier",
+                    "start": "2025-12-09T12:30:00",
+                    "end": "2025-12-09T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -46383,6 +46383,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX\nNiGA.Plisnier",
+                    "start": "2025-12-10T12:30:00",
+                    "end": "2025-12-10T13:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiP.0A07, NiGA.Plisnier",
                     "start": "2025-12-15T08:15:00",
                     "end": "2025-12-15T10:15:00",
@@ -52159,12 +52165,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 1\nM. DEVILEZ\nNiBSM.012.Hermann",
-                    "start": "2025-12-05T10:30:00",
-                    "end": "2025-12-05T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "English for Sc Com part 1\nM. DEVILEZ\nNiDeVinci.Montague, NiDeVinci.Wüster",
                     "start": "2025-12-19T08:15:00",
                     "end": "2025-12-19T10:15:00",
@@ -53288,8 +53288,8 @@
                 },
                 {
                     "title": "Méca. quant. théorie\nM. SEMAY\nNiP.0A07",
-                    "start": "2025-11-25T08:15:00",
-                    "end": "2025-11-25T10:15:00",
+                    "start": "2025-11-28T13:30:00",
+                    "end": "2025-11-28T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -53419,18 +53419,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Modélisation logicielle\nM. MENS\nNiVésale.030",
-                    "start": "2025-11-28T10:30:00",
-                    "end": "2025-11-28T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Modélisation logicielle\nM. MENS\nNiVésale.030",
-                    "start": "2025-12-05T10:30:00",
-                    "end": "2025-12-05T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Modélisation logicielle\nM. MENS\nNiBSM.012.Hermann",
                     "start": "2025-12-08T15:45:00",
                     "end": "2025-12-08T17:45:00",
@@ -53488,7 +53476,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Prob. II\nM. THIANDOUM\nNiP.0A11",
+                    "title": "Prob. II\nM. THIANDOUM\nNiBSM.015.Feynman",
                     "start": "2025-11-07T15:45:00",
                     "end": "2025-11-07T17:45:00",
                     "color": "#0026ad"
@@ -53500,7 +53488,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Prob. II\nM. THIANDOUM\nNiP.0A11",
+                    "title": "Prob. II\nM. THIANDOUM\nNiBSM.015.Feynman",
                     "start": "2025-11-14T15:45:00",
                     "end": "2025-11-14T17:45:00",
                     "color": "#0026ad"
@@ -53512,7 +53500,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Prob. II\nM. THIANDOUM\nNiP.0A11",
+                    "title": "Prob. II\nM. THIANDOUM\nNiBSM.015.Feynman",
                     "start": "2025-11-21T15:45:00",
                     "end": "2025-11-21T17:45:00",
                     "color": "#0026ad"
@@ -53524,7 +53512,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Prob. II\nM. THIANDOUM\nNiP.0A11",
+                    "title": "Prob. II\nM. THIANDOUM\nNiBSM.015.Feynman",
                     "start": "2025-11-28T15:45:00",
                     "end": "2025-11-28T17:45:00",
                     "color": "#0026ad"
@@ -53536,7 +53524,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Prob. II\nM. THIANDOUM\nNiP.0A11",
+                    "title": "Prob. II\nM. THIANDOUM\nNiBSM.015.Feynman",
                     "start": "2025-12-05T15:45:00",
                     "end": "2025-12-05T17:45:00",
                     "color": "#0026ad"
@@ -53548,7 +53536,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Prob. II\nM. THIANDOUM\nNiP.0A11",
+                    "title": "Prob. II\nM. THIANDOUM\nNiBSM.015.Feynman",
                     "start": "2025-12-12T15:45:00",
                     "end": "2025-12-12T17:45:00",
                     "color": "#0026ad"
@@ -55822,7 +55810,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet prob.stat.\nM. SIMON, M. THIANDOUM\nNiBSM.016.Dresselhaus",
+                    "title": "Projet prob.stat.\nM. SIMON\nNiBSM.016.Dresselhaus",
                     "start": "2025-11-28T10:30:00",
                     "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
@@ -59918,7 +59906,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet prob.stat.\nM. SIMON, M. THIANDOUM\nNiBSM.016.Dresselhaus",
+                    "title": "Projet prob.stat.\nM. SIMON\nNiBSM.016.Dresselhaus",
                     "start": "2025-11-28T10:30:00",
                     "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
@@ -71380,6 +71368,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX\nNiGA.Plisnier",
+                    "start": "2025-12-10T12:30:00",
+                    "end": "2025-12-10T13:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiP.0A07",
                     "start": "2025-12-15T08:15:00",
                     "end": "2025-12-15T10:15:00",
@@ -76307,8 +76301,8 @@
                 },
                 {
                     "title": "Méca. quant. théorie\nM. SEMAY\nNiP.0A07",
-                    "start": "2025-11-25T08:15:00",
-                    "end": "2025-11-25T10:15:00",
+                    "start": "2025-11-28T13:30:00",
+                    "end": "2025-11-28T15:30:00",
                     "color": "#0026ad"
                 },
                 {
