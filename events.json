@@ -27,7 +27,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme GODEAU, Mme LUPANT, M. LAMBOTTE, Mme PAMART, Mme HOCQ\nNiGA.VanGogh",
+                    "title": "_\nMme GODEAU, Mme LUPANT, Mme HOCQ, M. LAMBOTTE, Mme PAMART\nNiGA.VanGogh",
                     "start": "2025-09-23T18:00:00",
                     "end": "2025-09-23T20:00:00",
                     "color": "#0026ad"
@@ -39,7 +39,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme GODEAU, Mme LUPANT, Mme HORDIES, M. LAMBOTTE, Mme PAMART, Mme HOCQ\nNiGA.Curie",
+                    "title": "_\nMme GODEAU, Mme LUPANT, Mme HORDIES, Mme HOCQ, M. LAMBOTTE, Mme PAMART\nNiGA.Curie",
                     "start": "2025-11-04T18:00:00",
                     "end": "2025-11-04T20:00:00",
                     "color": "#0026ad"
@@ -175,7 +175,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
                     "start": "2025-09-26T08:30:00",
                     "end": "2025-09-26T12:30:00",
                     "color": "#0026ad"
@@ -211,7 +211,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
                     "start": "2025-10-08T13:30:00",
                     "end": "2025-10-08T17:30:00",
                     "color": "#0026ad"
@@ -241,7 +241,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
                     "start": "2025-10-17T13:30:00",
                     "end": "2025-10-17T17:30:00",
                     "color": "#0026ad"
@@ -259,7 +259,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
                     "start": "2025-10-24T13:30:00",
                     "end": "2025-10-24T17:30:00",
                     "color": "#0026ad"
@@ -381,7 +381,7 @@
             ],
             "Carnet de suivi I": [
                 {
-                    "title": "Carnet de suivi I\nM. LABIAU, Mme TAGLIATTI\nNiVésale.LaFontaine",
+                    "title": "Carnet de suivi I\nMme TAGLIATTI, M. LABIAU\nNiVésale.LaFontaine",
                     "start": "2025-10-23T13:30:00",
                     "end": "2025-10-23T15:30:00",
                     "color": "#0026ad"
@@ -503,31 +503,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN\nJo.Stievenart",
-                    "start": "2025-11-06T10:30:00",
-                    "end": "2025-11-06T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie générale I\nM. VAN LEUVEN\nJo.Stievenart",
-                    "start": "2025-11-07T08:15:00",
-                    "end": "2025-11-07T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Chimie générale I\nMme HENOUMONT\nJo.Stievenart",
                     "start": "2025-11-13T10:30:00",
                     "end": "2025-11-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme GODEAU, M. VAN LEUVEN\nNiVésale.025, NiVésale.023",
+                    "title": "Chimie générale I\nMme GODEAU, M. VAN LEUVEN\nNiVésale.023, NiVésale.025",
                     "start": "2025-11-13T13:30:00",
                     "end": "2025-11-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme GODEAU, M. VAN LEUVEN\nNiVésale.025, NiVésale.LaFontaine",
+                    "title": "Chimie générale I\nMme GODEAU, M. VAN LEUVEN\nNiVésale.LaFontaine, NiVésale.025",
                     "start": "2025-11-13T15:45:00",
                     "end": "2025-11-13T17:45:00",
                     "color": "#0026ad"
@@ -635,19 +623,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN\nJo.Stievenart",
-                    "start": "2025-12-11T15:45:00",
-                    "end": "2025-12-11T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Chimie générale I\nM. VAN LEUVEN\nNiGA.VanGogh",
                     "start": "2025-12-16T10:30:00",
                     "end": "2025-12-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme GODEAU, Mme BEAUCHOT, M. VAN LEUVEN\nNiGA.Gutenberg, NiB6.18, NiVésale.023, Jo.Stievenart, NiGA.Curie, NiP.0A07, NiB6.124, NiB6.211",
+                    "title": "Chimie générale I\nMme GODEAU, Mme BEAUCHOT, M. VAN LEUVEN\nNiGA.Gutenberg, NiVésale.023, NiB6.124, NiGA.Curie, NiP.0A07, Jo.Stievenart, NiB6.211, NiB6.18",
                     "start": "2025-12-17T13:30:00",
                     "end": "2025-12-17T15:30:00",
                     "color": "#0026ad"
@@ -933,6 +915,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Chimie organique I\nMme GODEAU, Mme BEAUCHOT\nJo.Stievenart",
+                    "start": "2025-11-06T10:30:00",
+                    "end": "2025-11-06T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Chimie organique I\nMme GODEAU, Mme BEAUCHOT\nNiB6.03Lab",
                     "start": "2025-11-07T13:30:00",
                     "end": "2025-11-07T18:00:00",
@@ -957,7 +945,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nMme GODEAU\nNiGA.VanGogh",
+                    "title": "Chimie organique I\nMme GODEAU, Mme BEAUCHOT\nNiGA.VanGogh",
                     "start": "2025-11-25T10:30:00",
                     "end": "2025-11-25T12:30:00",
                     "color": "#0026ad"
@@ -978,6 +966,12 @@
                     "title": "Chimie organique I\nMme LAURENT\nJo.Stievenart",
                     "start": "2025-12-05T10:30:00",
                     "end": "2025-12-05T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie organique I\nMme GODEAU, Mme BEAUCHOT\nJo.Stievenart",
+                    "start": "2025-12-11T15:45:00",
+                    "end": "2025-12-11T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -1259,15 +1253,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nNiVésale.LaFontaine",
-                    "start": "2025-11-19T15:45:00",
-                    "end": "2025-11-19T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nJo.Stievenart",
                     "start": "2025-11-24T08:15:00",
                     "end": "2025-11-24T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nNiGA.Curie",
+                    "start": "2025-11-25T08:15:00",
+                    "end": "2025-11-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -1310,6 +1304,12 @@
                     "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nJo.Stievenart",
                     "start": "2025-12-15T08:15:00",
                     "end": "2025-12-15T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nNiVésale.020",
+                    "start": "2025-12-16T15:45:00",
+                    "end": "2025-12-16T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -2297,6 +2297,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Reméd. Chimie générale I\nMme GODEAU\nJo.Stievenart",
+                    "start": "2025-11-07T08:00:00",
+                    "end": "2025-11-07T10:00:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Reméd. Chimie générale I\nMme GODEAU, Mme BEAUCHOT, M. HENRARD, Mme PAMART, M. VAN LEUVEN\nJo.Stievenart",
                     "start": "2025-11-26T15:45:00",
                     "end": "2025-11-26T17:45:00",
@@ -2463,7 +2469,7 @@
             "Reméd. Physique Biomed II": [],
             "Rôle transport. membranaires": [
                 {
-                    "title": "Rôle transport. membranaires\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiGA.Gutenberg",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiGA.Gutenberg",
                     "start": "2026-02-09T13:30:00",
                     "end": "2026-02-09T15:30:00",
                     "color": "#0026ad"
@@ -2475,13 +2481,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN\nNiGA.Plisnier",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN\nNiGA.Plisnier",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiB6.18",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiB6.18",
                     "start": "2026-03-05T10:30:00",
                     "end": "2026-03-05T12:30:00",
                     "color": "#0026ad"
@@ -2499,7 +2505,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiB6.124",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiB6.124",
                     "start": "2026-03-25T08:15:00",
                     "end": "2026-03-25T10:15:00",
                     "color": "#0026ad"
@@ -2511,7 +2517,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN\nNiB6.211",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN\nNiB6.211",
                     "start": "2026-03-25T13:30:00",
                     "end": "2026-03-25T15:30:00",
                     "color": "#0026ad"
@@ -3722,12 +3728,6 @@
                 },
                 {
                     "title": "Histologie générale\nM. NONCLERCQ\nNiVésale.020",
-                    "start": "2025-11-04T13:30:00",
-                    "end": "2025-11-04T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Histologie générale\nM. NONCLERCQ\nNiVésale.020",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
@@ -3736,6 +3736,12 @@
                     "title": "Histologie générale\nM. NONCLERCQ\nNiVésale.025",
                     "start": "2025-11-10T10:30:00",
                     "end": "2025-11-10T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Histologie générale\nM. NONCLERCQ\nNiVésale.023",
+                    "start": "2025-11-14T15:45:00",
+                    "end": "2025-11-14T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -20262,12 +20268,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
-                    "start": "2025-11-17T13:30:00",
-                    "end": "2025-11-17T17:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Introd.chim.médicinale\nMme LAURENT\nNiP.3E11",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
@@ -20276,7 +20276,7 @@
                 {
                     "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2025-11-24T13:30:00",
-                    "end": "2025-11-24T17:30:00",
+                    "end": "2025-11-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -20288,7 +20288,7 @@
                 {
                     "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2025-12-01T13:30:00",
-                    "end": "2025-12-01T17:30:00",
+                    "end": "2025-12-01T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -20300,7 +20300,7 @@
                 {
                     "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2025-12-08T13:30:00",
-                    "end": "2025-12-08T17:30:00",
+                    "end": "2025-12-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -21148,21 +21148,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Techn spectro appliquées surf\n\nMme BITTENCOURT",
-                    "start": "2025-11-03T10:30:00",
-                    "end": "2025-11-03T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Techn spectro appliquées surf\nMme BITTENCOURT\nNiP.3E10",
                     "start": "2025-11-06T08:15:00",
                     "end": "2025-11-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Techn spectro appliquées surf\n\nMme BITTENCOURT",
-                    "start": "2025-11-17T10:30:00",
-                    "end": "2025-11-17T12:30:00",
+                    "title": "Techn spectro appliquées surf\nMme BITTENCOURT\nNiBSM.016.Dresselhaus",
+                    "start": "2025-11-06T10:30:00",
+                    "end": "2025-11-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -21172,9 +21166,15 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Techn spectro appliquées surf\nMme BITTENCOURT\nNiBSM.015.Feynman",
+                    "start": "2025-11-21T10:30:00",
+                    "end": "2025-11-21T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Techn spectro appliquées surf\nMme BITTENCOURT\nNiBSM.016.Dresselhaus",
-                    "start": "2025-12-12T13:30:00",
-                    "end": "2025-12-12T15:30:00",
+                    "start": "2025-12-12T10:30:00",
+                    "end": "2025-12-12T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -22154,12 +22154,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
-                    "start": "2025-11-17T13:30:00",
-                    "end": "2025-11-17T17:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Introd.chim.médicinale\nMme LAURENT\nNiP.3E11",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
@@ -22168,7 +22162,13 @@
                 {
                     "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2025-11-24T13:30:00",
-                    "end": "2025-11-24T17:30:00",
+                    "end": "2025-11-24T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
+                    "start": "2025-11-25T08:15:00",
+                    "end": "2025-11-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -22180,7 +22180,7 @@
                 {
                     "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2025-12-01T13:30:00",
-                    "end": "2025-12-01T17:30:00",
+                    "end": "2025-12-01T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -22192,7 +22192,7 @@
                 {
                     "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2025-12-08T13:30:00",
-                    "end": "2025-12-08T17:30:00",
+                    "end": "2025-12-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -23236,21 +23236,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Techn spectro appliquées surf\n\nMme BITTENCOURT",
-                    "start": "2025-11-03T10:30:00",
-                    "end": "2025-11-03T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Techn spectro appliquées surf\nMme BITTENCOURT\nNiP.3E10",
                     "start": "2025-11-06T08:15:00",
                     "end": "2025-11-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Techn spectro appliquées surf\n\nMme BITTENCOURT",
-                    "start": "2025-11-17T10:30:00",
-                    "end": "2025-11-17T12:30:00",
+                    "title": "Techn spectro appliquées surf\nMme BITTENCOURT\nNiBSM.016.Dresselhaus",
+                    "start": "2025-11-06T10:30:00",
+                    "end": "2025-11-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -23260,9 +23254,15 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Techn spectro appliquées surf\nMme BITTENCOURT\nNiBSM.015.Feynman",
+                    "start": "2025-11-21T10:30:00",
+                    "end": "2025-11-21T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Techn spectro appliquées surf\nMme BITTENCOURT\nNiBSM.016.Dresselhaus",
-                    "start": "2025-12-12T13:30:00",
-                    "end": "2025-12-12T15:30:00",
+                    "start": "2025-12-12T10:30:00",
+                    "end": "2025-12-12T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -24418,12 +24418,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
-                    "start": "2025-11-17T13:30:00",
-                    "end": "2025-11-17T17:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Introd.chim.médicinale\nMme LAURENT\nNiP.3E11",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
@@ -24432,7 +24426,7 @@
                 {
                     "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
                     "start": "2025-11-24T13:30:00",
-                    "end": "2025-11-24T17:30:00",
+                    "end": "2025-11-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -24444,7 +24438,7 @@
                 {
                     "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
                     "start": "2025-12-01T13:30:00",
-                    "end": "2025-12-01T17:30:00",
+                    "end": "2025-12-01T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -24456,7 +24450,7 @@
                 {
                     "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
                     "start": "2025-12-08T13:30:00",
-                    "end": "2025-12-08T17:30:00",
+                    "end": "2025-12-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -26282,8 +26276,8 @@
                 },
                 {
                     "title": "Techn spectro appliquées surf\nMme BITTENCOURT\nNiBSM.016.Dresselhaus",
-                    "start": "2025-12-12T13:30:00",
-                    "end": "2025-12-12T15:30:00",
+                    "start": "2025-12-12T10:30:00",
+                    "end": "2025-12-12T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -26376,6 +26370,12 @@
                 },
                 {
                     "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
+                    "start": "2025-11-14T10:30:00",
+                    "end": "2025-11-14T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-26T15:45:00",
                     "end": "2025-11-26T17:45:00",
                     "color": "#0026ad"
@@ -26384,6 +26384,12 @@
                     "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-11-27T10:30:00",
                     "end": "2025-11-27T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
+                    "start": "2025-11-28T10:30:00",
+                    "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -26408,12 +26414,6 @@
                     "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-12-10T15:45:00",
                     "end": "2025-12-10T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
-                    "start": "2025-12-17T15:45:00",
-                    "end": "2025-12-17T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -62327,18 +62327,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN\nJo.Stievenart",
-                    "start": "2025-11-06T10:30:00",
-                    "end": "2025-11-06T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie générale I\nM. VAN LEUVEN\nJo.Stievenart",
-                    "start": "2025-11-07T08:15:00",
-                    "end": "2025-11-07T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Chimie générale I\nMme HENOUMONT\nJo.Stievenart",
                     "start": "2025-11-13T10:30:00",
                     "end": "2025-11-13T12:30:00",
@@ -62417,6 +62405,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Chimie générale I\nMme GODEAU\nNiGA.VanGogh",
+                    "start": "2025-12-04T15:45:00",
+                    "end": "2025-12-04T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Chimie générale I\nMme HENOUMONT\nJo.Stievenart",
                     "start": "2025-12-05T08:15:00",
                     "end": "2025-12-05T10:15:00",
@@ -62438,12 +62432,6 @@
                     "title": "Chimie générale I\nMme HENOUMONT\nJo.Stievenart",
                     "start": "2025-12-11T10:30:00",
                     "end": "2025-12-11T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie générale I\nM. VAN LEUVEN\nJo.Stievenart",
-                    "start": "2025-12-11T15:45:00",
-                    "end": "2025-12-11T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -62733,21 +62721,21 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nMme BEAUCHOT, Mme GODEAU\nNiB6.03Lab",
+                    "title": "Chimie organique I\nMme BEAUCHOT\nNiB6.03Lab",
                     "start": "2025-11-05T13:30:00",
                     "end": "2025-11-05T18:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie organique I\nMme BEAUCHOT, Mme GODEAU\nJo.Stievenart",
+                    "start": "2025-11-06T10:30:00",
+                    "end": "2025-11-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Chimie organique I\nMme BEAUCHOT, Mme GODEAU\nNiB6.03Lab",
                     "start": "2025-11-06T13:30:00",
                     "end": "2025-11-06T18:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie organique I\nMme GODEAU\nNiGA.Gutenberg",
-                    "start": "2025-11-10T16:00:00",
-                    "end": "2025-11-10T18:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -62769,7 +62757,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nMme GODEAU\nNiGA.Curie",
+                    "title": "Chimie organique I\nMme BEAUCHOT, Mme GODEAU\nNiGA.Curie",
                     "start": "2025-11-27T13:30:00",
                     "end": "2025-11-27T15:30:00",
                     "color": "#0026ad"
@@ -62781,15 +62769,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nMme GODEAU\nNiGA.VanGogh",
-                    "start": "2025-12-04T15:45:00",
-                    "end": "2025-12-04T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Chimie organique I\nMme LAURENT\nJo.Stievenart",
                     "start": "2025-12-05T10:30:00",
                     "end": "2025-12-05T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie organique I\nMme BEAUCHOT, Mme GODEAU\nJo.Stievenart",
+                    "start": "2025-12-11T15:45:00",
+                    "end": "2025-12-11T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63462,6 +63450,12 @@
                     "title": "Intro Math sciences de la vie\nM. RIVIERE\nJo.Stievenart",
                     "start": "2025-12-17T08:00:00",
                     "end": "2025-12-17T10:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nNiVésale.023",
+                    "start": "2025-12-19T15:45:00",
+                    "end": "2025-12-19T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -64518,6 +64512,12 @@
                     "title": "Reméd. Chimie générale I\nMme PAMART, M. HENRARD, M. VAN LEUVEN, M. LAMBOTTE, Mme BEAUCHOT, Mme GODEAU\nNiGA.Plisnier",
                     "start": "2025-11-03T16:00:00",
                     "end": "2025-11-03T18:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Reméd. Chimie générale I\nMme GODEAU\nJo.Stievenart",
+                    "start": "2025-11-07T08:00:00",
+                    "end": "2025-11-07T10:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -81330,6 +81330,12 @@
                 },
                 {
                     "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
+                    "start": "2025-11-28T10:30:00",
+                    "end": "2025-11-28T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-12-01T13:30:00",
                     "end": "2025-12-01T15:30:00",
                     "color": "#0026ad"
@@ -81350,12 +81356,6 @@
                     "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
                     "start": "2025-12-10T15:45:00",
                     "end": "2025-12-10T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Technologies plasma trait A\n\nM. KONSTANTINIDIS, M. SNYDERS",
-                    "start": "2025-12-17T15:45:00",
-                    "end": "2025-12-17T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -81850,79 +81850,79 @@
             ],
             "CéramAv": [
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nRosaParks.2.07",
                     "start": "2025-11-03T10:30:00",
                     "end": "2025-11-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB01.114.GPRO.SC1",
                     "start": "2025-11-04T15:45:00",
                     "end": "2025-11-04T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nRosaParks.2.08",
                     "start": "2025-11-06T08:15:00",
                     "end": "2025-11-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nRosaParks.2.07",
                     "start": "2025-11-10T10:30:00",
                     "end": "2025-11-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nRosaParks.2.08",
                     "start": "2025-11-13T08:15:00",
                     "end": "2025-11-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nRosaParks.2.07",
                     "start": "2025-11-17T10:30:00",
                     "end": "2025-11-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB01.114.GPRO.SC1",
                     "start": "2025-11-18T15:45:00",
                     "end": "2025-11-18T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nRosaParks.2.08",
                     "start": "2025-11-20T08:15:00",
                     "end": "2025-11-20T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB01.114.GPRO.SC1",
                     "start": "2025-11-25T15:45:00",
                     "end": "2025-11-25T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. RGUITI\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. RGUITI\nRosaParks.2.06",
                     "start": "2025-11-27T08:30:00",
                     "end": "2025-11-27T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB01.114.GPRO.SC1",
                     "start": "2025-12-02T15:45:00",
                     "end": "2025-12-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. RGUITI\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. RGUITI\nRosaParks.2.06",
                     "start": "2025-12-04T08:30:00",
                     "end": "2025-12-04T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB01.114.GPRO.SC1",
                     "start": "2025-12-09T15:45:00",
                     "end": "2025-12-09T17:45:00",
                     "color": "#0026ad"
@@ -81934,7 +81934,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB12.213.SDMA/CLV",
+                    "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB01.114.GPRO.SC1",
                     "start": "2025-12-16T15:45:00",
                     "end": "2025-12-16T17:45:00",
                     "color": "#0026ad"
