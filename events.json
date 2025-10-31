@@ -12873,6 +12873,12 @@
                 },
                 {
                     "title": "Programme Startech Medtech\n\nNiGA.Pascal",
+                    "start": "2025-10-30T13:30:00",
+                    "end": "2025-10-30T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Programme Startech Medtech\n\nNiGA.Pascal",
                     "start": "2025-11-03T13:30:00",
                     "end": "2025-11-03T15:30:00",
                     "color": "#0026ad"
@@ -14142,7 +14148,7 @@
         "BAB1": {
             "_": [
                 {
-                    "title": "_\nM. MELOT, M. VOUE, Mme BRIDOUX, M. MICHEZ, M. SEMAY, M. TROESTLER, M. MICHAUX\nNiGA.VanGogh",
+                    "title": "_\nMme BRIDOUX, M. VOUE, M. TROESTLER, M. MELOT, M. MICHEZ, M. MICHAUX, M. SEMAY\nNiGA.VanGogh",
                     "start": "2025-09-15T13:30:00",
                     "end": "2025-09-15T16:00:00",
                     "color": "#0026ad"
@@ -14168,21 +14174,21 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
-                    "start": "2025-11-03T08:15:00",
-                    "end": "2025-11-03T10:15:00",
+                    "title": "Aide à la réussite (Partie A)\n\nNiP.3E20",
+                    "start": "2025-11-03T15:45:00",
+                    "end": "2025-11-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
-                    "start": "2025-11-17T08:15:00",
-                    "end": "2025-11-17T10:15:00",
+                    "title": "Aide à la réussite (Partie A)\n\nNiBSM.015.Feynman",
+                    "start": "2025-11-17T15:45:00",
+                    "end": "2025-11-17T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
-                    "start": "2025-11-24T08:15:00",
-                    "end": "2025-11-24T10:15:00",
+                    "title": "Aide à la réussite (Partie A)\n\nNiBSM.015.Feynman",
+                    "start": "2025-11-24T15:45:00",
+                    "end": "2025-11-24T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -30307,12 +30313,6 @@
                     "start": "2025-11-05T13:30:00",
                     "end": "2025-11-05T15:30:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Intro.à la microéconomie\nMme STARON\nNiP.3E20",
-                    "start": "2025-11-12T08:15:00",
-                    "end": "2025-11-12T10:15:00",
-                    "color": "#0026ad"
                 }
             ],
             "Modélisation logicielle": [
@@ -30415,31 +30415,31 @@
             ],
             "Nombres complexes": [
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-09-19T10:30:00",
                     "end": "2025-09-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.LaFontaine",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.LaFontaine",
                     "start": "2025-09-23T13:30:00",
                     "end": "2025-09-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.030",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.030",
                     "start": "2025-10-03T10:30:00",
                     "end": "2025-10-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.025",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.025",
                     "start": "2025-10-10T10:30:00",
                     "end": "2025-10-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-10-17T10:30:00",
                     "end": "2025-10-17T12:30:00",
                     "color": "#0026ad"
@@ -30457,7 +30457,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
