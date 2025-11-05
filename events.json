@@ -20170,7 +20170,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\n\nM. GABRIELE, Mme MINCHEVA",
+                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiP.3E11",
                     "start": "2025-11-04T13:30:00",
                     "end": "2025-11-04T15:30:00",
                     "color": "#0026ad"
@@ -22044,7 +22044,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\n\nM. GABRIELE, Mme MINCHEVA",
+                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiP.3E11",
                     "start": "2025-11-04T13:30:00",
                     "end": "2025-11-04T15:30:00",
                     "color": "#0026ad"
@@ -24302,7 +24302,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\n\nM. GABRIELE, Mme MINCHEVA",
+                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiP.3E11",
                     "start": "2025-11-04T13:30:00",
                     "end": "2025-11-04T15:30:00",
                     "color": "#0026ad"
@@ -32093,21 +32093,21 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiP.0A07",
+                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiDeVinci.Vaughan",
                     "start": "2025-11-18T13:30:00",
                     "end": "2025-11-18T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiBSM.008.Kwolek",
+                    "start": "2025-11-24T13:30:00",
+                    "end": "2025-11-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Informatique temps-réel\nM. DEVILLEZ\nNiDeVinci.Vaughan",
                     "start": "2025-11-27T10:30:00",
                     "end": "2025-11-27T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiB6.18",
-                    "start": "2025-11-28T08:15:00",
-                    "end": "2025-11-28T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -37584,21 +37584,21 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiP.0A07",
+                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiDeVinci.Vaughan",
                     "start": "2025-11-18T13:30:00",
                     "end": "2025-11-18T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiBSM.008.Kwolek",
+                    "start": "2025-11-24T13:30:00",
+                    "end": "2025-11-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Informatique temps-réel\nM. DEVILLEZ\nNiDeVinci.Vaughan",
                     "start": "2025-11-27T10:30:00",
                     "end": "2025-11-27T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiB6.18",
-                    "start": "2025-11-28T08:15:00",
-                    "end": "2025-11-28T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -43195,21 +43195,21 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiP.0A07",
+                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiDeVinci.Vaughan",
                     "start": "2025-11-18T13:30:00",
                     "end": "2025-11-18T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiBSM.008.Kwolek",
+                    "start": "2025-11-24T13:30:00",
+                    "end": "2025-11-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Informatique temps-réel\nM. DEVILLEZ\nNiDeVinci.Vaughan",
                     "start": "2025-11-27T10:30:00",
                     "end": "2025-11-27T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Informatique temps-réel\nM. DEVILLEZ\nNiB6.18",
-                    "start": "2025-11-28T08:15:00",
-                    "end": "2025-11-28T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -78925,12 +78925,6 @@
                 },
                 {
                     "title": "Electronique appliquée\nM. DUALIBE\nHo.24",
-                    "start": "2025-11-12T08:15:00",
-                    "end": "2025-11-12T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Electronique appliquée\nM. DUALIBE\nHo.24",
                     "start": "2025-11-19T08:15:00",
                     "end": "2025-11-19T10:15:00",
                     "color": "#0026ad"
@@ -78969,6 +78963,12 @@
                     "title": "Electronique appliquée\nM. DUALIBE\nHo.24",
                     "start": "2025-12-10T08:15:00",
                     "end": "2025-12-10T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Electronique appliquée\nM. DUALIBE\nHo.24",
+                    "start": "2025-12-16T13:30:00",
+                    "end": "2025-12-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
