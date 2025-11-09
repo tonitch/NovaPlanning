@@ -4350,6 +4350,12 @@
             "Physio/Physiopath syst. dig.": [
                 {
                     "title": "Physio/Physiopath syst. dig.\nM. LEGRAND\nNiVésale.LaFontaine",
+                    "start": "2026-02-02T15:45:00",
+                    "end": "2026-02-02T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Physio/Physiopath syst. dig.\nM. LEGRAND\nNiVésale.LaFontaine",
                     "start": "2026-02-13T10:30:00",
                     "end": "2026-02-13T12:30:00",
                     "color": "#0026ad"
@@ -20898,9 +20904,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie moléculaire\n\nM. BROCORENS",
+                    "title": "Spectroscopie moléculaire\n\n",
                     "start": "2025-11-27T08:15:00",
-                    "end": "2025-11-27T10:15:00",
+                    "end": "2025-11-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -22846,9 +22852,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopie moléculaire\n\nM. BROCORENS",
+                    "title": "Spectroscopie moléculaire\n\n",
                     "start": "2025-11-27T08:15:00",
-                    "end": "2025-11-27T10:15:00",
+                    "end": "2025-11-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -27770,12 +27776,6 @@
                 }
             ],
             "Aide à la réussite C.": [
-                {
-                    "title": "Aide à la réussite C.\nMme BRIDOUX\nNiVésale.020, NiBSM.015.Feynman",
-                    "start": "2025-11-10T08:15:00",
-                    "end": "2025-11-10T10:15:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Aide à la réussite C.\nMme BRIDOUX\nNiVésale.020, NiBSM.015.Feynman",
                     "start": "2025-11-18T08:15:00",
@@ -39041,12 +39041,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "NetworkSecMan\nM. MEGRET\nHo.22",
-                    "start": "2025-11-21T10:30:00",
-                    "end": "2025-11-21T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "NetworkSecMan\nM. MEGRET\nDo.MRDV.SC",
                     "start": "2025-12-04T08:30:00",
                     "end": "2025-12-04T12:30:00",
@@ -39056,6 +39050,12 @@
                     "title": "NetworkSecMan\nM. MEGRET\nDo.MRDV.SC",
                     "start": "2025-12-04T13:30:00",
                     "end": "2025-12-04T17:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "NetworkSecMan\nM. MEGRET\nHo.23",
+                    "start": "2025-12-18T10:30:00",
+                    "end": "2025-12-18T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -44689,12 +44689,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "NetworkSecMan\nM. MEGRET\nHo.22",
-                    "start": "2025-11-21T10:30:00",
-                    "end": "2025-11-21T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "NetworkSecMan\nM. MEGRET\nDo.MRDV.SC",
                     "start": "2025-12-04T08:30:00",
                     "end": "2025-12-04T12:30:00",
@@ -44704,6 +44698,12 @@
                     "title": "NetworkSecMan\nM. MEGRET\nDo.MRDV.SC",
                     "start": "2025-12-04T13:30:00",
                     "end": "2025-12-04T17:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "NetworkSecMan\nM. MEGRET\nHo.23",
+                    "start": "2025-12-18T10:30:00",
+                    "end": "2025-12-18T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -46195,7 +46195,7 @@
         "BAB1": {
             "_": [
                 {
-                    "title": "_\nM. VOUE, M. SEMAY, M. MELOT, Mme BRIDOUX, M. TROESTLER, M. MICHAUX, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "_\nM. VOUE, M. SEMAY, M. MELOT, Mme BRIDOUX, M. MICHAUX, M. TROESTLER, M. MICHEZ\nNiGA.VanGogh",
                     "start": "2025-09-15T13:30:00",
                     "end": "2025-09-15T16:00:00",
                     "color": "#0026ad"
@@ -46215,7 +46215,7 @@
             ],
             "Aide à la réussite (partie A)": [
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2025-09-22T12:30:00",
                     "end": "2025-09-22T13:30:00",
                     "color": "#0026ad"
@@ -46245,55 +46245,49 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Curie",
                     "start": "2025-11-03T08:15:00",
                     "end": "2025-11-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2025-11-03T10:30:00",
                     "end": "2025-11-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiBSM.012.Hermann",
-                    "start": "2025-11-10T10:30:00",
-                    "end": "2025-11-10T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2025-11-17T08:15:00",
                     "end": "2025-11-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2025-11-17T10:30:00",
                     "end": "2025-11-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2025-11-24T08:15:00",
                     "end": "2025-11-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiBSM.015.Feynman, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiBSM.015.Feynman",
                     "start": "2025-12-08T08:15:00",
                     "end": "2025-12-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2025-12-08T10:30:00",
                     "end": "2025-12-08T12:30:00",
                     "color": "#0026ad"
@@ -46305,13 +46299,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiP.0A07",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiP.0A07",
                     "start": "2025-12-15T08:15:00",
                     "end": "2025-12-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
                     "start": "2025-12-15T10:30:00",
                     "end": "2025-12-15T12:30:00",
                     "color": "#0026ad"
@@ -46319,115 +46313,115 @@
             ],
             "Aide à la réussite (partie B)": [
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18",
                     "start": "2026-02-02T08:15:00",
                     "end": "2026-02-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
                     "start": "2026-02-09T08:15:00",
                     "end": "2026-02-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-02-09T10:30:00",
                     "end": "2026-02-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
                     "start": "2026-02-23T08:15:00",
                     "end": "2026-02-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
                     "start": "2026-02-23T10:30:00",
                     "end": "2026-02-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
                     "start": "2026-03-02T08:15:00",
                     "end": "2026-03-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
                     "start": "2026-03-02T10:30:00",
                     "end": "2026-03-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
                     "start": "2026-03-09T08:15:00",
                     "end": "2026-03-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
                     "start": "2026-03-09T10:30:00",
                     "end": "2026-03-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
                     "start": "2026-03-23T08:15:00",
                     "end": "2026-03-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
                     "start": "2026-03-23T10:30:00",
                     "end": "2026-03-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
                     "start": "2026-03-30T08:15:00",
                     "end": "2026-03-30T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
                     "start": "2026-03-30T10:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
                     "start": "2026-04-06T08:15:00",
                     "end": "2026-04-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.124, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.124, NiB6.18",
                     "start": "2026-04-06T10:30:00",
                     "end": "2026-04-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
                     "start": "2026-04-13T08:15:00",
                     "end": "2026-04-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
                     "start": "2026-04-13T10:30:00",
                     "end": "2026-04-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiGA.Plisnier, NiB6.18",
                     "start": "2026-05-11T08:15:00",
                     "end": "2026-05-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiB6.18",
                     "start": "2026-05-11T10:30:00",
                     "end": "2026-05-11T12:30:00",
                     "color": "#0026ad"
@@ -46435,25 +46429,19 @@
             ],
             "Aide à la réussite C.": [
                 {
-                    "title": "Aide à la réussite C.\nMme BRIDOUX\nNiVésale.020, NiBSM.015.Feynman",
-                    "start": "2025-11-10T08:15:00",
-                    "end": "2025-11-10T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Aide à la réussite C.\nMme BRIDOUX\nNiVésale.020, NiBSM.015.Feynman",
+                    "title": "Aide à la réussite C.\nMme BRIDOUX\nNiBSM.015.Feynman, NiVésale.020",
                     "start": "2025-11-18T08:15:00",
                     "end": "2025-11-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite C.\nMme BRIDOUX\nNiVésale.020, NiBSM.015.Feynman",
+                    "title": "Aide à la réussite C.\nMme BRIDOUX\nNiBSM.015.Feynman, NiVésale.020",
                     "start": "2025-11-25T08:15:00",
                     "end": "2025-11-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite C.\nMme BRIDOUX\nNiVésale.020, NiBSM.015.Feynman",
+                    "title": "Aide à la réussite C.\nMme BRIDOUX\nNiBSM.015.Feynman, NiVésale.020",
                     "start": "2025-12-02T08:15:00",
                     "end": "2025-12-02T10:15:00",
                     "color": "#0026ad"
@@ -46719,67 +46707,67 @@
             ],
             "Algèbre I. A.": [
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-09-17T08:15:00",
                     "end": "2025-09-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-09-24T08:15:00",
                     "end": "2025-09-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-10-01T08:15:00",
                     "end": "2025-10-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-10-08T08:15:00",
                     "end": "2025-10-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-10-15T08:15:00",
                     "end": "2025-10-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiBSM.012.Hermann",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiBSM.012.Hermann",
                     "start": "2025-10-22T08:15:00",
                     "end": "2025-10-22T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-11-05T08:15:00",
                     "end": "2025-11-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-11-12T08:15:00",
                     "end": "2025-11-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-11-13T08:15:00",
                     "end": "2025-11-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-11-19T08:15:00",
                     "end": "2025-11-19T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-11-20T08:15:00",
                     "end": "2025-11-20T10:15:00",
                     "color": "#0026ad"
@@ -46791,49 +46779,49 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-11-26T08:15:00",
                     "end": "2025-11-26T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-11-27T08:15:00",
                     "end": "2025-11-27T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiBSM.008.Kwolek",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiBSM.008.Kwolek",
                     "start": "2025-11-28T10:30:00",
                     "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-12-03T08:15:00",
                     "end": "2025-12-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-12-04T08:15:00",
                     "end": "2025-12-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-12-10T08:15:00",
                     "end": "2025-12-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-12-17T08:15:00",
                     "end": "2025-12-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. A.\nM. RAMLOT, M. MICHAUX\nNiP.0A07",
+                    "title": "Algèbre I. A.\nM. MICHAUX, M. RAMLOT\nNiP.0A07",
                     "start": "2025-12-18T08:15:00",
                     "end": "2025-12-18T10:15:00",
                     "color": "#0026ad"
@@ -46841,55 +46829,55 @@
             ],
             "Algèbre I. B.": [
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-02-04T08:15:00",
                     "end": "2026-02-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-02-05T08:15:00",
                     "end": "2026-02-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-02-11T08:15:00",
                     "end": "2026-02-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-02-12T08:15:00",
                     "end": "2026-02-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-02-18T08:15:00",
                     "end": "2026-02-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-02-19T08:15:00",
                     "end": "2026-02-19T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-02-25T08:15:00",
                     "end": "2026-02-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-02-26T08:15:00",
                     "end": "2026-02-26T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-03-04T08:15:00",
                     "end": "2026-03-04T10:15:00",
                     "color": "#0026ad"
@@ -46901,61 +46889,61 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-03-12T08:15:00",
                     "end": "2026-03-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-03-25T08:15:00",
                     "end": "2026-03-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-03-26T08:15:00",
                     "end": "2026-03-26T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-04-01T08:15:00",
                     "end": "2026-04-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-04-02T08:15:00",
                     "end": "2026-04-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-04-08T08:15:00",
                     "end": "2026-04-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-04-09T08:15:00",
                     "end": "2026-04-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-04-15T08:15:00",
                     "end": "2026-04-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiP.3E20",
                     "start": "2026-04-16T08:15:00",
                     "end": "2026-04-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiDeVinci.Mirzakhani",
+                    "title": "Algèbre I. B.\nM. MICHAUX, M. RAMLOT\nNiDeVinci.Mirzakhani",
                     "start": "2026-05-04T09:30:00",
                     "end": "2026-05-04T16:30:00",
                     "color": "#0026ad"
@@ -47733,7 +47721,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.020, NiVésale.023, NiVésale.LaFontaine",
+                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.023, NiVésale.020, NiVésale.LaFontaine",
                     "start": "2026-03-12T10:30:00",
                     "end": "2026-03-12T12:30:00",
                     "color": "#0026ad"
@@ -47883,37 +47871,37 @@
             ],
             "Eval. continue math. élém.": [
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Gutenberg, NiGA.Plisnier",
+                    "title": "Eval. continue math. élém.\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Gutenberg, NiGA.Plisnier",
                     "start": "2025-09-22T08:15:00",
                     "end": "2025-09-22T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Plisnier, NiGA.Curie",
+                    "title": "Eval. continue math. élém.\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Plisnier, NiGA.Curie",
                     "start": "2025-09-29T08:15:00",
                     "end": "2025-09-29T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Plisnier, NiGA.Curie",
+                    "title": "Eval. continue math. élém.\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Plisnier, NiGA.Curie",
                     "start": "2025-10-06T08:15:00",
                     "end": "2025-10-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Plisnier, NiGA.Curie",
+                    "title": "Eval. continue math. élém.\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Plisnier, NiGA.Curie",
                     "start": "2025-10-13T08:15:00",
                     "end": "2025-10-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Plisnier, NiGA.Curie",
+                    "title": "Eval. continue math. élém.\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Plisnier, NiGA.Curie",
                     "start": "2025-10-20T08:15:00",
                     "end": "2025-10-20T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, M. TROESTLER, M. MICHAUX, Mme BRIDOUX\nNiGA.VanGogh",
+                    "title": "Eval. continue math. élém.\nM. MICHAUX, M. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.VanGogh",
                     "start": "2025-10-27T08:15:00",
                     "end": "2025-10-27T10:15:00",
                     "color": "#0026ad"
@@ -48041,25 +48029,25 @@
             ],
             "Logique": [
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-09-15T10:30:00",
                     "end": "2025-09-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-09-18T08:15:00",
                     "end": "2025-09-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-09-22T10:30:00",
                     "end": "2025-09-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-09-25T08:15:00",
                     "end": "2025-09-25T10:15:00",
                     "color": "#0026ad"
@@ -48071,49 +48059,49 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-09-29T10:30:00",
                     "end": "2025-09-29T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-10-02T08:15:00",
                     "end": "2025-10-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-10-06T10:30:00",
                     "end": "2025-10-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-10-09T08:15:00",
                     "end": "2025-10-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-10-13T10:30:00",
                     "end": "2025-10-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-10-16T08:15:00",
                     "end": "2025-10-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.Curie",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiGA.Curie",
                     "start": "2025-10-20T10:30:00",
                     "end": "2025-10-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiVésale.LaFontaine",
+                    "title": "Logique\nM. TROESTLER, Mme BRIDOUX, M. BRIHAYE\nNiVésale.LaFontaine",
                     "start": "2025-10-23T08:15:00",
                     "end": "2025-10-23T10:15:00",
                     "color": "#0026ad"
@@ -48283,31 +48271,31 @@
             ],
             "Nombres complexes": [
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-09-19T10:30:00",
                     "end": "2025-09-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.LaFontaine",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.LaFontaine",
                     "start": "2025-09-23T13:30:00",
                     "end": "2025-09-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.030",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.030",
                     "start": "2025-10-03T10:30:00",
                     "end": "2025-10-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiVésale.025",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiVésale.025",
                     "start": "2025-10-10T10:30:00",
                     "end": "2025-10-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-10-17T10:30:00",
                     "end": "2025-10-17T12:30:00",
                     "color": "#0026ad"
@@ -48325,7 +48313,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nombres complexes\nM. RAMLOT, M. MICHAUX\nNiGA.Plisnier",
+                    "title": "Nombres complexes\nM. MICHAUX, M. RAMLOT\nNiGA.Plisnier",
                     "start": "2025-11-07T10:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
@@ -48349,7 +48337,7 @@
             ],
             "Travaux dirigés algèbre I A": [
                 {
-                    "title": "Travaux dirigés algèbre I A\nM. RAMLOT, M. MICHAUX\nNiDeVinci.Mirzakhani",
+                    "title": "Travaux dirigés algèbre I A\nM. MICHAUX, M. RAMLOT\nNiDeVinci.Mirzakhani",
                     "start": "2025-12-01T08:30:00",
                     "end": "2025-12-01T15:30:00",
                     "color": "#0026ad"
@@ -48357,7 +48345,7 @@
             ],
             "Travaux dirigés d'algèbre I B.": [
                 {
-                    "title": "Travaux dirigés d'algèbre I B.\nM. RAMLOT, M. MICHAUX\nNiDeVinci.Mirzakhani",
+                    "title": "Travaux dirigés d'algèbre I B.\nM. MICHAUX, M. RAMLOT\nNiDeVinci.Mirzakhani",
                     "start": "2026-02-16T09:30:00",
                     "end": "2026-02-16T16:30:00",
                     "color": "#0026ad"
@@ -50668,6 +50656,12 @@
                     "title": "Topologie et logique math A\nM. BROUETTE, M. MICHAUX\nNiP.0A07",
                     "start": "2025-11-06T08:15:00",
                     "end": "2025-11-06T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Topologie et logique math A\nM. BROUETTE, M. MICHAUX\nNiP.3E10",
+                    "start": "2025-11-10T15:45:00",
+                    "end": "2025-11-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -66559,7 +66553,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopies Pharma/Biomed\nMme LAURENT\nNiGA.Plisnier",
+                    "title": "Spectroscopies Pharma/Biomed\nMme LAURENT\nNiVésale.020",
                     "start": "2025-11-10T08:00:00",
                     "end": "2025-11-10T10:00:00",
                     "color": "#0026ad"
@@ -71204,7 +71198,7 @@
         "BAB1": {
             "_": [
                 {
-                    "title": "_\nM. TROESTLER, M. VOUE, Mme BRIDOUX, M. MICHAUX, M. MICHEZ, M. MELOT, M. SEMAY\nNiGA.VanGogh",
+                    "title": "_\nM. TROESTLER, Mme BRIDOUX, M. VOUE, M. MICHAUX, M. MICHEZ, M. MELOT, M. SEMAY\nNiGA.VanGogh",
                     "start": "2025-09-15T13:30:00",
                     "end": "2025-09-15T16:00:00",
                     "color": "#0026ad"
@@ -71224,7 +71218,7 @@
             ],
             "Aide à la réussite (partie A)": [
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2025-09-22T12:30:00",
                     "end": "2025-09-22T13:30:00",
                     "color": "#0026ad"
@@ -71260,67 +71254,61 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2025-11-03T10:30:00",
                     "end": "2025-11-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiBSM.012.Hermann",
-                    "start": "2025-11-10T10:30:00",
-                    "end": "2025-11-10T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Aide à la réussite (partie A)\nM. THIANDOUM, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, M. THIANDOUM\nNiBSM.008.Kwolek",
                     "start": "2025-11-13T13:30:00",
                     "end": "2025-11-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2025-11-17T08:15:00",
                     "end": "2025-11-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2025-11-17T10:30:00",
                     "end": "2025-11-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2025-11-24T08:15:00",
                     "end": "2025-11-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2025-12-01T08:15:00",
                     "end": "2025-12-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2025-12-01T10:30:00",
                     "end": "2025-12-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiBSM.015.Feynman, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiBSM.015.Feynman",
                     "start": "2025-12-08T08:15:00",
                     "end": "2025-12-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2025-12-08T10:30:00",
                     "end": "2025-12-08T12:30:00",
                     "color": "#0026ad"
@@ -71332,13 +71320,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier, NiP.0A07",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiP.0A07",
                     "start": "2025-12-15T08:15:00",
                     "end": "2025-12-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie A)\nMme BRIDOUX, Mme LACROIX\nNiGA.Plisnier",
+                    "title": "Aide à la réussite (partie A)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier",
                     "start": "2025-12-15T10:30:00",
                     "end": "2025-12-15T12:30:00",
                     "color": "#0026ad"
@@ -71346,149 +71334,141 @@
             ],
             "Aide à la réussite (partie B)": [
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18",
                     "start": "2026-02-02T08:15:00",
                     "end": "2026-02-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-02-09T08:15:00",
                     "end": "2026-02-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-02-09T10:30:00",
                     "end": "2026-02-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-02-16T08:15:00",
                     "end": "2026-02-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-02-16T10:30:00",
                     "end": "2026-02-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-02-23T08:15:00",
                     "end": "2026-02-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-02-23T10:30:00",
                     "end": "2026-02-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-03-02T08:15:00",
                     "end": "2026-03-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-03-02T10:30:00",
                     "end": "2026-03-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-03-09T08:15:00",
                     "end": "2026-03-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-03-09T10:30:00",
                     "end": "2026-03-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-03-23T08:15:00",
                     "end": "2026-03-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-03-23T10:30:00",
                     "end": "2026-03-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-03-30T08:15:00",
                     "end": "2026-03-30T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-03-30T10:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-04-06T08:15:00",
                     "end": "2026-04-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.124, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiB6.124",
                     "start": "2026-04-06T10:30:00",
                     "end": "2026-04-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-04-13T08:15:00",
                     "end": "2026-04-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-04-13T10:30:00",
                     "end": "2026-04-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-05-04T08:15:00",
                     "end": "2026-05-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-05-04T10:30:00",
                     "end": "2026-05-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-05-11T08:15:00",
                     "end": "2026-05-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiGA.Plisnier",
                     "start": "2026-05-11T10:30:00",
                     "end": "2026-05-11T12:30:00",
-                    "color": "#0026ad"
-                }
-            ],
-            "Aide à la réussite C.": [
-                {
-                    "title": "Aide à la réussite C.\nMme BRIDOUX\nNiBSM.015.Feynman, NiVésale.020",
-                    "start": "2025-11-10T08:15:00",
-                    "end": "2025-11-10T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -71566,7 +71546,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Alg. lin. et géom. I. B\nMme FOUGNIES, M. CAVENAILE, Mme VOLKOV\nNiGA.VanGogh",
+                    "title": "Alg. lin. et géom. I. B\nMme VOLKOV, Mme FOUGNIES, M. CAVENAILE\nNiGA.VanGogh",
                     "start": "2026-03-20T10:30:00",
                     "end": "2026-03-20T12:30:00",
                     "color": "#0026ad"
@@ -71672,175 +71652,175 @@
             ],
             "Anal. math.": [
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.012.Hermann",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.012.Hermann",
                     "start": "2026-02-03T08:15:00",
                     "end": "2026-02-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-02-04T08:15:00",
                     "end": "2026-02-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-02-06T13:30:00",
                     "end": "2026-02-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-02-11T08:15:00",
                     "end": "2026-02-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\n\nM. LHOST, Mme LACROIX",
+                    "title": "Anal. math.\n\nMme LACROIX, M. LHOST",
                     "start": "2026-02-13T13:30:00",
                     "end": "2026-02-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.012.Hermann",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.012.Hermann",
                     "start": "2026-02-16T13:30:00",
                     "end": "2026-02-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-02-18T08:15:00",
                     "end": "2026-02-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-02-20T13:30:00",
                     "end": "2026-02-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-02-25T08:15:00",
                     "end": "2026-02-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-02-27T13:30:00",
                     "end": "2026-02-27T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-03-04T08:15:00",
                     "end": "2026-03-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\n\nM. LHOST, Mme LACROIX",
+                    "title": "Anal. math.\n\nMme LACROIX, M. LHOST",
                     "start": "2026-03-06T13:30:00",
                     "end": "2026-03-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-03-11T08:15:00",
                     "end": "2026-03-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\n\nM. LHOST, Mme LACROIX",
+                    "title": "Anal. math.\n\nMme LACROIX, M. LHOST",
                     "start": "2026-03-13T13:30:00",
                     "end": "2026-03-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiVésale.020",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiVésale.020",
                     "start": "2026-03-16T09:00:00",
                     "end": "2026-03-16T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiVésale.020",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiVésale.020",
                     "start": "2026-03-16T13:30:00",
                     "end": "2026-03-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-03-24T10:30:00",
                     "end": "2026-03-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-03-25T08:15:00",
                     "end": "2026-03-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-03-31T10:30:00",
                     "end": "2026-03-31T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-04-01T08:15:00",
                     "end": "2026-04-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-04-07T10:30:00",
                     "end": "2026-04-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-04-08T08:15:00",
                     "end": "2026-04-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-04-14T10:30:00",
                     "end": "2026-04-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.012.Hermann",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.012.Hermann",
                     "start": "2026-04-17T10:30:00",
                     "end": "2026-04-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-05-05T10:30:00",
                     "end": "2026-05-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.012.Hermann",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.012.Hermann",
                     "start": "2026-05-08T10:30:00",
                     "end": "2026-05-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.012.Hermann",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.012.Hermann",
                     "start": "2026-05-11T13:30:00",
                     "end": "2026-05-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.008.Kwolek",
                     "start": "2026-05-12T10:30:00",
                     "end": "2026-05-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.012.Hermann",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.012.Hermann",
                     "start": "2026-05-15T10:30:00",
                     "end": "2026-05-15T12:30:00",
                     "color": "#0026ad"
@@ -72260,7 +72240,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.LaFontaine, NiVésale.023, NiVésale.020",
+                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.LaFontaine, NiVésale.020, NiVésale.023",
                     "start": "2026-03-12T10:30:00",
                     "end": "2026-03-12T12:30:00",
                     "color": "#0026ad"
@@ -72318,37 +72298,37 @@
             ],
             "Eval. continue math. élém.": [
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Plisnier, NiGA.Gutenberg",
+                    "title": "Eval. continue math. élém.\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Plisnier, NiGA.Gutenberg",
                     "start": "2025-09-22T08:15:00",
                     "end": "2025-09-22T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Eval. continue math. élém.\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Plisnier, NiGA.Curie",
                     "start": "2025-09-29T08:15:00",
                     "end": "2025-09-29T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Eval. continue math. élém.\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Plisnier, NiGA.Curie",
                     "start": "2025-10-06T08:15:00",
                     "end": "2025-10-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Eval. continue math. élém.\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Plisnier, NiGA.Curie",
                     "start": "2025-10-13T08:15:00",
                     "end": "2025-10-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie, NiGA.Plisnier",
+                    "title": "Eval. continue math. élém.\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Plisnier, NiGA.Curie",
                     "start": "2025-10-20T08:15:00",
                     "end": "2025-10-20T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. MICHAUX, M. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.VanGogh",
+                    "title": "Eval. continue math. élém.\nM. MICHAUX, Mme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.VanGogh",
                     "start": "2025-10-27T08:15:00",
                     "end": "2025-10-27T10:15:00",
                     "color": "#0026ad"
@@ -72376,13 +72356,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Formation\nM. ENGELS, Mme LACROIX\nNiB6.124",
+                    "title": "Formation\nMme LACROIX, M. ENGELS\nNiB6.124",
                     "start": "2025-10-28T10:30:00",
                     "end": "2025-10-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Formation\nM. ENGELS, Mme LACROIX\nNiVésale.023",
+                    "title": "Formation\nMme LACROIX, M. ENGELS\nNiVésale.023",
                     "start": "2025-11-27T13:30:00",
                     "end": "2025-11-27T15:30:00",
                     "color": "#0026ad"
@@ -72496,25 +72476,25 @@
             ],
             "Logique": [
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-09-15T10:30:00",
                     "end": "2025-09-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-09-18T08:15:00",
                     "end": "2025-09-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-09-22T10:30:00",
                     "end": "2025-09-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-09-25T08:15:00",
                     "end": "2025-09-25T10:15:00",
                     "color": "#0026ad"
@@ -72526,49 +72506,49 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-09-29T10:30:00",
                     "end": "2025-09-29T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-10-02T08:15:00",
                     "end": "2025-10-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-10-06T10:30:00",
                     "end": "2025-10-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-10-09T08:15:00",
                     "end": "2025-10-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-10-13T10:30:00",
                     "end": "2025-10-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-10-16T08:15:00",
                     "end": "2025-10-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiGA.Curie",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiGA.Curie",
                     "start": "2025-10-20T10:30:00",
                     "end": "2025-10-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique\nM. BRIHAYE, Mme BRIDOUX, M. TROESTLER\nNiVésale.LaFontaine",
+                    "title": "Logique\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiVésale.LaFontaine",
                     "start": "2025-10-23T08:15:00",
                     "end": "2025-10-23T10:15:00",
                     "color": "#0026ad"
@@ -72802,7 +72782,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mathématiques I\nM. MENET, M. THIANDOUM\nNiVésale.020",
+                    "title": "Mathématiques I\nM. THIANDOUM, M. MENET\nNiVésale.020",
                     "start": "2025-09-17T08:15:00",
                     "end": "2025-09-17T10:15:00",
                     "color": "#0026ad"
@@ -73038,7 +73018,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique - Théorie\nM. MAES\nNiGA.Gutenberg, NiGA.VanGogh",
+                    "title": "Mécanique - Théorie\nM. MAES\nNiGA.VanGogh, NiGA.Gutenberg",
                     "start": "2025-12-03T13:30:00",
                     "end": "2025-12-03T15:30:00",
                     "color": "#0026ad"
@@ -73164,13 +73144,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, Mme LACROIX, M. BRASSEUR, Mme DEVOUGE\nNiBSM.008.Kwolek",
+                    "title": "Phys. gen. I cplts TD & TP\nMme LACROIX, Mme DEVOUGE, M. BRASSEUR, M. ROSOLEN\nNiBSM.008.Kwolek",
                     "start": "2025-09-25T13:30:00",
                     "end": "2025-09-25T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, Mme LACROIX, M. BRASSEUR, Mme DEVOUGE\nNiBSM.008.Kwolek",
+                    "title": "Phys. gen. I cplts TD & TP\nMme LACROIX, Mme DEVOUGE, M. BRASSEUR, M. ROSOLEN\nNiBSM.008.Kwolek",
                     "start": "2025-10-02T13:30:00",
                     "end": "2025-10-02T16:30:00",
                     "color": "#0026ad"
@@ -73182,13 +73162,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, Mme LACROIX, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gen. I cplts TD & TP\nMme LACROIX, Mme DEVOUGE, M. BRASSEUR, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2025-10-09T13:30:00",
                     "end": "2025-10-09T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, Mme LACROIX, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gen. I cplts TD & TP\nMme LACROIX, Mme DEVOUGE, M. BRASSEUR, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2025-10-16T13:30:00",
                     "end": "2025-10-16T16:30:00",
                     "color": "#0026ad"
@@ -73200,7 +73180,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, Mme LACROIX, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gen. I cplts TD & TP\nMme LACROIX, Mme DEVOUGE, M. BRASSEUR, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2025-10-23T13:30:00",
                     "end": "2025-10-23T16:30:00",
                     "color": "#0026ad"
@@ -73212,7 +73192,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, Mme LACROIX, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gen. I cplts TD & TP\nMme LACROIX, Mme DEVOUGE, M. BRASSEUR, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2025-10-28T13:30:00",
                     "end": "2025-10-28T16:30:00",
                     "color": "#0026ad"
@@ -73224,7 +73204,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, Mme LACROIX, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gen. I cplts TD & TP\nMme LACROIX, Mme DEVOUGE, M. BRASSEUR, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2025-11-06T09:00:00",
                     "end": "2025-11-06T12:00:00",
                     "color": "#0026ad"
@@ -73236,7 +73216,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, Mme LACROIX, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gen. I cplts TD & TP\nMme LACROIX, Mme DEVOUGE, M. BRASSEUR, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2025-11-13T09:00:00",
                     "end": "2025-11-13T12:00:00",
                     "color": "#0026ad"
@@ -73248,7 +73228,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, Mme LACROIX, M. BRASSEUR, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gen. I cplts TD & TP\nMme LACROIX, Mme DEVOUGE, M. BRASSEUR, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2025-11-20T09:00:00",
                     "end": "2025-11-20T12:00:00",
                     "color": "#0026ad"
@@ -73272,13 +73252,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, M. BRASSEUR, Mme DEVOUGE\nNiGA.Curie",
+                    "title": "Phys. gen. I cplts TD & TP\nM. BRASSEUR, Mme DEVOUGE, M. ROSOLEN\nNiGA.Curie",
                     "start": "2025-12-11T08:15:00",
                     "end": "2025-12-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gen. I cplts TD & TP\nM. ROSOLEN, Mme LACROIX, Mme DEVOUGE, M. DELPLACE, M. BRASSEUR\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gen. I cplts TD & TP\nMme LACROIX, Mme DEVOUGE, M. DELPLACE, M. ROSOLEN, M. BRASSEUR\nNiBSM.106Lab.Drude",
                     "start": "2025-12-18T13:30:00",
                     "end": "2025-12-18T17:30:00",
                     "color": "#0026ad"
@@ -73286,55 +73266,55 @@
             ],
             "Phys. gén. II. cplts TD et TP": [
                 {
-                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. ROSOLEN, M. DELPLACE\nNiDeVinci.Mirzakhani",
+                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. DELPLACE, M. ROSOLEN\nNiDeVinci.Mirzakhani",
                     "start": "2026-02-09T13:30:00",
                     "end": "2026-02-09T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. ROSOLEN, M. DELPLACE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. DELPLACE, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2026-02-12T13:30:00",
                     "end": "2026-02-12T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. ROSOLEN, M. DELPLACE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. DELPLACE, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2026-02-19T13:30:00",
                     "end": "2026-02-19T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. ROSOLEN, M. DELPLACE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. DELPLACE, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2026-02-26T13:30:00",
                     "end": "2026-02-26T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. ROSOLEN, M. DELPLACE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. DELPLACE, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2026-03-05T13:30:00",
                     "end": "2026-03-05T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. ROSOLEN, M. DELPLACE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. DELPLACE, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2026-03-12T13:30:00",
                     "end": "2026-03-12T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. ROSOLEN, M. DELPLACE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. DELPLACE, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2026-03-26T13:30:00",
                     "end": "2026-03-26T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. ROSOLEN, M. DELPLACE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. DELPLACE, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2026-04-02T13:30:00",
                     "end": "2026-04-02T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. ROSOLEN, M. DELPLACE\nNiBSM.106Lab.Drude",
+                    "title": "Phys. gén. II. cplts TD et TP\nMme DEVOUGE, M. DELPLACE, M. ROSOLEN\nNiBSM.106Lab.Drude",
                     "start": "2026-04-15T08:15:00",
                     "end": "2026-04-15T12:15:00",
                     "color": "#0026ad"
@@ -77490,9 +77470,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Magné. et Résonance Magné Nuc.\nM. GOSSUIN\nNiBSM.004.Penrose",
-                    "start": "2025-11-13T15:45:00",
-                    "end": "2025-11-13T17:45:00",
+                    "title": "Magné. et Résonance Magné Nuc.\nM. GOSSUIN\nNiBSM.002.Knight",
+                    "start": "2025-11-13T10:15:00",
+                    "end": "2025-11-13T12:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -78170,151 +78150,151 @@
             ],
             "Relativité générale": [
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-09-15T10:30:00",
                     "end": "2025-09-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-09-18T13:30:00",
                     "end": "2025-09-18T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-09-22T10:30:00",
                     "end": "2025-09-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-09-25T13:30:00",
                     "end": "2025-09-25T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-09-29T10:30:00",
                     "end": "2025-09-29T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-09-30T13:30:00",
                     "end": "2025-09-30T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-10-02T13:30:00",
                     "end": "2025-10-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose, NiBSM.002.Knight",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose, NiBSM.002.Knight",
                     "start": "2025-10-06T10:30:00",
                     "end": "2025-10-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-10-09T13:30:00",
                     "end": "2025-10-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-10-13T10:30:00",
                     "end": "2025-10-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.002.Knight",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.002.Knight",
                     "start": "2025-10-15T10:30:00",
                     "end": "2025-10-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-10-16T13:30:00",
                     "end": "2025-10-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-10-20T10:30:00",
                     "end": "2025-10-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiP.0A11",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiP.0A11",
                     "start": "2025-10-22T10:30:00",
                     "end": "2025-10-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.015.Feynman",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.015.Feynman",
                     "start": "2025-10-23T13:30:00",
                     "end": "2025-10-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-11-03T10:30:00",
                     "end": "2025-11-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-11-06T13:30:00",
                     "end": "2025-11-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-11-13T13:30:00",
                     "end": "2025-11-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-11-17T10:30:00",
                     "end": "2025-11-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.010.Lonsdale",
                     "start": "2025-11-19T10:30:00",
                     "end": "2025-11-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-11-27T08:15:00",
                     "end": "2025-11-27T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-12-01T10:30:00",
                     "end": "2025-12-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-12-08T10:30:00",
                     "end": "2025-12-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. CAMPOLEONI, M. LHOST\nNiBSM.004.Penrose",
                     "start": "2025-12-15T10:30:00",
                     "end": "2025-12-15T12:30:00",
                     "color": "#0026ad"
@@ -79749,9 +79729,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Magné. et Résonance Magné Nuc.\nM. GOSSUIN\nNiBSM.004.Penrose",
-                    "start": "2025-11-13T15:45:00",
-                    "end": "2025-11-13T17:45:00",
+                    "title": "Magné. et Résonance Magné Nuc.\nM. GOSSUIN\nNiBSM.002.Knight",
+                    "start": "2025-11-13T10:15:00",
+                    "end": "2025-11-13T12:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -82494,9 +82474,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Magné. et Résonance Magné Nuc.\nM. GOSSUIN\nNiBSM.004.Penrose",
-                    "start": "2025-11-13T15:45:00",
-                    "end": "2025-11-13T17:45:00",
+                    "title": "Magné. et Résonance Magné Nuc.\nM. GOSSUIN\nNiBSM.002.Knight",
+                    "start": "2025-11-13T10:15:00",
+                    "end": "2025-11-13T12:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -83651,7 +83631,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.002.Knight, NiBSM.004.Penrose",
+                    "title": "Relativité générale\nM. LHOST, M. CAMPOLEONI\nNiBSM.004.Penrose, NiBSM.002.Knight",
                     "start": "2025-10-06T10:30:00",
                     "end": "2025-10-06T12:30:00",
                     "color": "#0026ad"
