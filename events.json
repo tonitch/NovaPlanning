@@ -343,6 +343,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Biologie générale humaine\nMme PAMART\nNiVésale.020",
+                    "start": "2025-12-08T13:30:00",
+                    "end": "2025-12-08T17:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Biologie générale humaine\nM. COLET\nNiGA.VanGogh",
                     "start": "2025-12-10T10:30:00",
                     "end": "2025-12-10T12:30:00",
@@ -503,15 +509,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme GODEAU, M. VAN LEUVEN\nNiVésale.023, NiVésale.025",
+                    "title": "Chimie générale I\nMme GODEAU, M. VAN LEUVEN\nNiGA.Curie",
                     "start": "2025-11-13T13:30:00",
-                    "end": "2025-11-13T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie générale I\nMme GODEAU, M. VAN LEUVEN\nNiVésale.LaFontaine, NiVésale.025",
-                    "start": "2025-11-13T15:45:00",
-                    "end": "2025-11-13T17:45:00",
+                    "end": "2025-11-13T15:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -2455,14 +2455,6 @@
                 }
             ],
             "Reméd. Physique Biomed II": [],
-            "Réservation de salles": [
-                {
-                    "title": "Réservation de salles\nMme PAMART\nNiVésale.020",
-                    "start": "2025-12-08T13:30:00",
-                    "end": "2025-12-08T17:30:00",
-                    "color": "#0026ad"
-                }
-            ],
             "Rôle transport. membranaires": [
                 {
                     "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiGA.Gutenberg",
@@ -6478,6 +6470,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Neurophysio systè. - Partie 1\n\nMme RIS",
+                    "start": "2025-11-13T08:15:00",
+                    "end": "2025-11-13T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Neurophysio systè. - Partie 1\nMme RIS\nNiGA.Gutenberg",
                     "start": "2025-11-18T16:00:00",
                     "end": "2025-11-18T18:00:00",
@@ -9484,12 +9482,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Molecul & Cell Biology Cancer\nM. JOURNE\nNiMen.Pauling, NiP.3E20",
-                    "start": "2025-11-17T10:30:00",
-                    "end": "2025-11-17T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Molecul & Cell Biology Cancer\nM. JOURNE\nNiP.0A11",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
@@ -9517,12 +9509,6 @@
                     "title": "Molecul & Cell Biology Cancer\nM. JOURNE\nNiP.3E10",
                     "start": "2025-11-10T10:30:00",
                     "end": "2025-11-10T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Molecul & Cell Biology Cancer\nM. JOURNE\nNiMen.Pauling, NiP.3E20",
-                    "start": "2025-11-17T10:30:00",
-                    "end": "2025-11-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -10086,6 +10072,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Neurophysio systè. - Partie 1\n\nMme RIS",
+                    "start": "2025-11-13T08:15:00",
+                    "end": "2025-11-13T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Neurophysio systè. - Partie 1\nMme RIS\nNiGA.Gutenberg",
                     "start": "2025-11-18T16:00:00",
                     "end": "2025-11-18T18:00:00",
@@ -10119,6 +10111,12 @@
                     "title": "Neurophysio systè. - Partie 1\nMme RIS\nNiGA.Curie",
                     "start": "2025-10-23T15:45:00",
                     "end": "2025-10-23T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Neurophysio systè. - Partie 1\n\nMme RIS",
+                    "start": "2025-11-13T08:15:00",
+                    "end": "2025-11-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -10175,12 +10173,6 @@
             "Nuclear Receptor in Oncology": [
                 {
                     "title": "Nuclear Receptor in Oncology\nM. JOURNE\nNiP.3E10",
-                    "start": "2025-11-14T10:30:00",
-                    "end": "2025-11-14T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Nuclear Receptor in Oncology\nM. JOURNE\nNiP.3E10",
                     "start": "2025-11-21T10:30:00",
                     "end": "2025-11-21T12:30:00",
                     "color": "#0026ad"
@@ -10207,12 +10199,6 @@
                     "title": "Nuclear Receptor in Oncology\nM. JOURNE\nNiP.3E10",
                     "start": "2025-12-19T13:30:00",
                     "end": "2025-12-19T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Nuclear Receptor in Oncology\nM. JOURNE\nNiP.3E10",
-                    "start": "2025-11-14T10:30:00",
-                    "end": "2025-11-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -12862,7 +12848,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Programme Startech Medtech\n\n",
+                    "title": "Programme Startech Medtech\n\nNiP.3E11",
                     "start": "2025-11-20T13:30:00",
                     "end": "2025-11-20T15:30:00",
                     "color": "#0026ad"
@@ -14530,7 +14516,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS\nNiB6.124",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS\nNiP.0A07",
                     "start": "2026-05-08T10:30:00",
                     "end": "2026-05-08T12:30:00",
                     "color": "#0026ad"
@@ -16562,7 +16548,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique I\nM. KONSTANTINIDIS, Mme BOL\nNiP.0A07",
+                    "title": "Chimie analytique I\nM. KONSTANTINIDIS, Mme BOL\nNiMen.Pauling",
                     "start": "2026-05-07T08:15:00",
                     "end": "2026-05-07T10:15:00",
                     "color": "#0026ad"
@@ -17708,55 +17694,55 @@
         "BAB3": {
             "Anal.struct.chim.orga": [
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-09-18T10:30:00",
                     "end": "2025-09-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-09-19T10:30:00",
                     "end": "2025-09-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-09-26T10:30:00",
                     "end": "2025-09-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-10-02T10:30:00",
                     "end": "2025-10-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-10-03T10:30:00",
                     "end": "2025-10-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-10-09T10:30:00",
                     "end": "2025-10-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-10-10T10:30:00",
                     "end": "2025-10-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-10-16T10:30:00",
                     "end": "2025-10-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-10-17T10:30:00",
                     "end": "2025-10-17T12:30:00",
                     "color": "#0026ad"
@@ -17792,79 +17778,79 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiB6.18",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiB6.18",
                     "start": "2025-11-25T08:15:00",
                     "end": "2025-11-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-11-27T10:30:00",
                     "end": "2025-11-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-12-01T10:30:00",
                     "end": "2025-12-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiB6.18",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiB6.18",
                     "start": "2025-12-02T08:15:00",
                     "end": "2025-12-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-12-04T10:30:00",
                     "end": "2025-12-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-12-08T10:30:00",
                     "end": "2025-12-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiB6.18",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiB6.18",
                     "start": "2025-12-09T08:15:00",
                     "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-12-11T10:30:00",
                     "end": "2025-12-11T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-12-15T10:30:00",
                     "end": "2025-12-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiB6.18",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiB6.18",
                     "start": "2025-12-16T08:15:00",
                     "end": "2025-12-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-12-18T08:15:00",
                     "end": "2025-12-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2025-12-18T10:30:00",
                     "end": "2025-12-18T12:30:00",
                     "color": "#0026ad"
@@ -17872,31 +17858,19 @@
             ],
             "Bioch.metab.expérim.": [
                 {
-                    "title": "Bioch.metab.expérim.\nM. LEROY\nNiP.3C07Lab",
-                    "start": "2025-11-17T10:30:00",
-                    "end": "2025-11-17T17:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Bioch.metab.expérim.\nM. LEROY\nNiP.3C07Lab",
+                    "title": "Bioch.metab.expérim.\n\nM. LEROY",
                     "start": "2025-11-18T10:30:00",
                     "end": "2025-11-18T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bioch.metab.expérim.\nM. LEROY\nNiP.3C07Lab",
+                    "title": "Bioch.metab.expérim.\n\nM. LEROY",
                     "start": "2025-11-19T10:30:00",
                     "end": "2025-11-19T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bioch.metab.expérim.\nM. LEROY\nNiP.3C07Lab",
-                    "start": "2025-11-20T10:30:00",
-                    "end": "2025-11-20T17:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Bioch.metab.expérim.\nM. LEROY\nNiP.3C07Lab",
+                    "title": "Bioch.metab.expérim.\n\nM. LEROY",
                     "start": "2025-11-21T10:30:00",
                     "end": "2025-11-21T17:30:00",
                     "color": "#0026ad"
@@ -18172,97 +18146,97 @@
             ],
             "Chimie organique III": [
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2026-02-03T13:30:00",
                     "end": "2026-02-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiP.0A11",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiP.0A11",
                     "start": "2026-02-05T10:30:00",
                     "end": "2026-02-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2026-02-10T13:30:00",
                     "end": "2026-02-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiP.0A11",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiP.0A11",
                     "start": "2026-02-12T10:30:00",
                     "end": "2026-02-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2026-02-17T13:30:00",
                     "end": "2026-02-17T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiP.0A11",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiP.0A11",
                     "start": "2026-02-19T10:30:00",
                     "end": "2026-02-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2026-02-24T13:30:00",
                     "end": "2026-02-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiP.0A11",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiP.0A11",
                     "start": "2026-02-26T10:30:00",
                     "end": "2026-02-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiP.0A11",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiP.0A11",
                     "start": "2026-03-05T10:30:00",
                     "end": "2026-03-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2026-03-10T13:30:00",
                     "end": "2026-03-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiP.0A11",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiP.0A11",
                     "start": "2026-03-12T10:30:00",
                     "end": "2026-03-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiVésale.030",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiVésale.030",
                     "start": "2026-03-24T10:30:00",
                     "end": "2026-03-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiBSM.004.Penrose",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiBSM.004.Penrose",
                     "start": "2026-03-26T10:30:00",
                     "end": "2026-03-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiP.0A07",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiP.0A07",
                     "start": "2026-03-30T08:15:00",
                     "end": "2026-03-30T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiBSM.004.Penrose",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiBSM.004.Penrose",
                     "start": "2026-04-09T10:30:00",
                     "end": "2026-04-09T12:30:00",
                     "color": "#0026ad"
@@ -18280,7 +18254,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2026-04-15T10:30:00",
                     "end": "2026-04-15T12:30:00",
                     "color": "#0026ad"
@@ -18292,7 +18266,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiBSM.004.Penrose",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiBSM.004.Penrose",
                     "start": "2026-04-16T10:30:00",
                     "end": "2026-04-16T12:30:00",
                     "color": "#0026ad"
@@ -18310,25 +18284,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiP.0A07",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiP.0A07",
                     "start": "2026-05-04T08:15:00",
                     "end": "2026-05-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2026-05-05T13:30:00",
                     "end": "2026-05-05T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiP.0A07",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiP.0A07",
                     "start": "2026-05-11T08:15:00",
                     "end": "2026-05-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. GERBAUX, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiMen.Pauling",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
@@ -18368,19 +18342,19 @@
             ],
             "Chimie théorique: exercices": [
                 {
-                    "title": "Chimie théorique: exercices\nM. SURIN, M. LEMAUR, M. QUARTI, M. BELJONNE\nNiDeVinci.Russel",
+                    "title": "Chimie théorique: exercices\nM. BELJONNE, M. QUARTI, M. SURIN, M. LEMAUR\nNiDeVinci.Russel",
                     "start": "2026-03-06T08:30:00",
                     "end": "2026-03-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie théorique: exercices\nM. SURIN, M. LEMAUR, M. QUARTI\nNiDeVinci.Russel",
+                    "title": "Chimie théorique: exercices\nM. QUARTI, M. SURIN, M. LEMAUR\nNiDeVinci.Russel",
                     "start": "2026-03-12T13:30:00",
                     "end": "2026-03-12T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie théorique: exercices\n\nM. SURIN, M. LEMAUR, M. QUARTI, M. BELJONNE",
+                    "title": "Chimie théorique: exercices\n\nM. BELJONNE, M. QUARTI, M. SURIN, M. LEMAUR",
                     "start": "2026-05-08T13:30:00",
                     "end": "2026-05-08T17:30:00",
                     "color": "#0026ad"
@@ -18520,7 +18494,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Cinétique et électrochimie\nM. SNYDERS, Mme BOL\nNiBSM.012.Hermann",
+                    "title": "Cinétique et électrochimie\nM. SNYDERS, Mme BOL\nNiMen.Pauling",
                     "start": "2026-05-08T08:15:00",
                     "end": "2026-05-08T10:15:00",
                     "color": "#0026ad"
@@ -18762,73 +18736,73 @@
             ],
             "Mécanique quant.": [
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-09-29T10:30:00",
                     "end": "2025-09-29T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-10-02T08:15:00",
                     "end": "2025-10-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-10-06T10:30:00",
                     "end": "2025-10-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-10-09T08:15:00",
                     "end": "2025-10-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-10-13T10:30:00",
                     "end": "2025-10-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-10-15T15:45:00",
                     "end": "2025-10-15T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-10-23T08:15:00",
                     "end": "2025-10-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-11-06T08:15:00",
                     "end": "2025-11-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-11-10T13:30:00",
                     "end": "2025-11-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiBSM.010.Lonsdale",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiBSM.010.Lonsdale",
                     "start": "2025-11-19T08:15:00",
                     "end": "2025-11-19T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-11-27T08:15:00",
                     "end": "2025-11-27T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanique quant.\nM. BELJONNE, M. QUARTI\nNiMen.Pauling",
+                    "title": "Mécanique quant.\nM. QUARTI, M. BELJONNE\nNiMen.Pauling",
                     "start": "2025-12-04T08:15:00",
                     "end": "2025-12-04T10:15:00",
                     "color": "#0026ad"
@@ -18986,7 +18960,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.I\nM. DAMMAN, Mme BOL\nNiVésale.030",
+                    "title": "Thermodynamique stat.I\nMme BOL, M. DAMMAN\nNiVésale.030",
                     "start": "2025-09-25T13:30:00",
                     "end": "2025-09-25T15:30:00",
                     "color": "#0026ad"
@@ -19004,7 +18978,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.I\nM. DAMMAN, Mme BOL\nNiGA.Plisnier",
+                    "title": "Thermodynamique stat.I\nMme BOL, M. DAMMAN\nNiGA.Plisnier",
                     "start": "2025-10-02T13:30:00",
                     "end": "2025-10-02T15:30:00",
                     "color": "#0026ad"
@@ -19022,7 +18996,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.I\nM. DAMMAN, Mme BOL\nNiGA.Plisnier",
+                    "title": "Thermodynamique stat.I\nMme BOL, M. DAMMAN\nNiGA.Plisnier",
                     "start": "2025-10-09T13:30:00",
                     "end": "2025-10-09T15:30:00",
                     "color": "#0026ad"
@@ -19040,7 +19014,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.I\nM. DAMMAN, Mme BOL\nNiBSM.008.Kwolek",
+                    "title": "Thermodynamique stat.I\nMme BOL, M. DAMMAN\nNiBSM.008.Kwolek",
                     "start": "2025-10-16T13:30:00",
                     "end": "2025-10-16T15:30:00",
                     "color": "#0026ad"
@@ -19052,7 +19026,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.I\nM. DAMMAN, Mme BOL\nNiMen.Pauling",
+                    "title": "Thermodynamique stat.I\nMme BOL, M. DAMMAN\nNiMen.Pauling",
                     "start": "2025-11-06T10:30:00",
                     "end": "2025-11-06T12:30:00",
                     "color": "#0026ad"
@@ -19064,7 +19038,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.I\nM. DAMMAN, Mme BOL\nNiB6.18",
+                    "title": "Thermodynamique stat.I\nMme BOL, M. DAMMAN\nNiB6.18",
                     "start": "2025-11-13T08:15:00",
                     "end": "2025-11-13T10:15:00",
                     "color": "#0026ad"
@@ -19082,7 +19056,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.I\nM. DAMMAN, Mme BOL\nNiMen.Pauling",
+                    "title": "Thermodynamique stat.I\nMme BOL, M. DAMMAN\nNiMen.Pauling",
                     "start": "2025-12-01T13:30:00",
                     "end": "2025-12-01T15:30:00",
                     "color": "#0026ad"
@@ -19132,7 +19106,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nM. DAMMAN, Mme BOL\nNiP.0A11",
+                    "title": "Thermodynamique stat.II\nMme BOL, M. DAMMAN\nNiP.0A11",
                     "start": "2026-02-16T13:30:00",
                     "end": "2026-02-16T15:30:00",
                     "color": "#0026ad"
@@ -19144,7 +19118,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nM. DAMMAN, Mme BOL\nNiP.0A07",
+                    "title": "Thermodynamique stat.II\nMme BOL, M. DAMMAN\nNiP.0A07",
                     "start": "2026-02-23T13:30:00",
                     "end": "2026-02-23T15:30:00",
                     "color": "#0026ad"
@@ -19156,7 +19130,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nM. DAMMAN, Mme BOL\nNiP.0A07",
+                    "title": "Thermodynamique stat.II\nMme BOL, M. DAMMAN\nNiP.0A07",
                     "start": "2026-03-02T13:30:00",
                     "end": "2026-03-02T15:30:00",
                     "color": "#0026ad"
@@ -19168,7 +19142,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nM. DAMMAN, Mme BOL\nNiP.0A07",
+                    "title": "Thermodynamique stat.II\nMme BOL, M. DAMMAN\nNiP.0A07",
                     "start": "2026-03-09T13:30:00",
                     "end": "2026-03-09T15:30:00",
                     "color": "#0026ad"
@@ -19180,7 +19154,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nM. DAMMAN, Mme BOL\nNiP.0A07",
+                    "title": "Thermodynamique stat.II\nMme BOL, M. DAMMAN\nNiP.0A07",
                     "start": "2026-03-23T13:30:00",
                     "end": "2026-03-23T15:30:00",
                     "color": "#0026ad"
@@ -19192,13 +19166,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nM. DAMMAN, Mme BOL\nNiMen.Pauling",
+                    "title": "Thermodynamique stat.II\nMme BOL, M. DAMMAN\nNiMen.Pauling",
                     "start": "2026-04-13T10:30:00",
                     "end": "2026-04-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Thermodynamique stat.II\nM. DAMMAN, Mme BOL\nNiBSM.010.Lonsdale",
+                    "title": "Thermodynamique stat.II\nMme BOL, M. DAMMAN\nNiBSM.010.Lonsdale",
                     "start": "2026-04-14T10:30:00",
                     "end": "2026-04-14T12:30:00",
                     "color": "#0026ad"
@@ -19632,6 +19606,12 @@
                     "start": "2025-10-22T13:30:00",
                     "end": "2025-10-22T15:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ\nNiBSM.015.Feynman",
+                    "start": "2025-11-19T08:15:00",
+                    "end": "2025-11-19T10:15:00",
+                    "color": "#0026ad"
                 }
             ],
             "Chim macro : structure propr.": [
@@ -19842,7 +19822,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie des matériaux & énergie\nM. BROCORENS, M. CORNIL\nNiB6.103Lab",
+                    "title": "Chimie des matériaux & énergie\nM. CORNIL, M. BROCORENS\nNiB6.103Lab",
                     "start": "2026-03-06T13:30:00",
                     "end": "2026-03-06T17:30:00",
                     "color": "#0026ad"
@@ -19854,7 +19834,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie des matériaux & énergie\nM. BROCORENS, M. CORNIL\nNiB6.103Lab",
+                    "title": "Chimie des matériaux & énergie\nM. CORNIL, M. BROCORENS\nNiB6.103Lab",
                     "start": "2026-03-10T13:30:00",
                     "end": "2026-03-10T17:30:00",
                     "color": "#0026ad"
@@ -19866,7 +19846,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie des matériaux & énergie\nM. BROCORENS, M. CORNIL\nNiB6.103Lab",
+                    "title": "Chimie des matériaux & énergie\nM. CORNIL, M. BROCORENS\nNiB6.103Lab",
                     "start": "2026-03-13T13:30:00",
                     "end": "2026-03-13T17:30:00",
                     "color": "#0026ad"
@@ -19878,7 +19858,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie des matériaux & énergie\nM. BROCORENS, M. CORNIL\nNiB6.103Lab",
+                    "title": "Chimie des matériaux & énergie\nM. CORNIL, M. BROCORENS\nNiB6.103Lab",
                     "start": "2026-03-24T13:30:00",
                     "end": "2026-03-24T17:30:00",
                     "color": "#0026ad"
@@ -19896,7 +19876,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie des matériaux & énergie\nM. BROCORENS, M. CORNIL\nNiB6.103Lab",
+                    "title": "Chimie des matériaux & énergie\nM. CORNIL, M. BROCORENS\nNiB6.103Lab",
                     "start": "2026-03-31T13:30:00",
                     "end": "2026-03-31T17:30:00",
                     "color": "#0026ad"
@@ -20094,79 +20074,79 @@
             ],
             "Ingénierie biomacromoléculaire": [
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiBSM.016.Dresselhaus",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-10-01T10:30:00",
                     "end": "2025-10-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiMen.Pauling",
                     "start": "2025-10-03T13:30:00",
                     "end": "2025-10-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\n\nM. GABRIELE, Mme MINCHEVA",
+                    "title": "Ingénierie biomacromoléculaire\n\nMme MINCHEVA, M. GABRIELE",
                     "start": "2025-10-07T13:30:00",
                     "end": "2025-10-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiBSM.008.Kwolek",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiBSM.008.Kwolek",
                     "start": "2025-10-08T10:30:00",
                     "end": "2025-10-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiP.3E11",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiP.3E11",
                     "start": "2025-11-04T13:30:00",
                     "end": "2025-11-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiBSM.016.Dresselhaus",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-11-07T13:30:00",
                     "end": "2025-11-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiP.3E11",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiP.3E11",
                     "start": "2025-11-10T13:30:00",
                     "end": "2025-11-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\n\nM. GABRIELE, Mme MINCHEVA",
+                    "title": "Ingénierie biomacromoléculaire\n\nMme MINCHEVA, M. GABRIELE",
                     "start": "2025-11-18T13:30:00",
                     "end": "2025-11-18T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiMen.Pauling",
                     "start": "2025-11-26T08:15:00",
                     "end": "2025-11-26T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiMen.Pauling",
                     "start": "2025-12-03T08:15:00",
                     "end": "2025-12-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiMen.Pauling",
                     "start": "2025-12-10T10:30:00",
                     "end": "2025-12-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiBSM.004.Penrose",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiBSM.004.Penrose",
                     "start": "2025-12-11T10:30:00",
                     "end": "2025-12-11T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiBSM.004.Penrose",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiBSM.004.Penrose",
                     "start": "2025-12-18T10:30:00",
                     "end": "2025-12-18T12:30:00",
                     "color": "#0026ad"
@@ -20430,91 +20410,91 @@
             ],
             "Physico-chimie du viviant B": [
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.016.Dresselhaus",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-09-24T10:30:00",
                     "end": "2025-09-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-10-02T15:45:00",
                     "end": "2025-10-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-10-09T15:45:00",
                     "end": "2025-10-09T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.016.Dresselhaus",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-10-15T10:30:00",
                     "end": "2025-10-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-10-16T15:45:00",
                     "end": "2025-10-16T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.016.Dresselhaus",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-10-22T10:30:00",
                     "end": "2025-10-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-10-23T15:45:00",
                     "end": "2025-10-23T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.004.Penrose",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.004.Penrose",
                     "start": "2025-11-06T08:15:00",
                     "end": "2025-11-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-11-06T15:45:00",
                     "end": "2025-11-06T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.016.Dresselhaus",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-11-12T10:30:00",
                     "end": "2025-11-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.004.Penrose",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.004.Penrose",
                     "start": "2025-11-13T08:15:00",
                     "end": "2025-11-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.016.Dresselhaus",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-11-19T10:30:00",
                     "end": "2025-11-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-11-20T15:45:00",
                     "end": "2025-11-20T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiGA.Pascal",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiGA.Pascal",
                     "start": "2025-11-26T10:30:00",
                     "end": "2025-11-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-11-27T15:45:00",
                     "end": "2025-11-27T17:45:00",
                     "color": "#0026ad"
@@ -21506,6 +21486,12 @@
                     "start": "2025-10-22T13:30:00",
                     "end": "2025-10-22T15:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ\nNiBSM.015.Feynman",
+                    "start": "2025-11-19T08:15:00",
+                    "end": "2025-11-19T10:15:00",
+                    "color": "#0026ad"
                 }
             ],
             "Chim macro : structure propr.": [
@@ -21968,79 +21954,79 @@
             ],
             "Ingénierie biomacromoléculaire": [
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiBSM.016.Dresselhaus",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-10-01T10:30:00",
                     "end": "2025-10-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiMen.Pauling",
                     "start": "2025-10-03T13:30:00",
                     "end": "2025-10-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\n\nM. GABRIELE, Mme MINCHEVA",
+                    "title": "Ingénierie biomacromoléculaire\n\nMme MINCHEVA, M. GABRIELE",
                     "start": "2025-10-07T13:30:00",
                     "end": "2025-10-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiBSM.008.Kwolek",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiBSM.008.Kwolek",
                     "start": "2025-10-08T10:30:00",
                     "end": "2025-10-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiP.3E11",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiP.3E11",
                     "start": "2025-11-04T13:30:00",
                     "end": "2025-11-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiBSM.016.Dresselhaus",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-11-07T13:30:00",
                     "end": "2025-11-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiP.3E11",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiP.3E11",
                     "start": "2025-11-10T13:30:00",
                     "end": "2025-11-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\n\nM. GABRIELE, Mme MINCHEVA",
+                    "title": "Ingénierie biomacromoléculaire\n\nMme MINCHEVA, M. GABRIELE",
                     "start": "2025-11-18T13:30:00",
                     "end": "2025-11-18T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiMen.Pauling",
                     "start": "2025-11-26T08:15:00",
                     "end": "2025-11-26T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiMen.Pauling",
                     "start": "2025-12-03T08:15:00",
                     "end": "2025-12-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiMen.Pauling",
                     "start": "2025-12-10T10:30:00",
                     "end": "2025-12-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiBSM.004.Penrose",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiBSM.004.Penrose",
                     "start": "2025-12-11T10:30:00",
                     "end": "2025-12-11T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nM. GABRIELE, Mme MINCHEVA\nNiBSM.004.Penrose",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA, M. GABRIELE\nNiBSM.004.Penrose",
                     "start": "2025-12-18T10:30:00",
                     "end": "2025-12-18T12:30:00",
                     "color": "#0026ad"
@@ -22310,91 +22296,91 @@
             ],
             "Physico-chimie du viviant B": [
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.016.Dresselhaus",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-09-24T10:30:00",
                     "end": "2025-09-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-10-02T15:45:00",
                     "end": "2025-10-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-10-09T15:45:00",
                     "end": "2025-10-09T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.016.Dresselhaus",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-10-15T10:30:00",
                     "end": "2025-10-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-10-16T15:45:00",
                     "end": "2025-10-16T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.016.Dresselhaus",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-10-22T10:30:00",
                     "end": "2025-10-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-10-23T15:45:00",
                     "end": "2025-10-23T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.004.Penrose",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.004.Penrose",
                     "start": "2025-11-06T08:15:00",
                     "end": "2025-11-06T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-11-06T15:45:00",
                     "end": "2025-11-06T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.016.Dresselhaus",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-11-12T10:30:00",
                     "end": "2025-11-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.004.Penrose",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.004.Penrose",
                     "start": "2025-11-13T08:15:00",
                     "end": "2025-11-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.016.Dresselhaus",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.016.Dresselhaus",
                     "start": "2025-11-19T10:30:00",
                     "end": "2025-11-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-11-20T15:45:00",
                     "end": "2025-11-20T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiGA.Pascal",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiGA.Pascal",
                     "start": "2025-11-26T10:30:00",
                     "end": "2025-11-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie du viviant B\nM. GABRIELE, Mme MOHAMMED\nNiBSM.015.Feynman",
+                    "title": "Physico-chimie du viviant B\nMme MOHAMMED, M. GABRIELE\nNiBSM.015.Feynman",
                     "start": "2025-11-27T15:45:00",
                     "end": "2025-11-27T17:45:00",
                     "color": "#0026ad"
@@ -23012,7 +22998,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stages en laboratoire\nM. CORNIL, M. RAQUEZ, M. BELJONNE, M. DAMMAN, M. SNYDERS, M. SURIN\nNiVésale.030",
+                    "title": "Stages en laboratoire\nM. DAMMAN, M. CORNIL, M. RAQUEZ, M. BELJONNE, M. SNYDERS, M. SURIN\nNiVésale.030",
                     "start": "2026-05-11T08:30:00",
                     "end": "2026-05-11T18:00:00",
                     "color": "#0026ad"
@@ -49109,6 +49095,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "calcul tens et rel. rest.\nM. SEMAY\nNiBSM.002.Knight",
+                    "start": "2025-11-13T08:15:00",
+                    "end": "2025-11-13T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "calcul tens et rel. rest.\nM. SEMAY\nNiP.0A11",
                     "start": "2025-11-19T08:15:00",
                     "end": "2025-11-19T10:15:00",
@@ -62233,15 +62225,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiVésale.025, NiVésale.023",
-                    "start": "2025-11-13T13:30:00",
-                    "end": "2025-11-13T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiVésale.025, NiVésale.LaFontaine",
-                    "start": "2025-11-13T15:45:00",
-                    "end": "2025-11-13T17:45:00",
+                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiGA.Curie",
+                    "start": "2025-11-13T15:00:00",
+                    "end": "2025-11-13T16:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63868,12 +63854,6 @@
                 }
             ],
             "Physique Biomed I - Partie 2": [
-                {
-                    "title": "Physique Biomed I - Partie 2\nMme HOCQ\nPCM.500",
-                    "start": "2025-11-17T13:30:00",
-                    "end": "2025-11-17T15:30:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Physique Biomed I - Partie 2\nMme HOCQ\nNiGA.Gutenberg",
                     "start": "2025-11-25T15:45:00",
@@ -71786,7 +71766,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiBSM.012.Hermann",
+                    "title": "Anal. math.\nMme LACROIX, M. LHOST\nNiB6.124",
                     "start": "2026-05-08T10:30:00",
                     "end": "2026-05-08T12:30:00",
                     "color": "#0026ad"
@@ -73219,12 +73199,6 @@
                 },
                 {
                     "title": "Phys. gen. I cplts TD & TP\nM. DELPLACE\nNiGA.Turing",
-                    "start": "2025-11-21T08:15:00",
-                    "end": "2025-11-21T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Phys. gen. I cplts TD & TP\nM. DELPLACE\nNiGA.Turing",
                     "start": "2025-11-28T08:15:00",
                     "end": "2025-11-28T10:15:00",
                     "color": "#0026ad"
@@ -73675,6 +73649,12 @@
                     "title": "calcul tens et rel. rest.\nM. SEMAY\nNiP.0A11",
                     "start": "2025-11-12T08:15:00",
                     "end": "2025-11-12T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "calcul tens et rel. rest.\nM. SEMAY\nNiBSM.002.Knight",
+                    "start": "2025-11-13T08:15:00",
+                    "end": "2025-11-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -77244,7 +77224,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TP méthodes numériques phys\nM. VUONG\nNiGA.Turing",
+                    "title": "TP méthodes numériques phys\n\nM. VUONG",
                     "start": "2025-11-26T09:00:00",
                     "end": "2025-11-26T12:00:00",
                     "color": "#0026ad"
@@ -81820,27 +81800,21 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. RGUITI\nRosaParks.2.06",
-                    "start": "2025-11-27T08:30:00",
-                    "end": "2025-11-27T11:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB01.114.GPRO.SC1",
                     "start": "2025-12-02T15:45:00",
                     "end": "2025-12-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CéramAv\nM. GONON, M. RGUITI\nRosaParks.2.06",
-                    "start": "2025-12-04T08:30:00",
-                    "end": "2025-12-04T11:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "CéramAv\nM. GONON, M. HOCQUET\nEpB01.114.GPRO.SC1",
                     "start": "2025-12-09T15:45:00",
                     "end": "2025-12-09T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "CéramAv\n\nM. GONON, M. RGUITI",
+                    "start": "2025-12-15T08:30:00",
+                    "end": "2025-12-15T11:30:00",
                     "color": "#0026ad"
                 },
                 {
