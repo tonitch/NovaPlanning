@@ -563,6 +563,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Chimie générale I\nMme GODEAU\nNiGA.Gutenberg",
+                    "start": "2025-11-24T13:30:00",
+                    "end": "2025-11-24T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Chimie générale I\nMme HENOUMONT\nJo.Stievenart",
                     "start": "2025-11-27T10:30:00",
                     "end": "2025-11-27T12:30:00",
@@ -1800,12 +1806,6 @@
                 }
             ],
             "Physique Biomed I - Partie 2": [
-                {
-                    "title": "Physique Biomed I - Partie 2\nMme HOCQ\nNiGA.Gutenberg",
-                    "start": "2025-11-24T13:30:00",
-                    "end": "2025-11-24T15:30:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Physique Biomed I - Partie 2\nMme HOCQ\nNiGA.Curie",
                     "start": "2025-12-02T13:30:00",
@@ -4949,19 +4949,19 @@
         "BAB3": {
             "_": [
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
                     "start": "2025-09-16T10:30:00",
                     "end": "2025-09-16T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
                     "start": "2025-09-16T11:30:00",
                     "end": "2025-09-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.020",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.020",
                     "start": "2025-09-23T12:30:00",
                     "end": "2025-09-23T13:30:00",
                     "color": "#0026ad"
@@ -5201,7 +5201,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie pathologique\nM. PIAGNERELLI\nNiVésale.LaFontaine",
+                    "title": "Biochimie pathologique\nM. PIAGNERELLI\nNiGA.Curie",
                     "start": "2025-12-08T15:45:00",
                     "end": "2025-12-08T17:45:00",
                     "color": "#0026ad"
@@ -5257,13 +5257,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.211",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.211",
                     "start": "2026-03-30T10:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
                     "start": "2026-04-01T08:15:00",
                     "end": "2026-04-01T13:00:00",
                     "color": "#0026ad"
@@ -5275,13 +5275,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiP.3C07Lab",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiP.3C07Lab",
                     "start": "2026-04-02T13:30:00",
                     "end": "2026-04-02T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.211",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.211",
                     "start": "2026-04-07T10:30:00",
                     "end": "2026-04-07T12:30:00",
                     "color": "#0026ad"
@@ -5305,13 +5305,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
                     "start": "2026-04-16T13:30:00",
                     "end": "2026-04-16T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
                     "start": "2026-04-17T13:30:00",
                     "end": "2026-04-17T16:30:00",
                     "color": "#0026ad"
@@ -6284,7 +6284,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro pharmacologie cellulaire\nM. COLET\nNiB6.211",
+                    "title": "Intro pharmacologie cellulaire\nM. COLET\nNiGA.Curie",
                     "start": "2025-12-01T08:00:00",
                     "end": "2025-12-01T10:00:00",
                     "color": "#0026ad"
@@ -6702,7 +6702,7 @@
             ],
             "Physio/Physiopath néphro.": [
                 {
-                    "title": "Physio/Physiopath néphro.\nMme AKAN, Mme LUPANT\nNiP.0C14",
+                    "title": "Physio/Physiopath néphro.\nMme LUPANT, Mme AKAN\nNiP.0C14",
                     "start": "2025-11-14T13:30:00",
                     "end": "2025-11-14T17:30:00",
                     "color": "#0026ad"
@@ -6744,7 +6744,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath néphro.\nMme AKAN, Mme LUPANT\nNiP.0C14",
+                    "title": "Physio/Physiopath néphro.\nMme LUPANT, Mme AKAN\nNiP.0C14",
                     "start": "2025-11-28T13:30:00",
                     "end": "2025-11-28T17:30:00",
                     "color": "#0026ad"
@@ -6806,7 +6806,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-09-29T08:15:00",
                     "end": "2025-09-29T10:15:00",
                     "color": "#0026ad"
@@ -6824,7 +6824,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-13T10:30:00",
                     "end": "2025-10-13T12:30:00",
                     "color": "#0026ad"
@@ -6836,13 +6836,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme LUPANT, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-10-14T18:00:00",
                     "end": "2025-10-14T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme LUPANT, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-10-15T08:15:00",
                     "end": "2025-10-15T10:15:00",
                     "color": "#0026ad"
@@ -6854,7 +6854,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-20T10:30:00",
                     "end": "2025-10-20T12:30:00",
                     "color": "#0026ad"
@@ -6878,19 +6878,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme LUPANT, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme LUPANT, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-28T17:45:00",
                     "end": "2025-11-28T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme LUPANT, Mme AKAN\nNiGA.Plisnier, NiGA.VanGogh, NiVésale.020",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiGA.Plisnier, NiGA.VanGogh, NiVésale.020",
                     "start": "2025-12-18T08:15:00",
                     "end": "2025-12-18T10:15:00",
                     "color": "#0026ad"
@@ -8922,7 +8922,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GMP-GLP-Validation\nM. DEBAUVE\nNiMen.Pauling, NiB6.06",
+                    "title": "GMP-GLP-Validation\nM. DEBAUVE\nNiB6.06",
                     "start": "2025-12-18T15:45:00",
                     "end": "2025-12-18T17:45:00",
                     "color": "#0026ad"
@@ -8964,7 +8964,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GMP-GLP-Validation\nM. DEBAUVE\nNiB6.06, NiMen.Pauling",
+                    "title": "GMP-GLP-Validation\nM. DEBAUVE\nNiB6.06",
                     "start": "2025-12-18T15:45:00",
                     "end": "2025-12-18T17:45:00",
                     "color": "#0026ad"
@@ -14233,6 +14233,14 @@
                     "title": "Aide à la réussite (Partie B)\nM. VAN VOOREN\nNiMen.Pauling",
                     "start": "2026-05-11T08:15:00",
                     "end": "2026-05-11T10:15:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "Aide à la réussite partie A": [
+                {
+                    "title": "Aide à la réussite partie A\nM. ENGELS\nNiGA.Plisnier",
+                    "start": "2025-12-18T12:30:00",
+                    "end": "2025-12-18T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -27075,18 +27083,6 @@
                 },
                 {
                     "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.114.GPRO.SC1",
-                    "start": "2025-11-21T13:30:00",
-                    "end": "2025-11-21T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.114.GPRO.SC1",
-                    "start": "2025-11-21T15:45:00",
-                    "end": "2025-11-21T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.114.GPRO.SC1",
                     "start": "2025-11-28T13:30:00",
                     "end": "2025-11-28T15:30:00",
                     "color": "#0026ad"
@@ -31049,7 +31045,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE, M. DUSOLLIER\nNiP.0A11",
+                    "title": "Structures de données I\nM. VANDENHOVE, Mme BRUYERE\nNiP.0A11",
                     "start": "2025-12-09T08:15:00",
                     "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
@@ -39515,27 +39511,27 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2025-11-26T10:30:00",
-                    "end": "2025-11-26T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Selected topics computer net.\nM. QUOITIN\nNiP.3E11",
                     "start": "2025-12-01T08:15:00",
                     "end": "2025-12-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2025-12-03T10:30:00",
-                    "end": "2025-12-03T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Selected topics computer net.\nM. QUOITIN\nNiP.0A11",
                     "start": "2025-12-08T08:15:00",
                     "end": "2025-12-08T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
+                    "start": "2025-12-08T10:30:00",
+                    "end": "2025-12-08T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
+                    "start": "2025-12-09T08:15:00",
+                    "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -45157,27 +45153,27 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2025-11-26T10:30:00",
-                    "end": "2025-11-26T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Selected topics computer net.\nM. QUOITIN\nNiP.3E11",
                     "start": "2025-12-01T08:15:00",
                     "end": "2025-12-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2025-12-03T10:30:00",
-                    "end": "2025-12-03T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Selected topics computer net.\nM. QUOITIN\nNiP.0A11",
                     "start": "2025-12-08T08:15:00",
                     "end": "2025-12-08T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
+                    "start": "2025-12-08T10:30:00",
+                    "end": "2025-12-08T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
+                    "start": "2025-12-09T08:15:00",
+                    "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -46123,7 +46119,7 @@
             ],
             "MAD - AAEP": [
                 {
-                    "title": "MAD - AAEP\nM. BREDART\nWa.236L",
+                    "title": "MAD - AAEP\nM. BREDART\nWa.226L",
                     "start": "2026-02-05T10:30:00",
                     "end": "2026-02-05T12:30:00",
                     "color": "#0026ad"
@@ -50535,7 +50531,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nMme BRUYERE, M. VANDENHOVE, M. DUSOLLIER\nNiP.0A11",
+                    "title": "Structures de données I\nMme BRUYERE, M. VANDENHOVE\nNiP.0A11",
                     "start": "2025-12-09T08:15:00",
                     "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
@@ -55818,27 +55814,27 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2025-11-26T10:30:00",
-                    "end": "2025-11-26T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Selected topics computer net.\nM. QUOITIN\nNiP.3E11",
                     "start": "2025-12-01T08:15:00",
                     "end": "2025-12-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2025-12-03T10:30:00",
-                    "end": "2025-12-03T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Selected topics computer net.\nM. QUOITIN\nNiP.0A11",
                     "start": "2025-12-08T08:15:00",
                     "end": "2025-12-08T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
+                    "start": "2025-12-08T10:30:00",
+                    "end": "2025-12-08T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
+                    "start": "2025-12-09T08:15:00",
+                    "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -59922,21 +59918,21 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2025-11-26T10:30:00",
-                    "end": "2025-11-26T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2025-12-03T10:30:00",
-                    "end": "2025-12-03T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Selected topics computer net.\nM. QUOITIN\nNiP.0A11",
                     "start": "2025-12-08T08:15:00",
                     "end": "2025-12-08T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
+                    "start": "2025-12-08T10:30:00",
+                    "end": "2025-12-08T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
+                    "start": "2025-12-09T08:15:00",
+                    "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -62261,7 +62257,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiB6.03Lab",
+                    "title": "Chimie générale I\nM. VAN LEUVEN\nNiB6.03Lab",
                     "start": "2025-11-24T13:30:00",
                     "end": "2025-11-24T18:00:00",
                     "color": "#0026ad"
@@ -62270,6 +62266,12 @@
                     "title": "Chimie générale I\nM. VAN LEUVEN\nNiB6.03Lab",
                     "start": "2025-11-25T08:00:00",
                     "end": "2025-11-25T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie générale I\nMme GODEAU\nNiGA.Gutenberg",
+                    "start": "2025-11-25T15:45:00",
+                    "end": "2025-11-25T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63854,12 +63856,6 @@
                 }
             ],
             "Physique Biomed I - Partie 2": [
-                {
-                    "title": "Physique Biomed I - Partie 2\nMme HOCQ\nNiGA.Gutenberg",
-                    "start": "2025-11-25T15:45:00",
-                    "end": "2025-11-25T17:45:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Physique Biomed I - Partie 2\nMme HOCQ\nNiGA.VanGogh",
                     "start": "2025-12-08T13:30:00",
@@ -67480,7 +67476,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro pharmacologie cellulaire\nM. COLET\nNiB6.211",
+                    "title": "Intro pharmacologie cellulaire\nM. COLET\nNiGA.Curie",
                     "start": "2025-12-01T08:00:00",
                     "end": "2025-12-01T10:00:00",
                     "color": "#0026ad"
@@ -67714,15 +67710,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacochimie - Partie 1\nM. DUFRASNE\nNiVésale.LaFontaine",
-                    "start": "2025-12-04T15:45:00",
-                    "end": "2025-12-04T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Pharmacochimie - Partie 1\nM. DUFRASNE\nNiGA.Curie",
                     "start": "2025-12-05T08:15:00",
                     "end": "2025-12-05T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Pharmacochimie - Partie 1\nM. DUFRASNE\nNiP.0A07",
+                    "start": "2025-12-09T08:15:00",
+                    "end": "2025-12-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
