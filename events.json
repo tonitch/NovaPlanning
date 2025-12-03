@@ -18834,6 +18834,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Chimie analytique II\nM. KONSTANTINIDIS\nNiBSM.002.Knight",
+                    "start": "2025-12-12T08:15:00",
+                    "end": "2025-12-12T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Chimie analytique II\nM. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2025-12-16T10:30:00",
                     "end": "2025-12-16T12:30:00",
@@ -20445,12 +20451,6 @@
                     "title": "Biochimie macromoléculaire\nM. WATTIEZ\nNiBSM.010.Lonsdale",
                     "start": "2025-11-25T10:30:00",
                     "end": "2025-11-25T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Biochimie macromoléculaire\nM. WATTIEZ\nNiBSM.010.Lonsdale",
-                    "start": "2025-12-02T10:30:00",
-                    "end": "2025-12-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -22451,12 +22451,6 @@
                     "title": "Biochimie macromoléculaire\nM. WATTIEZ\nNiBSM.010.Lonsdale",
                     "start": "2025-11-25T10:30:00",
                     "end": "2025-11-25T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Biochimie macromoléculaire\nM. WATTIEZ\nNiBSM.010.Lonsdale",
-                    "start": "2025-12-02T10:30:00",
-                    "end": "2025-12-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -24613,12 +24607,6 @@
                     "title": "Biochimie macromoléculaire\nM. WATTIEZ\nNiBSM.010.Lonsdale",
                     "start": "2025-11-25T10:30:00",
                     "end": "2025-11-25T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Biochimie macromoléculaire\nM. WATTIEZ\nNiBSM.010.Lonsdale",
-                    "start": "2025-12-02T10:30:00",
-                    "end": "2025-12-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -27821,7 +27809,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.112P, Wa.Hotyat, Wa.110111P",
+                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.Hotyat, Wa.112P, Wa.110111P",
                     "start": "2025-10-16T18:00:00",
                     "end": "2025-10-16T21:00:00",
                     "color": "#0026ad"
@@ -27958,37 +27946,37 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU",
+                    "title": "Stage 1 chimie\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU\nNiBSM.002.Knight",
                     "start": "2026-02-11T17:45:00",
                     "end": "2026-02-11T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU",
+                    "title": "Stage 1 chimie\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU\nNiBSM.002.Knight",
                     "start": "2026-02-18T17:45:00",
                     "end": "2026-02-18T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU",
+                    "title": "Stage 1 chimie\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU\nNiBSM.002.Knight",
                     "start": "2026-03-11T15:15:00",
                     "end": "2026-03-11T17:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU",
+                    "title": "Stage 1 chimie\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU\nNiBSM.002.Knight",
                     "start": "2026-03-25T15:15:00",
                     "end": "2026-03-25T17:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU",
+                    "title": "Stage 1 chimie\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU\nNiBSM.002.Knight",
                     "start": "2026-04-08T15:15:00",
                     "end": "2026-04-08T17:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU",
+                    "title": "Stage 1 chimie\nM. VERCOUTER, M. VAN VOOREN, Mme DIEU\nNiBSM.002.Knight",
                     "start": "2026-05-06T15:15:00",
                     "end": "2026-05-06T17:15:00",
                     "color": "#0026ad"
@@ -28042,7 +28030,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Drechsel",
+                    "title": "Vie scolaire gestion groupes\n\nMme DUROISIN",
                     "start": "2025-12-02T16:45:00",
                     "end": "2025-12-02T19:45:00",
                     "color": "#0026ad"
@@ -28634,7 +28622,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.110111P, Wa.Hotyat, Wa.112P",
+                    "title": "Diff des app et acc perso\nM. BEAUSET\nWa.110111P, Wa.112P, Wa.Hotyat",
                     "start": "2025-10-16T18:00:00",
                     "end": "2025-10-16T21:00:00",
                     "color": "#0026ad"
@@ -28841,37 +28829,37 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER",
+                    "title": "Stage 1 chimie\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER\nNiBSM.002.Knight",
                     "start": "2026-02-11T17:45:00",
                     "end": "2026-02-11T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER",
+                    "title": "Stage 1 chimie\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER\nNiBSM.002.Knight",
                     "start": "2026-02-18T17:45:00",
                     "end": "2026-02-18T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER",
+                    "title": "Stage 1 chimie\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER\nNiBSM.002.Knight",
                     "start": "2026-03-11T15:15:00",
                     "end": "2026-03-11T17:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER",
+                    "title": "Stage 1 chimie\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER\nNiBSM.002.Knight",
                     "start": "2026-03-25T15:15:00",
                     "end": "2026-03-25T17:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER",
+                    "title": "Stage 1 chimie\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER\nNiBSM.002.Knight",
                     "start": "2026-04-08T15:15:00",
                     "end": "2026-04-08T17:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage 1 chimie\n\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER",
+                    "title": "Stage 1 chimie\nM. VAN VOOREN, Mme DIEU, M. VERCOUTER\nNiBSM.002.Knight",
                     "start": "2026-05-06T15:15:00",
                     "end": "2026-05-06T17:15:00",
                     "color": "#0026ad"
@@ -28925,7 +28913,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Drechsel",
+                    "title": "Vie scolaire gestion groupes\n\nMme DUROISIN",
                     "start": "2025-12-02T16:45:00",
                     "end": "2025-12-02T19:45:00",
                     "color": "#0026ad"
@@ -40969,7 +40957,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "NetworkSecMan\n\nM. MEGRET",
+                    "title": "NetworkSecMan\nM. MEGRET\nDo.TELE.SC",
                     "start": "2026-01-09T13:30:00",
                     "end": "2026-01-09T17:30:00",
                     "color": "#0026ad"
@@ -46787,7 +46775,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "NetworkSecMan\n\nM. MEGRET",
+                    "title": "NetworkSecMan\nM. MEGRET\nDo.TELE.SC",
                     "start": "2026-01-09T13:30:00",
                     "end": "2026-01-09T17:30:00",
                     "color": "#0026ad"
@@ -55381,7 +55369,7 @@
                 {
                     "title": "Marchés et act. finan. - AAEP\nMme POZNIAK\nJo.Stievenart",
                     "start": "2026-01-08T12:15:00",
-                    "end": "2026-01-08T15:15:00",
+                    "end": "2026-01-08T16:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -60191,7 +60179,7 @@
                 {
                     "title": "Gestion financière - AAEP\n\nMme HELDENBERGH",
                     "start": "2026-01-08T12:15:00",
-                    "end": "2026-01-08T15:15:00",
+                    "end": "2026-01-08T16:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -62844,7 +62832,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Drechsel",
+                    "title": "Vie scolaire gestion groupes\n\nMme DUROISIN",
                     "start": "2025-12-02T16:45:00",
                     "end": "2025-12-02T19:45:00",
                     "color": "#0026ad"
@@ -64007,7 +63995,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Drechsel",
+                    "title": "Vie scolaire gestion groupes\n\nMme DUROISIN",
                     "start": "2025-12-02T16:45:00",
                     "end": "2025-12-02T19:45:00",
                     "color": "#0026ad"
@@ -64371,7 +64359,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Drechsel",
+                    "title": "Vie scolaire gestion groupes\n\nMme DUROISIN",
                     "start": "2025-12-02T16:45:00",
                     "end": "2025-12-02T19:45:00",
                     "color": "#0026ad"
@@ -73027,43 +73015,43 @@
             ],
             "Attitudes comport. difficiles": [
                 {
-                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-10-20T13:30:00",
                     "end": "2025-10-20T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-10-27T08:15:00",
                     "end": "2025-10-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-10-28T13:30:00",
                     "end": "2025-10-28T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-10-30T10:30:00",
                     "end": "2025-10-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme MERIAUX\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme MERIAUX\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-11-03T13:30:00",
                     "end": "2025-11-03T15:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-11-04T12:45:00",
                     "end": "2025-11-04T15:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-11-05T10:30:00",
                     "end": "2025-11-05T13:30:00",
                     "color": "#0026ad"
@@ -73098,12 +73086,6 @@
                     "title": "Comptabilité/Gestion officine\nM. DELPATURE\nNiP.3E11",
                     "start": "2025-10-23T13:30:00",
                     "end": "2025-10-23T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Comptabilité/Gestion officine\nM. DELPATURE\nNiB6.18",
-                    "start": "2026-01-15T11:00:00",
-                    "end": "2026-01-15T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -73695,6 +73677,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "Mémoire recherche": [
+                {
+                    "title": "Mémoire recherche\nMme WELLS, Mme PATRIS, M. VANDERBIST, Mme WOLFF, M. BERGER, Mme NACHTERGAEL, M. BLANKERT\nNiB6.18",
+                    "start": "2026-01-15T08:00:00",
+                    "end": "2026-01-15T12:30:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Mycologie": [
                 {
                     "title": "Mycologie\nM. CLESSE\nNiP.1E11",
@@ -73885,25 +73875,25 @@
             ],
             "Pharmacodépendance": [
                 {
-                    "title": "Pharmacodépendance\nMme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Pharmacodépendance\nMme PATRIS\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-09-19T08:15:00",
                     "end": "2025-09-19T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacodépendance\nMme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Pharmacodépendance\nMme PATRIS\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-09-29T13:30:00",
                     "end": "2025-09-29T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacodépendance\nMme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Pharmacodépendance\nMme PATRIS\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-10-13T13:30:00",
                     "end": "2025-10-13T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacodépendance\nMme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Pharmacodépendance\nMme PATRIS\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-10-15T10:30:00",
                     "end": "2025-10-15T13:30:00",
                     "color": "#0026ad"
@@ -73971,25 +73961,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Retour d'expériences de stage \nMme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Retour d'expériences de stage \nMme PATRIS\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2026-04-13T13:30:00",
                     "end": "2026-04-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Retour d'expériences de stage \nMme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Retour d'expériences de stage \nMme PATRIS\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2026-04-13T15:45:00",
                     "end": "2026-04-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Retour d'expériences de stage \nM. BAMPS, Mme QUINTART\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Retour d'expériences de stage \nM. BAMPS, Mme QUINTART\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Retour d'expériences de stage \nM. BAMPS, Mme QUINTART\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Retour d'expériences de stage \nM. BAMPS, Mme QUINTART\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2026-05-12T15:45:00",
                     "end": "2026-05-12T17:45:00",
                     "color": "#0026ad"
@@ -74009,7 +73999,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-10-27T15:45:00",
                     "end": "2025-10-27T18:45:00",
                     "color": "#0026ad"
@@ -74021,13 +74011,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-12-06T08:15:00",
                     "end": "2025-12-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-12-13T08:15:00",
                     "end": "2025-12-13T12:30:00",
                     "color": "#0026ad"
@@ -74071,7 +74061,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Soins pharma. conseil et suivi\nM. BAMPS\nNiGA.Interactiv1, NiB6.127Info",
+                    "title": "Soins pharma. conseil et suivi\nM. BAMPS\nNiB6.127Info, NiGA.Interactiv1",
                     "start": "2025-09-30T13:30:00",
                     "end": "2025-09-30T15:30:00",
                     "color": "#0026ad"
@@ -74083,13 +74073,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Soins pharma. conseil et suivi\nMme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Soins pharma. conseil et suivi\nMme PATRIS\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-10-06T13:30:00",
                     "end": "2025-10-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Soins pharma. conseil et suivi\nMme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Soins pharma. conseil et suivi\nMme PATRIS\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2025-10-07T14:30:00",
                     "end": "2025-10-07T16:30:00",
                     "color": "#0026ad"
@@ -74115,7 +74105,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage officinal\nM. VANDERBIST, Mme NACHTERGAEL, M. BERGER, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Stage officinal\nMme PATRIS, M. VANDERBIST, M. BERGER, Mme NACHTERGAEL\nNiGA.Interactiv1, NiGA.Interactiv2",
                     "start": "2026-01-21T13:45:00",
                     "end": "2026-01-21T15:45:00",
                     "color": "#0026ad"
@@ -82231,7 +82221,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Electronique appliquée\nM. DUALIBE, M. SCOHIER, M. VERSCHEUREN\nHo.03",
+                    "title": "Electronique appliquée\nM. DUALIBE, M. SCOHIER, M. VERSCHEUREN\nHo.03, Ho.24",
                     "start": "2025-12-19T08:30:00",
                     "end": "2025-12-19T11:30:00",
                     "color": "#0026ad"
@@ -84955,7 +84945,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Drechsel",
+                    "title": "Vie scolaire gestion groupes\n\nMme DUROISIN",
                     "start": "2025-12-02T16:45:00",
                     "end": "2025-12-02T19:45:00",
                     "color": "#0026ad"
@@ -87365,7 +87355,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\n\nMme LACROIX, M. LO BUE, Mme MAINIL",
+                    "title": "Quest app dida phys\nMme LACROIX, M. LO BUE, Mme MAINIL\nNiBSM.015.Feynman",
                     "start": "2025-12-08T16:45:00",
                     "end": "2025-12-08T18:45:00",
                     "color": "#0026ad"
@@ -87525,7 +87515,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Drechsel",
+                    "title": "Vie scolaire gestion groupes\n\nMme DUROISIN",
                     "start": "2025-12-02T16:45:00",
                     "end": "2025-12-02T19:45:00",
                     "color": "#0026ad"
@@ -87719,7 +87709,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\n\nMme MAINIL, M. LO BUE, Mme LACROIX",
+                    "title": "Quest app dida phys\nMme MAINIL, M. LO BUE, Mme LACROIX\nNiBSM.015.Feynman",
                     "start": "2025-12-08T16:45:00",
                     "end": "2025-12-08T18:45:00",
                     "color": "#0026ad"
@@ -87922,7 +87912,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Vie scolaire gestion groupes\nMme DUROISIN\nWa.Drechsel",
+                    "title": "Vie scolaire gestion groupes\n\nMme DUROISIN",
                     "start": "2025-12-02T16:45:00",
                     "end": "2025-12-02T19:45:00",
                     "color": "#0026ad"
