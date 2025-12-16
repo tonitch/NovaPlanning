@@ -386,12 +386,6 @@
                 },
                 {
                     "title": "Biologie générale humaine\nM. COLET\nJo.Stievenart",
-                    "start": "2025-12-17T15:45:00",
-                    "end": "2025-12-17T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Biologie générale humaine\nM. COLET\nJo.Stievenart",
                     "start": "2025-12-18T08:15:00",
                     "end": "2025-12-18T10:15:00",
                     "color": "#0026ad"
@@ -1343,15 +1337,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nNiVésale.020",
-                    "start": "2025-12-16T15:45:00",
-                    "end": "2025-12-16T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Intro Math sciences de la vie\nM. RIVIERE\nJo.Stievenart",
                     "start": "2025-12-17T08:00:00",
                     "end": "2025-12-17T10:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nNiVésale.020",
+                    "start": "2025-12-18T13:30:00",
+                    "end": "2025-12-18T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -4711,7 +4705,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. endoc.\nM. LEGRAND, Mme TASSIN\nNiGA.VanGogh",
+                    "title": "Physio/Physiopath syst. endoc.\nM. LEGRAND, Mme TASSIN\nNiP.0A07",
                     "start": "2026-02-18T15:45:00",
                     "end": "2026-02-18T16:45:00",
                     "color": "#0026ad"
@@ -17488,7 +17482,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie de l'environnement\nM. SURIN\nNiMen.Pauling",
+                    "title": "Chimie de l'environnement\nM. SURIN\nNiBSM.012.Hermann",
                     "start": "2026-02-23T13:30:00",
                     "end": "2026-02-23T15:30:00",
                     "color": "#0026ad"
@@ -18374,7 +18368,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Sciences des matériaux\nM. LECLERE\nNiBSM.012.Hermann",
+                    "title": "Sciences des matériaux\nM. LECLERE\nNiMen.Pauling",
                     "start": "2026-02-25T13:30:00",
                     "end": "2026-02-25T15:30:00",
                     "color": "#0026ad"
@@ -27898,12 +27892,6 @@
                 },
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
-                    "start": "2025-12-18T18:00:00",
-                    "end": "2025-12-18T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2026-01-12T17:45:00",
                     "end": "2026-01-12T20:00:00",
                     "color": "#0026ad"
@@ -28711,12 +28699,6 @@
                 },
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
-                    "start": "2025-12-18T18:00:00",
-                    "end": "2025-12-18T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2026-01-12T17:45:00",
                     "end": "2026-01-12T20:00:00",
                     "color": "#0026ad"
@@ -28966,7 +28948,7 @@
                 },
                 {
                     "title": "_\n\nNiDeVinci.Russel",
-                    "start": "2025-12-16T13:45:00",
+                    "start": "2025-12-16T13:30:00",
                     "end": "2025-12-16T15:30:00",
                     "color": "#0026ad"
                 },
@@ -41541,7 +41523,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics in Cybersecuri\nM. DE CONINCK\nNiB6.124",
+                    "title": "Selected topics in Cybersecuri\nM. DE CONINCK\nNiBSM.012.Hermann",
                     "start": "2026-02-12T10:30:00",
                     "end": "2026-02-12T12:30:00",
                     "color": "#0026ad"
@@ -47353,7 +47335,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics in Cybersecuri\nM. DE CONINCK\nNiB6.124",
+                    "title": "Selected topics in Cybersecuri\nM. DE CONINCK\nNiBSM.012.Hermann",
                     "start": "2026-02-12T10:30:00",
                     "end": "2026-02-12T12:30:00",
                     "color": "#0026ad"
@@ -62984,7 +62966,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Microéconomie avancée - AAEP\nM. DUPREZ\nWa.Drechsel, Wa.SalleAca",
+                    "title": "Microéconomie avancée - AAEP\nM. DUPREZ\nWa.Drechsel",
                     "start": "2026-01-16T09:00:00",
                     "end": "2026-01-16T12:00:00",
                     "color": "#0026ad"
@@ -63885,12 +63867,6 @@
                 },
                 {
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
-                    "start": "2025-12-18T18:00:00",
-                    "end": "2025-12-18T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2026-01-12T17:45:00",
                     "end": "2026-01-12T20:00:00",
                     "color": "#0026ad"
@@ -64178,12 +64154,6 @@
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2025-12-11T18:00:00",
                     "end": "2025-12-11T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
-                    "start": "2025-12-18T18:00:00",
-                    "end": "2025-12-18T20:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -64766,12 +64736,6 @@
                     "title": "Biologie générale humaine\nM. COLET\nNiGA.VanGogh",
                     "start": "2025-12-17T10:30:00",
                     "end": "2025-12-17T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Biologie générale humaine\nM. COLET\nJo.Stievenart",
-                    "start": "2025-12-17T15:45:00",
-                    "end": "2025-12-17T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -69793,6 +69757,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Contrôle mat. première Pharma\nMme CARETTE\nNiB6.124",
+                    "start": "2026-02-12T10:30:00",
+                    "end": "2026-02-12T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Contrôle mat. première Pharma\nM. BLANKERT\nNiVésale.030",
                     "start": "2026-02-17T10:30:00",
                     "end": "2026-02-17T12:30:00",
@@ -71081,7 +71051,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Principes physico-chimiques\nM. VANDERBIST\nNiVésale.030, NiB6.18",
+                    "title": "Principes physico-chimiques\nM. VANDERBIST\nNiB6.18",
                     "start": "2025-12-19T10:30:00",
                     "end": "2025-12-19T12:30:00",
                     "color": "#0026ad"
@@ -76532,7 +76502,7 @@
                 },
                 {
                     "title": "_\n\nNiDeVinci.Russel",
-                    "start": "2025-12-16T13:45:00",
+                    "start": "2025-12-16T13:30:00",
                     "end": "2025-12-16T15:30:00",
                     "color": "#0026ad"
                 },
@@ -78501,7 +78471,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Sciences des matériaux\nM. LECLERE\nNiBSM.012.Hermann",
+                    "title": "Sciences des matériaux\nM. LECLERE\nNiMen.Pauling",
                     "start": "2026-02-25T13:30:00",
                     "end": "2026-02-25T15:30:00",
                     "color": "#0026ad"
@@ -79736,18 +79706,6 @@
                 },
                 {
                     "title": "Mécanique Classique II\nM. BOULANGER\nNiBSM.015.Feynman",
-                    "start": "2026-01-13T08:15:00",
-                    "end": "2026-01-13T12:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Mécanique Classique II\nM. BOULANGER\nNiBSM.015.Feynman",
-                    "start": "2026-01-13T13:30:00",
-                    "end": "2026-01-13T17:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Mécanique Classique II\nM. BOULANGER\nNiBSM.015.Feynman",
                     "start": "2026-01-14T08:15:00",
                     "end": "2026-01-14T12:15:00",
                     "color": "#0026ad"
@@ -79756,6 +79714,12 @@
                     "title": "Mécanique Classique II\nM. BOULANGER\nNiBSM.015.Feynman",
                     "start": "2026-01-14T13:30:00",
                     "end": "2026-01-14T17:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Mécanique Classique II\nM. BOULANGER\nNiBSM.015.Feynman",
+                    "start": "2026-01-15T08:15:00",
+                    "end": "2026-01-15T12:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -82013,7 +81977,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie de l'environnement\nM. SURIN\nNiMen.Pauling",
+                    "title": "Chimie de l'environnement\nM. SURIN\nNiBSM.012.Hermann",
                     "start": "2026-02-23T13:30:00",
                     "end": "2026-02-23T15:30:00",
                     "color": "#0026ad"
@@ -82580,7 +82544,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Init. à la recherche scient.\nM. SEMAY, M. VOUE\nNiBSM.012.Hermann",
+                    "title": "Init. à la recherche scient.\nM. VOUE, M. SEMAY\nNiBSM.012.Hermann",
                     "start": "2026-05-13T08:15:00",
                     "end": "2026-05-13T18:00:00",
                     "color": "#0026ad"
@@ -84931,12 +84895,6 @@
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2025-12-11T18:00:00",
                     "end": "2025-12-11T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
-                    "start": "2025-12-18T18:00:00",
-                    "end": "2025-12-18T20:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -87750,12 +87708,6 @@
                     "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
                     "start": "2025-12-11T18:00:00",
                     "end": "2025-12-11T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Evaluation des apprentissages\nM. DEMEUSE\nWa.Hotyat",
-                    "start": "2025-12-18T18:00:00",
-                    "end": "2025-12-18T20:00:00",
                     "color": "#0026ad"
                 },
                 {
