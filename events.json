@@ -3490,8 +3490,8 @@
                 },
                 {
                     "title": "English I, part 1\nM. DEVILEZ\nNiDeVinci.Vaughan, NiDeVinci.Wüster",
-                    "start": "2026-01-05T12:30:00",
-                    "end": "2026-01-05T14:30:00",
+                    "start": "2026-01-06T10:30:00",
+                    "end": "2026-01-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -5419,7 +5419,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anatomie pathologique générale\nMme D'HAENE, Mme REMMELINK\nNiGA.Plisnier, NiVésale.020",
+                    "title": "Anatomie pathologique générale\nMme D'HAENE, Mme REMMELINK\nNiVésale.020, NiGA.Plisnier",
                     "start": "2026-01-07T10:30:00",
                     "end": "2026-01-07T13:30:00",
                     "color": "#0026ad"
@@ -6846,7 +6846,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Neurophysio systè. - Partie 1\nMme VILLERS, Mme RIS\nNiGA.Plisnier, NiVésale.023, NiVésale.020, NiVésale.025, NiVésale.LaFontaine",
+                    "title": "Neurophysio systè. - Partie 1\nMme VILLERS, Mme RIS\nNiVésale.020, NiGA.Plisnier, NiVésale.LaFontaine, NiVésale.023, NiVésale.025",
                     "start": "2026-01-16T09:30:00",
                     "end": "2026-01-16T12:30:00",
                     "color": "#0026ad"
@@ -7032,7 +7032,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale\nMme NACHTERGAEL\nNiVésale.023, NiGA.Curie",
+                    "title": "Pharmacologie générale\nMme NACHTERGAEL\nNiGA.Curie, NiVésale.023",
                     "start": "2026-01-20T10:30:00",
                     "end": "2026-01-20T13:30:00",
                     "color": "#0026ad"
@@ -7076,7 +7076,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme CARETTE, Mme NACHTERGAEL\nNiVésale.023, NiGA.Curie",
+                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme CARETTE, Mme NACHTERGAEL\nNiGA.Curie, NiVésale.023",
                     "start": "2026-01-20T14:30:00",
                     "end": "2026-01-20T17:30:00",
                     "color": "#0026ad"
@@ -7278,19 +7278,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT, Mme TASSIN\nNiGA.Plisnier, NiGA.VanGogh, NiVésale.020",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT, Mme TASSIN\nNiVésale.020, NiGA.Plisnier, NiGA.VanGogh",
                     "start": "2025-12-18T08:15:00",
                     "end": "2025-12-18T10:15:00",
                     "color": "#0026ad"
                 }
             ],
             "Physiopathologie système nerv.": [
-                {
-                    "title": "Physiopathologie système nerv.\nM. MAVROUDAKIS\nNiB6.124",
-                    "start": "2026-03-12T08:15:00",
-                    "end": "2026-03-12T10:15:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Physiopathologie système nerv.\nM. MAVROUDAKIS\nNiB6.124",
                     "start": "2026-03-26T08:15:00",
@@ -7304,7 +7298,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiopathologie système nerv.\nM. MAVROUDAKIS\nNiVésale.LaFontaine",
+                    "title": "Physiopathologie système nerv.\nM. MAVROUDAKIS\nNiVésale.020",
+                    "start": "2026-04-01T16:45:00",
+                    "end": "2026-04-01T18:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Physiopathologie système nerv.\n\nM. MAVROUDAKIS",
                     "start": "2026-04-02T08:15:00",
                     "end": "2026-04-02T10:15:00",
                     "color": "#0026ad"
@@ -18468,7 +18468,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Sciences des matériaux\nM. LECLERE\nNiMen.Pauling",
+                    "title": "Sciences des matériaux\nM. LECLERE\nNiBSM.010.Lonsdale",
                     "start": "2026-03-04T13:30:00",
                     "end": "2026-03-04T15:30:00",
                     "color": "#0026ad"
@@ -25914,7 +25914,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mat poly impr 3D\nM. DUCOBU, M. ODENT, M. SPITAELS\nNiVésale.030",
+                    "title": "Mat poly impr 3D\nM. DUCOBU, M. ODENT, M. SPITAELS\nNiB6.18",
                     "start": "2026-03-04T13:30:00",
                     "end": "2026-03-04T15:30:00",
                     "color": "#0026ad"
@@ -29993,9 +29993,9 @@
             ],
             "Compléments d'algorithmique": [
                 {
-                    "title": "Compléments d'algorithmique\nM. MELOT\nNiVésale.025",
-                    "start": "2026-02-05T13:30:00",
-                    "end": "2026-02-05T15:30:00",
+                    "title": "Compléments d'algorithmique\nM. MELOT\nNiVésale.030",
+                    "start": "2026-02-11T13:30:00",
+                    "end": "2026-02-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -33094,12 +33094,6 @@
                 },
                 {
                     "title": "Compilation\nMme BRUYERE\nNiP.0A11",
-                    "start": "2026-02-05T08:15:00",
-                    "end": "2026-02-05T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Compilation\nMme BRUYERE\nNiP.0A11",
                     "start": "2026-02-09T08:15:00",
                     "end": "2026-02-09T10:15:00",
                     "color": "#0026ad"
@@ -33114,6 +33108,12 @@
                     "title": "Compilation\nMme BRUYERE\nNiDeVinci.Russel",
                     "start": "2026-02-16T08:15:00",
                     "end": "2026-02-16T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Compilation\nMme BRUYERE\nNiBSM.012.Hermann",
+                    "start": "2026-02-17T08:15:00",
+                    "end": "2026-02-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -38267,12 +38267,6 @@
                 },
                 {
                     "title": "Compilation\nMme BRUYERE\nNiP.0A11",
-                    "start": "2026-02-05T08:15:00",
-                    "end": "2026-02-05T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Compilation\nMme BRUYERE\nNiP.0A11",
                     "start": "2026-02-09T08:15:00",
                     "end": "2026-02-09T10:15:00",
                     "color": "#0026ad"
@@ -38287,6 +38281,12 @@
                     "title": "Compilation\nMme BRUYERE\nNiDeVinci.Russel",
                     "start": "2026-02-16T08:15:00",
                     "end": "2026-02-16T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Compilation\nMme BRUYERE\nNiBSM.012.Hermann",
+                    "start": "2026-02-17T08:15:00",
+                    "end": "2026-02-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -44010,12 +44010,6 @@
                 },
                 {
                     "title": "Compilation\nMme BRUYERE\nNiP.0A11",
-                    "start": "2026-02-05T08:15:00",
-                    "end": "2026-02-05T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Compilation\nMme BRUYERE\nNiP.0A11",
                     "start": "2026-02-09T08:15:00",
                     "end": "2026-02-09T10:15:00",
                     "color": "#0026ad"
@@ -44030,6 +44024,12 @@
                     "title": "Compilation\nMme BRUYERE\nNiDeVinci.Russel",
                     "start": "2026-02-16T08:15:00",
                     "end": "2026-02-16T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Compilation\nMme BRUYERE\nNiBSM.012.Hermann",
+                    "start": "2026-02-17T08:15:00",
+                    "end": "2026-02-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -53978,12 +53978,6 @@
                 },
                 {
                     "title": "Compilation\nMme BRUYERE\nNiP.0A11",
-                    "start": "2026-02-05T08:15:00",
-                    "end": "2026-02-05T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Compilation\nMme BRUYERE\nNiP.0A11",
                     "start": "2026-02-09T08:15:00",
                     "end": "2026-02-09T10:15:00",
                     "color": "#0026ad"
@@ -53998,6 +53992,12 @@
                     "title": "Compilation\nMme BRUYERE\nNiDeVinci.Russel",
                     "start": "2026-02-16T08:15:00",
                     "end": "2026-02-16T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Compilation\nMme BRUYERE\nNiBSM.012.Hermann",
+                    "start": "2026-02-17T08:15:00",
+                    "end": "2026-02-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -72826,8 +72826,8 @@
                 },
                 {
                     "title": "Pharmaco. spéciale - Partie 1\nMme NACHTERGAEL\nNiVésale.LaFontaine",
-                    "start": "2026-02-05T08:15:00",
-                    "end": "2026-02-05T10:15:00",
+                    "start": "2026-02-06T13:30:00",
+                    "end": "2026-02-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -72844,8 +72844,8 @@
                 },
                 {
                     "title": "Pharmaco. spéciale - Partie 1\nMme NACHTERGAEL\nNiVésale.LaFontaine",
-                    "start": "2026-02-12T08:15:00",
-                    "end": "2026-02-12T10:15:00",
+                    "start": "2026-02-13T15:45:00",
+                    "end": "2026-02-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -72862,8 +72862,8 @@
                 },
                 {
                     "title": "Pharmaco. spéciale - Partie 1\nMme NACHTERGAEL\nNiVésale.LaFontaine",
-                    "start": "2026-02-19T08:15:00",
-                    "end": "2026-02-19T10:15:00",
+                    "start": "2026-02-20T15:45:00",
+                    "end": "2026-02-20T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -72880,8 +72880,8 @@
                 },
                 {
                     "title": "Pharmaco. spéciale - Partie 1\nMme NACHTERGAEL\nNiVésale.LaFontaine",
-                    "start": "2026-02-26T08:15:00",
-                    "end": "2026-02-26T10:15:00",
+                    "start": "2026-02-27T15:45:00",
+                    "end": "2026-02-27T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -72898,8 +72898,8 @@
                 },
                 {
                     "title": "Pharmaco. spéciale - Partie 1\nMme NACHTERGAEL\nNiVésale.LaFontaine",
-                    "start": "2026-03-05T08:15:00",
-                    "end": "2026-03-05T10:15:00",
+                    "start": "2026-03-06T15:45:00",
+                    "end": "2026-03-06T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -78637,7 +78637,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Sciences des matériaux\nM. LECLERE\nNiMen.Pauling",
+                    "title": "Sciences des matériaux\nM. LECLERE\nNiBSM.010.Lonsdale",
                     "start": "2026-03-04T13:30:00",
                     "end": "2026-03-04T15:30:00",
                     "color": "#0026ad"
