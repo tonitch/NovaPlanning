@@ -16684,6 +16684,12 @@
                     "start": "2026-01-16T08:15:00",
                     "end": "2026-01-16T12:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Mécanique - Théorie\n\nNiBSM.012.Hermann",
+                    "start": "2026-02-17T12:30:00",
+                    "end": "2026-02-17T13:30:00",
+                    "color": "#0026ad"
                 }
             ],
             "Opt géo et thermo - Theorie": [
@@ -29171,7 +29177,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier, NiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale, NiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2026-02-09T08:15:00",
                     "end": "2026-02-09T10:15:00",
                     "color": "#0026ad"
@@ -29183,7 +29189,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-02-16T08:15:00",
                     "end": "2026-02-16T10:15:00",
                     "color": "#0026ad"
@@ -29195,7 +29201,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-02-23T08:15:00",
                     "end": "2026-02-23T10:15:00",
                     "color": "#0026ad"
@@ -29207,7 +29213,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-03-02T08:15:00",
                     "end": "2026-03-02T10:15:00",
                     "color": "#0026ad"
@@ -29219,7 +29225,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-03-09T08:15:00",
                     "end": "2026-03-09T10:15:00",
                     "color": "#0026ad"
@@ -29231,7 +29237,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-03-23T08:15:00",
                     "end": "2026-03-23T10:15:00",
                     "color": "#0026ad"
@@ -29243,7 +29249,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-03-30T08:15:00",
                     "end": "2026-03-30T10:15:00",
                     "color": "#0026ad"
@@ -29261,7 +29267,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-04-13T08:15:00",
                     "end": "2026-04-13T10:15:00",
                     "color": "#0026ad"
@@ -29273,7 +29279,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-05-04T08:15:00",
                     "end": "2026-05-04T10:15:00",
                     "color": "#0026ad"
@@ -29285,7 +29291,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX, Mme LACROIX\nNiB6.18, NiGA.Plisnier, NiBSM.010.Lonsdale",
                     "start": "2026-05-11T08:15:00",
                     "end": "2026-05-11T10:15:00",
                     "color": "#0026ad"
@@ -30892,6 +30898,12 @@
                     "title": "Mécanique - Théorie\nM. MAES\nNiGA.Curie, NiGA.VanGogh",
                     "start": "2026-01-16T08:15:00",
                     "end": "2026-01-16T12:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Mécanique - Théorie\n\nNiBSM.012.Hermann",
+                    "start": "2026-02-17T12:30:00",
+                    "end": "2026-02-17T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -49051,6 +49063,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiBSM.010.Lonsdale",
+                    "start": "2026-02-26T13:30:00",
+                    "end": "2026-02-26T16:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
                     "start": "2026-03-04T08:15:00",
                     "end": "2026-03-04T10:15:00",
@@ -49120,6 +49138,18 @@
                     "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiDeVinci.Mirzakhani",
                     "start": "2026-05-04T09:30:00",
                     "end": "2026-05-04T16:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.0A11",
+                    "start": "2026-05-05T10:30:00",
+                    "end": "2026-05-05T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiBSM.015.Feynman",
+                    "start": "2026-05-06T10:30:00",
+                    "end": "2026-05-06T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -50420,6 +50450,12 @@
                     "title": "Mécanique - Théorie\nM. MAES\nNiGA.Curie, NiGA.VanGogh",
                     "start": "2026-01-16T08:15:00",
                     "end": "2026-01-16T12:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Mécanique - Théorie\n\nNiBSM.012.Hermann",
+                    "start": "2026-02-17T12:30:00",
+                    "end": "2026-02-17T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -74875,13 +74911,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiVésale.020",
+                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiVésale.LaFontaine",
                     "start": "2026-03-16T09:00:00",
                     "end": "2026-03-16T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiVésale.020",
+                    "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiVésale.LaFontaine",
                     "start": "2026-03-16T13:30:00",
                     "end": "2026-03-16T15:30:00",
                     "color": "#0026ad"
@@ -76220,6 +76256,12 @@
                     "title": "Mécanique - Théorie\nM. MAES\nNiGA.VanGogh, NiGA.Curie",
                     "start": "2026-01-16T08:15:00",
                     "end": "2026-01-16T12:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Mécanique - Théorie\n\nNiBSM.012.Hermann",
+                    "start": "2026-02-17T12:30:00",
+                    "end": "2026-02-17T13:30:00",
                     "color": "#0026ad"
                 }
             ],
