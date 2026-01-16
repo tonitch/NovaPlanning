@@ -677,9 +677,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme HENOUMONT\nNiB6.03Lab",
-                    "start": "2026-01-23T13:30:00",
-                    "end": "2026-01-23T16:30:00",
+                    "title": "Chimie générale I\nMme HENOUMONT\nNiMen.Pauling",
+                    "start": "2026-02-02T15:45:00",
+                    "end": "2026-02-02T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -1026,8 +1026,8 @@
             "Chimie organique II": [
                 {
                     "title": "Chimie organique II\nMme LAURENT\nNiGA.VanGogh",
-                    "start": "2026-02-03T10:30:00",
-                    "end": "2026-02-03T12:30:00",
+                    "start": "2026-02-03T10:15:00",
+                    "end": "2026-02-03T12:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -3054,9 +3054,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiVésale.030",
-                    "start": "2026-02-11T12:30:00",
-                    "end": "2026-02-11T13:30:00",
+                    "title": "Biochimie métabolique\n\nMme DECARNONCLE",
+                    "start": "2026-02-10T14:30:00",
+                    "end": "2026-02-10T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -8139,9 +8139,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiVésale.030",
-                    "start": "2026-02-11T12:30:00",
-                    "end": "2026-02-11T13:30:00",
+                    "title": "Biochimie métabolique\n\nMme DECARNONCLE",
+                    "start": "2026-02-10T14:30:00",
+                    "end": "2026-02-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -8151,9 +8151,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiVésale.030",
-                    "start": "2026-02-11T12:30:00",
-                    "end": "2026-02-11T13:30:00",
+                    "title": "Biochimie métabolique\n\nMme DECARNONCLE",
+                    "start": "2026-02-10T14:30:00",
+                    "end": "2026-02-10T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -9436,6 +9436,12 @@
                     "title": "GMP-GLP-Validation\nM. DEBAUVE\nNiGA.Plisnier",
                     "start": "2026-01-08T15:00:00",
                     "end": "2026-01-08T18:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "GMP-GLP-Validation\nM. DEBAUVE\nNiP.3E20",
+                    "start": "2026-02-02T12:30:00",
+                    "end": "2026-02-02T14:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -11149,6 +11155,12 @@
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
                     "start": "2026-02-02T08:15:00",
+                    "end": "2026-02-02T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
+                    "start": "2026-02-02T14:30:00",
                     "end": "2026-02-02T17:45:00",
                     "color": "#0026ad"
                 },
@@ -11160,7 +11172,7 @@
                 },
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
-                    "start": "2026-02-04T08:00:00",
+                    "start": "2026-02-04T08:15:00",
                     "end": "2026-02-04T13:15:00",
                     "color": "#0026ad"
                 },
@@ -11191,13 +11203,19 @@
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE\nNiP.0C14",
                     "start": "2026-02-10T08:15:00",
-                    "end": "2026-02-10T17:45:00",
+                    "end": "2026-02-10T14:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Préparation technique mémoire\nMme LEMOINE\nNiP.0C14",
+                    "start": "2026-02-10T15:30:00",
+                    "end": "2026-02-10T18:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
-                    "start": "2026-02-11T08:00:00",
-                    "end": "2026-02-11T12:30:00",
+                    "start": "2026-02-11T08:15:00",
+                    "end": "2026-02-11T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -11232,7 +11250,7 @@
                 },
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
-                    "start": "2026-02-18T08:00:00",
+                    "start": "2026-02-18T08:15:00",
                     "end": "2026-02-18T13:15:00",
                     "color": "#0026ad"
                 },
@@ -11268,7 +11286,7 @@
                 },
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
-                    "start": "2026-02-25T08:00:00",
+                    "start": "2026-02-25T08:15:00",
                     "end": "2026-02-25T13:15:00",
                     "color": "#0026ad"
                 },
@@ -11304,7 +11322,7 @@
                 },
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
-                    "start": "2026-03-04T08:00:00",
+                    "start": "2026-03-04T08:15:00",
                     "end": "2026-03-04T13:15:00",
                     "color": "#0026ad"
                 },
@@ -65136,9 +65154,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme HENOUMONT\nNiB6.03Lab",
-                    "start": "2026-01-23T13:30:00",
-                    "end": "2026-01-23T16:30:00",
+                    "title": "Chimie générale I\nMme HENOUMONT\nNiMen.Pauling",
+                    "start": "2026-02-06T10:30:00",
+                    "end": "2026-02-06T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -65479,8 +65497,8 @@
                 },
                 {
                     "title": "Chimie organique II\nMme LAURENT\nNiGA.VanGogh",
-                    "start": "2026-02-03T10:30:00",
-                    "end": "2026-02-03T12:30:00",
+                    "start": "2026-02-03T10:15:00",
+                    "end": "2026-02-03T12:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -65563,12 +65581,6 @@
                 }
             ],
             "Elem. bota. A.": [
-                {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
-                    "start": "2026-02-03T08:15:00",
-                    "end": "2026-02-03T10:15:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
                     "start": "2026-02-04T15:45:00",
@@ -66694,9 +66706,9 @@
             ],
             "Physique Biomed I - Partie 2": [
                 {
-                    "title": "Physique Biomed I - Partie 2\nMme HOCQ\nRosaParks.0.08.Landercy",
-                    "start": "2026-02-04T08:00:00",
-                    "end": "2026-02-04T10:00:00",
+                    "title": "Physique Biomed I - Partie 2\nMme HOCQ\nNiGA.Curie",
+                    "start": "2026-02-03T08:00:00",
+                    "end": "2026-02-03T10:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -67717,9 +67729,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nMme DECARNONCLE, M. LABIAU\nNiVésale.030",
-                    "start": "2026-02-11T12:30:00",
-                    "end": "2026-02-11T13:30:00",
+                    "title": "Biochimie métabolique\n\nMme DECARNONCLE",
+                    "start": "2026-02-10T14:30:00",
+                    "end": "2026-02-10T15:30:00",
                     "color": "#0026ad"
                 }
             ],
