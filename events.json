@@ -3048,15 +3048,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nMme COPPEE, Mme DECLEVES, M. LABIAU, Mme DECARNONCLE\nNiB6.124, NiB6.18, NiVésale.LaFontaine, Wa.SalleAca, NiGA.Curie",
+                    "title": "Biochimie métabolique\nMme COPPEE, M. LABIAU, Mme DECARNONCLE, Mme DECLEVES\nWa.SalleAca, NiB6.124, NiB6.18, NiVésale.LaFontaine, NiGA.Curie",
                     "start": "2026-01-14T13:00:00",
                     "end": "2026-01-14T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\n\nMme DECARNONCLE",
-                    "start": "2026-02-10T14:30:00",
-                    "end": "2026-02-10T15:30:00",
+                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiGA.Plisnier",
+                    "start": "2026-02-11T12:30:00",
+                    "end": "2026-02-11T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -3179,8 +3179,8 @@
                 },
                 {
                     "title": "Biologie animale et mét. alte.\nMme TAGLIATTI\nNiB6.06",
-                    "start": "2026-02-05T10:15:00",
-                    "end": "2026-02-05T11:15:00",
+                    "start": "2026-02-05T10:30:00",
+                    "end": "2026-02-05T11:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -3508,13 +3508,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English I, part 1\nM. DEVILEZ, Mme VAN LANCKER\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "English I, part 1\nMme VAN LANCKER, M. DEVILEZ\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2025-12-17T14:30:00",
                     "end": "2025-12-17T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English I, part 1\nM. DEVILEZ\nNiDeVinci.Vaughan, NiDeVinci.Wüster",
+                    "title": "English I, part 1\nM. DEVILEZ\nNiDeVinci.Wüster, NiDeVinci.Vaughan",
                     "start": "2026-01-06T10:30:00",
                     "end": "2026-01-06T12:30:00",
                     "color": "#0026ad"
@@ -3890,31 +3890,31 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiB6.124",
+                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.124",
                     "start": "2026-04-08T08:15:00",
                     "end": "2026-04-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiB6.211",
+                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.211",
                     "start": "2026-04-13T10:30:00",
                     "end": "2026-04-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiB6.18",
+                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.18",
                     "start": "2026-04-13T15:45:00",
                     "end": "2026-04-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiB6.18",
+                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.18",
                     "start": "2026-04-14T15:45:00",
                     "end": "2026-04-14T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiVésale.025",
+                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiVésale.025",
                     "start": "2026-04-17T10:30:00",
                     "end": "2026-04-17T12:30:00",
                     "color": "#0026ad"
@@ -4024,13 +4024,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale\nM. GENNAUX, Mme FRAU, Mme FIEVET, M. NONCLERCQ\nNiVésale.025, NiVésale.LaFontaine",
+                    "title": "Histologie générale\nM. NONCLERCQ, Mme FRAU, Mme FIEVET, M. GENNAUX\nNiVésale.025, NiVésale.LaFontaine",
                     "start": "2026-01-08T09:00:00",
                     "end": "2026-01-08T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale\nM. GENNAUX, Mme FRAU, Mme FIEVET, M. NONCLERCQ\nNiVésale.025, NiVésale.LaFontaine",
+                    "title": "Histologie générale\nM. NONCLERCQ, Mme FRAU, Mme FIEVET, M. GENNAUX\nNiVésale.025, NiVésale.LaFontaine",
                     "start": "2026-01-08T13:00:00",
                     "end": "2026-01-08T16:00:00",
                     "color": "#0026ad"
@@ -4038,55 +4038,55 @@
             ],
             "Histologie générale TP": [
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-10-20T13:30:00",
                     "end": "2025-10-20T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-11-07T15:45:00",
                     "end": "2025-11-07T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX\nNiP.1E11",
+                    "title": "Histologie générale TP\nM. GENNAUX, Mme FIEVET\nNiP.1E11",
                     "start": "2025-11-10T13:30:00",
                     "end": "2025-11-10T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX\nNiP.1E11",
+                    "title": "Histologie générale TP\nM. GENNAUX, Mme FIEVET\nNiP.1E11",
                     "start": "2025-11-17T13:30:00",
                     "end": "2025-11-17T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-11-21T15:45:00",
                     "end": "2025-11-21T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-11-24T09:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-12-08T09:30:00",
                     "end": "2025-12-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-12-15T09:30:00",
                     "end": "2025-12-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-12-16T15:45:00",
                     "end": "2025-12-16T18:45:00",
                     "color": "#0026ad"
@@ -4162,55 +4162,55 @@
             ],
             "Histologie spéciale TP/Exerc.": [
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-02-06T15:45:00",
                     "end": "2026-02-06T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-02-11T15:45:00",
                     "end": "2026-02-11T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-03-04T15:45:00",
                     "end": "2026-03-04T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-03-26T13:30:00",
                     "end": "2026-03-26T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-03-30T09:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-04-01T15:45:00",
                     "end": "2026-04-01T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-04-08T15:45:00",
                     "end": "2026-04-08T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-05-04T09:30:00",
                     "end": "2026-05-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-05-11T16:00:00",
                     "end": "2026-05-11T19:00:00",
                     "color": "#0026ad"
@@ -4337,6 +4337,12 @@
                     "title": "Initiat. recherche Pharm/Biome\nM. LABIAU, M. CONOTTE, M. JOURNE, Mme LEMOINE, Mme DECARNONCLE, Mme TAGLIATTI\nNiP.3C07Lab, NiP.1E11",
                     "start": "2026-01-23T08:30:00",
                     "end": "2026-01-23T18:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Initiat. recherche Pharm/Biome\nM. LABIAU\nNiGA.Turing",
+                    "start": "2026-02-05T11:00:00",
+                    "end": "2026-02-05T12:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -5552,6 +5558,12 @@
                     "start": "2026-01-13T14:45:00",
                     "end": "2026-01-13T17:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Biochimie pathologique\nM. PIAGNERELLI\nNiVésale.023",
+                    "start": "2026-02-04T12:30:00",
+                    "end": "2026-02-04T13:30:00",
+                    "color": "#0026ad"
                 }
             ],
             "Biologie cellulaire": [
@@ -6471,6 +6483,12 @@
                     "start": "2026-01-22T08:30:00",
                     "end": "2026-01-22T12:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Initiat. modèles/métho. Biomed\nMme TAGLIATTI\nNiB6.06",
+                    "start": "2026-02-05T13:00:00",
+                    "end": "2026-02-05T14:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Intelligence artificielle I": [
@@ -6798,6 +6816,12 @@
                     "title": "Neuroanat/Sémio neurologique\nM. MANTO\nNiGA.Gutenberg",
                     "start": "2026-01-17T10:30:00",
                     "end": "2026-01-17T13:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Neuroanat/Sémio neurologique\n\nM. MANTO",
+                    "start": "2026-02-09T12:30:00",
+                    "end": "2026-02-09T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -7466,6 +7490,12 @@
                     "title": "Statistiques II\nM. LELUBRE\nNiB6.127Info, NiP.1E12",
                     "start": "2026-01-12T13:00:00",
                     "end": "2026-01-12T17:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Statistiques II\nM. LELUBRE\nNiGA.Curie",
+                    "start": "2026-02-02T12:30:00",
+                    "end": "2026-02-02T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -8139,9 +8169,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\n\nMme DECARNONCLE",
-                    "start": "2026-02-10T14:30:00",
-                    "end": "2026-02-10T15:30:00",
+                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiGA.Plisnier",
+                    "start": "2026-02-11T12:30:00",
+                    "end": "2026-02-11T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -8151,9 +8181,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\n\nMme DECARNONCLE",
-                    "start": "2026-02-10T14:30:00",
-                    "end": "2026-02-10T15:30:00",
+                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiGA.Plisnier",
+                    "start": "2026-02-11T12:30:00",
+                    "end": "2026-02-11T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -8222,6 +8252,12 @@
                     "title": "Bioinformatique\nM. SAND\nNiB6.127Info",
                     "start": "2026-01-23T13:45:00",
                     "end": "2026-01-23T16:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Bioinformatique\nM. SAND\nNiB6.127Info",
+                    "start": "2026-02-05T12:00:00",
+                    "end": "2026-02-05T13:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -9053,6 +9089,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Complément biologie cellulaire\n\nMme BURTEA",
+                    "start": "2026-02-02T11:00:00",
+                    "end": "2026-02-02T12:00:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Complément biologie cellulaire\nMme BURTEA\nNiP.3E11",
                     "start": "2025-10-09T08:15:00",
                     "end": "2025-10-09T10:15:00",
@@ -9104,6 +9146,12 @@
                     "title": "Complément biologie cellulaire\nMme BURTEA\nNiB6.127Info",
                     "start": "2026-01-06T09:00:00",
                     "end": "2026-01-06T11:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Complément biologie cellulaire\n\nMme BURTEA",
+                    "start": "2026-02-02T11:00:00",
+                    "end": "2026-02-02T12:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -10339,6 +10387,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Neuroanat/Sémio neurologique\n\nM. MANTO",
+                    "start": "2026-02-09T12:30:00",
+                    "end": "2026-02-09T13:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Neuroanat/Sémio neurologique\nM. MANTO\nNiGA.Plisnier",
                     "start": "2025-09-29T13:30:00",
                     "end": "2025-09-29T15:30:00",
@@ -10462,6 +10516,12 @@
                     "title": "Neuroanat/Sémio neurologique\nM. MANTO\nNiGA.Gutenberg",
                     "start": "2026-01-17T10:30:00",
                     "end": "2026-01-17T13:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Neuroanat/Sémio neurologique\n\nM. MANTO",
+                    "start": "2026-02-09T12:30:00",
+                    "end": "2026-02-09T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -11155,7 +11215,7 @@
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
                     "start": "2026-02-02T08:15:00",
-                    "end": "2026-02-02T12:30:00",
+                    "end": "2026-02-02T11:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -11179,12 +11239,18 @@
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
                     "start": "2026-02-04T13:15:00",
-                    "end": "2026-02-04T18:30:00",
+                    "end": "2026-02-04T17:45:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
                     "start": "2026-02-05T08:15:00",
+                    "end": "2026-02-05T12:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
+                    "start": "2026-02-05T13:00:00",
                     "end": "2026-02-05T17:45:00",
                     "color": "#0026ad"
                 },
@@ -11197,7 +11263,13 @@
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
                     "start": "2026-02-09T08:15:00",
-                    "end": "2026-02-09T17:45:00",
+                    "end": "2026-02-09T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
+                    "start": "2026-02-09T13:30:00",
+                    "end": "2026-02-09T17:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -11208,20 +11280,20 @@
                 },
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE\nNiP.0C14",
-                    "start": "2026-02-10T15:30:00",
-                    "end": "2026-02-10T18:30:00",
+                    "start": "2026-02-10T14:30:00",
+                    "end": "2026-02-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
                     "start": "2026-02-11T08:15:00",
-                    "end": "2026-02-11T13:30:00",
+                    "end": "2026-02-11T12:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
                     "start": "2026-02-11T13:30:00",
-                    "end": "2026-02-11T18:30:00",
+                    "end": "2026-02-11T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -17070,8 +17142,8 @@
             "SAP - Etudiants": [
                 {
                     "title": "SAP - Etudiants\n\n",
-                    "start": "2026-02-02T12:30:00",
-                    "end": "2026-02-02T13:30:00",
+                    "start": "2026-02-03T12:30:00",
+                    "end": "2026-02-03T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -53763,12 +53835,6 @@
                 },
                 {
                     "title": "Analyse et conc des syst d'ens\nM. DEROBERTMASURE\nNiGA.VanGogh",
-                    "start": "2026-03-26T10:30:00",
-                    "end": "2026-03-26T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Analyse et conc des syst d'ens\nM. DEROBERTMASURE\nNiGA.VanGogh",
                     "start": "2026-04-02T10:30:00",
                     "end": "2026-04-02T12:30:00",
                     "color": "#0026ad"
@@ -67729,9 +67795,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\n\nMme DECARNONCLE",
-                    "start": "2026-02-10T14:30:00",
-                    "end": "2026-02-10T15:30:00",
+                    "title": "Biochimie métabolique\nMme DECARNONCLE, M. LABIAU\nNiGA.Plisnier",
+                    "start": "2026-02-11T12:30:00",
+                    "end": "2026-02-11T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -68634,6 +68700,14 @@
                     "title": "Eléments physiologie générale\n\nMme VILLERS, Mme RIS",
                     "start": "2026-01-21T11:15:00",
                     "end": "2026-01-21T17:15:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "English for Science, part 1": [
+                {
+                    "title": "English for Science, part 1\n\nMme VAN LANCKER",
+                    "start": "2026-02-05T08:15:00",
+                    "end": "2026-02-05T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -69590,6 +69664,12 @@
                     "title": "Statistiques II\nM. LELUBRE\nNiP.1E12, NiB6.127Info",
                     "start": "2026-01-12T13:00:00",
                     "end": "2026-01-12T17:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Statistiques II\nM. LELUBRE\nNiGA.Curie",
+                    "start": "2026-02-02T12:30:00",
+                    "end": "2026-02-02T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -72827,6 +72907,12 @@
                     "title": "Nutrition/Aspects bromatologie\nMme PATRIS\nNiB6.18",
                     "start": "2025-10-24T10:30:00",
                     "end": "2025-10-24T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Nutrition/Aspects bromatologie\n\nMme PATRIS",
+                    "start": "2026-01-22T14:00:00",
+                    "end": "2026-01-22T15:00:00",
                     "color": "#0026ad"
                 }
             ],
