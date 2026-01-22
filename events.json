@@ -65,12 +65,6 @@
             ],
             "Biochimie générale": [
                 {
-                    "title": "Biochimie générale\nM. LABIAU\nJo.Stievenart",
-                    "start": "2026-02-10T13:30:00",
-                    "end": "2026-02-10T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Biochimie générale\nM. LABIAU\nNiVésale.023",
                     "start": "2026-02-24T13:30:00",
                     "end": "2026-02-24T15:30:00",
@@ -1017,7 +1011,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nMme GODEAU, M. STANICKI, Mme BEAUCHOT, Mme HENOUMONT, Mme LAURENT, M. VAN LEUVEN\nNiVésale.020, RosaParks.1.09.Delmas-Marty, RosaParks.0.08.Landercy, NiB6.124, NiGA.Plisnier, NiGA.Gutenberg, NiB6.06, NiVésale.025, NiVésale.LaFontaine, NiVésale.023, NiGA.Curie, NiGA.VanGogh, NiVésale.030, NiB6.211",
+                    "title": "Chimie organique I\nMme GODEAU, M. STANICKI, Mme BEAUCHOT, Mme HENOUMONT, Mme LAURENT, M. VAN LEUVEN\nNiVésale.020, RosaParks.1.09.Delmas-Marty, RosaParks.0.08.Landercy, NiVésale.LaFontaine, NiB6.124, NiGA.Plisnier, NiGA.Gutenberg, NiB6.06, NiVésale.025, NiVésale.023, NiGA.Curie, NiGA.VanGogh, NiVésale.030, NiB6.211",
                     "start": "2026-01-15T09:30:00",
                     "end": "2026-01-15T12:30:00",
                     "color": "#0026ad"
@@ -1797,7 +1791,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique Biomed I\nM. VUONG\nNiVésale.LaFontaine, NiGA.Curie, Jo.Stievenart, NiGA.VanGogh, NiGA.Gutenberg",
+                    "title": "Physique Biomed I\nM. VUONG\nNiGA.Curie, Jo.Stievenart, NiVésale.LaFontaine, NiGA.VanGogh, NiGA.Gutenberg",
                     "start": "2025-10-31T13:30:00",
                     "end": "2025-10-31T15:30:00",
                     "color": "#0026ad"
@@ -1969,7 +1963,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique Biomed I - Partie 2\nMme HOCQ\nRosaParks.0.08.Landercy",
+                    "title": "Physique Biomed I - Partie 2\nMme HOCQ\nRosaParks.1.09.Delmas-Marty",
                     "start": "2026-02-11T08:00:00",
                     "end": "2026-02-11T10:00:00",
                     "color": "#0026ad"
@@ -2768,7 +2762,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques I\nM. LELUBRE\nNiVésale.LaFontaine, NiVésale.020, NiGA.Curie, NiGA.Plisnier, NiGA.Gutenberg",
+                    "title": "Statistiques I\nM. LELUBRE\nNiVésale.020, NiGA.Curie, NiVésale.LaFontaine, NiGA.Plisnier, NiGA.Gutenberg",
                     "start": "2026-01-19T08:15:00",
                     "end": "2026-01-19T12:15:00",
                     "color": "#0026ad"
@@ -5842,6 +5836,12 @@
                     "start": "2026-05-11T10:30:00",
                     "end": "2026-05-11T12:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiVésale.020",
+                    "start": "2026-05-13T08:15:00",
+                    "end": "2026-05-13T10:15:00",
+                    "color": "#0026ad"
                 }
             ],
             "Embryologie humaine": [
@@ -8038,12 +8038,6 @@
                     "title": "Biochimie générale\nMme DECLEVES\nJo.Stievenart",
                     "start": "2026-05-13T15:45:00",
                     "end": "2026-05-13T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Biochimie générale\nM. LABIAU\nJo.Stievenart",
-                    "start": "2026-02-10T13:30:00",
-                    "end": "2026-02-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -16027,49 +16021,49 @@
             ],
             "Chim. Organ. I. C": [
                 {
-                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-03-20T13:30:00",
                     "end": "2026-03-20T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-03-23T13:30:00",
                     "end": "2026-03-23T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-03-24T13:30:00",
                     "end": "2026-03-24T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-03-25T13:30:00",
                     "end": "2026-03-25T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-03-30T13:30:00",
                     "end": "2026-03-30T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-03-31T13:30:00",
                     "end": "2026-03-31T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-04-01T13:30:00",
                     "end": "2026-04-01T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim. Organ. I. C\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-04-02T13:30:00",
                     "end": "2026-04-02T17:45:00",
                     "color": "#0026ad"
@@ -17337,31 +17331,31 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-10-20T10:30:00",
                     "end": "2025-10-20T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-10-21T10:30:00",
                     "end": "2025-10-21T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-10-22T10:30:00",
                     "end": "2025-10-22T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-10-23T10:30:00",
                     "end": "2025-10-23T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chim org: mécanismes réact\nMme MINCHEVA, M. COULEMBIER\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-10-24T10:30:00",
                     "end": "2025-10-24T17:30:00",
                     "color": "#0026ad"
@@ -18889,31 +18883,31 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-03T13:30:00",
                     "end": "2025-11-03T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-04T13:30:00",
                     "end": "2025-11-04T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-05T13:30:00",
                     "end": "2025-11-05T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-06T13:30:00",
                     "end": "2025-11-06T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anal.struct.chim.orga\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Anal.struct.chim.orga\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-07T13:30:00",
                     "end": "2025-11-07T17:30:00",
                     "color": "#0026ad"
@@ -19413,13 +19407,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-04-13T13:30:00",
                     "end": "2026-04-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-04-14T13:30:00",
                     "end": "2026-04-14T17:30:00",
                     "color": "#0026ad"
@@ -19431,7 +19425,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-04-15T13:30:00",
                     "end": "2026-04-15T17:30:00",
                     "color": "#0026ad"
@@ -19443,13 +19437,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-04-16T13:30:00",
                     "end": "2026-04-16T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.006Lab.Lavoissier",
+                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-04-17T13:30:00",
                     "end": "2026-04-17T17:30:00",
                     "color": "#0026ad"
@@ -19887,25 +19881,25 @@
             ],
             "La chimie de 7 à 77 ans": [
                 {
-                    "title": "La chimie de 7 à 77 ans\nM. GERBAUX\nNiBSM.006Lab.Lavoissier",
+                    "title": "La chimie de 7 à 77 ans\nM. GERBAUX\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-02-06T13:30:00",
                     "end": "2026-02-06T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "La chimie de 7 à 77 ans\nM. GERBAUX\nNiBSM.006Lab.Lavoissier",
+                    "title": "La chimie de 7 à 77 ans\nM. GERBAUX\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-02-20T13:30:00",
                     "end": "2026-02-20T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "La chimie de 7 à 77 ans\nM. GERBAUX\nNiBSM.006Lab.Lavoissier",
+                    "title": "La chimie de 7 à 77 ans\nM. GERBAUX\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-02-27T13:30:00",
                     "end": "2026-02-27T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "La chimie de 7 à 77 ans\nM. GERBAUX\nNiBSM.006Lab.Lavoissier",
+                    "title": "La chimie de 7 à 77 ans\nM. GERBAUX\nNiBSM.006Lab.Lavoisier",
                     "start": "2026-03-06T13:30:00",
                     "end": "2026-03-06T17:30:00",
                     "color": "#0026ad"
@@ -26271,13 +26265,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Microscopies à haute résolutio\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Microscopies à haute résolutio\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-17T13:30:00",
                     "end": "2025-11-17T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Microscopies à haute résolutio\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Microscopies à haute résolutio\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-24T13:30:00",
                     "end": "2025-11-24T16:00:00",
                     "color": "#0026ad"
@@ -34453,7 +34447,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nCha.ZG.S.2.15",
+                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nCha.ZG.S.0.15",
                     "start": "2026-04-01T18:00:00",
                     "end": "2026-04-01T21:00:00",
                     "color": "#0026ad"
@@ -41854,7 +41848,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nCha.ZG.S.2.15",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nCha.ZG.S.0.15",
                     "start": "2026-04-01T18:00:00",
                     "end": "2026-04-01T21:00:00",
                     "color": "#0026ad"
@@ -41914,7 +41908,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nCha.ZG.S.2.15",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nCha.ZG.S.0.15",
                     "start": "2026-04-01T18:00:00",
                     "end": "2026-04-01T21:00:00",
                     "color": "#0026ad"
@@ -47642,7 +47636,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nCha.ZG.S.2.15",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nCha.ZG.S.0.15",
                     "start": "2026-04-01T18:00:00",
                     "end": "2026-04-01T21:00:00",
                     "color": "#0026ad"
@@ -64604,12 +64598,6 @@
             ],
             "Biochimie générale": [
                 {
-                    "title": "Biochimie générale\nM. LABIAU\nJo.Stievenart",
-                    "start": "2026-02-10T13:30:00",
-                    "end": "2026-02-10T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Biochimie générale\nM. LABIAU\nNiVésale.023",
                     "start": "2026-02-24T13:30:00",
                     "end": "2026-02-24T15:30:00",
@@ -66748,7 +66736,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique Biomed I - Partie 2\nMme HOCQ\nRosaParks.0.08.Landercy",
+                    "title": "Physique Biomed I - Partie 2\nMme HOCQ\nRosaParks.1.09.Delmas-Marty",
                     "start": "2026-02-11T08:00:00",
                     "end": "2026-02-11T10:00:00",
                     "color": "#0026ad"
@@ -68673,14 +68661,6 @@
                     "color": "#0026ad"
                 }
             ],
-            "English for Science, part 1": [
-                {
-                    "title": "English for Science, part 1\n\nMme VAN LANCKER",
-                    "start": "2026-02-05T08:15:00",
-                    "end": "2026-02-05T10:15:00",
-                    "color": "#0026ad"
-                }
-            ],
             "English, part 1": [
                 {
                     "title": "English, part 1\nMme VAN LANCKER\nNiB6.06",
@@ -68838,6 +68818,12 @@
                     "title": "English, part 2\nMme VAN LANCKER\nNiGA.Pascal",
                     "start": "2026-02-03T08:15:00",
                     "end": "2026-02-03T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "English, part 2\n\nMme VAN LANCKER",
+                    "start": "2026-02-05T08:15:00",
+                    "end": "2026-02-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -70207,6 +70193,12 @@
                     "title": "Eléments de pathologie\nM. HOUGARDY\nNiVésale.020",
                     "start": "2026-05-11T10:30:00",
                     "end": "2026-05-11T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiVésale.020",
+                    "start": "2026-05-13T08:15:00",
+                    "end": "2026-05-13T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -81428,7 +81420,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-18T13:30:00",
                     "end": "2025-11-18T17:30:00",
                     "color": "#0026ad"
@@ -81440,25 +81432,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-02T13:30:00",
                     "end": "2025-12-02T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-09T13:30:00",
                     "end": "2025-12-09T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-10T13:30:00",
                     "end": "2025-12-10T17:30:00",
                     "color": "#0026ad"
@@ -81470,7 +81462,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-17T13:45:00",
                     "end": "2025-12-17T17:45:00",
                     "color": "#0026ad"
@@ -83825,7 +83817,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-18T13:30:00",
                     "end": "2025-11-18T17:30:00",
                     "color": "#0026ad"
@@ -83837,25 +83829,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-02T13:30:00",
                     "end": "2025-12-02T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-09T13:30:00",
                     "end": "2025-12-09T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-10T13:30:00",
                     "end": "2025-12-10T17:30:00",
                     "color": "#0026ad"
@@ -83867,7 +83859,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-17T13:45:00",
                     "end": "2025-12-17T17:45:00",
                     "color": "#0026ad"
@@ -86344,13 +86336,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Microscopies à haute résolutio\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Microscopies à haute résolutio\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-17T13:30:00",
                     "end": "2025-11-17T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Microscopies à haute résolutio\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Microscopies à haute résolutio\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-24T13:30:00",
                     "end": "2025-11-24T16:00:00",
                     "color": "#0026ad"
@@ -86665,7 +86657,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-18T13:30:00",
                     "end": "2025-11-18T17:30:00",
                     "color": "#0026ad"
@@ -86677,25 +86669,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-02T13:30:00",
                     "end": "2025-12-02T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-09T13:30:00",
                     "end": "2025-12-09T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoissier",
+                    "title": "Physique surfaces et interface\nM. LECLERE\nNiBSM.006Lab.Lavoisier",
                     "start": "2025-12-10T13:30:00",
                     "end": "2025-12-10T17:30:00",
                     "color": "#0026ad"
