@@ -3750,7 +3750,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exploration fonctio. humaine\nMme LUPANT\nNiB6.18",
+                    "title": "Exploration fonctio. humaine\nM. FLAMME\nNiB6.18",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T15:30:00",
                     "color": "#0026ad"
@@ -4590,6 +4590,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Physio/Physiopath syst. cardi.\nMme TASSIN\nNiVésale.LaFontaine",
+                    "start": "2026-03-12T09:15:00",
+                    "end": "2026-03-12T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Physio/Physiopath syst. cardi.\nM. LEGRAND\nNiGA.Curie",
                     "start": "2026-03-24T10:30:00",
                     "end": "2026-03-24T12:30:00",
@@ -4768,12 +4774,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. endoc.\nM. LEGRAND, Mme TASSIN\nNiP.0A07",
-                    "start": "2026-02-18T15:45:00",
-                    "end": "2026-02-18T16:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Physio/Physiopath syst. endoc.\nM. LEGRAND\nNiGA.Curie",
                     "start": "2026-02-24T10:30:00",
                     "end": "2026-02-24T12:30:00",
@@ -4789,6 +4789,12 @@
                     "title": "Physio/Physiopath syst. endoc.\nM. LEGRAND, Mme TASSIN\nNiGA.VanGogh",
                     "start": "2026-02-26T08:15:00",
                     "end": "2026-02-26T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Physio/Physiopath syst. endoc.\nM. LEGRAND\nNiVésale.LaFontaine",
+                    "start": "2026-03-12T08:00:00",
+                    "end": "2026-03-12T09:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -5811,6 +5817,12 @@
                     "title": "Eléments de pathologie\n\nM. HOUGARDY",
                     "start": "2026-04-13T08:15:00",
                     "end": "2026-04-13T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiVésale.025",
+                    "start": "2026-04-13T10:30:00",
+                    "end": "2026-04-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -33092,12 +33104,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
-                    "start": "2026-02-25T08:15:00",
-                    "end": "2026-02-25T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Bases de données II\nM. WIJSEN\nNiBSM.010.Lonsdale",
                     "start": "2026-02-27T13:30:00",
                     "end": "2026-02-27T15:30:00",
@@ -33131,6 +33137,12 @@
                     "title": "Bases de données II\nM. WIJSEN\nNiBSM.010.Lonsdale",
                     "start": "2026-03-13T13:30:00",
                     "end": "2026-03-13T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Bases de données II\nM. BONTE\nNiDeVinci.Russel",
+                    "start": "2026-03-16T08:15:00",
+                    "end": "2026-03-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -35381,12 +35393,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
-                    "start": "2026-02-25T08:15:00",
-                    "end": "2026-02-25T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Bases de données II\nM. WIJSEN\nNiBSM.010.Lonsdale",
                     "start": "2026-02-27T13:30:00",
                     "end": "2026-02-27T15:30:00",
@@ -35420,6 +35426,12 @@
                     "title": "Bases de données II\nM. WIJSEN\nNiBSM.010.Lonsdale",
                     "start": "2026-03-13T13:30:00",
                     "end": "2026-03-13T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Bases de données II\nM. BONTE\nNiDeVinci.Russel",
+                    "start": "2026-03-16T08:15:00",
+                    "end": "2026-03-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -40071,6 +40083,12 @@
                     "title": "Knowledge repres.and reasoning\nM. WIJSEN\nNiP.3E10",
                     "start": "2026-04-09T15:45:00",
                     "end": "2026-04-09T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Knowledge repres.and reasoning\nM. WIJSEN\nNiP.3E10",
+                    "start": "2026-04-14T13:30:00",
+                    "end": "2026-04-14T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -45863,6 +45881,12 @@
                 },
                 {
                     "title": "Knowledge repres.and reasoning\nM. WIJSEN\nNiP.3E10",
+                    "start": "2026-04-14T13:30:00",
+                    "end": "2026-04-14T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Knowledge repres.and reasoning\nM. WIJSEN\nNiP.3E10",
                     "start": "2026-04-16T15:45:00",
                     "end": "2026-04-16T17:45:00",
                     "color": "#0026ad"
@@ -48470,6 +48494,12 @@
                     "start": "2025-12-16T15:30:00",
                     "end": "2025-12-16T16:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "_\nMme FOUGNIES\nNiDeVinci.Mirzakhani",
+                    "start": "2026-02-05T13:15:00",
+                    "end": "2026-02-05T14:30:00",
+                    "color": "#0026ad"
                 }
             ],
             "Aide à la réussite (partie A)": [
@@ -48590,7 +48620,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme BRIDOUX\nNiB6.18",
                     "start": "2026-02-09T10:30:00",
                     "end": "2026-02-09T12:30:00",
                     "color": "#0026ad"
@@ -53940,12 +53970,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. BONTE, M. WIJSEN\nNiDeVinci.Russel",
-                    "start": "2026-02-25T08:15:00",
-                    "end": "2026-02-25T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Bases de données II\nM. WIJSEN\nNiBSM.010.Lonsdale",
                     "start": "2026-02-27T13:30:00",
                     "end": "2026-02-27T15:30:00",
@@ -53979,6 +54003,12 @@
                     "title": "Bases de données II\nM. WIJSEN\nNiBSM.010.Lonsdale",
                     "start": "2026-03-13T13:30:00",
                     "end": "2026-03-13T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Bases de données II\nM. BONTE\nNiDeVinci.Russel",
+                    "start": "2026-03-16T08:15:00",
+                    "end": "2026-03-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -57785,6 +57815,12 @@
                 },
                 {
                     "title": "Knowledge repres.and reasoning\nM. WIJSEN\nNiP.3E10",
+                    "start": "2026-04-14T13:30:00",
+                    "end": "2026-04-14T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Knowledge repres.and reasoning\nM. WIJSEN\nNiP.3E10",
                     "start": "2026-04-16T15:45:00",
                     "end": "2026-04-16T17:45:00",
                     "color": "#0026ad"
@@ -60855,6 +60891,12 @@
                     "title": "Knowledge repres.and reasoning\nM. WIJSEN\nNiP.3E10",
                     "start": "2026-04-09T15:45:00",
                     "end": "2026-04-09T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Knowledge repres.and reasoning\nM. WIJSEN\nNiP.3E10",
+                    "start": "2026-04-14T13:30:00",
+                    "end": "2026-04-14T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -69629,7 +69671,44 @@
                     "color": "#0026ad"
                 }
             ],
-            "Syst. des plantes - Partie B": [],
+            "Syst. des plantes - Partie B": [
+                {
+                    "title": "Syst. des plantes - Partie B\nM. GHISBAIN\nNiVésale.LaFontaine",
+                    "start": "2026-04-02T13:30:00",
+                    "end": "2026-04-02T17:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Syst. des plantes - Partie B\nM. GHISBAIN\nNiVésale.030",
+                    "start": "2026-04-03T13:30:00",
+                    "end": "2026-04-03T17:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Syst. des plantes - Partie B\nM. GHISBAIN\nNiB6.06",
+                    "start": "2026-04-13T13:45:00",
+                    "end": "2026-04-13T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Syst. des plantes - Partie B\nM. GHISBAIN\nNiVésale.020",
+                    "start": "2026-04-17T13:30:00",
+                    "end": "2026-04-17T17:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Syst. des plantes - Partie B\nM. GHISBAIN\nNiVésale.023",
+                    "start": "2026-05-11T14:00:00",
+                    "end": "2026-05-11T18:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Syst. des plantes - Partie B\nM. GHISBAIN\nNiB6.124",
+                    "start": "2026-05-13T13:30:00",
+                    "end": "2026-05-13T17:30:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Syst.des plantes (partie A)": [
                 {
                     "title": "Syst.des plantes (partie A)\nM. GHISBAIN\nNiVésale.025",
@@ -70172,6 +70251,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiVésale.025",
+                    "start": "2026-04-13T10:30:00",
+                    "end": "2026-04-13T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Eléments de pathologie\nM. HOUGARDY\nNiVésale.020",
                     "start": "2026-05-04T08:15:00",
                     "end": "2026-05-04T10:15:00",
@@ -70310,15 +70395,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Etude médicaments inorganiques\nM. BLANKERT\nNiB6.124",
-                    "start": "2026-04-09T10:30:00",
-                    "end": "2026-04-09T12:30:00",
+                    "title": "Etude médicaments inorganiques\nM. BLANKERT\nNiB6.18",
+                    "start": "2026-04-08T13:30:00",
+                    "end": "2026-04-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Etude médicaments inorganiques\nM. BLANKERT\nNiB6.124",
-                    "start": "2026-04-13T10:30:00",
-                    "end": "2026-04-13T12:30:00",
+                    "start": "2026-04-09T10:30:00",
+                    "end": "2026-04-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -74945,8 +75030,8 @@
                 },
                 {
                     "title": "Anal. math.\nM. LHOST, Mme LACROIX\nNiBSM.008.Kwolek",
-                    "start": "2026-02-11T08:15:00",
-                    "end": "2026-02-11T10:15:00",
+                    "start": "2026-02-09T10:30:00",
+                    "end": "2026-02-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -79090,7 +79175,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme NACHTERGAEL, M. VOUE\nNiMen.Pauling",
+                    "title": "Biblio./outils informatiques\nM. VOUE, Mme NACHTERGAEL\nNiMen.Pauling",
                     "start": "2025-12-17T09:00:00",
                     "end": "2025-12-17T12:00:00",
                     "color": "#0026ad"
@@ -79303,6 +79388,12 @@
                     "title": "English for Sc Com part 2\nM. DEVILEZ\nNiBSM.016.Dresselhaus",
                     "start": "2026-04-15T10:30:00",
                     "end": "2026-04-15T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "English for Sc Com part 2\nM. DEVILEZ\nNiBSM.015.Feynman",
+                    "start": "2026-04-17T13:30:00",
+                    "end": "2026-04-17T18:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -80466,7 +80557,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet personnel\nM. QUINET, M. SEMAY, M. BRIHAYE, M. VOUE, M. PALMERI, M. VUONG\nNiDeVinci.Mirzakhani",
+                    "title": "Projet personnel\nM. QUINET, M. SEMAY, M. BRIHAYE, M. PALMERI, M. VOUE, M. VUONG\nNiDeVinci.Mirzakhani",
                     "start": "2026-05-08T08:15:00",
                     "end": "2026-05-08T13:30:00",
                     "color": "#0026ad"
