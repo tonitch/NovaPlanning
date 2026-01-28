@@ -9108,8 +9108,8 @@
                 },
                 {
                     "title": "Complément biologie cellulaire\n\nMme BURTEA",
-                    "start": "2026-02-02T11:00:00",
-                    "end": "2026-02-02T12:00:00",
+                    "start": "2026-02-02T09:30:00",
+                    "end": "2026-02-02T10:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -9168,8 +9168,8 @@
                 },
                 {
                     "title": "Complément biologie cellulaire\n\nMme BURTEA",
-                    "start": "2026-02-02T11:00:00",
-                    "end": "2026-02-02T12:00:00",
+                    "start": "2026-02-02T09:30:00",
+                    "end": "2026-02-02T10:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -11233,7 +11233,13 @@
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
                     "start": "2026-02-02T08:15:00",
-                    "end": "2026-02-02T11:00:00",
+                    "end": "2026-02-02T09:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
+                    "start": "2026-02-02T10:30:00",
+                    "end": "2026-02-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -19160,14 +19166,14 @@
             "Chimie des polymères": [
                 {
                     "title": "Chimie des polymères\nM. DUBOIS\nNiMen.Pauling",
-                    "start": "2026-02-04T08:15:00",
-                    "end": "2026-02-04T10:15:00",
+                    "start": "2026-02-02T10:30:00",
+                    "end": "2026-02-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie des polymères\nM. DUBOIS\nNiMen.Pauling",
-                    "start": "2026-02-05T08:15:00",
-                    "end": "2026-02-05T10:15:00",
+                    "title": "Chimie des polymères\nM. DUBOIS\nNiBSM.015.Feynman",
+                    "start": "2026-02-02T15:45:00",
+                    "end": "2026-02-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -53668,6 +53674,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Anal.math. III (B)\nMme FOUGNIES, M. MENET\nNiP.3E20",
+                    "start": "2026-05-06T15:45:00",
+                    "end": "2026-05-06T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Anal.math. III (B)\nM. MENET\nNiP.3E10",
                     "start": "2026-05-07T08:15:00",
                     "end": "2026-05-07T10:15:00",
@@ -53677,12 +53689,6 @@
                     "title": "Anal.math. III (B)\nMme FOUGNIES\nNiP.3E11",
                     "start": "2026-05-12T10:30:00",
                     "end": "2026-05-12T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Anal.math. III (B)\nMme FOUGNIES, M. MENET\nNiP.3E10",
-                    "start": "2026-05-13T15:45:00",
-                    "end": "2026-05-13T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -55236,6 +55242,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Introd aux variétés différ.\nMme CAPON\nNiP.3E10",
+                    "start": "2026-04-16T08:15:00",
+                    "end": "2026-04-16T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Introd aux variétés différ.\nMme CAPON\nNiP.0A07",
                     "start": "2026-04-16T15:45:00",
                     "end": "2026-04-16T17:45:00",
@@ -55245,12 +55257,6 @@
                     "title": "Introd aux variétés différ.\nMme CAPON\nNiP.3E10",
                     "start": "2026-04-17T15:45:00",
                     "end": "2026-04-17T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Introd aux variétés différ.\nM. BRIHAYE\nNiP.0A07",
-                    "start": "2026-05-07T15:45:00",
-                    "end": "2026-05-07T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -56437,20 +56443,14 @@
                 },
                 {
                     "title": "Projet transversal en math\nM. TROESTLER\nNiGA.Turing",
-                    "start": "2026-04-16T08:15:00",
-                    "end": "2026-04-16T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Projet transversal en math\nM. TROESTLER\nNiGA.Turing",
-                    "start": "2026-05-06T15:45:00",
-                    "end": "2026-05-06T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Projet transversal en math\nM. TROESTLER\nNiGA.Turing",
                     "start": "2026-05-07T13:30:00",
                     "end": "2026-05-07T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Projet transversal en math\nM. TROESTLER\nNiGA.Turing",
+                    "start": "2026-05-07T15:45:00",
+                    "end": "2026-05-07T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -56463,6 +56463,12 @@
                     "title": "Projet transversal en math\nM. TROESTLER\nNiGA.Turing",
                     "start": "2026-05-13T13:30:00",
                     "end": "2026-05-13T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Projet transversal en math\nM. TROESTLER\nNiGA.Turing",
+                    "start": "2026-05-13T15:45:00",
+                    "end": "2026-05-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -61896,6 +61902,54 @@
                     "start": "2026-01-15T08:30:00",
                     "end": "2026-01-15T12:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Projet d'analyse math\nM. MENET\nNiP.3E10",
+                    "start": "2026-02-23T08:15:00",
+                    "end": "2026-02-23T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Projet d'analyse math\nM. MENET\nNiP.3E10",
+                    "start": "2026-03-02T08:15:00",
+                    "end": "2026-03-02T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Projet d'analyse math\nM. MENET\nNiP.3E10",
+                    "start": "2026-03-09T08:15:00",
+                    "end": "2026-03-09T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Projet d'analyse math\nM. MENET\nNiP.3E10",
+                    "start": "2026-03-23T08:15:00",
+                    "end": "2026-03-23T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Projet d'analyse math\nM. MENET\nNiP.3E10",
+                    "start": "2026-03-30T08:15:00",
+                    "end": "2026-03-30T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Projet d'analyse math\nM. MENET\nNiP.3E10",
+                    "start": "2026-04-13T08:15:00",
+                    "end": "2026-04-13T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Projet d'analyse math\nM. MENET\nNiP.3E10",
+                    "start": "2026-05-04T08:15:00",
+                    "end": "2026-05-04T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Projet d'analyse math\nM. MENET\nNiP.3E10",
+                    "start": "2026-05-11T08:15:00",
+                    "end": "2026-05-11T10:15:00",
+                    "color": "#0026ad"
                 }
             ],
             "Projet géom.alg.": [
@@ -63539,8 +63593,8 @@
                 },
                 {
                     "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-03T15:45:00",
-                    "end": "2026-03-03T17:45:00",
+                    "start": "2026-03-03T10:30:00",
+                    "end": "2026-03-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63551,8 +63605,8 @@
                 },
                 {
                     "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-10T15:45:00",
-                    "end": "2026-03-10T17:45:00",
+                    "start": "2026-03-10T10:30:00",
+                    "end": "2026-03-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63563,8 +63617,8 @@
                 },
                 {
                     "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-24T15:45:00",
-                    "end": "2026-03-24T17:45:00",
+                    "start": "2026-03-24T10:30:00",
+                    "end": "2026-03-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63575,8 +63629,8 @@
                 },
                 {
                     "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-31T15:45:00",
-                    "end": "2026-03-31T17:45:00",
+                    "start": "2026-03-31T10:30:00",
+                    "end": "2026-03-31T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -79027,7 +79081,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMme FOUGNIES, M. MENET\nNiP.0A11",
+                    "title": "Analyse complexe\nM. MENET, Mme FOUGNIES\nNiP.0A11",
                     "start": "2025-09-25T08:15:00",
                     "end": "2025-09-25T10:15:00",
                     "color": "#0026ad"
@@ -79039,7 +79093,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMme FOUGNIES, M. MENET\nNiP.0A11",
+                    "title": "Analyse complexe\nM. MENET, Mme FOUGNIES\nNiP.0A11",
                     "start": "2025-10-02T08:15:00",
                     "end": "2025-10-02T10:15:00",
                     "color": "#0026ad"
@@ -79051,7 +79105,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMme FOUGNIES, M. MENET\nNiP.0A11",
+                    "title": "Analyse complexe\nM. MENET, Mme FOUGNIES\nNiP.0A11",
                     "start": "2025-10-09T08:15:00",
                     "end": "2025-10-09T10:15:00",
                     "color": "#0026ad"
@@ -79063,7 +79117,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMme FOUGNIES, M. MENET\nNiP.0A11",
+                    "title": "Analyse complexe\nM. MENET, Mme FOUGNIES\nNiP.0A11",
                     "start": "2025-10-16T08:15:00",
                     "end": "2025-10-16T10:15:00",
                     "color": "#0026ad"
@@ -79075,7 +79129,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMme FOUGNIES, M. MENET\nNiP.0A11",
+                    "title": "Analyse complexe\nM. MENET, Mme FOUGNIES\nNiP.0A11",
                     "start": "2025-10-23T08:15:00",
                     "end": "2025-10-23T10:15:00",
                     "color": "#0026ad"
@@ -79087,7 +79141,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMme FOUGNIES, M. MENET\nNiP.0A11",
+                    "title": "Analyse complexe\nM. MENET, Mme FOUGNIES\nNiP.0A11",
                     "start": "2025-11-06T08:15:00",
                     "end": "2025-11-06T10:15:00",
                     "color": "#0026ad"
@@ -79105,7 +79159,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMme FOUGNIES, M. MENET\nNiP.0A11",
+                    "title": "Analyse complexe\nM. MENET, Mme FOUGNIES\nNiP.0A11",
                     "start": "2025-11-20T08:15:00",
                     "end": "2025-11-20T10:15:00",
                     "color": "#0026ad"
@@ -79117,13 +79171,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMme FOUGNIES, M. MENET\nNiP.0A11",
+                    "title": "Analyse complexe\nM. MENET, Mme FOUGNIES\nNiP.0A11",
                     "start": "2025-11-27T08:15:00",
                     "end": "2025-11-27T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse complexe\nMme FOUGNIES, M. MENET\nNiDeVinci.Mirzakhani",
+                    "title": "Analyse complexe\nM. MENET, Mme FOUGNIES\nNiDeVinci.Mirzakhani",
                     "start": "2026-01-06T08:15:00",
                     "end": "2026-01-06T12:15:00",
                     "color": "#0026ad"
@@ -79235,13 +79289,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nM. VOUE, Mme NACHTERGAEL\nNiMen.Pauling",
+                    "title": "Biblio./outils informatiques\nMme NACHTERGAEL, M. VOUE\nNiMen.Pauling",
                     "start": "2025-12-17T09:00:00",
                     "end": "2025-12-17T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme ROMAN, Mme CARETTE, Mme NACHTERGAEL\nNiVésale.025",
+                    "title": "Biblio./outils informatiques\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE\nNiVésale.025",
                     "start": "2026-01-23T08:15:00",
                     "end": "2026-01-23T13:30:00",
                     "color": "#0026ad"
@@ -80399,85 +80453,85 @@
             ],
             "Physique statistique": [
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-09-15T13:30:00",
                     "end": "2025-09-15T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-09-18T10:30:00",
                     "end": "2025-09-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.3E20",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.3E20",
                     "start": "2025-09-23T13:30:00",
                     "end": "2025-09-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-09-25T10:30:00",
                     "end": "2025-09-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.3E20",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.3E20",
                     "start": "2025-09-30T10:30:00",
                     "end": "2025-09-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-10-02T10:30:00",
                     "end": "2025-10-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.3E20",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.3E20",
                     "start": "2025-10-07T10:30:00",
                     "end": "2025-10-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-10-09T10:30:00",
                     "end": "2025-10-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-10-16T10:30:00",
                     "end": "2025-10-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.3E20",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.3E20",
                     "start": "2025-10-21T10:30:00",
                     "end": "2025-10-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-10-23T10:30:00",
                     "end": "2025-10-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.3E20",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.3E20",
                     "start": "2025-11-04T10:30:00",
                     "end": "2025-11-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-11-06T10:30:00",
                     "end": "2025-11-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-11-13T10:30:00",
                     "end": "2025-11-13T12:30:00",
                     "color": "#0026ad"
@@ -80489,85 +80543,85 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.3E20",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.3E20",
                     "start": "2025-11-18T10:30:00",
                     "end": "2025-11-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-11-20T10:30:00",
                     "end": "2025-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.0A07",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.0A07",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-11-27T10:30:00",
                     "end": "2025-11-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.3E20",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.3E20",
                     "start": "2025-12-02T10:30:00",
                     "end": "2025-12-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-12-04T10:30:00",
                     "end": "2025-12-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.3E20",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.3E20",
                     "start": "2025-12-09T10:30:00",
                     "end": "2025-12-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.010.Lonsdale",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.010.Lonsdale",
                     "start": "2025-12-11T10:30:00",
                     "end": "2025-12-11T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.3E20",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.3E20",
                     "start": "2025-12-16T10:30:00",
                     "end": "2025-12-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.008.Kwolek",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.008.Kwolek",
                     "start": "2026-01-07T08:15:00",
                     "end": "2026-01-07T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.0A11",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.0A11",
                     "start": "2026-01-12T08:15:00",
                     "end": "2026-01-12T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiP.0A11",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiP.0A11",
                     "start": "2026-01-12T13:30:00",
                     "end": "2026-01-12T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.016.Dresselhaus",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.016.Dresselhaus",
                     "start": "2026-01-13T08:15:00",
                     "end": "2026-01-13T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique statistique\nM. MAINDIAUX, M. CAMPOLEONI\nNiBSM.016.Dresselhaus",
+                    "title": "Physique statistique\nM. CAMPOLEONI, M. MAINDIAUX\nNiBSM.016.Dresselhaus",
                     "start": "2026-01-13T13:30:00",
                     "end": "2026-01-13T17:30:00",
                     "color": "#0026ad"
@@ -80614,12 +80668,6 @@
                     "title": "Projet personnel\nM. SEMAY\nNiVésale.023",
                     "start": "2026-04-16T12:00:00",
                     "end": "2026-04-16T13:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Projet personnel\nM. QUINET, M. SEMAY, M. BRIHAYE, M. PALMERI, M. VOUE, M. VUONG\nNiDeVinci.Mirzakhani",
-                    "start": "2026-05-08T08:15:00",
-                    "end": "2026-05-08T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -82962,7 +83010,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Init. à la recherche scient.\nM. VOUE, M. SEMAY\nNiBSM.012.Hermann",
+                    "title": "Init. à la recherche scient.\nM. SEMAY, M. VOUE\nNiBSM.012.Hermann",
                     "start": "2026-05-13T08:15:00",
                     "end": "2026-05-13T18:00:00",
                     "color": "#0026ad"
@@ -84176,7 +84224,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Prop. opt. struct. photo\n\nM. MOUCHET",
+                    "title": "Prop. opt. struct. photo\nM. MOUCHET\nNiBSM.106Lab.Drude",
                     "start": "2026-03-12T10:30:00",
                     "end": "2026-03-12T12:30:00",
                     "color": "#0026ad"
@@ -84188,13 +84236,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Prop. opt. struct. photo\n\nM. MOUCHET",
+                    "title": "Prop. opt. struct. photo\nM. MOUCHET\nNiBSM.106Lab.Drude",
                     "start": "2026-03-26T10:30:00",
                     "end": "2026-03-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Prop. opt. struct. photo\n\nM. MOUCHET",
+                    "title": "Prop. opt. struct. photo\nM. MOUCHET\nNiBSM.106Lab.Drude",
                     "start": "2026-04-02T10:30:00",
                     "end": "2026-04-02T12:30:00",
                     "color": "#0026ad"
@@ -84292,43 +84340,43 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
                     "start": "2025-11-20T13:30:00",
                     "end": "2025-11-20T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
                     "start": "2025-11-26T13:30:00",
                     "end": "2025-11-26T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
                     "start": "2025-11-27T13:30:00",
                     "end": "2025-11-27T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\n\nM. VOUE, Mme DEVOUGE",
+                    "title": "Propriétés opt. des matériaux\n\nMme DEVOUGE, M. VOUE",
                     "start": "2025-12-04T13:30:00",
                     "end": "2025-12-04T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
                     "start": "2025-12-11T13:30:00",
                     "end": "2025-12-11T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
                     "start": "2025-12-16T13:30:00",
                     "end": "2025-12-16T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
                     "start": "2025-12-19T08:30:00",
                     "end": "2025-12-19T11:30:00",
                     "color": "#0026ad"
@@ -84354,21 +84402,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-03T15:45:00",
-                    "end": "2026-03-03T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiB6.18",
                     "start": "2026-03-09T10:30:00",
                     "end": "2026-03-09T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-10T15:45:00",
-                    "end": "2026-03-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -84378,21 +84414,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-24T15:45:00",
-                    "end": "2026-03-24T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiP.3E11",
                     "start": "2026-03-30T10:30:00",
                     "end": "2026-03-30T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-31T15:45:00",
-                    "end": "2026-03-31T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -85966,26 +85990,26 @@
                 },
                 {
                     "title": "Higher spin symmetry\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-03T10:30:00",
-                    "end": "2026-03-03T12:30:00",
+                    "start": "2026-03-03T15:45:00",
+                    "end": "2026-03-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Higher spin symmetry\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-10T10:30:00",
-                    "end": "2026-03-10T12:30:00",
+                    "start": "2026-03-10T15:45:00",
+                    "end": "2026-03-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Higher spin symmetry\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-24T10:30:00",
-                    "end": "2026-03-24T12:30:00",
+                    "start": "2026-03-24T15:45:00",
+                    "end": "2026-03-24T17:45:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Higher spin symmetry\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-31T10:30:00",
-                    "end": "2026-03-31T12:30:00",
+                    "start": "2026-03-31T15:45:00",
+                    "end": "2026-03-31T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -87265,8 +87289,8 @@
                 },
                 {
                     "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-03T15:45:00",
-                    "end": "2026-03-03T17:45:00",
+                    "start": "2026-03-03T10:30:00",
+                    "end": "2026-03-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -87277,8 +87301,8 @@
                 },
                 {
                     "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-10T15:45:00",
-                    "end": "2026-03-10T17:45:00",
+                    "start": "2026-03-10T10:30:00",
+                    "end": "2026-03-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -87289,8 +87313,8 @@
                 },
                 {
                     "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-24T15:45:00",
-                    "end": "2026-03-24T17:45:00",
+                    "start": "2026-03-24T10:30:00",
+                    "end": "2026-03-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -87301,8 +87325,8 @@
                 },
                 {
                     "title": "Quantum Field Theory II\nM. SKVORTSOV\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-31T15:45:00",
-                    "end": "2026-03-31T17:45:00",
+                    "start": "2026-03-31T10:30:00",
+                    "end": "2026-03-31T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -87891,7 +87915,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme LACROIX, Mme MAINIL\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\n\nMme LACROIX, Mme MAINIL",
                     "start": "2026-02-18T13:30:00",
                     "end": "2026-02-18T15:30:00",
                     "color": "#0026ad"
@@ -88239,7 +88263,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida phys\nMme MAINIL, Mme LACROIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida phys\n\nMme MAINIL, Mme LACROIX",
                     "start": "2026-02-18T13:30:00",
                     "end": "2026-02-18T15:30:00",
                     "color": "#0026ad"
