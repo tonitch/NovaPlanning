@@ -21854,12 +21854,6 @@
             "Physique macromoléculaire": [
                 {
                     "title": "Physique macromoléculaire\n\nM. DAMMAN",
-                    "start": "2026-02-03T08:15:00",
-                    "end": "2026-02-03T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique macromoléculaire\n\nM. DAMMAN",
                     "start": "2026-02-04T08:15:00",
                     "end": "2026-02-04T10:15:00",
                     "color": "#0026ad"
@@ -23872,12 +23866,6 @@
             "Physique macromoléculaire": [
                 {
                     "title": "Physique macromoléculaire\n\nM. DAMMAN",
-                    "start": "2026-02-03T08:15:00",
-                    "end": "2026-02-03T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique macromoléculaire\n\nM. DAMMAN",
                     "start": "2026-02-04T08:15:00",
                     "end": "2026-02-04T10:15:00",
                     "color": "#0026ad"
@@ -24388,6 +24376,12 @@
                     "title": "Stages en laboratoire\n\n",
                     "start": "2026-02-02T10:30:00",
                     "end": "2026-02-02T20:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Stages en laboratoire\nM. SURIN\nNiBSM.015.Feynman",
+                    "start": "2026-02-03T08:15:00",
+                    "end": "2026-02-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -26960,12 +26954,6 @@
                 }
             ],
             "Physique macromoléculaire": [
-                {
-                    "title": "Physique macromoléculaire\n\nM. DAMMAN",
-                    "start": "2026-02-03T08:15:00",
-                    "end": "2026-02-03T10:15:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Physique macromoléculaire\n\nM. DAMMAN",
                     "start": "2026-02-04T08:15:00",
@@ -56903,6 +56891,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Théorie des groupes\nM. BOULANGER\nNiP.3E20",
+                    "start": "2026-02-03T15:45:00",
+                    "end": "2026-02-03T17:00:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Théorie des groupes\nM. BOULANGER\nNiBSM.002.Knight",
                     "start": "2026-02-06T13:30:00",
                     "end": "2026-02-06T15:30:00",
@@ -57710,7 +57704,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gest de la prod et mod - AAEP\nM. DE WOLF\nWa.Drechsel",
+                    "title": "Gest de la prod et mod - AAEP\nM. DE WOLF\nWa.236L",
                     "start": "2026-03-10T15:45:00",
                     "end": "2026-03-10T17:45:00",
                     "color": "#0026ad"
@@ -57728,7 +57722,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gest de la prod et mod - AAEP\nM. DE WOLF\nWa.Drechsel",
+                    "title": "Gest de la prod et mod - AAEP\nM. DE WOLF\nWa.236L",
                     "start": "2026-04-07T15:45:00",
                     "end": "2026-04-07T17:45:00",
                     "color": "#0026ad"
@@ -60352,7 +60346,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gest de la prod et mod - AAEP\nM. DE WOLF\nWa.Drechsel",
+                    "title": "Gest de la prod et mod - AAEP\nM. DE WOLF\nWa.236L",
                     "start": "2026-03-10T15:45:00",
                     "end": "2026-03-10T17:45:00",
                     "color": "#0026ad"
@@ -60370,7 +60364,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gest de la prod et mod - AAEP\nM. DE WOLF\nWa.Drechsel",
+                    "title": "Gest de la prod et mod - AAEP\nM. DE WOLF\nWa.236L",
                     "start": "2026-04-07T15:45:00",
                     "end": "2026-04-07T17:45:00",
                     "color": "#0026ad"
@@ -79325,7 +79319,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme NACHTERGAEL, M. VOUE\nNiMen.Pauling",
+                    "title": "Biblio./outils informatiques\nM. VOUE, Mme NACHTERGAEL\nNiMen.Pauling",
                     "start": "2025-12-17T09:00:00",
                     "end": "2025-12-17T12:00:00",
                     "color": "#0026ad"
@@ -80043,19 +80037,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY\nNiP.3E10, NiP.3E11",
+                    "title": "Méca. quant. théorie\nM. SEMAY\nNiP.3E11, NiP.3E10",
                     "start": "2026-01-20T08:15:00",
                     "end": "2026-01-20T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY\nNiP.3E10, NiP.3E11",
+                    "title": "Méca. quant. théorie\nM. SEMAY\nNiP.3E11, NiP.3E10",
                     "start": "2026-01-20T13:30:00",
                     "end": "2026-01-20T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY\nNiP.3E10, NiP.3E11",
+                    "title": "Méca. quant. théorie\nM. SEMAY\nNiP.3E11, NiP.3E10",
                     "start": "2026-01-21T08:15:00",
                     "end": "2026-01-21T12:15:00",
                     "color": "#0026ad"
@@ -80281,7 +80275,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique atom. et molé.\nM. QUINET, Mme CARVAJAL GALLEGO\nNiBSM.015.Feynman",
+                    "title": "Physique atom. et molé.\nMme CARVAJAL GALLEGO, M. QUINET\nNiBSM.015.Feynman",
                     "start": "2026-03-02T10:30:00",
                     "end": "2026-03-02T12:30:00",
                     "color": "#0026ad"
@@ -80293,7 +80287,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique atom. et molé.\nM. QUINET, Mme CARVAJAL GALLEGO\nNiBSM.015.Feynman",
+                    "title": "Physique atom. et molé.\nMme CARVAJAL GALLEGO, M. QUINET\nNiBSM.015.Feynman",
                     "start": "2026-03-09T10:30:00",
                     "end": "2026-03-09T12:30:00",
                     "color": "#0026ad"
@@ -80311,7 +80305,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique atom. et molé.\nM. QUINET, Mme CARVAJAL GALLEGO\nNiBSM.002.Knight",
+                    "title": "Physique atom. et molé.\nMme CARVAJAL GALLEGO, M. QUINET\nNiBSM.002.Knight",
                     "start": "2026-03-31T10:30:00",
                     "end": "2026-03-31T12:30:00",
                     "color": "#0026ad"
@@ -80323,19 +80317,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique atom. et molé.\nM. QUINET, Mme CARVAJAL GALLEGO\nNiBSM.002.Knight",
+                    "title": "Physique atom. et molé.\nMme CARVAJAL GALLEGO, M. QUINET\nNiBSM.002.Knight",
                     "start": "2026-04-07T10:30:00",
                     "end": "2026-04-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique atom. et molé.\nM. QUINET, Mme CARVAJAL GALLEGO\nNiBSM.010.Lonsdale",
+                    "title": "Physique atom. et molé.\nMme CARVAJAL GALLEGO, M. QUINET\nNiBSM.010.Lonsdale",
                     "start": "2026-04-09T08:15:00",
                     "end": "2026-04-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique atom. et molé.\nM. QUINET, Mme CARVAJAL GALLEGO\nNiBSM.002.Knight",
+                    "title": "Physique atom. et molé.\nMme CARVAJAL GALLEGO, M. QUINET\nNiBSM.002.Knight",
                     "start": "2026-05-05T10:30:00",
                     "end": "2026-05-05T12:30:00",
                     "color": "#0026ad"
@@ -80753,73 +80747,73 @@
             ],
             "Séminaires de Physique": [
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER\nNiB6.124",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER, M. QUINET\nNiB6.124",
                     "start": "2026-02-04T10:30:00",
                     "end": "2026-02-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER\nNiP.0A07",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER, M. QUINET\nNiP.0A07",
                     "start": "2026-02-06T10:30:00",
                     "end": "2026-02-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER\nNiP.0A07",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER, M. QUINET\nNiP.0A07",
                     "start": "2026-02-13T10:30:00",
                     "end": "2026-02-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER\nNiP.0A07",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER, M. QUINET\nNiP.0A07",
                     "start": "2026-02-20T10:30:00",
                     "end": "2026-02-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER\nNiP.0A07",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER, M. QUINET\nNiP.0A07",
                     "start": "2026-02-27T10:30:00",
                     "end": "2026-02-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI\nNiB6.18",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. QUINET\nNiB6.18",
                     "start": "2026-03-06T10:30:00",
                     "end": "2026-03-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI\nNiBSM.008.Kwolek",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. QUINET\nNiBSM.008.Kwolek",
                     "start": "2026-03-13T10:30:00",
                     "end": "2026-03-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI\nNiB6.18",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. QUINET\nNiB6.18",
                     "start": "2026-03-27T10:30:00",
                     "end": "2026-03-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, M. PALMERI, M. BOULANGER\nNiBSM.010.Lonsdale",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, M. PALMERI, M. BOULANGER, M. QUINET\nNiBSM.010.Lonsdale",
                     "start": "2026-03-31T15:45:00",
                     "end": "2026-03-31T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, M. PALMERI, M. BOULANGER\nNiP.0A07",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, M. PALMERI, M. BOULANGER, M. QUINET\nNiP.0A07",
                     "start": "2026-04-10T15:45:00",
                     "end": "2026-04-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER\nNiBSM.015.Feynman",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER, M. QUINET\nNiBSM.015.Feynman",
                     "start": "2026-05-05T15:45:00",
                     "end": "2026-05-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaires de Physique\nM. QUINET, M. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER\nNiBSM.015.Feynman",
+                    "title": "Séminaires de Physique\nM. SEMAY, M. LECLERE, Mme DAUBIE, M. PALMERI, M. BOULANGER, M. QUINET\nNiBSM.015.Feynman",
                     "start": "2026-05-12T15:45:00",
                     "end": "2026-05-12T17:45:00",
                     "color": "#0026ad"
@@ -80923,7 +80917,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques\nM. SIMON, M. THIANDOUM\nNiBSM.008.Kwolek, NiBSM.010.Lonsdale, NiBSM.002.Knight",
+                    "title": "Statistiques\nM. SIMON, M. THIANDOUM\nNiBSM.008.Kwolek, NiBSM.002.Knight, NiBSM.010.Lonsdale",
                     "start": "2026-01-05T08:15:00",
                     "end": "2026-01-05T11:15:00",
                     "color": "#0026ad"
@@ -80934,6 +80928,12 @@
                     "title": "Théorie des groupes\nM. BOULANGER\nNiP.0A07",
                     "start": "2026-02-03T13:30:00",
                     "end": "2026-02-03T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Théorie des groupes\nM. BOULANGER\nNiP.3E20",
+                    "start": "2026-02-03T15:45:00",
+                    "end": "2026-02-03T17:00:00",
                     "color": "#0026ad"
                 },
                 {
