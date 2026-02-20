@@ -1091,6 +1091,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Chimie organique II\nMme BEAUCHOT\nJo.Stievenart",
+                    "start": "2026-03-27T10:30:00",
+                    "end": "2026-03-27T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Chimie organique II\nMme BEAUCHOT\nNiGA.Gutenberg",
                     "start": "2026-04-13T08:15:00",
                     "end": "2026-04-13T10:15:00",
@@ -1100,12 +1106,6 @@
                     "title": "Chimie organique II\nMme BEAUCHOT\nNiGA.Gutenberg",
                     "start": "2026-05-04T08:15:00",
                     "end": "2026-05-04T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie organique II\nMme BEAUCHOT\nNiGA.Gutenberg",
-                    "start": "2026-05-07T13:30:00",
-                    "end": "2026-05-07T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -15181,7 +15181,7 @@
         "BAB1": {
             "_": [
                 {
-                    "title": "_\nM. MICHAUX, M. SEMAY, Mme BRIDOUX, M. TROESTLER, M. VOUE, M. MELOT, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "_\nM. VOUE, M. SEMAY, M. MICHEZ, M. TROESTLER, M. MICHAUX, M. MELOT, Mme BRIDOUX\nNiGA.VanGogh",
                     "start": "2025-09-15T13:30:00",
                     "end": "2025-09-15T16:00:00",
                     "color": "#0026ad"
@@ -16010,6 +16010,12 @@
                     "title": "Chim. orga. I. A\nM. DE WINTER, M. GERBAUX, M. VAN VOOREN\nNiVésale.020, NiVésale.023",
                     "start": "2026-01-12T08:15:00",
                     "end": "2026-01-12T12:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chim. orga. I. A\nM. DE WINTER\nNiBSM.002.Knight",
+                    "start": "2026-02-24T15:45:00",
+                    "end": "2026-02-24T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -17247,13 +17253,13 @@
             ],
             "Travaux personnels BA1": [
                 {
-                    "title": "Travaux personnels BA1\nM. GERBAUX, M. KONSTANTINIDIS, Mme LAURENT, M. ODENT, M. BROCORENS, Mme LUCIANO\nNiMen.Pauling",
+                    "title": "Travaux personnels BA1\nM. GERBAUX, M. ODENT, Mme LAURENT, Mme LUCIANO, M. BROCORENS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2026-05-11T13:30:00",
                     "end": "2026-05-11T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Travaux personnels BA1\nM. GERBAUX, M. KONSTANTINIDIS, Mme LAURENT, M. BROCORENS, Mme LUCIANO\nNiMen.Pauling",
+                    "title": "Travaux personnels BA1\nM. GERBAUX, Mme LAURENT, Mme LUCIANO, M. BROCORENS, M. KONSTANTINIDIS\nNiMen.Pauling",
                     "start": "2026-05-13T08:15:00",
                     "end": "2026-05-13T18:00:00",
                     "color": "#0026ad"
@@ -37037,7 +37043,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anglais 1\nMme DELMOTTE\nCha.ZG.N.1.18",
+                    "title": "Anglais 1\nMme DELMOTTE\nCha.ZG.N.1.01",
                     "start": "2026-02-26T18:00:00",
                     "end": "2026-02-26T21:00:00",
                     "color": "#0026ad"
@@ -37049,13 +37055,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anglais 1\nMme DELMOTTE\nCha.ZG.N.1.18",
+                    "title": "Anglais 1\nMme DELMOTTE\nCha.ZG.N.1.01",
                     "start": "2026-03-26T18:00:00",
                     "end": "2026-03-26T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anglais 1\nMme DELMOTTE\nCha.ZG.N.1.18",
+                    "title": "Anglais 1\nMme DELMOTTE\nCha.ZG.N.1.01",
                     "start": "2026-04-02T18:00:00",
                     "end": "2026-04-02T21:00:00",
                     "color": "#0026ad"
@@ -52925,8 +52931,8 @@
                 },
                 {
                     "title": "Prob. I\nM. THIANDOUM\nNiP.3E20",
-                    "start": "2026-02-20T13:30:00",
-                    "end": "2026-02-20T15:30:00",
+                    "start": "2026-02-23T15:45:00",
+                    "end": "2026-02-23T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -52937,8 +52943,8 @@
                 },
                 {
                     "title": "Prob. I\nM. THIANDOUM\nNiP.3E20",
-                    "start": "2026-02-27T13:30:00",
-                    "end": "2026-02-27T15:30:00",
+                    "start": "2026-03-02T15:45:00",
+                    "end": "2026-03-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -52948,9 +52954,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Prob. I\nM. THIANDOUM\nNiP.3E20",
-                    "start": "2026-03-06T13:30:00",
-                    "end": "2026-03-06T15:30:00",
+                    "title": "Prob. I\nM. THIANDOUM\nNiP.3E11",
+                    "start": "2026-03-05T08:15:00",
+                    "end": "2026-03-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -52961,8 +52967,8 @@
                 },
                 {
                     "title": "Prob. I\nM. THIANDOUM\nNiP.3E20",
-                    "start": "2026-03-13T13:30:00",
-                    "end": "2026-03-13T15:30:00",
+                    "start": "2026-03-12T15:45:00",
+                    "end": "2026-03-12T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -55371,8 +55377,8 @@
                 },
                 {
                     "title": "Introd aux variétés différ.\nM. BRIHAYE\nNiP.3E10",
-                    "start": "2026-02-27T10:30:00",
-                    "end": "2026-02-27T12:30:00",
+                    "start": "2026-02-27T15:45:00",
+                    "end": "2026-02-27T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -58337,7 +58343,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet Math. effectives\n\nM. BRIHAYE, Mme CAPON",
+                    "title": "Projet Math. effectives\n\nMme CAPON",
                     "start": "2026-02-27T15:45:00",
                     "end": "2026-02-27T17:45:00",
                     "color": "#0026ad"
@@ -62571,7 +62577,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet Math. effectives\n\nM. BRIHAYE, Mme CAPON",
+                    "title": "Projet Math. effectives\n\nMme CAPON",
                     "start": "2026-02-27T15:45:00",
                     "end": "2026-02-27T17:45:00",
                     "color": "#0026ad"
@@ -65863,6 +65869,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Chimie organique II\nMme BEAUCHOT\nJo.Stievenart",
+                    "start": "2026-03-27T10:30:00",
+                    "end": "2026-03-27T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Chimie organique II\nMme BEAUCHOT\nNiGA.Gutenberg",
                     "start": "2026-04-13T08:15:00",
                     "end": "2026-04-13T10:15:00",
@@ -65872,12 +65884,6 @@
                     "title": "Chimie organique II\nMme BEAUCHOT\nNiGA.Gutenberg",
                     "start": "2026-05-04T08:15:00",
                     "end": "2026-05-04T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie organique II\nMme BEAUCHOT\nNiGA.Gutenberg",
-                    "start": "2026-05-07T13:30:00",
-                    "end": "2026-05-07T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -73275,6 +73281,12 @@
                     "title": "Pharma Research (CLIL)\nMme VAN LANCKER\nNiGA.Pascal",
                     "start": "2026-02-24T10:30:00",
                     "end": "2026-02-24T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Pharma Research (CLIL)\nMme VAN LANCKER\nNiGA.Pascal",
+                    "start": "2026-02-26T09:30:00",
+                    "end": "2026-02-26T10:15:00",
                     "color": "#0026ad"
                 },
                 {
