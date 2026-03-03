@@ -15294,14 +15294,14 @@
                 },
                 {
                     "title": "Aide à la réussite (Partie B)\nM. VAN VOOREN\nNiMen.Pauling",
-                    "start": "2026-03-02T08:15:00",
-                    "end": "2026-03-02T10:15:00",
+                    "start": "2026-03-02T15:45:00",
+                    "end": "2026-03-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Aide à la réussite (Partie B)\nM. VAN VOOREN\nNiMen.Pauling",
-                    "start": "2026-03-09T08:15:00",
-                    "end": "2026-03-09T10:15:00",
+                    "start": "2026-03-09T15:45:00",
+                    "end": "2026-03-09T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -35527,13 +35527,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I\nM. CREMER\nCha.ZG.N.1.01",
+                    "title": "Bases de données I\n\nM. CREMER",
                     "start": "2026-03-14T09:00:00",
                     "end": "2026-03-14T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I\nM. CREMER\nCha.ZG.N.1.01",
+                    "title": "Bases de données I\n\nM. CREMER",
                     "start": "2026-03-23T18:00:00",
                     "end": "2026-03-23T21:00:00",
                     "color": "#0026ad"
@@ -35545,13 +35545,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I\nM. CREMER\nCha.ZG.N.1.01",
+                    "title": "Bases de données I\n\nM. CREMER",
                     "start": "2026-03-30T18:00:00",
                     "end": "2026-03-30T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données I\nM. CREMER\nCha.ZG.S.2.02",
+                    "title": "Bases de données I\n\nM. CREMER",
                     "start": "2026-04-11T09:00:00",
                     "end": "2026-04-11T12:00:00",
                     "color": "#0026ad"
@@ -38651,9 +38651,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CompetProgram\nM. VANDAELE, M. LECRON\nHo.25",
+                    "title": "CompetProgram\nM. VANDAELE, M. LECRON\nHo.24",
                     "start": "2026-03-02T13:30:00",
-                    "end": "2026-03-02T17:30:00",
+                    "end": "2026-03-02T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "CompetProgram\nM. VANDAELE, M. LECRON\nHo.25",
+                    "start": "2026-03-02T15:45:00",
+                    "end": "2026-03-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -44372,9 +44378,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CompetProgram\nM. VANDAELE, M. LECRON\nHo.25",
+                    "title": "CompetProgram\nM. VANDAELE, M. LECRON\nHo.24",
                     "start": "2026-03-02T13:30:00",
-                    "end": "2026-03-02T17:30:00",
+                    "end": "2026-03-02T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "CompetProgram\nM. VANDAELE, M. LECRON\nHo.25",
+                    "start": "2026-03-02T15:45:00",
+                    "end": "2026-03-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -49490,15 +49502,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
-                    "start": "2026-03-04T08:15:00",
-                    "end": "2026-03-04T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Algèbre I. B.\nM. RAMLOT\nNiP.3E20",
                     "start": "2026-03-05T08:15:00",
                     "end": "2026-03-05T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Algèbre I. B.\nM. RAMLOT, M. MICHAUX\nNiP.3E20",
+                    "start": "2026-03-09T15:45:00",
+                    "end": "2026-03-09T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -56375,15 +56387,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Probabilités III\nM. SIMON\nNiBSM.016.Dresselhaus, NiP.3E11",
-                    "start": "2026-03-09T15:45:00",
-                    "end": "2026-03-09T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Probabilités III\nM. THIANDOUM\nNiP.3E11",
                     "start": "2026-03-10T13:30:00",
                     "end": "2026-03-10T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Probabilités III\nM. SIMON\nNiP.3E11",
+                    "start": "2026-03-12T13:30:00",
+                    "end": "2026-03-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -56417,9 +56429,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Probabilités III\nM. SIMON\nNiP.3E11",
-                    "start": "2026-04-09T13:30:00",
-                    "end": "2026-04-09T15:30:00",
+                    "title": "Probabilités III\nM. SIMON\nNiBSM.002.Knight",
+                    "start": "2026-04-08T10:30:00",
+                    "end": "2026-04-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -72042,7 +72054,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aromathérapie et phytothérapie\nMme ROMAN, Mme NACHTERGAEL, Mme CARETTE\nNiGA.Curie",
+                    "title": "Aromathérapie et phytothérapie\nMme NACHTERGAEL, Mme CARETTE, Mme ROMAN\nNiGA.Curie",
                     "start": "2026-01-21T09:30:00",
                     "end": "2026-01-21T12:30:00",
                     "color": "#0026ad"
@@ -72454,169 +72466,169 @@
             ],
             "Conseils et suivis officine TP": [
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-17T08:30:00",
                     "end": "2025-11-17T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-17T13:00:00",
                     "end": "2025-11-17T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, M. BAMPS\nNiB6.127Info",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART\nNiB6.127Info",
                     "start": "2025-11-18T08:15:00",
                     "end": "2025-11-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, M. BAMPS\nNiB6.127Info",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART\nNiB6.127Info",
                     "start": "2025-11-18T10:30:00",
                     "end": "2025-11-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART\nNiGA.Interactiv1",
                     "start": "2025-11-19T08:00:00",
                     "end": "2025-11-19T10:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-19T10:45:00",
                     "end": "2025-11-19T13:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-19T14:00:00",
                     "end": "2025-11-19T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-20T08:00:00",
                     "end": "2025-11-20T10:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART\nNiGA.Interactiv1",
                     "start": "2025-11-20T10:45:00",
                     "end": "2025-11-20T13:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART\nNiGA.Interactiv1",
                     "start": "2025-11-20T14:00:00",
                     "end": "2025-11-20T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART\nNiGA.Interactiv1",
                     "start": "2025-11-21T08:00:00",
                     "end": "2025-11-21T10:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART\nNiGA.Interactiv1",
                     "start": "2025-11-21T10:45:00",
                     "end": "2025-11-21T13:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART\nNiGA.Interactiv1",
                     "start": "2025-11-21T14:00:00",
                     "end": "2025-11-21T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-24T08:00:00",
                     "end": "2025-11-24T10:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-24T10:45:00",
                     "end": "2025-11-24T13:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-24T14:00:00",
                     "end": "2025-11-24T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-25T08:00:00",
                     "end": "2025-11-25T10:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART\nNiGA.Interactiv1",
                     "start": "2025-11-25T10:45:00",
                     "end": "2025-11-25T13:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-25T14:00:00",
                     "end": "2025-11-25T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-26T08:00:00",
                     "end": "2025-11-26T10:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-26T10:45:00",
                     "end": "2025-11-26T13:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-26T14:00:00",
                     "end": "2025-11-26T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-27T08:00:00",
                     "end": "2025-11-27T10:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-27T10:45:00",
                     "end": "2025-11-27T13:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-27T14:00:00",
                     "end": "2025-11-27T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-28T08:00:00",
                     "end": "2025-11-28T10:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, Mme PATRIS, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART, Mme PATRIS\nNiGA.Interactiv1",
                     "start": "2025-11-28T10:45:00",
                     "end": "2025-11-28T13:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Conseils et suivis officine TP\nMme QUINTART, M. BAMPS\nNiGA.Interactiv1",
+                    "title": "Conseils et suivis officine TP\nM. BAMPS, Mme QUINTART\nNiGA.Interactiv1",
                     "start": "2025-11-28T14:00:00",
                     "end": "2025-11-28T16:30:00",
                     "color": "#0026ad"
@@ -72996,109 +73008,109 @@
             ],
             "Galénique & biopharmacie TP": [
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-03T08:30:00",
                     "end": "2025-11-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-03T13:30:00",
                     "end": "2025-11-03T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-04T08:30:00",
                     "end": "2025-11-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-04T13:30:00",
                     "end": "2025-11-04T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-05T08:30:00",
                     "end": "2025-11-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-05T13:30:00",
                     "end": "2025-11-05T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-06T08:30:00",
                     "end": "2025-11-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-06T13:30:00",
                     "end": "2025-11-06T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-07T08:30:00",
                     "end": "2025-11-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-07T13:30:00",
                     "end": "2025-11-07T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-10T08:30:00",
                     "end": "2025-11-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-10T13:30:00",
                     "end": "2025-11-10T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-12T08:30:00",
                     "end": "2025-11-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-12T13:30:00",
                     "end": "2025-11-12T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-13T08:30:00",
                     "end": "2025-11-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-13T13:30:00",
                     "end": "2025-11-13T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-14T08:30:00",
                     "end": "2025-11-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Galénique & biopharmacie TP\nMme QUINTART, M. BAMPS\nNiMen.Franklin, NiMen.MacDiarmid",
+                    "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-11-14T13:30:00",
                     "end": "2025-11-14T17:30:00",
                     "color": "#0026ad"
@@ -73250,6 +73262,12 @@
                     "start": "2026-03-06T13:30:00",
                     "end": "2026-03-06T15:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Méthodes analytiques\nM. BLANKERT\nNiB6.211",
+                    "start": "2026-03-27T15:45:00",
+                    "end": "2026-03-27T17:45:00",
+                    "color": "#0026ad"
                 }
             ],
             "Microbio. générale/médicale TP": [
@@ -73322,7 +73340,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nutrition et métabolisme\nM. BAMPS, Mme PATRIS\nPCM.500, PCM.200",
+                    "title": "Nutrition et métabolisme\nM. BAMPS, Mme PATRIS\nPCM.200, PCM.500",
                     "start": "2026-01-12T12:45:00",
                     "end": "2026-01-12T15:45:00",
                     "color": "#0026ad"
@@ -73428,7 +73446,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharma Research (CLIL)\nM. BLANKERT, M. VANDERBIST, Mme NACHTERGAEL, Mme PATRIS, Mme VAN LANCKER\nNiB6.06",
+                    "title": "Pharma Research (CLIL)\nM. BLANKERT, M. VANDERBIST, Mme PATRIS, Mme NACHTERGAEL, Mme VAN LANCKER\nNiB6.06",
                     "start": "2026-03-26T08:15:00",
                     "end": "2026-03-26T15:30:00",
                     "color": "#0026ad"
