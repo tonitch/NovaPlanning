@@ -4736,6 +4736,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Physio/Physiopath syst. dig.\n\nMme LUPANT",
+                    "start": "2026-03-12T09:00:00",
+                    "end": "2026-03-12T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Physio/Physiopath syst. dig.\nM. LEGRAND\nNiVésale.020",
                     "start": "2026-03-13T13:30:00",
                     "end": "2026-03-13T15:30:00",
@@ -5320,19 +5326,19 @@
         "BAB3": {
             "_": [
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
                     "start": "2025-09-16T10:30:00",
                     "end": "2025-09-16T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
                     "start": "2025-09-16T11:30:00",
                     "end": "2025-09-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.020",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.020",
                     "start": "2025-09-23T12:30:00",
                     "end": "2025-09-23T13:30:00",
                     "color": "#0026ad"
@@ -5394,9 +5400,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse données recherche\n\nM. CONOTTE",
-                    "start": "2026-03-25T10:30:00",
-                    "end": "2026-03-25T12:30:00",
+                    "title": "Analyse données recherche\nM. CONOTTE\nNiP.1E12",
+                    "start": "2026-03-11T10:30:00",
+                    "end": "2026-03-11T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -5646,13 +5652,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.211",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.211",
                     "start": "2026-03-30T10:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
                     "start": "2026-04-01T08:15:00",
                     "end": "2026-04-01T13:00:00",
                     "color": "#0026ad"
@@ -5664,13 +5670,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiP.3C07Lab",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiP.3C07Lab",
                     "start": "2026-04-02T13:30:00",
                     "end": "2026-04-02T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.211",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.211",
                     "start": "2026-04-07T10:30:00",
                     "end": "2026-04-07T12:30:00",
                     "color": "#0026ad"
@@ -5694,13 +5700,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
                     "start": "2026-04-16T13:30:00",
                     "end": "2026-04-16T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
                     "start": "2026-04-17T13:30:00",
                     "end": "2026-04-17T16:30:00",
                     "color": "#0026ad"
@@ -5740,7 +5746,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Complément biologie molécul.\nM. MARECHAL, Mme DECLEVES, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Complément biologie molécul.\nMme DECLEVES, M. MARECHAL, Mme DECARNONCLE\nNiP.3C07Lab",
                     "start": "2026-02-25T13:30:00",
                     "end": "2026-02-25T16:30:00",
                     "color": "#0026ad"
@@ -6527,7 +6533,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. modèles/métho. Biomed\nMme TAGLIATTI, Mme LEMOINE\nNiP.0C14, NiB6.127Info",
+                    "title": "Initiat. modèles/métho. Biomed\nMme TAGLIATTI, Mme LEMOINE\nNiB6.127Info, NiP.0C14",
                     "start": "2026-01-22T08:30:00",
                     "end": "2026-01-22T12:30:00",
                     "color": "#0026ad"
@@ -7199,7 +7205,7 @@
             ],
             "Physio/Physiopath néphro.": [
                 {
-                    "title": "Physio/Physiopath néphro.\nMme AKAN, Mme LUPANT\nNiP.0C14",
+                    "title": "Physio/Physiopath néphro.\nMme LUPANT, Mme AKAN\nNiP.0C14",
                     "start": "2025-11-14T13:30:00",
                     "end": "2025-11-14T17:30:00",
                     "color": "#0026ad"
@@ -7241,7 +7247,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath néphro.\nMme AKAN, Mme LUPANT\nNiP.0C14",
+                    "title": "Physio/Physiopath néphro.\nMme LUPANT, Mme AKAN\nNiP.0C14",
                     "start": "2025-11-28T13:30:00",
                     "end": "2025-11-28T17:30:00",
                     "color": "#0026ad"
@@ -7309,7 +7315,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-09-29T08:15:00",
                     "end": "2025-09-29T10:15:00",
                     "color": "#0026ad"
@@ -7327,7 +7333,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-13T10:30:00",
                     "end": "2025-10-13T12:30:00",
                     "color": "#0026ad"
@@ -7339,13 +7345,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
                     "start": "2025-10-14T18:00:00",
                     "end": "2025-10-14T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
                     "start": "2025-10-15T08:15:00",
                     "end": "2025-10-15T10:15:00",
                     "color": "#0026ad"
@@ -7357,7 +7363,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-20T10:30:00",
                     "end": "2025-10-20T12:30:00",
                     "color": "#0026ad"
@@ -7381,19 +7387,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
                     "start": "2025-11-28T17:45:00",
                     "end": "2025-11-28T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiVésale.020, NiGA.Plisnier, NiGA.VanGogh",
+                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiVésale.020, NiGA.Plisnier, NiGA.VanGogh",
                     "start": "2025-12-18T08:15:00",
                     "end": "2025-12-18T10:15:00",
                     "color": "#0026ad"
@@ -7547,7 +7553,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques II\nM. LELUBRE\nNiP.1E12, NiB6.127Info",
+                    "title": "Statistiques II\nM. LELUBRE\nNiB6.127Info, NiP.1E12",
                     "start": "2026-01-12T13:00:00",
                     "end": "2026-01-12T17:00:00",
                     "color": "#0026ad"
@@ -7681,15 +7687,17 @@
                     "start": "2026-03-03T10:30:00",
                     "end": "2026-03-03T12:30:00",
                     "color": "#0026ad"
-                },
+                }
+            ],
+            "Toxicologie prédictive - 2": [
                 {
-                    "title": "Toxicologie prédictive - 1\nM. COLET\nNiB6.211",
+                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiB6.211",
                     "start": "2026-03-23T08:15:00",
                     "end": "2026-03-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Toxicologie prédictive - 1\nM. COLET\nNiB6.124",
+                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiB6.124",
                     "start": "2026-03-26T15:45:00",
                     "end": "2026-03-26T17:45:00",
                     "color": "#0026ad"
@@ -16421,7 +16429,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.020, NiVésale.LaFontaine, NiVésale.023",
+                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.020, NiVésale.LaFontaine, NiVésale.025, NiVésale.023",
                     "start": "2026-03-12T10:30:00",
                     "end": "2026-03-12T12:30:00",
                     "color": "#0026ad"
@@ -25408,12 +25416,6 @@
                 },
                 {
                     "title": "Compl. de spectro. de masse\nM. DE WINTER, M. GERBAUX\nNiBSM.004.Penrose",
-                    "start": "2026-03-11T10:30:00",
-                    "end": "2026-03-11T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Compl. de spectro. de masse\nM. DE WINTER, M. GERBAUX\nNiBSM.004.Penrose",
                     "start": "2026-03-24T08:15:00",
                     "end": "2026-03-24T10:15:00",
                     "color": "#0026ad"
@@ -27487,7 +27489,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.016.Dresselhaus",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-25T10:30:00",
                     "end": "2026-03-25T12:30:00",
                     "color": "#0026ad"
@@ -27511,7 +27513,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.016.Dresselhaus",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.016.Dresselhaus",
                     "start": "2026-04-03T15:45:00",
                     "end": "2026-04-03T17:45:00",
                     "color": "#0026ad"
@@ -27541,7 +27543,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2026-04-16T13:30:00",
                     "end": "2026-04-16T15:30:00",
                     "color": "#0026ad"
@@ -27571,7 +27573,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2026-05-08T13:30:00",
                     "end": "2026-05-08T15:30:00",
                     "color": "#0026ad"
@@ -27583,13 +27585,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
                     "start": "2026-05-15T13:30:00",
                     "end": "2026-05-15T15:30:00",
                     "color": "#0026ad"
@@ -28085,14 +28087,6 @@
                     "title": "Technologies plasma trait A\n\nM. SNYDERS, M. KONSTANTINIDIS",
                     "start": "2026-01-19T09:00:00",
                     "end": "2026-01-19T13:00:00",
-                    "color": "#0026ad"
-                }
-            ],
-            "Toxicologie prédictive - 2": [
-                {
-                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiVésale.030",
-                    "start": "2026-04-04T09:30:00",
-                    "end": "2026-04-04T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -29308,7 +29302,7 @@
         "BAB1": {
             "_": [
                 {
-                    "title": "_\nM. MICHEZ, M. VOUE, M. MELOT, M. SEMAY, M. TROESTLER, M. MICHAUX, Mme BRIDOUX\nNiGA.VanGogh",
+                    "title": "_\nM. MICHAUX, M. MICHEZ, M. VOUE, M. MELOT, M. SEMAY, M. TROESTLER, Mme BRIDOUX\nNiGA.VanGogh",
                     "start": "2025-09-15T13:30:00",
                     "end": "2025-09-15T16:00:00",
                     "color": "#0026ad"
@@ -29528,13 +29522,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiBSM.010.Lonsdale, NiB6.18, NiGA.Plisnier",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiB6.18, NiBSM.010.Lonsdale, NiGA.Plisnier",
                     "start": "2026-03-30T10:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiBSM.010.Lonsdale, NiB6.18",
+                    "title": "Aide à la réussite (partie B)\nMme LACROIX, Mme BRIDOUX\nNiGA.Plisnier, NiB6.18, NiBSM.010.Lonsdale",
                     "start": "2026-04-13T08:15:00",
                     "end": "2026-04-13T10:15:00",
                     "color": "#0026ad"
@@ -30504,7 +30498,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.LaFontaine, NiVésale.020, NiVésale.023",
+                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.LaFontaine, NiVésale.020, NiVésale.025, NiVésale.023",
                     "start": "2026-03-12T10:30:00",
                     "end": "2026-03-12T12:30:00",
                     "color": "#0026ad"
@@ -30542,7 +30536,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eval. continue math. élém.\nM. BRIHAYE, M. TROESTLER, M. MICHAUX, Mme BRIDOUX\nNiGA.VanGogh",
+                    "title": "Eval. continue math. élém.\nM. MICHAUX, M. BRIHAYE, M. TROESTLER, Mme BRIDOUX\nNiGA.VanGogh",
                     "start": "2025-10-27T08:15:00",
                     "end": "2025-10-27T10:15:00",
                     "color": "#0026ad"
@@ -32615,12 +32609,6 @@
                 },
                 {
                     "title": "Projet de programmation\nM. DEVILLEZ\nNiDeVinci.Vaughan",
-                    "start": "2026-03-31T10:30:00",
-                    "end": "2026-03-31T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Projet de programmation\nM. DEVILLEZ\nNiDeVinci.Vaughan",
                     "start": "2026-04-07T10:30:00",
                     "end": "2026-04-07T12:30:00",
                     "color": "#0026ad"
@@ -32633,8 +32621,8 @@
                 },
                 {
                     "title": "Projet de programmation\nM. DEVILLEZ\nNiDeVinci.Vaughan",
-                    "start": "2026-05-05T10:30:00",
-                    "end": "2026-05-05T12:30:00",
+                    "start": "2026-05-05T13:30:00",
+                    "end": "2026-05-05T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -47622,15 +47610,33 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Réservation de salles\n\n",
-                    "start": "2026-03-05T12:30:00",
-                    "end": "2026-03-05T13:30:00",
+                    "title": "Réservation de salles\nM. BUYS\nNiDeVinci.Mirzakhani",
+                    "start": "2026-03-18T10:00:00",
+                    "end": "2026-03-18T12:00:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Réservation de salles\n\n",
                     "start": "2026-03-05T12:30:00",
                     "end": "2026-03-05T13:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Réservation de salles\nM. BUYS\nNiDeVinci.Mirzakhani",
+                    "start": "2026-03-18T10:00:00",
+                    "end": "2026-03-18T12:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Réservation de salles\n\n",
+                    "start": "2026-03-05T12:30:00",
+                    "end": "2026-03-05T13:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Réservation de salles\nM. BUYS\nNiDeVinci.Mirzakhani",
+                    "start": "2026-03-18T10:00:00",
+                    "end": "2026-03-18T12:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -50424,7 +50430,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.023, NiVésale.020, NiVésale.LaFontaine",
+                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.023, NiVésale.020, NiVésale.025, NiVésale.LaFontaine",
                     "start": "2026-03-12T10:30:00",
                     "end": "2026-03-12T12:30:00",
                     "color": "#0026ad"
@@ -63836,12 +63842,6 @@
                 },
                 {
                     "title": "Physique nucléaire\nM. SEMAY\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-12T08:15:00",
-                    "end": "2026-03-12T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique nucléaire\nM. SEMAY\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-24T08:15:00",
                     "end": "2026-03-24T10:15:00",
                     "color": "#0026ad"
@@ -73782,18 +73782,6 @@
                     "start": "2026-03-03T10:30:00",
                     "end": "2026-03-03T12:30:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Toxicologie prédictive - 1\nM. COLET\nNiB6.211",
-                    "start": "2026-03-23T08:15:00",
-                    "end": "2026-03-23T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Toxicologie prédictive - 1\nM. COLET\nNiB6.124",
-                    "start": "2026-03-26T15:45:00",
-                    "end": "2026-03-26T17:45:00",
-                    "color": "#0026ad"
                 }
             ],
             "Toxicologie prédictive - 2": [
@@ -73801,6 +73789,12 @@
                     "title": "Toxicologie prédictive - 2\nM. COLET, Mme NACHTERGAEL, Mme ROMAN\nNiB6.124",
                     "start": "2026-03-18T13:30:00",
                     "end": "2026-03-18T17:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiB6.211",
+                    "start": "2026-03-23T08:15:00",
+                    "end": "2026-03-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -73816,15 +73810,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Toxicologie prédictive - 2\nM. COLET, Mme ROMAN\nNiVésale.025",
-                    "start": "2026-04-03T08:15:00",
-                    "end": "2026-04-03T10:15:00",
+                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiB6.124",
+                    "start": "2026-03-26T15:45:00",
+                    "end": "2026-03-26T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiVésale.030",
-                    "start": "2026-04-04T09:30:00",
-                    "end": "2026-04-04T12:30:00",
+                    "title": "Toxicologie prédictive - 2\nM. COLET, Mme ROMAN\nNiVésale.025",
+                    "start": "2026-04-03T08:15:00",
+                    "end": "2026-04-03T10:15:00",
                     "color": "#0026ad"
                 }
             ]
@@ -76104,7 +76098,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.023, NiVésale.LaFontaine, NiVésale.020",
+                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.023, NiVésale.LaFontaine, NiVésale.020, NiVésale.025",
                     "start": "2026-03-12T10:30:00",
                     "end": "2026-03-12T12:30:00",
                     "color": "#0026ad"
@@ -81841,12 +81835,6 @@
                 },
                 {
                     "title": "Physique nucléaire\nM. SEMAY\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-12T08:15:00",
-                    "end": "2026-03-12T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique nucléaire\nM. SEMAY\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-24T08:15:00",
                     "end": "2026-03-24T10:15:00",
                     "color": "#0026ad"
@@ -83414,7 +83402,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Init. à la recherche scient.\nM. SEMAY, M. VOUE\nNiBSM.012.Hermann",
+                    "title": "Init. à la recherche scient.\nM. VOUE, M. SEMAY\nNiBSM.012.Hermann",
                     "start": "2026-05-13T08:15:00",
                     "end": "2026-05-13T18:00:00",
                     "color": "#0026ad"
@@ -83680,12 +83668,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
-                    "start": "2026-05-04T13:30:00",
-                    "end": "2026-05-04T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2026-05-05T13:30:00",
                     "end": "2026-05-05T15:30:00",
@@ -83762,49 +83744,43 @@
             ],
             "Introduction à l'optique quant": [
                 {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiP.0A11",
+                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.015.Feynman",
                     "start": "2026-03-03T08:15:00",
                     "end": "2026-03-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiP.0A11",
+                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.015.Feynman",
                     "start": "2026-03-10T08:15:00",
                     "end": "2026-03-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiP.0A11",
+                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.002.Knight",
                     "start": "2026-03-24T08:15:00",
                     "end": "2026-03-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiP.0A11",
+                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-27T13:30:00",
                     "end": "2026-03-27T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiP.0A11",
+                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.015.Feynman",
                     "start": "2026-03-31T08:15:00",
                     "end": "2026-03-31T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiP.0A07",
-                    "start": "2026-04-03T13:30:00",
-                    "end": "2026-04-03T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiP.0A11",
+                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.015.Feynman",
                     "start": "2026-04-07T08:15:00",
                     "end": "2026-04-07T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiP.0A07",
+                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.016.Dresselhaus",
                     "start": "2026-04-10T13:30:00",
                     "end": "2026-04-10T15:30:00",
                     "color": "#0026ad"
@@ -83816,9 +83792,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiP.3E20",
-                    "start": "2026-04-17T13:30:00",
-                    "end": "2026-04-17T15:30:00",
+                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.004.Penrose",
+                    "start": "2026-05-04T13:30:00",
+                    "end": "2026-05-04T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.016.Dresselhaus",
+                    "start": "2026-05-15T13:30:00",
+                    "end": "2026-05-15T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -84289,12 +84271,6 @@
                     "title": "Physique nucléaire\nM. SEMAY\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-10T08:15:00",
                     "end": "2026-03-10T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique nucléaire\nM. SEMAY\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-12T08:15:00",
-                    "end": "2026-03-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -84774,43 +84750,43 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
                     "start": "2025-11-20T13:30:00",
                     "end": "2025-11-20T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
                     "start": "2025-11-26T13:30:00",
                     "end": "2025-11-26T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
                     "start": "2025-11-27T13:30:00",
                     "end": "2025-11-27T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\n\nMme DEVOUGE, M. VOUE",
+                    "title": "Propriétés opt. des matériaux\n\nM. VOUE, Mme DEVOUGE",
                     "start": "2025-12-04T13:30:00",
                     "end": "2025-12-04T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
                     "start": "2025-12-11T13:30:00",
                     "end": "2025-12-11T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
                     "start": "2025-12-16T13:30:00",
                     "end": "2025-12-16T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Propriétés opt. des matériaux\nMme DEVOUGE, M. VOUE\nNiBSM.106Lab.Drude",
+                    "title": "Propriétés opt. des matériaux\nM. VOUE, Mme DEVOUGE\nNiBSM.106Lab.Drude",
                     "start": "2025-12-19T08:30:00",
                     "end": "2025-12-19T11:30:00",
                     "color": "#0026ad"
@@ -85682,7 +85658,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER, M. THOMEE\nNiP.3E20, NiP.3E10",
+                    "title": "Théorie quant champs I\nM. BOULANGER, M. THOMEE\nNiP.3E10, NiP.3E20",
                     "start": "2026-01-12T08:15:00",
                     "end": "2026-01-12T12:15:00",
                     "color": "#0026ad"
@@ -87123,12 +87099,6 @@
                     "title": "Physique nucléaire\nM. SEMAY\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-10T08:15:00",
                     "end": "2026-03-10T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique nucléaire\nM. SEMAY\nNiBSM.016.Dresselhaus",
-                    "start": "2026-03-12T08:15:00",
-                    "end": "2026-03-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
