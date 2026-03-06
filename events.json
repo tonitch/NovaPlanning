@@ -1385,12 +1385,6 @@
                     "start": "2026-03-03T15:45:00",
                     "end": "2026-03-03T18:45:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN\nJo.Stievenart",
-                    "start": "2026-03-10T15:45:00",
-                    "end": "2026-03-10T17:45:00",
-                    "color": "#0026ad"
                 }
             ],
             "Intro. chimie générale I": [
@@ -2344,8 +2338,8 @@
                 },
                 {
                     "title": "Reméd. Biologie 2\nMme PAMART\nJo.Stievenart",
-                    "start": "2026-03-10T18:00:00",
-                    "end": "2026-03-10T20:00:00",
+                    "start": "2026-03-10T15:45:00",
+                    "end": "2026-03-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -4742,6 +4736,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Physio/Physiopath syst. dig.\nMme LUPANT\nNiP.1E12",
+                    "start": "2026-03-13T10:30:00",
+                    "end": "2026-03-13T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Physio/Physiopath syst. dig.\nM. LEGRAND\nNiVésale.020",
                     "start": "2026-03-13T13:30:00",
                     "end": "2026-03-13T15:30:00",
@@ -5326,19 +5326,19 @@
         "BAB3": {
             "_": [
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
+                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
                     "start": "2025-09-16T10:30:00",
                     "end": "2025-09-16T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
+                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
                     "start": "2025-09-16T11:30:00",
                     "end": "2025-09-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.020",
+                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.020",
                     "start": "2025-09-23T12:30:00",
                     "end": "2025-09-23T13:30:00",
                     "color": "#0026ad"
@@ -5652,13 +5652,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.211",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.211",
                     "start": "2026-03-30T10:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
                     "start": "2026-04-01T08:15:00",
                     "end": "2026-04-01T13:00:00",
                     "color": "#0026ad"
@@ -5670,13 +5670,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiP.3C07Lab",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiP.3C07Lab",
                     "start": "2026-04-02T13:30:00",
                     "end": "2026-04-02T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.211",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.211",
                     "start": "2026-04-07T10:30:00",
                     "end": "2026-04-07T12:30:00",
                     "color": "#0026ad"
@@ -5700,13 +5700,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
                     "start": "2026-04-16T13:30:00",
                     "end": "2026-04-16T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
                     "start": "2026-04-17T13:30:00",
                     "end": "2026-04-17T16:30:00",
                     "color": "#0026ad"
@@ -5758,7 +5758,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Complément biologie molécul.\n\nMme DECLEVES",
+                    "title": "Complément biologie molécul.\nMme DECLEVES\nNiB6.211",
                     "start": "2026-03-05T13:30:00",
                     "end": "2026-03-05T16:30:00",
                     "color": "#0026ad"
@@ -5770,7 +5770,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Complément biologie molécul.\n\nMme DECLEVES",
+                    "title": "Complément biologie molécul.\nMme DECLEVES\nNiMen.Pauling",
                     "start": "2026-03-11T13:30:00",
                     "end": "2026-03-11T16:30:00",
                     "color": "#0026ad"
@@ -5782,7 +5782,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Complément biologie molécul.\n\nMme DECLEVES",
+                    "title": "Complément biologie molécul.\nMme DECLEVES\nNiMen.Pauling",
                     "start": "2026-03-25T13:30:00",
                     "end": "2026-03-25T16:30:00",
                     "color": "#0026ad"
@@ -6533,7 +6533,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. modèles/métho. Biomed\nMme TAGLIATTI, Mme LEMOINE\nNiB6.127Info, NiP.0C14",
+                    "title": "Initiat. modèles/métho. Biomed\nMme TAGLIATTI, Mme LEMOINE\nNiP.0C14, NiB6.127Info",
                     "start": "2026-01-22T08:30:00",
                     "end": "2026-01-22T12:30:00",
                     "color": "#0026ad"
@@ -7205,7 +7205,7 @@
             ],
             "Physio/Physiopath néphro.": [
                 {
-                    "title": "Physio/Physiopath néphro.\nMme LUPANT, Mme AKAN\nNiP.0C14",
+                    "title": "Physio/Physiopath néphro.\nMme AKAN, Mme LUPANT\nNiP.0C14",
                     "start": "2025-11-14T13:30:00",
                     "end": "2025-11-14T17:30:00",
                     "color": "#0026ad"
@@ -7247,7 +7247,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath néphro.\nMme LUPANT, Mme AKAN\nNiP.0C14",
+                    "title": "Physio/Physiopath néphro.\nMme AKAN, Mme LUPANT\nNiP.0C14",
                     "start": "2025-11-28T13:30:00",
                     "end": "2025-11-28T17:30:00",
                     "color": "#0026ad"
@@ -7315,7 +7315,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-09-29T08:15:00",
                     "end": "2025-09-29T10:15:00",
                     "color": "#0026ad"
@@ -7333,7 +7333,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-13T10:30:00",
                     "end": "2025-10-13T12:30:00",
                     "color": "#0026ad"
@@ -7345,13 +7345,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-10-14T18:00:00",
                     "end": "2025-10-14T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-10-15T08:15:00",
                     "end": "2025-10-15T10:15:00",
                     "color": "#0026ad"
@@ -7363,7 +7363,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme AKAN\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme LUPANT\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-20T10:30:00",
                     "end": "2025-10-20T12:30:00",
                     "color": "#0026ad"
@@ -7387,19 +7387,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-28T17:45:00",
                     "end": "2025-11-28T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiVésale.020, NiGA.Plisnier, NiGA.VanGogh",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiVésale.020, NiGA.Plisnier, NiGA.VanGogh",
                     "start": "2025-12-18T08:15:00",
                     "end": "2025-12-18T10:15:00",
                     "color": "#0026ad"
@@ -7553,7 +7553,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques II\nM. LELUBRE\nNiB6.127Info, NiP.1E12",
+                    "title": "Statistiques II\nM. LELUBRE\nNiP.1E12, NiB6.127Info",
                     "start": "2026-01-12T13:00:00",
                     "end": "2026-01-12T17:00:00",
                     "color": "#0026ad"
@@ -9451,9 +9451,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Giving Scientific Presentation\nM. DEVILEZ\nNiGA.Plisnier",
+                    "title": "Giving Scientific Presentation\nM. DEVILEZ\nNiVésale.023",
+                    "start": "2026-05-08T08:15:00",
+                    "end": "2026-05-08T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Giving Scientific Presentation\nM. DEVILEZ\nNiVésale.LaFontaine",
                     "start": "2026-05-11T15:45:00",
-                    "end": "2026-05-11T18:15:00",
+                    "end": "2026-05-11T19:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -9493,9 +9499,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Giving Scientific Presentation\nM. DEVILEZ\nNiGA.Plisnier",
+                    "title": "Giving Scientific Presentation\nM. DEVILEZ\nNiVésale.023",
+                    "start": "2026-05-08T08:15:00",
+                    "end": "2026-05-08T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Giving Scientific Presentation\nM. DEVILEZ\nNiVésale.LaFontaine",
                     "start": "2026-05-11T15:45:00",
-                    "end": "2026-05-11T18:15:00",
+                    "end": "2026-05-11T19:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -18447,12 +18459,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro méca des fluides\nM. GABRIELE, M. DAMMAN\nNiBSM.002.Knight",
-                    "start": "2026-03-24T13:30:00",
-                    "end": "2026-03-24T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Intro méca des fluides\nMme MOHAMMED, M. GABRIELE\nNiMen.MacDiarmid",
                     "start": "2026-03-25T08:30:00",
                     "end": "2026-03-25T16:30:00",
@@ -18468,6 +18474,12 @@
                     "title": "Intro méca des fluides\nMme MOHAMMED, M. GABRIELE\nNiMen.MacDiarmid",
                     "start": "2026-03-27T08:30:00",
                     "end": "2026-03-27T16:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro méca des fluides\nM. GABRIELE, M. DAMMAN\nNiMen.Pauling",
+                    "start": "2026-03-31T13:30:00",
+                    "end": "2026-03-31T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -49562,9 +49574,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre I. B.\nM. MICHAUX\nNiP.3E20",
-                    "start": "2026-03-11T08:15:00",
-                    "end": "2026-03-11T10:15:00",
+                    "title": "Algèbre I. B.\nM. RAMLOT\nNiP.3E20",
+                    "start": "2026-03-10T15:45:00",
+                    "end": "2026-03-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -50290,7 +50302,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse math I B\nMme DUMONCEAU, M. TROESTLER, Mme BRIDOUX\nNiBSM.008.Kwolek",
+                    "title": "Analyse math I B\nMme DUMONCEAU, M. TROESTLER\nNiBSM.008.Kwolek",
                     "start": "2026-04-07T08:15:00",
                     "end": "2026-04-07T10:15:00",
                     "color": "#0026ad"
@@ -55066,9 +55078,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Etude d'obj. math élémentaire\nMme BRIDOUX\nNiP.3E10",
-                    "start": "2026-04-10T10:30:00",
-                    "end": "2026-04-10T12:30:00",
+                    "title": "Etude d'obj. math élémentaire\nMme BRIDOUX\nNiP.0A11",
+                    "start": "2026-04-07T08:15:00",
+                    "end": "2026-04-07T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -57444,7 +57456,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie des modèles I\nM. MICHAUX, M. RAMLOT\nNiP.3E10",
+                    "title": "Théorie des modèles I\nM. MICHAUX\nNiP.3E10",
                     "start": "2026-03-10T15:45:00",
                     "end": "2026-03-10T17:45:00",
                     "color": "#0026ad"
@@ -57993,9 +58005,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Etude d'obj. math élémentaire\nMme BRIDOUX\nNiP.3E10",
-                    "start": "2026-04-10T10:30:00",
-                    "end": "2026-04-10T12:30:00",
+                    "title": "Etude d'obj. math élémentaire\nMme BRIDOUX\nNiP.0A11",
+                    "start": "2026-04-07T08:15:00",
+                    "end": "2026-04-07T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -60403,9 +60415,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Etude d'obj. math élémentaire\nMme BRIDOUX\nNiP.3E10",
-                    "start": "2026-04-10T10:30:00",
-                    "end": "2026-04-10T12:30:00",
+                    "title": "Etude d'obj. math élémentaire\nMme BRIDOUX\nNiP.0A11",
+                    "start": "2026-04-07T08:15:00",
+                    "end": "2026-04-07T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -66663,12 +66675,6 @@
                     "start": "2026-03-03T15:45:00",
                     "end": "2026-03-03T18:45:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN\nJo.Stievenart",
-                    "start": "2026-03-10T15:45:00",
-                    "end": "2026-03-10T17:45:00",
-                    "color": "#0026ad"
                 }
             ],
             "Intro. chimie générale I": [
@@ -67658,8 +67664,8 @@
                 },
                 {
                     "title": "Reméd. Biologie 2\nMme PAMART\nJo.Stievenart",
-                    "start": "2026-03-10T18:00:00",
-                    "end": "2026-03-10T20:00:00",
+                    "start": "2026-03-10T15:45:00",
+                    "end": "2026-03-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -79922,9 +79928,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Etude d'obj. math élémentaire\nMme BRIDOUX\nNiP.3E10",
-                    "start": "2026-04-10T10:30:00",
-                    "end": "2026-04-10T12:30:00",
+                    "title": "Etude d'obj. math élémentaire\nMme BRIDOUX\nNiP.0A11",
+                    "start": "2026-04-07T08:15:00",
+                    "end": "2026-04-07T10:15:00",
                     "color": "#0026ad"
                 }
             ],
