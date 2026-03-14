@@ -15351,8 +15351,8 @@
                 },
                 {
                     "title": "Aide à la réussite (Partie B)\nM. VAN VOOREN\nNiMen.Pauling",
-                    "start": "2026-05-04T08:15:00",
-                    "end": "2026-05-04T10:15:00",
+                    "start": "2026-05-04T10:30:00",
+                    "end": "2026-05-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -16162,9 +16162,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. orga. I. B.\n\nM. DE WINTER",
-                    "start": "2026-05-04T10:30:00",
-                    "end": "2026-05-04T12:30:00",
+                    "title": "Chim. orga. I. B.\nM. DE WINTER\nNiB6.18",
+                    "start": "2026-05-04T08:15:00",
+                    "end": "2026-05-04T10:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -16219,12 +16219,6 @@
                 }
             ],
             "Chimie générale (partie B)": [
-                {
-                    "title": "Chimie générale (partie B)\nM. COULEMBIER\nNiVésale.LaFontaine",
-                    "start": "2026-03-17T13:30:00",
-                    "end": "2026-03-17T15:30:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Chimie générale (partie B)\nM. COULEMBIER\nNiVésale.LaFontaine",
                     "start": "2026-03-24T10:30:00",
@@ -19598,9 +19592,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique III\nM. DE WINTER, M. GERBAUX\nNiP.0A07",
-                    "start": "2026-05-04T08:15:00",
-                    "end": "2026-05-04T10:15:00",
+                    "title": "Chimie organique III\nM. DE WINTER\nNiBSM.015.Feynman",
+                    "start": "2026-05-04T10:30:00",
+                    "end": "2026-05-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -65640,7 +65634,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme GODEAU, M. VAN LEUVEN, Mme BEAUCHOT\nNiVésale.023, RosaParks.0.08.Landercy, NiB6.124, NiP.0A07, NiB6.211, Jo.Stievenart, NiGA.Gutenberg, RosaParks.1.09.Delmas-Marty, NiB6.18, NiGA.Curie",
+                    "title": "Chimie générale I\nMme GODEAU, M. VAN LEUVEN, Mme BEAUCHOT\nNiVésale.023, RosaParks.0.08.Landercy, NiB6.124, NiB6.211, NiP.0A07, Jo.Stievenart, NiGA.Gutenberg, RosaParks.1.09.Delmas-Marty, NiB6.18, NiGA.Curie",
                     "start": "2025-12-17T13:30:00",
                     "end": "2025-12-17T15:30:00",
                     "color": "#0026ad"
@@ -65986,7 +65980,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nM. STANICKI, Mme BEAUCHOT, Mme GODEAU, Mme HENOUMONT, Mme LAURENT, M. VAN LEUVEN\nNiVésale.LaFontaine, NiVésale.023, NiVésale.020, RosaParks.0.08.Landercy, NiGA.Plisnier, NiB6.124, NiB6.211, NiGA.Gutenberg, NiGA.VanGogh, NiVésale.030, RosaParks.1.09.Delmas-Marty, NiVésale.025, NiGA.Curie, NiB6.06",
+                    "title": "Chimie organique I\nM. STANICKI, Mme BEAUCHOT, Mme GODEAU, Mme HENOUMONT, Mme LAURENT, M. VAN LEUVEN\nNiVésale.LaFontaine, NiVésale.023, NiVésale.020, RosaParks.0.08.Landercy, NiGA.Plisnier, NiB6.124, NiB6.211, NiVésale.025, NiGA.Gutenberg, NiGA.VanGogh, NiVésale.030, RosaParks.1.09.Delmas-Marty, NiGA.Curie, NiB6.06",
                     "start": "2026-01-15T09:30:00",
                     "end": "2026-01-15T12:30:00",
                     "color": "#0026ad"
@@ -67122,7 +67116,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique Biomed I\nM. VUONG, M. GOSSUIN\nNiVésale.023, NiVésale.020, Jo.Stievenart, NiGA.VanGogh, NiGA.Plisnier, NiVésale.025, NiGA.Curie",
+                    "title": "Physique Biomed I\nM. VUONG, M. GOSSUIN\nNiVésale.025, NiVésale.023, NiVésale.020, Jo.Stievenart, NiGA.VanGogh, NiGA.Plisnier, NiGA.Curie",
                     "start": "2026-01-05T13:00:00",
                     "end": "2026-01-05T16:00:00",
                     "color": "#0026ad"
@@ -67718,7 +67712,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Reméd. Biologie 2\nM. VUONG, M. LAMBOTTE, Mme BEAUCHOT, Mme GODEAU, Mme PAMART, M. VAN LEUVEN\nNiGA.Gutenberg",
+                    "title": "Reméd. Biologie 2\nM. LAMBOTTE, Mme BEAUCHOT, Mme GODEAU, Mme PAMART, M. VAN LEUVEN, M. VUONG\nNiGA.Gutenberg",
                     "start": "2026-05-11T08:15:00",
                     "end": "2026-05-11T10:15:00",
                     "color": "#0026ad"
@@ -67864,13 +67858,13 @@
             ],
             "Reméd. Chimie organique I": [
                 {
-                    "title": "Reméd. Chimie organique I\nM. VUONG, Mme BEAUCHOT, Mme GODEAU, Mme PAMART, M. VAN LEUVEN\nJo.Stievenart",
+                    "title": "Reméd. Chimie organique I\nMme BEAUCHOT, Mme GODEAU, Mme PAMART, M. VAN LEUVEN, M. VUONG\nJo.Stievenart",
                     "start": "2025-12-03T15:45:00",
                     "end": "2025-12-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Reméd. Chimie organique I\nM. VUONG, M. LAMBOTTE, Mme BEAUCHOT, Mme GODEAU, Mme PAMART, M. VAN LEUVEN\nNiVésale.030, NiVésale.023",
+                    "title": "Reméd. Chimie organique I\nM. LAMBOTTE, Mme BEAUCHOT, Mme GODEAU, Mme PAMART, M. VAN LEUVEN, M. VUONG\nNiVésale.030, NiVésale.023",
                     "start": "2025-12-09T10:30:00",
                     "end": "2025-12-09T12:30:00",
                     "color": "#0026ad"
@@ -67882,7 +67876,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Reméd. Chimie organique I\nM. VUONG, M. LAMBOTTE, Mme GODEAU, Mme PAMART, M. VAN LEUVEN\nNiVésale.023",
+                    "title": "Reméd. Chimie organique I\nM. LAMBOTTE, Mme GODEAU, Mme PAMART, M. VAN LEUVEN, M. VUONG\nNiVésale.023",
                     "start": "2025-12-16T08:15:00",
                     "end": "2025-12-16T10:15:00",
                     "color": "#0026ad"
@@ -67940,9 +67934,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Reméd. Physique Biomed II\nMme HOCQ\nNiB6.211",
-                    "start": "2026-03-17T10:30:00",
-                    "end": "2026-03-17T12:30:00",
+                    "title": "Reméd. Physique Biomed II\nMme HOCQ\nNiVésale.025",
+                    "start": "2026-03-18T15:45:00",
+                    "end": "2026-03-18T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -68056,13 +68050,13 @@
         "BAB2": {
             "_": [
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.LaFontaine",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.LaFontaine",
                     "start": "2025-09-19T10:30:00",
                     "end": "2025-09-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.020",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.020",
                     "start": "2025-09-23T12:30:00",
                     "end": "2025-09-23T13:30:00",
                     "color": "#0026ad"
@@ -69416,13 +69410,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English, part 2\nMme VAN LANCKER\nNiGA.Pascal",
+                    "title": "English, part 2\nMme VAN LANCKER\nNiGA.Interactiv1",
                     "start": "2026-04-03T08:15:00",
                     "end": "2026-04-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English, part 2\nMme VAN LANCKER\nNiGA.Pascal",
+                    "title": "English, part 2\nMme VAN LANCKER\nNiGA.Interactiv1",
                     "start": "2026-04-03T10:30:00",
                     "end": "2026-04-03T12:30:00",
                     "color": "#0026ad"
@@ -69522,7 +69516,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène, pathologie et thérapie\n\nMme COPPEE",
+                    "title": "Gène, pathologie et thérapie\nMme COPPEE\nNiP.0A11",
                     "start": "2026-03-13T10:30:00",
                     "end": "2026-03-13T12:30:00",
                     "color": "#0026ad"
@@ -70098,7 +70092,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques II\nM. LELUBRE\nPCM.500, NiGA.Gutenberg",
+                    "title": "Statistiques II\nM. LELUBRE\nNiGA.Gutenberg, PCM.500",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
@@ -79769,6 +79763,12 @@
                 },
                 {
                     "title": "Électromagnétisme II\nM. VOUE\nNiBSM.106Lab.Drude",
+                    "start": "2026-04-08T13:30:00",
+                    "end": "2026-04-08T16:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Électromagnétisme II\nM. VOUE\nNiBSM.106Lab.Drude",
                     "start": "2026-05-06T13:30:00",
                     "end": "2026-05-06T16:30:00",
                     "color": "#0026ad"
@@ -83776,12 +83776,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.002.Knight",
-                    "start": "2026-03-24T08:15:00",
-                    "end": "2026-03-24T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-27T13:30:00",
                     "end": "2026-03-27T15:30:00",
@@ -87713,6 +87707,12 @@
                     "title": "Propriétés optiques nanostruct\nM. VOUE\nNiBSM.002.Knight",
                     "start": "2026-03-13T10:30:00",
                     "end": "2026-03-13T13:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Propriétés optiques nanostruct\nM. VOUE\nNiBSM.015.Feynman",
+                    "start": "2026-03-13T13:30:00",
+                    "end": "2026-03-13T16:30:00",
                     "color": "#0026ad"
                 },
                 {
