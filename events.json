@@ -15644,6 +15644,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS\nNiB6.124",
+                    "start": "2026-05-04T13:30:00",
+                    "end": "2026-05-04T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-05-06T13:30:00",
                     "end": "2026-05-06T17:30:00",
@@ -20160,12 +20166,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Meta azote et regu balance N/C\nM. LEROY\nNiB6.124",
-                    "start": "2026-03-23T08:15:00",
-                    "end": "2026-03-23T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Meta azote et regu balance N/C\nM. LEROY\nNiDeVinci.Mirzakhani",
                     "start": "2026-03-31T08:15:00",
                     "end": "2026-03-31T10:15:00",
@@ -22064,7 +22064,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Sciences et société\nM. BROCORENS\nNiBSM.002.Knight",
+                    "title": "Sciences et société\n\nNiBSM.002.Knight",
                     "start": "2026-05-04T13:30:00",
                     "end": "2026-05-04T17:30:00",
                     "color": "#0026ad"
@@ -24100,7 +24100,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Sciences et société\nM. BROCORENS\nNiBSM.002.Knight",
+                    "title": "Sciences et société\n\nNiBSM.002.Knight",
                     "start": "2026-05-04T13:30:00",
                     "end": "2026-05-04T17:30:00",
                     "color": "#0026ad"
@@ -38166,7 +38166,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.06PC",
                     "start": "2026-03-23T08:15:00",
                     "end": "2026-03-23T10:15:00",
                     "color": "#0026ad"
@@ -43919,7 +43919,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.06PC",
                     "start": "2026-03-23T08:15:00",
                     "end": "2026-03-23T10:15:00",
                     "color": "#0026ad"
@@ -59340,7 +59340,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.06PC",
                     "start": "2026-03-23T08:15:00",
                     "end": "2026-03-23T10:15:00",
                     "color": "#0026ad"
