@@ -5857,7 +5857,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eléments de pathologie\n\nM. HOUGARDY",
+                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiVésale.LaFontaine",
                     "start": "2026-04-13T08:15:00",
                     "end": "2026-04-13T10:15:00",
                     "color": "#0026ad"
@@ -8039,14 +8039,14 @@
                 },
                 {
                     "title": "Biochimie générale\nM. LABIAU\nNiVésale.LaFontaine",
-                    "start": "2026-04-09T09:15:00",
-                    "end": "2026-04-09T10:15:00",
+                    "start": "2026-04-09T10:30:00",
+                    "end": "2026-04-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie générale\nM. LABIAU\nNiVésale.LaFontaine",
-                    "start": "2026-04-09T10:30:00",
-                    "end": "2026-04-09T12:30:00",
+                    "title": "Biochimie générale\nM. LABIAU\nNiP.3E20",
+                    "start": "2026-04-09T12:30:00",
+                    "end": "2026-04-09T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -8153,14 +8153,14 @@
                 },
                 {
                     "title": "Biochimie générale\nM. LABIAU\nNiVésale.LaFontaine",
-                    "start": "2026-04-09T09:15:00",
-                    "end": "2026-04-09T10:15:00",
+                    "start": "2026-04-09T10:30:00",
+                    "end": "2026-04-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie générale\nM. LABIAU\nNiVésale.LaFontaine",
-                    "start": "2026-04-09T10:30:00",
-                    "end": "2026-04-09T12:30:00",
+                    "title": "Biochimie générale\nM. LABIAU\nNiP.3E20",
+                    "start": "2026-04-09T12:30:00",
+                    "end": "2026-04-09T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -70266,7 +70266,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse instrumentale pharma\nM. LEVEQUE, Mme WELLS, M. BLANKERT\nNiGA.Curie",
+                    "title": "Analyse instrumentale pharma\nMme WELLS, M. LEVEQUE, M. BLANKERT\nNiGA.Curie",
                     "start": "2026-01-23T13:00:00",
                     "end": "2026-01-23T16:00:00",
                     "color": "#0026ad"
@@ -70274,151 +70274,151 @@
             ],
             "Analyse pharma appliquée": [
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiB6.124",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiB6.124",
                     "start": "2025-11-05T10:30:00",
                     "end": "2025-11-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-17T08:00:00",
                     "end": "2025-11-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-17T13:30:00",
                     "end": "2025-11-17T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-18T08:00:00",
                     "end": "2025-11-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-18T13:30:00",
                     "end": "2025-11-18T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-19T08:00:00",
                     "end": "2025-11-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-19T13:30:00",
                     "end": "2025-11-19T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-20T08:00:00",
                     "end": "2025-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-20T13:30:00",
                     "end": "2025-11-20T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-21T08:00:00",
                     "end": "2025-11-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-21T13:30:00",
                     "end": "2025-11-21T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-24T08:00:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-24T13:30:00",
                     "end": "2025-11-24T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-25T08:00:00",
                     "end": "2025-11-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-26T08:00:00",
                     "end": "2025-11-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-26T13:30:00",
                     "end": "2025-11-26T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-27T08:00:00",
                     "end": "2025-11-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-27T13:30:00",
                     "end": "2025-11-27T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-28T08:00:00",
                     "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-28T13:30:00",
                     "end": "2025-11-28T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiVésale.025",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiVésale.025",
                     "start": "2025-12-01T10:30:00",
                     "end": "2025-12-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiB6.124",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiB6.124",
                     "start": "2025-12-03T13:30:00",
                     "end": "2025-12-03T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiB6.18",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiB6.18",
                     "start": "2025-12-04T10:30:00",
                     "end": "2025-12-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2025-12-11T10:30:00",
                     "end": "2025-12-11T12:30:00",
                     "color": "#0026ad"
@@ -70628,7 +70628,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eléments de pathologie\n\nM. HOUGARDY",
+                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiVésale.LaFontaine",
                     "start": "2026-04-13T08:15:00",
                     "end": "2026-04-13T10:15:00",
                     "color": "#0026ad"
@@ -70884,7 +70884,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Immunologie\nMme ANDRIS\nNiVésale.023, NiGA.Plisnier, NiGA.Curie, NiVésale.LaFontaine",
+                    "title": "Immunologie\nMme ANDRIS\nNiGA.Plisnier, NiVésale.LaFontaine, NiGA.Curie, NiVésale.023",
                     "start": "2026-01-19T13:30:00",
                     "end": "2026-01-19T16:30:00",
                     "color": "#0026ad"
@@ -71542,7 +71542,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme CARETTE, Mme NACHTERGAEL\nNiGA.Curie, NiVésale.023",
+                    "title": "Pharmacologie générale Exer.\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL\nNiGA.Curie, NiVésale.023",
                     "start": "2026-01-20T14:30:00",
                     "end": "2026-01-20T17:30:00",
                     "color": "#0026ad"
@@ -71728,7 +71728,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Principes physico-chimiques\nM. VANDERBIST\nNiVésale.030, NiB6.18",
+                    "title": "Principes physico-chimiques\nM. VANDERBIST\nNiB6.18, NiVésale.030",
                     "start": "2025-12-12T13:30:00",
                     "end": "2025-12-12T15:30:00",
                     "color": "#0026ad"
