@@ -6658,12 +6658,6 @@
                     "start": "2026-04-10T10:30:00",
                     "end": "2026-04-10T12:30:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Interactions non covalentes\nM. STANICKI\nNiVésale.LaFontaine",
-                    "start": "2026-04-10T13:30:00",
-                    "end": "2026-04-10T16:30:00",
-                    "color": "#0026ad"
                 }
             ],
             "Intro pharmacologie cellulaire": [
@@ -33417,7 +33411,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\n\nM. WIJSEN, M. BONTE",
+                    "title": "Bases de données II\nM. WIJSEN, M. BONTE\nNiDeVinci.Vaughan",
                     "start": "2026-05-06T10:30:00",
                     "end": "2026-05-06T12:30:00",
                     "color": "#0026ad"
@@ -34599,7 +34593,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
@@ -35842,7 +35836,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\n\nM. WIJSEN, M. BONTE",
+                    "title": "Bases de données II\nM. WIJSEN, M. BONTE\nNiDeVinci.Vaughan",
                     "start": "2026-05-06T10:30:00",
                     "end": "2026-05-06T12:30:00",
                     "color": "#0026ad"
@@ -39665,8 +39659,8 @@
                 },
                 {
                     "title": "Ethique droit de l'info\n\nMme ROSIC",
-                    "start": "2026-04-18T09:30:00",
-                    "end": "2026-04-18T12:30:00",
+                    "start": "2026-04-17T18:00:00",
+                    "end": "2026-04-17T21:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -39731,8 +39725,8 @@
                 },
                 {
                     "title": "Ethique droit de l'info\n\nMme ROSIC",
-                    "start": "2026-04-18T09:30:00",
-                    "end": "2026-04-18T12:30:00",
+                    "start": "2026-04-17T18:00:00",
+                    "end": "2026-04-17T21:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -40343,7 +40337,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
@@ -45480,8 +45474,8 @@
                 },
                 {
                     "title": "Ethique droit de l'info\n\nMme ROSIC",
-                    "start": "2026-04-18T09:30:00",
-                    "end": "2026-04-18T12:30:00",
+                    "start": "2026-04-17T18:00:00",
+                    "end": "2026-04-17T21:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -46145,7 +46139,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
@@ -54549,7 +54543,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\n\nM. BONTE, M. WIJSEN",
+                    "title": "Bases de données II\nM. BONTE, M. WIJSEN\nNiDeVinci.Vaughan",
                     "start": "2026-05-06T10:30:00",
                     "end": "2026-05-06T12:30:00",
                     "color": "#0026ad"
@@ -55455,7 +55449,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
@@ -62591,6 +62585,12 @@
                     "title": "Projet Math appliquées\nM. RIVIERE\nNiBSM.004.Penrose",
                     "start": "2026-04-16T08:15:00",
                     "end": "2026-04-16T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Projet Math appliquées\nM. RIVIERE\nNiP.0A07",
+                    "start": "2026-04-17T10:30:00",
+                    "end": "2026-04-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -71033,12 +71033,6 @@
                     "title": "Interactions non covalentes\nM. STANICKI\nNiVésale.025",
                     "start": "2026-04-10T10:30:00",
                     "end": "2026-04-10T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Interactions non covalentes\nM. STANICKI\nNiVésale.LaFontaine",
-                    "start": "2026-04-10T13:30:00",
-                    "end": "2026-04-10T16:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -83698,7 +83692,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
