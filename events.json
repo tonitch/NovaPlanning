@@ -14010,7 +14010,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Neurotoxicology\nMme COLOMAR\nNiP.0A11, NiP.3E10",
+                    "title": "Neurotoxicology\nMme COLOMAR\nNiP.3E10, NiP.0A11",
                     "start": "2025-10-17T15:45:00",
                     "end": "2025-10-17T17:45:00",
                     "color": "#0026ad"
@@ -14106,7 +14106,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Neurotoxicology\nMme COLOMAR\nNiP.3E10, NiP.0A11",
+                    "title": "Neurotoxicology\nMme COLOMAR\nNiP.0A11, NiP.3E10",
                     "start": "2025-10-17T15:45:00",
                     "end": "2025-10-17T17:45:00",
                     "color": "#0026ad"
@@ -14194,13 +14194,13 @@
             ],
             "Physiologie comp. animaux labo": [
                 {
-                    "title": "Physiologie comp. animaux labo\nMme PIERSON, Mme LUPANT, M. LEGRAND, M. FROMENT, Mme JOLY, Mme VAN CAUWENBERGE\nPCM.200",
+                    "title": "Physiologie comp. animaux labo\nMme PIERSON, M. FROMENT, M. LEGRAND, Mme VAN CAUWENBERGE, Mme JOLY, Mme LUPANT\nPCM.200",
                     "start": "2026-01-05T12:45:00",
                     "end": "2026-01-05T15:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie comp. animaux labo\nMme JOLY, Mme LUPANT, Mme PIERSON, M. FROMENT, M. LEGRAND, Mme VAN CAUWENBERGE\nPCM.200",
+                    "title": "Physiologie comp. animaux labo\nMme PIERSON, Mme LUPANT, M. LEGRAND, M. FROMENT, Mme JOLY, Mme VAN CAUWENBERGE\nPCM.200",
                     "start": "2026-01-05T12:45:00",
                     "end": "2026-01-05T15:45:00",
                     "color": "#0026ad"
@@ -14364,61 +14364,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Programme Startech Medtech\nM. COLET, M. GILIS\nNiP.3E20",
+                    "title": "Programme Startech Medtech\nM. GILIS, M. COLET\nNiP.3E20",
                     "start": "2026-05-28T13:30:00",
                     "end": "2026-05-28T15:30:00",
                     "color": "#0026ad"
                 }
             ],
             "Risques hospitaliers": [
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI\nNiP.0A11",
-                    "start": "2025-09-29T13:30:00",
-                    "end": "2025-09-29T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI\nNiP.0A11",
-                    "start": "2025-10-06T13:30:00",
-                    "end": "2025-10-06T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiMen.Pauling",
-                    "start": "2025-11-13T08:15:00",
-                    "end": "2025-11-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiB6.06",
-                    "start": "2025-11-27T10:30:00",
-                    "end": "2025-11-27T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiB6.06",
-                    "start": "2025-12-04T10:30:00",
-                    "end": "2025-12-04T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiB6.06",
-                    "start": "2025-12-11T10:30:00",
-                    "end": "2025-12-11T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiB6.06",
-                    "start": "2025-12-18T10:30:00",
-                    "end": "2025-12-18T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiB6.124",
-                    "start": "2026-01-13T12:15:00",
-                    "end": "2026-01-13T14:15:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Risques hospitaliers\nM. EL HIKI\nNiP.0A11",
                     "start": "2025-09-29T13:30:00",
@@ -14463,6 +14415,54 @@
                 },
                 {
                     "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiB6.124",
+                    "start": "2026-01-13T12:15:00",
+                    "end": "2026-01-13T14:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Risques hospitaliers\nM. EL HIKI\nNiP.0A11",
+                    "start": "2025-09-29T13:30:00",
+                    "end": "2025-09-29T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Risques hospitaliers\nM. EL HIKI\nNiP.0A11",
+                    "start": "2025-10-06T13:30:00",
+                    "end": "2025-10-06T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiMen.Pauling",
+                    "start": "2025-11-13T08:15:00",
+                    "end": "2025-11-13T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiB6.06",
+                    "start": "2025-11-27T10:30:00",
+                    "end": "2025-11-27T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiB6.06",
+                    "start": "2025-12-04T10:30:00",
+                    "end": "2025-12-04T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiB6.06",
+                    "start": "2025-12-11T10:30:00",
+                    "end": "2025-12-11T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiB6.06",
+                    "start": "2025-12-18T10:30:00",
+                    "end": "2025-12-18T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Risques hospitaliers\nM. EL HIKI, M. COLET\nNiB6.124",
                     "start": "2026-01-13T12:15:00",
                     "end": "2026-01-13T14:15:00",
                     "color": "#0026ad"
@@ -14868,6 +14868,24 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Stage extérieur/Exter. Train.\nMme BURTEA\nNiVésale.025",
+                    "start": "2026-06-22T08:15:00",
+                    "end": "2026-06-22T19:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Stage extérieur/Exter. Train.\nM. NONCLERCQ, Mme BURTEA\nNiVésale.025",
+                    "start": "2026-06-24T08:00:00",
+                    "end": "2026-06-24T19:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Stage extérieur/Exter. Train.\nM. NONCLERCQ, Mme BURTEA\nNiVésale.025",
+                    "start": "2026-06-25T08:15:00",
+                    "end": "2026-06-25T19:15:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Stage extérieur/Exter. Train.\n\n",
                     "start": "2026-02-02T08:30:00",
                     "end": "2026-02-02T18:30:00",
@@ -15201,6 +15219,24 @@
                     "title": "Stage extérieur/Exter. Train.\n\n",
                     "start": "2026-04-17T08:30:00",
                     "end": "2026-04-17T18:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Stage extérieur/Exter. Train.\nMme BURTEA\nNiVésale.025",
+                    "start": "2026-06-22T08:15:00",
+                    "end": "2026-06-22T19:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Stage extérieur/Exter. Train.\nMme BURTEA, M. NONCLERCQ\nNiVésale.025",
+                    "start": "2026-06-24T08:00:00",
+                    "end": "2026-06-24T19:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Stage extérieur/Exter. Train.\nMme BURTEA, M. NONCLERCQ\nNiVésale.025",
+                    "start": "2026-06-25T08:15:00",
+                    "end": "2026-06-25T19:15:00",
                     "color": "#0026ad"
                 }
             ],
