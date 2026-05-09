@@ -2303,21 +2303,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique biomédicale II\nM. GOSSUIN\nNiGA.VanGogh",
+                    "title": "Physique biomédicale II\nM. HENRARD\nNiGA.VanGogh",
                     "start": "2026-05-11T10:30:00",
                     "end": "2026-05-11T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique biomédicale II\nM. GOSSUIN\nNiGA.VanGogh",
-                    "start": "2026-05-12T10:30:00",
-                    "end": "2026-05-12T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique biomédicale II\nM. HENRARD\nJo.Stievenart",
-                    "start": "2026-05-13T08:00:00",
-                    "end": "2026-05-13T10:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -2724,8 +2712,8 @@
                 },
                 {
                     "title": "Reméd. Physique Biomed II\nMme HOCQ\nNiGA.VanGogh",
-                    "start": "2026-05-15T08:15:00",
-                    "end": "2026-05-15T10:15:00",
+                    "start": "2026-05-12T10:30:00",
+                    "end": "2026-05-12T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -3460,6 +3448,14 @@
                     "title": "English for Intern Comm - AAEP\nM. MACALUSO\nWa.110111P",
                     "start": "2026-06-05T08:30:00",
                     "end": "2026-06-05T12:30:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "English for Science, part 2": [
+                {
+                    "title": "English for Science, part 2\n\nMme VAN LANCKER",
+                    "start": "2026-06-22T08:30:00",
+                    "end": "2026-06-22T11:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -6202,6 +6198,12 @@
                     "title": "Embryologie humaine\nMme TRELCAT, M. SAUSSEZ\nJo.Stievenart",
                     "start": "2026-05-26T15:15:00",
                     "end": "2026-05-26T18:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Embryologie humaine\n\nM. SAUSSEZ",
+                    "start": "2026-06-23T09:00:00",
+                    "end": "2026-06-23T10:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -69787,21 +69789,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique biomédicale II\nM. GOSSUIN\nNiGA.VanGogh",
+                    "title": "Physique biomédicale II\nM. HENRARD\nNiGA.VanGogh",
                     "start": "2026-05-11T10:30:00",
                     "end": "2026-05-11T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique biomédicale II\nM. GOSSUIN\nNiGA.VanGogh",
-                    "start": "2026-05-12T10:30:00",
-                    "end": "2026-05-12T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Physique biomédicale II\nM. HENRARD\nJo.Stievenart",
-                    "start": "2026-05-13T08:00:00",
-                    "end": "2026-05-13T10:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -70330,8 +70320,8 @@
                 },
                 {
                     "title": "Reméd. Physique Biomed II\nMme HOCQ\nNiGA.VanGogh",
-                    "start": "2026-05-15T08:15:00",
-                    "end": "2026-05-15T10:15:00",
+                    "start": "2026-05-12T10:30:00",
+                    "end": "2026-05-12T12:30:00",
                     "color": "#0026ad"
                 }
             ],
