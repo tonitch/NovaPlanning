@@ -8112,7 +8112,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyses intégratives\nMme COPPEE, M. CONOTTE, Mme TAGLIATTI, M. WATTIEZ, M. SAND\nNiP.0A07",
+                    "title": "Analyses intégratives\nMme COPPEE, M. CONOTTE, M. WATTIEZ, Mme TAGLIATTI, M. SAND\nNiP.0A07",
                     "start": "2026-06-04T12:00:00",
                     "end": "2026-06-04T17:00:00",
                     "color": "#0026ad"
@@ -8866,7 +8866,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie intégrée\nMme COPPEE, M. COLET, M. CONOTTE, Mme TAGLIATTI, M. WATTIEZ\nNiB6.06",
+                    "title": "Biologie intégrée\nMme COPPEE, M. COLET, M. CONOTTE, M. WATTIEZ, Mme TAGLIATTI\nNiB6.06",
                     "start": "2025-11-18T08:15:00",
                     "end": "2025-11-18T10:15:00",
                     "color": "#0026ad"
@@ -8884,7 +8884,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie intégrée\nMme COPPEE, M. COLET, M. CONOTTE, Mme TAGLIATTI, M. WATTIEZ, M. SAND\nNiB6.06",
+                    "title": "Biologie intégrée\nMme COPPEE, M. COLET, M. CONOTTE, M. WATTIEZ, Mme TAGLIATTI, M. SAND\nNiB6.06",
                     "start": "2025-12-03T13:30:00",
                     "end": "2025-12-03T16:30:00",
                     "color": "#0026ad"
@@ -11881,6 +11881,14 @@
                     "title": "Procédures expérimentales\nMme JOLY\nNiP.0C14, NiP.3C07Lab",
                     "start": "2025-09-25T13:30:00",
                     "end": "2025-09-25T17:30:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "Protéomie - Travaux personnels": [
+                {
+                    "title": "Protéomie - Travaux personnels\nM. WATTIEZ\nNiP.3C07Lab",
+                    "start": "2026-06-19T08:30:00",
+                    "end": "2026-06-19T16:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -16904,12 +16912,6 @@
                     "start": "2026-05-06T10:30:00",
                     "end": "2026-05-06T12:30:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Chimie générale II (partie C)\nM. COULEMBIER\nNiVésale.030",
-                    "start": "2026-05-12T10:30:00",
-                    "end": "2026-05-12T12:30:00",
-                    "color": "#0026ad"
                 }
             ],
             "Elec - Théorie": [
@@ -18742,7 +18744,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "English for Science, part 1\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiDeVinci.Montague, NiDeVinci.Wüster",
                     "start": "2025-12-15T08:15:00",
                     "end": "2025-12-15T10:15:00",
                     "color": "#0026ad"
@@ -18798,7 +18800,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiBSM.016.Dresselhaus, NiGA.Pascal",
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiGA.Pascal, NiBSM.016.Dresselhaus",
                     "start": "2026-03-09T10:30:00",
                     "end": "2026-03-09T12:30:00",
                     "color": "#0026ad"
@@ -18819,6 +18821,12 @@
                     "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiVésale.030, NiGA.Pascal",
                     "start": "2026-04-13T10:30:00",
                     "end": "2026-04-13T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "English for Science, part 2\nM. DEVILEZ, Mme DELMOTTE, Mme VAN LANCKER\nNiBSM.002.Knight, NiDeVinci.Montague, NiDeVinci.Wüster",
+                    "start": "2026-05-11T08:15:00",
+                    "end": "2026-05-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -20891,8 +20899,8 @@
                 },
                 {
                     "title": "Meta azote et regu balance N/C\nM. LEROY\nNiP.3E11, NiP.3E10",
-                    "start": "2026-05-28T08:15:00",
-                    "end": "2026-05-28T12:15:00",
+                    "start": "2026-05-27T13:30:00",
+                    "end": "2026-05-27T17:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -44514,12 +44522,6 @@
                     "start": "2026-06-18T15:00:00",
                     "end": "2026-06-18T21:00:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Crypto et sécurité syst. d'inf\nM. BUYS\nCha.ZG.W.2.11",
-                    "start": "2026-06-19T15:00:00",
-                    "end": "2026-06-19T21:00:00",
-                    "color": "#0026ad"
                 }
             ],
             "Ingénierie log. et gest projet": [
@@ -66221,6 +66223,12 @@
                     "start": "2026-05-11T10:30:00",
                     "end": "2026-05-11T12:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Quantum Field Theory II\nM. SKVORTSOV, M. BOULANGER\nNiBSM.002.Knight",
+                    "start": "2026-06-05T08:15:00",
+                    "end": "2026-06-05T13:15:00",
+                    "color": "#0026ad"
                 }
             ],
             "Quantum Field Theory III": [
@@ -86169,6 +86177,12 @@
                     "start": "2026-05-08T13:30:00",
                     "end": "2026-05-08T16:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Gest sources rayon ionisants\nM. FROMENT\nNiBSM.015.Feynman",
+                    "start": "2026-06-20T09:00:00",
+                    "end": "2026-06-20T12:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Init. à la recherche scient.": [
@@ -87875,6 +87889,12 @@
                     "start": "2026-05-11T10:30:00",
                     "end": "2026-05-11T12:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Quantum Field Theory II\nM. BOULANGER, M. SKVORTSOV\nNiBSM.002.Knight",
+                    "start": "2026-06-05T08:15:00",
+                    "end": "2026-06-05T13:15:00",
+                    "color": "#0026ad"
                 }
             ],
             "Recent trends in Material Scie": [
@@ -88671,13 +88691,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. THOMEE, M. BOULANGER\nNiP.3E10, NiP.3E20",
+                    "title": "Théorie quant champs I\nM. BOULANGER, M. THOMEE\nNiP.3E10, NiP.3E20",
                     "start": "2026-01-12T08:15:00",
                     "end": "2026-01-12T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. THOMEE, M. BOULANGER\nNiP.3E10",
+                    "title": "Théorie quant champs I\nM. BOULANGER, M. THOMEE\nNiP.3E10",
                     "start": "2026-01-12T13:30:00",
                     "end": "2026-01-12T17:30:00",
                     "color": "#0026ad"
