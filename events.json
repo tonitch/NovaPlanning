@@ -4323,7 +4323,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale\n\nM. NONCLERCQ",
+                    "title": "Histologie spéciale\nM. NONCLERCQ\nNiB6.124",
                     "start": "2026-05-13T13:30:00",
                     "end": "2026-05-13T15:30:00",
                     "color": "#0026ad"
@@ -17021,12 +17021,6 @@
                     "title": "Elec - Théorie\nM. ROSOLEN, M. VOUE\nNiBSM.008.Kwolek",
                     "start": "2026-06-23T08:15:00",
                     "end": "2026-06-23T12:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Elec - Théorie\nM. ROSOLEN, M. VOUE\nNiBSM.008.Kwolek",
-                    "start": "2026-06-23T13:30:00",
-                    "end": "2026-06-23T17:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -39597,7 +39591,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.23",
+                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.AteliersArchi",
                     "start": "2026-06-12T13:30:00",
                     "end": "2026-06-12T17:30:00",
                     "color": "#0026ad"
@@ -44708,12 +44702,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intelligence artificielle\nM. MELOT\nCha.ZG.N.1.08",
-                    "start": "2026-05-11T18:00:00",
-                    "end": "2026-05-11T21:00:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Intelligence artificielle\nM. MELOT\nCha.ZG.W.2.02",
                     "start": "2026-06-17T18:00:00",
                     "end": "2026-06-17T21:00:00",
@@ -45580,7 +45568,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.23",
+                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.AteliersArchi",
                     "start": "2026-06-12T13:30:00",
                     "end": "2026-06-12T17:30:00",
                     "color": "#0026ad"
@@ -61405,79 +61393,79 @@
             ],
             "AidMulticrDéc": [
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nRosaParks.3.09.Pousset",
                     "start": "2026-02-02T08:15:00",
                     "end": "2026-02-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nRosaParks.3.09.Pousset",
                     "start": "2026-02-09T08:15:00",
                     "end": "2026-02-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nRosaParks.3.09.Pousset",
                     "start": "2026-02-16T08:15:00",
                     "end": "2026-02-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nRosaParks.3.09.Pousset",
                     "start": "2026-02-23T08:15:00",
                     "end": "2026-02-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nRosaParks.3.09.Pousset",
                     "start": "2026-03-02T08:15:00",
                     "end": "2026-03-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nRosaParks.3.09.Pousset",
                     "start": "2026-03-09T08:15:00",
                     "end": "2026-03-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.06PC",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nHo.06PC",
                     "start": "2026-03-23T08:15:00",
                     "end": "2026-03-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nRosaParks.3.09.Pousset",
                     "start": "2026-03-30T08:15:00",
                     "end": "2026-03-30T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nRosaParks.3.09.Pousset",
                     "start": "2026-04-13T08:15:00",
                     "end": "2026-04-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nRosaParks.3.09.Pousset",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nRosaParks.3.09.Pousset",
                     "start": "2026-05-04T08:15:00",
                     "end": "2026-05-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.06PC",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nHo.06PC",
                     "start": "2026-05-11T08:15:00",
                     "end": "2026-05-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.23",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nHo.23",
                     "start": "2026-05-18T08:15:00",
                     "end": "2026-05-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AidMulticrDéc\nM. MANDERLIER, M. FORTEMPS\nHo.23",
+                    "title": "AidMulticrDéc\nM. FORTEMPS, M. MANDERLIER\nHo.AteliersArchi",
                     "start": "2026-06-12T13:30:00",
                     "end": "2026-06-12T17:30:00",
                     "color": "#0026ad"
@@ -73723,7 +73711,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharma Thematics -CLIL\nM. BLANKERT, M. VANDERBIST, Mme BOUCHET\nNiB6.18",
+                    "title": "Pharma Thematics -CLIL\nM. BLANKERT, M. VANDERBIST, Mme BOUCHET\nNiB6.211",
                     "start": "2026-06-26T09:00:00",
                     "end": "2026-06-26T15:00:00",
                     "color": "#0026ad"
@@ -75031,6 +75019,12 @@
                     "start": "2026-06-01T08:15:00",
                     "end": "2026-06-01T10:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Biochimie médicale - Partie 2\n\nMme WOLFF",
+                    "start": "2026-06-15T08:15:00",
+                    "end": "2026-06-15T17:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Conseils et suivis officine": [
@@ -76266,6 +76260,12 @@
                     "title": "Pharmaco. spéciale - Partie 2\nMme PATRIS, M. BAMPS\nNiVésale.LaFontaine, NiVésale.023",
                     "start": "2026-06-11T13:00:00",
                     "end": "2026-06-11T17:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Pharmaco. spéciale - Partie 2\n\nMme PATRIS",
+                    "start": "2026-06-25T10:15:00",
+                    "end": "2026-06-25T12:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -78814,12 +78814,6 @@
                     "title": "Elec - Théorie\nM. VOUE, M. ROSOLEN, M. DELPLACE\nNiVésale.020, NiVésale.023, NiVésale.LaFontaine",
                     "start": "2026-06-01T08:15:00",
                     "end": "2026-06-01T12:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Elec - Théorie\nM. VOUE, M. ROSOLEN\nNiBSM.002.Knight",
-                    "start": "2026-06-03T08:15:00",
-                    "end": "2026-06-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -87891,7 +87885,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quantum Field Theory II\nM. BOULANGER, M. SKVORTSOV\nNiBSM.002.Knight",
+                    "title": "Quantum Field Theory II\nM. SKVORTSOV, M. BOULANGER\nNiBSM.002.Knight",
                     "start": "2026-06-05T08:15:00",
                     "end": "2026-06-05T13:15:00",
                     "color": "#0026ad"
@@ -88691,13 +88685,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER, M. THOMEE\nNiP.3E10, NiP.3E20",
+                    "title": "Théorie quant champs I\nM. THOMEE, M. BOULANGER\nNiP.3E10, NiP.3E20",
                     "start": "2026-01-12T08:15:00",
                     "end": "2026-01-12T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Théorie quant champs I\nM. BOULANGER, M. THOMEE\nNiP.3E10",
+                    "title": "Théorie quant champs I\nM. THOMEE, M. BOULANGER\nNiP.3E10",
                     "start": "2026-01-12T13:30:00",
                     "end": "2026-01-12T17:30:00",
                     "color": "#0026ad"
