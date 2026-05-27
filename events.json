@@ -4747,7 +4747,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Neurophysiologie générale\nMme RIS, Mme VILLERS\nNiGA.Plisnier, NiGA.Curie, NiVésale.023",
+                    "title": "Neurophysiologie générale\nMme RIS, Mme VILLERS\nNiGA.Plisnier, NiVésale.LaFontaine, NiGA.Curie, NiVésale.023",
                     "start": "2026-05-29T13:00:00",
                     "end": "2026-05-29T16:00:00",
                     "color": "#0026ad"
@@ -35926,8 +35926,8 @@
                 },
                 {
                     "title": "Progr.logique\nM. MENS\nNiBSM.010.Lonsdale",
-                    "start": "2026-06-08T08:30:00",
-                    "end": "2026-06-08T12:30:00",
+                    "start": "2026-06-08T09:00:00",
+                    "end": "2026-06-08T13:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -43263,8 +43263,8 @@
                 },
                 {
                     "title": "Progr.logique\nM. MENS\nNiBSM.010.Lonsdale",
-                    "start": "2026-06-08T08:30:00",
-                    "end": "2026-06-08T12:30:00",
+                    "start": "2026-06-08T09:00:00",
+                    "end": "2026-06-08T13:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -49289,8 +49289,8 @@
                 },
                 {
                     "title": "Progr.logique\nM. MENS\nNiBSM.010.Lonsdale",
-                    "start": "2026-06-08T08:30:00",
-                    "end": "2026-06-08T12:30:00",
+                    "start": "2026-06-08T09:00:00",
+                    "end": "2026-06-08T13:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -59569,6 +59569,12 @@
                     "title": "Théorie des modèles I\nM. MICHAUX, M. RAMLOT\nNiP.3E10",
                     "start": "2026-05-12T15:45:00",
                     "end": "2026-05-12T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Théorie des modèles I\nM. MICHAUX\nNiBSM.008.Kwolek",
+                    "start": "2026-05-26T15:45:00",
+                    "end": "2026-05-26T17:45:00",
                     "color": "#0026ad"
                 }
             ],
