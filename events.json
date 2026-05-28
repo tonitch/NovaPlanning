@@ -9,19 +9,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
                     "start": "2025-09-16T10:30:00",
                     "end": "2025-09-16T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
                     "start": "2025-09-16T11:30:00",
                     "end": "2025-09-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.020",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.020",
                     "start": "2025-09-23T12:30:00",
                     "end": "2025-09-23T13:30:00",
                     "color": "#0026ad"
@@ -39,7 +39,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HOCQ, Mme LUPANT, M. LAMBOTTE, Mme HORDIES, Mme GODEAU, Mme PAMART\nNiGA.Curie",
+                    "title": "_\nMme HOCQ, Mme LUPANT, M. LAMBOTTE, Mme GODEAU, Mme PAMART, Mme HORDIES\nNiGA.Curie",
                     "start": "2025-11-04T18:00:00",
                     "end": "2025-11-04T20:00:00",
                     "color": "#0026ad"
@@ -193,7 +193,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
                     "start": "2025-09-26T08:30:00",
                     "end": "2025-09-26T12:30:00",
                     "color": "#0026ad"
@@ -229,7 +229,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
                     "start": "2025-10-08T13:30:00",
                     "end": "2025-10-08T17:30:00",
                     "color": "#0026ad"
@@ -259,7 +259,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
                     "start": "2025-10-17T13:30:00",
                     "end": "2025-10-17T17:30:00",
                     "color": "#0026ad"
@@ -277,7 +277,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
                     "start": "2025-10-24T13:30:00",
                     "end": "2025-10-24T17:30:00",
                     "color": "#0026ad"
@@ -391,7 +391,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nM. COLET, Mme PAMART, Mme TAGLIATTI\nNiGA.Gutenberg, Jo.Stievenart, NiGA.Curie, NiGA.VanGogh, NiGA.Plisnier",
+                    "title": "Biologie générale humaine\nMme TAGLIATTI, M. COLET, Mme PAMART\nNiGA.Gutenberg, Jo.Stievenart, NiGA.Curie, NiGA.VanGogh, NiGA.Plisnier",
                     "start": "2026-01-10T13:00:00",
                     "end": "2026-01-10T17:00:00",
                     "color": "#0026ad"
@@ -403,7 +403,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nM. COLET, Mme PAMART, Mme TAGLIATTI\nRosaParks.1.09.Delmas-Marty, RosaParks.0.08.Landercy, Jo.Stievenart, NiGA.Curie",
+                    "title": "Biologie générale humaine\nMme TAGLIATTI, M. COLET, Mme PAMART\nRosaParks.1.09.Delmas-Marty, RosaParks.0.08.Landercy, Jo.Stievenart, NiGA.Curie",
                     "start": "2026-06-10T13:30:00",
                     "end": "2026-06-10T17:00:00",
                     "color": "#0026ad"
@@ -671,7 +671,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme BEAUCHOT, Mme GODEAU, M. VAN LEUVEN\nRosaParks.0.08.Landercy, NiGA.Curie, RosaParks.1.09.Delmas-Marty, NiB6.124, NiB6.18, NiVésale.023, NiGA.Gutenberg, Jo.Stievenart, NiB6.211, NiP.0A07",
+                    "title": "Chimie générale I\nMme BEAUCHOT, Mme GODEAU, M. VAN LEUVEN\nRosaParks.0.08.Landercy, NiGA.Curie, RosaParks.1.09.Delmas-Marty, NiB6.124, NiVésale.023, NiB6.18, NiGA.Gutenberg, NiP.0A07, Jo.Stievenart, NiB6.211",
                     "start": "2025-12-17T13:30:00",
                     "end": "2025-12-17T15:30:00",
                     "color": "#0026ad"
@@ -901,7 +901,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale II\nMme BEAUCHOT, M. VAN LEUVEN\nWa.SalleAca, Wa.Drechsel, Jo.Stievenart",
+                    "title": "Chimie générale II\nMme BEAUCHOT, M. VAN LEUVEN\nWa.SalleAca, Jo.Stievenart, Wa.Drechsel",
                     "start": "2026-05-15T13:30:00",
                     "end": "2026-05-15T15:30:00",
                     "color": "#0026ad"
@@ -1053,7 +1053,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nMme HENOUMONT, Mme LAURENT, M. VAN LEUVEN, M. STANICKI, Mme BEAUCHOT, Mme GODEAU\nPCM.200, PCM.500, NiVésale.023",
+                    "title": "Chimie organique I\nMme HENOUMONT, Mme LAURENT, M. VAN LEUVEN, M. STANICKI, Mme BEAUCHOT, Mme GODEAU\nNiP.0A11, NiP.0A07, PCM.200, NiB6.211, NiMen.Pauling, PCM.500, NiVésale.023",
                     "start": "2026-06-08T08:00:00",
                     "end": "2026-06-08T11:30:00",
                     "color": "#0026ad"
@@ -1151,7 +1151,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nMme BEAUCHOT, Mme HENOUMONT, Mme LAURENT, M. VAN LEUVEN\nPCM.200, PCM.500, NiVésale.023",
+                    "title": "Chimie organique II\nMme HENOUMONT, Mme LAURENT, M. VAN LEUVEN, Mme BEAUCHOT, Mme GODEAU\nNiP.0A11, NiP.0A07, PCM.200, NiB6.211, PCM.500, NiVésale.023",
                     "start": "2026-06-08T12:30:00",
                     "end": "2026-06-08T16:00:00",
                     "color": "#0026ad"
@@ -1625,7 +1625,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-02-12T13:30:00",
                     "end": "2026-02-12T15:30:00",
                     "color": "#0026ad"
@@ -1643,7 +1643,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Gutenberg",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Gutenberg",
                     "start": "2026-02-19T13:30:00",
                     "end": "2026-02-19T15:30:00",
                     "color": "#0026ad"
@@ -1661,7 +1661,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-02-26T13:30:00",
                     "end": "2026-02-26T15:30:00",
                     "color": "#0026ad"
@@ -1679,7 +1679,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-03-05T13:30:00",
                     "end": "2026-03-05T15:30:00",
                     "color": "#0026ad"
@@ -1697,7 +1697,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-03-12T13:30:00",
                     "end": "2026-03-12T15:30:00",
                     "color": "#0026ad"
@@ -1739,13 +1739,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-04-02T13:30:00",
                     "end": "2026-04-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-04-09T13:30:00",
                     "end": "2026-04-09T15:30:00",
                     "color": "#0026ad"
@@ -1757,7 +1757,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-04-16T13:30:00",
                     "end": "2026-04-16T15:30:00",
                     "color": "#0026ad"
@@ -1775,7 +1775,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. RIVIERE, M. SIMON, M. LAMBOTTE\nNiGA.VanGogh, NiGA.Gutenberg, NiGA.Plisnier, NiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE, M. RIVIERE, M. SIMON\nNiGA.VanGogh, NiGA.Gutenberg, NiGA.Plisnier, NiGA.Curie",
                     "start": "2026-05-26T08:15:00",
                     "end": "2026-05-26T11:45:00",
                     "color": "#0026ad"
@@ -1825,7 +1825,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanisme différen. cellulaire\nMme TAGLIATTI, Mme TASSIN\nNiGA.Gutenberg",
+                    "title": "Mécanisme différen. cellulaire\nMme TASSIN, Mme TAGLIATTI\nNiGA.Gutenberg",
                     "start": "2026-05-08T13:30:00",
                     "end": "2026-05-08T15:30:00",
                     "color": "#0026ad"
@@ -2727,7 +2727,7 @@
             ],
             "Rôle transport. membranaires": [
                 {
-                    "title": "Rôle transport. membranaires\nMme AKAN, Mme LUPANT, Mme TASSIN\nNiGA.Gutenberg",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiGA.Gutenberg",
                     "start": "2026-02-09T13:30:00",
                     "end": "2026-02-09T15:30:00",
                     "color": "#0026ad"
@@ -2739,13 +2739,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN\nNiB6.211",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN\nNiB6.211",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme AKAN, Mme LUPANT, Mme TASSIN\nNiB6.18",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiB6.18",
                     "start": "2026-03-05T10:30:00",
                     "end": "2026-03-05T12:30:00",
                     "color": "#0026ad"
@@ -2763,7 +2763,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme AKAN, Mme LUPANT, Mme TASSIN\nNiB6.124",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN, Mme LUPANT\nNiB6.124",
                     "start": "2026-03-25T08:15:00",
                     "end": "2026-03-25T10:15:00",
                     "color": "#0026ad"
@@ -2775,7 +2775,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN\nNiB6.211",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN\nNiB6.211",
                     "start": "2026-03-25T13:30:00",
                     "end": "2026-03-25T15:30:00",
                     "color": "#0026ad"
@@ -2799,7 +2799,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN, Mme LUPANT, Mme TAGLIATTI\nNiGA.VanGogh, NiVésale.025",
+                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme TAGLIATTI, Mme AKAN, Mme LUPANT\nNiGA.VanGogh, NiVésale.025",
                     "start": "2026-06-11T13:00:00",
                     "end": "2026-06-11T16:30:00",
                     "color": "#0026ad"
@@ -6137,9 +6137,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiGA.Curie",
-                    "start": "2026-05-27T08:30:00",
-                    "end": "2026-05-27T11:00:00",
+                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiB6.127Info",
+                    "start": "2026-06-13T09:00:00",
+                    "end": "2026-06-13T11:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -39212,12 +39212,6 @@
                 },
                 {
                     "title": "Advanced Operating Systems\nM. BUYS\nNiBSM.002.Knight",
-                    "start": "2026-06-15T08:15:00",
-                    "end": "2026-06-15T12:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Advanced Operating Systems\nM. BUYS\nNiBSM.002.Knight",
                     "start": "2026-06-15T13:30:00",
                     "end": "2026-06-15T17:30:00",
                     "color": "#0026ad"
@@ -45089,12 +45083,6 @@
                     "title": "Advanced Operating Systems\nM. BUYS\nNiP.0A07",
                     "start": "2026-05-08T15:45:00",
                     "end": "2026-05-08T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Advanced Operating Systems\nM. BUYS\nNiBSM.002.Knight",
-                    "start": "2026-06-15T08:15:00",
-                    "end": "2026-06-15T12:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -67263,19 +67251,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.LaFontaine",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.LaFontaine",
                     "start": "2025-09-19T10:30:00",
                     "end": "2025-09-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.020",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.020",
                     "start": "2025-09-23T12:30:00",
                     "end": "2025-09-23T13:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HOCQ, Mme LUPANT, M. LAMBOTTE, Mme GODEAU, Mme PAMART\nNiGA.VanGogh",
+                    "title": "_\nMme HOCQ, M. LAMBOTTE, Mme LUPANT, Mme GODEAU, Mme PAMART\nNiGA.VanGogh",
                     "start": "2025-09-23T18:00:00",
                     "end": "2025-09-23T20:00:00",
                     "color": "#0026ad"
@@ -67639,7 +67627,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nM. COLET, Mme PAMART, Mme TAGLIATTI\nNiGA.Gutenberg, Jo.Stievenart, NiGA.Curie, NiGA.VanGogh, NiGA.Plisnier",
+                    "title": "Biologie générale humaine\nMme TAGLIATTI, M. COLET, Mme PAMART\nNiGA.Gutenberg, Jo.Stievenart, NiGA.Curie, NiGA.VanGogh, NiGA.Plisnier",
                     "start": "2026-01-10T13:00:00",
                     "end": "2026-01-10T17:00:00",
                     "color": "#0026ad"
@@ -67651,7 +67639,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nM. COLET, Mme PAMART, Mme TAGLIATTI\nRosaParks.0.08.Landercy, RosaParks.1.09.Delmas-Marty, Jo.Stievenart, NiGA.Curie",
+                    "title": "Biologie générale humaine\nMme TAGLIATTI, M. COLET, Mme PAMART\nRosaParks.0.08.Landercy, RosaParks.1.09.Delmas-Marty, Jo.Stievenart, NiGA.Curie",
                     "start": "2026-06-10T13:30:00",
                     "end": "2026-06-10T17:00:00",
                     "color": "#0026ad"
@@ -67893,7 +67881,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme BEAUCHOT, Mme GODEAU, M. VAN LEUVEN\nNiGA.Curie, NiP.0A07, RosaParks.1.09.Delmas-Marty, NiB6.18, NiVésale.023, NiGA.Gutenberg, Jo.Stievenart, RosaParks.0.08.Landercy, NiB6.124, NiB6.211",
+                    "title": "Chimie générale I\nMme BEAUCHOT, Mme GODEAU, M. VAN LEUVEN\nNiGA.Curie, RosaParks.1.09.Delmas-Marty, NiVésale.023, NiGA.Gutenberg, NiP.0A07, NiB6.18, Jo.Stievenart, RosaParks.0.08.Landercy, NiB6.124, NiB6.211",
                     "start": "2025-12-17T13:30:00",
                     "end": "2025-12-17T15:30:00",
                     "color": "#0026ad"
@@ -68123,7 +68111,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale II\nMme BEAUCHOT, M. VAN LEUVEN\nWa.SalleAca, Wa.Drechsel, Jo.Stievenart",
+                    "title": "Chimie générale II\nMme BEAUCHOT, M. VAN LEUVEN\nWa.SalleAca, Jo.Stievenart, Wa.Drechsel",
                     "start": "2026-05-15T13:30:00",
                     "end": "2026-05-15T15:30:00",
                     "color": "#0026ad"
@@ -68263,7 +68251,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nM. STANICKI, Mme HENOUMONT, M. VAN LEUVEN, Mme BEAUCHOT, Mme LAURENT, Mme GODEAU\nPCM.200, PCM.500, NiVésale.023",
+                    "title": "Chimie organique I\nM. STANICKI, Mme HENOUMONT, M. VAN LEUVEN, Mme BEAUCHOT, Mme LAURENT, Mme GODEAU\nNiVésale.023, NiP.0A11, NiP.0A07, PCM.200, NiMen.Pauling, PCM.500, NiB6.211",
                     "start": "2026-06-08T08:00:00",
                     "end": "2026-06-08T11:30:00",
                     "color": "#0026ad"
@@ -68361,7 +68349,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nMme BEAUCHOT, Mme LAURENT, Mme HENOUMONT, M. VAN LEUVEN\nPCM.200, PCM.500, NiVésale.023",
+                    "title": "Chimie organique II\nMme HENOUMONT, M. VAN LEUVEN, Mme BEAUCHOT, Mme LAURENT, Mme GODEAU\nNiB6.211, NiP.0A11, NiP.0A07, PCM.200, PCM.500, NiVésale.023",
                     "start": "2026-06-08T12:30:00",
                     "end": "2026-06-08T16:00:00",
                     "color": "#0026ad"
@@ -68369,37 +68357,37 @@
             ],
             "Elem. bota. A.": [
                 {
-                    "title": "Elem. bota. A.\n\nM. GHISBAIN, M. MICHEZ",
+                    "title": "Elem. bota. A.\n\nM. MICHEZ, M. GHISBAIN",
                     "start": "2026-02-04T15:45:00",
                     "end": "2026-02-04T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-02-10T08:15:00",
                     "end": "2026-02-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-02-17T08:15:00",
                     "end": "2026-02-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-02-24T08:15:00",
                     "end": "2026-02-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-03-03T08:15:00",
                     "end": "2026-03-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-03-10T08:15:00",
                     "end": "2026-03-10T10:15:00",
                     "color": "#0026ad"
@@ -68411,7 +68399,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-03-24T08:15:00",
                     "end": "2026-03-24T10:15:00",
                     "color": "#0026ad"
@@ -68423,13 +68411,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-04-07T08:15:00",
                     "end": "2026-04-07T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiGA.VanGogh",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiGA.VanGogh",
                     "start": "2026-04-10T13:30:00",
                     "end": "2026-04-10T15:30:00",
                     "color": "#0026ad"
@@ -68441,7 +68429,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elem. bota. A.\nM. GHISBAIN, M. MICHEZ\nNiVésale.LaFontaine",
+                    "title": "Elem. bota. A.\nM. MICHEZ, M. GHISBAIN\nNiVésale.LaFontaine",
                     "start": "2026-04-16T10:30:00",
                     "end": "2026-04-16T12:30:00",
                     "color": "#0026ad"
@@ -68539,13 +68527,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eléments botanique - Partie B\nM. GHISBAIN, Mme CARETTE, Mme PAMART\nNiB6.019Lab",
+                    "title": "Eléments botanique - Partie B\nM. GHISBAIN, Mme PAMART, Mme CARETTE\nNiB6.019Lab",
                     "start": "2026-06-17T09:00:00",
                     "end": "2026-06-17T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eléments botanique - Partie B\nM. GHISBAIN, Mme CARETTE, Mme PAMART\nNiB6.019Lab",
+                    "title": "Eléments botanique - Partie B\nM. GHISBAIN, Mme PAMART, Mme CARETTE\nNiB6.019Lab",
                     "start": "2026-06-18T09:00:00",
                     "end": "2026-06-18T16:00:00",
                     "color": "#0026ad"
@@ -68759,7 +68747,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. recherche Pharm/Biome\nM. LABIAU, Mme TAGLIATTI\nNiGA.VanGogh",
+                    "title": "Initiat. recherche Pharm/Biome\nMme TAGLIATTI, M. LABIAU\nNiGA.VanGogh",
                     "start": "2026-04-17T13:30:00",
                     "end": "2026-04-17T18:30:00",
                     "color": "#0026ad"
@@ -68777,7 +68765,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. recherche Pharm/Biome\nMme DECARNONCLE, M. LABIAU, Mme LEMOINE, Mme TAGLIATTI\nNiGA.VanGogh, NiVésale.023",
+                    "title": "Initiat. recherche Pharm/Biome\nMme TAGLIATTI, Mme DECARNONCLE, M. LABIAU, Mme LEMOINE\nNiGA.VanGogh, NiVésale.023",
                     "start": "2026-06-12T13:00:00",
                     "end": "2026-06-12T16:00:00",
                     "color": "#0026ad"
@@ -69021,7 +69009,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro. anat. humaine/ima. méd.\nMme CHELLE, M. LECHIEN\nJo.Stievenart, PCM.500",
+                    "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN, Mme CHELLE\nJo.Stievenart, PCM.500",
                     "start": "2026-06-09T08:00:00",
                     "end": "2026-06-09T11:00:00",
                     "color": "#0026ad"
@@ -69085,7 +69073,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro. connaissance médicament\nM. LEVEQUE, M. BLANKERT\nNiB6.127Info",
+                    "title": "Intro. connaissance médicament\nM. BLANKERT, M. LEVEQUE\nNiB6.127Info",
                     "start": "2026-06-11T13:00:00",
                     "end": "2026-06-11T15:00:00",
                     "color": "#0026ad"
@@ -69199,7 +69187,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-02-12T13:30:00",
                     "end": "2026-02-12T15:30:00",
                     "color": "#0026ad"
@@ -69217,7 +69205,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Gutenberg",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Gutenberg",
                     "start": "2026-02-19T13:30:00",
                     "end": "2026-02-19T15:30:00",
                     "color": "#0026ad"
@@ -69235,7 +69223,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-02-26T13:30:00",
                     "end": "2026-02-26T15:30:00",
                     "color": "#0026ad"
@@ -69247,7 +69235,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-03-05T13:30:00",
                     "end": "2026-03-05T15:30:00",
                     "color": "#0026ad"
@@ -69259,7 +69247,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-03-12T13:30:00",
                     "end": "2026-03-12T15:30:00",
                     "color": "#0026ad"
@@ -69295,13 +69283,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-04-02T13:30:00",
                     "end": "2026-04-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-04-09T13:30:00",
                     "end": "2026-04-09T15:30:00",
                     "color": "#0026ad"
@@ -69313,7 +69301,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. LAMBOTTE, M. BROUETTE\nNiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE\nNiGA.Curie",
                     "start": "2026-04-16T13:30:00",
                     "end": "2026-04-16T15:30:00",
                     "color": "#0026ad"
@@ -69331,7 +69319,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. RIVIERE, M. SIMON, M. LAMBOTTE\nNiGA.VanGogh, NiGA.Gutenberg, NiGA.Plisnier, NiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. SIMON, M. BROUETTE, M. RIVIERE, M. LAMBOTTE\nNiGA.VanGogh, NiGA.Gutenberg, NiGA.Plisnier, NiGA.Curie",
                     "start": "2026-05-26T08:15:00",
                     "end": "2026-05-26T11:45:00",
                     "color": "#0026ad"
@@ -73025,139 +73013,139 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-23T08:30:00",
                     "end": "2026-02-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-23T13:30:00",
                     "end": "2026-02-23T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-24T11:00:00",
                     "end": "2026-02-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-24T16:30:00",
                     "end": "2026-02-24T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-25T11:00:00",
                     "end": "2026-02-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-25T13:30:00",
                     "end": "2026-02-25T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-26T08:30:00",
                     "end": "2026-02-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-26T13:30:00",
                     "end": "2026-02-26T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-27T08:30:00",
                     "end": "2026-02-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-27T13:30:00",
                     "end": "2026-02-27T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-02T08:30:00",
                     "end": "2026-03-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-02T13:30:00",
                     "end": "2026-03-02T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-03T08:30:00",
                     "end": "2026-03-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-04T08:30:00",
                     "end": "2026-03-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-04T13:30:00",
                     "end": "2026-03-04T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-05T08:30:00",
                     "end": "2026-03-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-05T13:30:00",
                     "end": "2026-03-05T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-06T08:30:00",
                     "end": "2026-03-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-06T13:30:00",
                     "end": "2026-03-06T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nM. DUFRASNE, M. BLANKERT, Mme ROMAN, Mme NACHTERGAEL\nNiB6.211",
+                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, Mme NACHTERGAEL, Mme ROMAN, M. DUFRASNE\nNiB6.211",
                     "start": "2026-04-15T08:30:00",
                     "end": "2026-04-15T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, Mme ROMAN, Mme CARETTE, Mme NACHTERGAEL\nNiVésale.LaFontaine",
+                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, Mme CARETTE, Mme NACHTERGAEL, Mme ROMAN\nNiVésale.LaFontaine",
                     "start": "2026-06-04T12:00:00",
                     "end": "2026-06-04T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, Mme ROMAN, Mme CARETTE, Mme NACHTERGAEL\nNiVésale.LaFontaine",
+                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, Mme CARETTE, Mme NACHTERGAEL, Mme ROMAN\nNiVésale.LaFontaine",
                     "start": "2026-06-04T16:00:00",
                     "end": "2026-06-04T17:30:00",
                     "color": "#0026ad"
@@ -73255,9 +73243,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiGA.Curie",
-                    "start": "2026-05-27T08:30:00",
-                    "end": "2026-05-27T11:00:00",
+                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiB6.127Info",
+                    "start": "2026-06-13T09:00:00",
+                    "end": "2026-06-13T11:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -73481,7 +73469,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Immunologie\nMme ANDRIS\nNiGA.Plisnier, NiVésale.LaFontaine, NiGA.Curie, NiVésale.023",
+                    "title": "Immunologie\nMme ANDRIS\nNiGA.Curie, NiVésale.LaFontaine, NiVésale.023, NiGA.Plisnier",
                     "start": "2026-01-19T13:30:00",
                     "end": "2026-01-19T16:30:00",
                     "color": "#0026ad"
@@ -73537,7 +73525,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Interactions non covalentes\nM. STANICKI, Mme BEAUCHOT, Mme LAURENT\nNiGA.Plisnier, NiVésale.020",
+                    "title": "Interactions non covalentes\nMme LAURENT, M. STANICKI, Mme BEAUCHOT\nNiVésale.020, NiGA.Plisnier",
                     "start": "2026-06-10T12:15:00",
                     "end": "2026-06-10T16:15:00",
                     "color": "#0026ad"
@@ -73735,7 +73723,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharma Thematics -CLIL\nM. BLANKERT, M. VANDERBIST, Mme BOUCHET\nNiB6.211",
+                    "title": "Pharma Thematics -CLIL\nM. BLANKERT, Mme BOUCHET, M. VANDERBIST\nNiB6.211",
                     "start": "2026-06-26T09:00:00",
                     "end": "2026-06-26T15:00:00",
                     "color": "#0026ad"
@@ -73881,13 +73869,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacochimie - Partie 1\nM. DUFRASNE, Mme CARETTE, Mme NACHTERGAEL, M. PALMIERI\nNiGA.Curie",
+                    "title": "Pharmacochimie - Partie 1\nM. PALMIERI, Mme CARETTE, Mme NACHTERGAEL, M. DUFRASNE\nNiGA.Curie",
                     "start": "2026-01-13T13:00:00",
                     "end": "2026-01-13T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacochimie - Partie 1\nM. DUFRASNE, Mme CARETTE, Mme NACHTERGAEL, M. PALMIERI\nNiB6.06",
+                    "title": "Pharmacochimie - Partie 1\nM. PALMIERI, Mme CARETTE, Mme NACHTERGAEL, M. DUFRASNE\nNiB6.06",
                     "start": "2026-02-04T15:00:00",
                     "end": "2026-02-04T16:30:00",
                     "color": "#0026ad"
@@ -74027,19 +74015,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacognosie II\n\nMme ROMAN, Mme CARETTE, Mme NACHTERGAEL",
+                    "title": "Pharmacognosie II\n\nMme CARETTE, Mme NACHTERGAEL, Mme ROMAN",
                     "start": "2026-06-12T08:15:00",
                     "end": "2026-06-12T16:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacognosie II\n\nMme ROMAN, Mme CARETTE, Mme NACHTERGAEL",
+                    "title": "Pharmacognosie II\n\nMme CARETTE, Mme NACHTERGAEL, Mme ROMAN",
                     "start": "2026-06-15T08:15:00",
                     "end": "2026-06-15T16:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacognosie II\n\nMme ROMAN, Mme CARETTE, Mme NACHTERGAEL",
+                    "title": "Pharmacognosie II\n\nMme CARETTE, Mme NACHTERGAEL, Mme ROMAN",
                     "start": "2026-06-16T08:15:00",
                     "end": "2026-06-16T16:15:00",
                     "color": "#0026ad"
@@ -74113,7 +74101,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale\nMme NACHTERGAEL\nNiVésale.023, NiGA.Curie",
+                    "title": "Pharmacologie générale\nMme NACHTERGAEL\nNiGA.Curie, NiVésale.023",
                     "start": "2026-01-20T10:30:00",
                     "end": "2026-01-20T13:30:00",
                     "color": "#0026ad"
@@ -74175,7 +74163,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme CARETTE, Mme NACHTERGAEL\nNiVésale.023, NiGA.Curie",
+                    "title": "Pharmacologie générale Exer.\nMme CARETTE, Mme NACHTERGAEL, Mme ROMAN\nNiGA.Curie, NiVésale.023",
                     "start": "2026-01-20T14:30:00",
                     "end": "2026-01-20T17:30:00",
                     "color": "#0026ad"
