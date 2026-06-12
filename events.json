@@ -17938,6 +17938,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "Réservation de salles": [
+                {
+                    "title": "Réservation de salles\nM. MENET\nNiBSM.008.Kwolek",
+                    "start": "2026-07-01T09:00:00",
+                    "end": "2026-07-01T10:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "SAP - Etudiants": [
                 {
                     "title": "SAP - Etudiants\n\n",
@@ -55308,6 +55316,12 @@
                     "start": "2025-10-23T18:00:00",
                     "end": "2025-10-23T20:00:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Réservation de salles\nM. MENET\nNiBSM.008.Kwolek",
+                    "start": "2026-07-01T09:00:00",
+                    "end": "2026-07-01T10:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Réunion": [
@@ -59076,6 +59090,12 @@
                     "title": "Réservation de salles\n\nNiDeVinci.Vaughan",
                     "start": "2025-10-09T18:00:00",
                     "end": "2025-10-09T20:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Réservation de salles\nM. MENET\nNiBSM.008.Kwolek",
+                    "start": "2026-07-01T09:00:00",
+                    "end": "2026-07-01T10:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -76349,7 +76369,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmaco. spéciale - Partie 2\nMme PATRIS, M. BAMPS\nNiVésale.LaFontaine, NiVésale.023",
+                    "title": "Pharmaco. spéciale - Partie 2\nMme PATRIS, M. BAMPS\nNiVésale.023, NiVésale.020, NiVésale.LaFontaine",
                     "start": "2026-06-11T13:00:00",
                     "end": "2026-06-11T17:00:00",
                     "color": "#0026ad"
@@ -78427,6 +78447,12 @@
                     "start": "2026-06-05T08:15:00",
                     "end": "2026-06-05T12:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Anal. math.\nMme LACROIX\nNiBSM.016.Dresselhaus",
+                    "start": "2026-06-24T10:00:00",
+                    "end": "2026-06-24T10:30:00",
+                    "color": "#0026ad"
                 }
             ],
             "Chim. gén. appli (partie A)": [
@@ -80072,6 +80098,12 @@
                     "title": "Réservation de salles\nM. CAVENAILE\nNiBSM.012.Hermann",
                     "start": "2026-04-09T10:30:00",
                     "end": "2026-04-09T11:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Réservation de salles\nM. MENET\nNiBSM.008.Kwolek",
+                    "start": "2026-07-01T09:00:00",
+                    "end": "2026-07-01T10:00:00",
                     "color": "#0026ad"
                 }
             ],
