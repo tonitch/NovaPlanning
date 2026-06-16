@@ -17324,6 +17324,12 @@
                     "start": "2026-06-10T09:15:00",
                     "end": "2026-06-10T12:45:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Math. II\nM. BROUETTE\nNiGA.Plisnier",
+                    "start": "2026-06-23T14:00:00",
+                    "end": "2026-06-23T15:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Mathématiques I": [
@@ -26442,7 +26448,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Corrosion Science\nMme OLIVIER\nEpB10.111.SDMA.SC",
+                    "title": "Corrosion Science\nMme OLIVIER\nEpB12.213.SDMA/CLV",
                     "start": "2026-06-15T13:15:00",
                     "end": "2026-06-15T17:15:00",
                     "color": "#0026ad"
@@ -26960,19 +26966,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
+                    "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
                     "start": "2025-11-24T13:30:00",
                     "end": "2025-11-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\nMme LAURENT, Mme HENOUMONT\nNiP.3E11",
+                    "title": "Introd.chim.médicinale\nMme HENOUMONT, Mme LAURENT\nNiP.3E11",
                     "start": "2025-12-01T10:30:00",
                     "end": "2025-12-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
+                    "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
                     "start": "2025-12-01T13:30:00",
                     "end": "2025-12-01T15:30:00",
                     "color": "#0026ad"
@@ -26984,7 +26990,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
+                    "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
                     "start": "2025-12-08T13:30:00",
                     "end": "2025-12-08T15:30:00",
                     "color": "#0026ad"
@@ -26996,25 +27002,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\nMme LAURENT, Mme HENOUMONT\nNiMen.Pauling",
+                    "title": "Introd.chim.médicinale\nMme HENOUMONT, Mme LAURENT\nNiMen.Pauling",
                     "start": "2026-01-19T08:15:00",
                     "end": "2026-01-19T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\nMme LAURENT, Mme HENOUMONT\nNiMen.Pauling",
+                    "title": "Introd.chim.médicinale\nMme HENOUMONT, Mme LAURENT\nNiMen.Pauling",
                     "start": "2026-01-19T13:30:00",
                     "end": "2026-01-19T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\nMme LAURENT, Mme HENOUMONT\nNiMen.Pauling",
+                    "title": "Introd.chim.médicinale\nMme HENOUMONT, Mme LAURENT\nNiMen.Pauling",
                     "start": "2026-01-21T08:15:00",
                     "end": "2026-01-21T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\nMme LAURENT, Mme HENOUMONT\nNiMen.Pauling",
+                    "title": "Introd.chim.médicinale\nMme HENOUMONT, Mme LAURENT\nNiMen.Pauling",
                     "start": "2026-01-21T13:30:00",
                     "end": "2026-01-21T17:30:00",
                     "color": "#0026ad"
@@ -27266,13 +27272,13 @@
             ],
             "Méth invest interact non cov": [
                 {
-                    "title": "Méth invest interact non cov\n\nMme LAURENT, Mme HENOUMONT",
+                    "title": "Méth invest interact non cov\n\nMme HENOUMONT, Mme LAURENT",
                     "start": "2025-11-05T08:15:00",
                     "end": "2025-11-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth invest interact non cov\n\nMme LAURENT, Mme HENOUMONT",
+                    "title": "Méth invest interact non cov\n\nMme HENOUMONT, Mme LAURENT",
                     "start": "2025-11-12T08:15:00",
                     "end": "2025-11-12T10:15:00",
                     "color": "#0026ad"
@@ -27296,25 +27302,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth invest interact non cov\n\nMme LAURENT, Mme HENOUMONT",
+                    "title": "Méth invest interact non cov\n\nMme HENOUMONT, Mme LAURENT",
                     "start": "2025-12-10T08:15:00",
                     "end": "2025-12-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth invest interact non cov\n\nMme LAURENT, Mme HENOUMONT",
+                    "title": "Méth invest interact non cov\n\nMme HENOUMONT, Mme LAURENT",
                     "start": "2025-12-17T08:15:00",
                     "end": "2025-12-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth invest interact non cov\nMme LAURENT, Mme HENOUMONT\nNiMen.Pauling",
+                    "title": "Méth invest interact non cov\nMme HENOUMONT, Mme LAURENT\nNiMen.Pauling",
                     "start": "2026-01-06T08:15:00",
                     "end": "2026-01-06T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth invest interact non cov\nMme LAURENT, Mme HENOUMONT\nNiMen.Pauling",
+                    "title": "Méth invest interact non cov\nMme HENOUMONT, Mme LAURENT\nNiMen.Pauling",
                     "start": "2026-01-06T13:30:00",
                     "end": "2026-01-06T15:30:00",
                     "color": "#0026ad"
@@ -28478,7 +28484,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.016.Dresselhaus",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.016.Dresselhaus",
                     "start": "2026-03-25T10:30:00",
                     "end": "2026-03-25T12:30:00",
                     "color": "#0026ad"
@@ -28502,7 +28508,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.016.Dresselhaus",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.016.Dresselhaus",
                     "start": "2026-04-03T15:45:00",
                     "end": "2026-04-03T17:45:00",
                     "color": "#0026ad"
@@ -28532,7 +28538,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
                     "start": "2026-04-16T13:30:00",
                     "end": "2026-04-16T15:30:00",
                     "color": "#0026ad"
@@ -28562,7 +28568,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
                     "start": "2026-05-08T13:30:00",
                     "end": "2026-05-08T15:30:00",
                     "color": "#0026ad"
@@ -28574,13 +28580,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
                     "start": "2026-05-12T13:30:00",
                     "end": "2026-05-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
                     "start": "2026-05-15T13:30:00",
                     "end": "2026-05-15T15:30:00",
                     "color": "#0026ad"
@@ -28796,7 +28802,7 @@
             ],
             "Stage de recherche": [
                 {
-                    "title": "Stage de recherche\nM. GABRIELE, M. COULEMBIER, M. SNYDERS, M. DE WINTER, M. BROCORENS, Mme BITTENCOURT, Mme MINCHEVA, M. DAMMAN, M. BELJONNE, M. THIRY, M. CORNIL, M. GERBAUX, M. QUARTI, M. WATTIEZ, M. SURIN, M. RAQUEZ\nNiDeVinci.Mirzakhani",
+                    "title": "Stage de recherche\nM. GABRIELE, Mme BITTENCOURT, M. THIRY, M. DE WINTER, M. BROCORENS, Mme MINCHEVA, M. QUARTI, M. WATTIEZ, M. COULEMBIER, M. SNYDERS, M. DAMMAN, M. CORNIL, M. GERBAUX, M. BELJONNE, M. SURIN, M. RAQUEZ\nNiDeVinci.Mirzakhani",
                     "start": "2026-06-09T08:15:00",
                     "end": "2026-06-09T17:30:00",
                     "color": "#0026ad"
@@ -29144,7 +29150,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiB6.06, NiVésale.025, NiVésale.030",
+                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiVésale.030, NiB6.06, NiVésale.025",
                     "start": "2026-05-26T08:15:00",
                     "end": "2026-05-26T11:15:00",
                     "color": "#0026ad"
@@ -79484,6 +79490,12 @@
                     "title": "Math. II\nM. BROUETTE, M. THIANDOUM\nNiVésale.023",
                     "start": "2026-06-10T09:15:00",
                     "end": "2026-06-10T12:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Math. II\nM. BROUETTE\nNiGA.Plisnier",
+                    "start": "2026-06-23T14:00:00",
+                    "end": "2026-06-23T15:00:00",
                     "color": "#0026ad"
                 }
             ],
