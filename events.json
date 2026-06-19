@@ -1157,7 +1157,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nMme BEAUCHOT, M. VAN LEUVEN, Mme LAURENT\nNiB6.124",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. VAN LEUVEN, Mme LAURENT\nNiVésale.LaFontaine",
                     "start": "2026-06-19T10:00:00",
                     "end": "2026-06-19T12:00:00",
                     "color": "#0026ad"
@@ -1456,6 +1456,12 @@
                     "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN, Mme CHELLE\nJo.Stievenart, PCM.500",
                     "start": "2026-06-09T08:00:00",
                     "end": "2026-06-09T11:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro. anat. humaine/ima. méd.\n\n",
+                    "start": "2026-06-23T13:00:00",
+                    "end": "2026-06-23T17:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -6942,7 +6948,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intelligence artificielle II\nMme PARRY, M. BRIGANTI\nNiB6.06",
+                    "title": "Intelligence artificielle II\nMme PARRY, M. BRIGANTI\nNiVésale.030",
                     "start": "2026-06-19T09:30:00",
                     "end": "2026-06-19T13:30:00",
                     "color": "#0026ad"
@@ -32448,6 +32454,12 @@
                     "start": "2026-02-02T08:15:00",
                     "end": "2026-02-02T10:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Réservation de salles\nM. MELOT\nNiBSM.008.Kwolek, NiBSM.009.Kohn",
+                    "start": "2026-07-01T14:00:00",
+                    "end": "2026-07-01T16:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Réunion": [
@@ -40239,7 +40251,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CompetProgram\nM. VANDAELE, M. LECRON\nHo.06PC",
+                    "title": "CompetProgram\nM. VANDAELE, M. LECRON\nHo.AteliersArchi",
                     "start": "2026-06-19T08:15:00",
                     "end": "2026-06-19T12:15:00",
                     "color": "#0026ad"
@@ -46190,7 +46202,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "CompetProgram\nM. LECRON, M. VANDAELE\nHo.06PC",
+                    "title": "CompetProgram\nM. LECRON, M. VANDAELE\nHo.AteliersArchi",
                     "start": "2026-06-19T08:15:00",
                     "end": "2026-06-19T12:15:00",
                     "color": "#0026ad"
@@ -53113,6 +53125,12 @@
                     "title": "Réservation de salles\nMme BRIDOUX, M. BRIHAYE, M. TROESTLER\nNiDeVinci.Mirzakhani",
                     "start": "2026-02-02T08:15:00",
                     "end": "2026-02-02T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Réservation de salles\nM. MELOT\nNiBSM.008.Kwolek, NiBSM.009.Kohn",
+                    "start": "2026-07-01T14:00:00",
+                    "end": "2026-07-01T16:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -68473,7 +68491,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. VAN LEUVEN, Mme LAURENT, Mme BEAUCHOT\nNiB6.124",
+                    "title": "Chimie organique II\nM. VAN LEUVEN, Mme LAURENT, Mme BEAUCHOT\nNiVésale.LaFontaine",
                     "start": "2026-06-19T10:00:00",
                     "end": "2026-06-19T12:00:00",
                     "color": "#0026ad"
@@ -69136,6 +69154,12 @@
                     "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN, Mme CHELLE\nPCM.500, Jo.Stievenart",
                     "start": "2026-06-09T08:00:00",
                     "end": "2026-06-09T11:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro. anat. humaine/ima. méd.\n\n",
+                    "start": "2026-06-23T13:00:00",
+                    "end": "2026-06-23T17:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -86965,7 +86989,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiP.0A07",
+                    "title": "Introduction à l'optique quant\nM. ROSOLEN\nNiBSM.002.Knight",
                     "start": "2026-06-19T08:15:00",
                     "end": "2026-06-19T12:15:00",
                     "color": "#0026ad"
