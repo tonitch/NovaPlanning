@@ -39,7 +39,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nM. LAMBOTTE, Mme HOCQ, Mme HORDIES, Mme GODEAU, Mme PAMART, Mme LUPANT\nNiGA.Curie",
+                    "title": "_\nM. LAMBOTTE, Mme HOCQ, Mme GODEAU, Mme HORDIES, Mme PAMART, Mme LUPANT\nNiGA.Curie",
                     "start": "2025-11-04T18:00:00",
                     "end": "2025-11-04T20:00:00",
                     "color": "#0026ad"
@@ -391,7 +391,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART, M. COLET, Mme TAGLIATTI\nNiGA.Gutenberg, Jo.Stievenart, NiGA.Curie, NiGA.VanGogh, NiGA.Plisnier",
+                    "title": "Biologie générale humaine\nMme TAGLIATTI, Mme PAMART, M. COLET\nNiGA.Gutenberg, Jo.Stievenart, NiGA.Curie, NiGA.VanGogh, NiGA.Plisnier",
                     "start": "2026-01-10T13:00:00",
                     "end": "2026-01-10T17:00:00",
                     "color": "#0026ad"
@@ -403,7 +403,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART, M. COLET, Mme TAGLIATTI\nRosaParks.0.08.Landercy, RosaParks.1.09.Delmas-Marty, Jo.Stievenart, NiGA.Curie",
+                    "title": "Biologie générale humaine\nMme TAGLIATTI, Mme PAMART, M. COLET\nRosaParks.0.08.Landercy, RosaParks.1.09.Delmas-Marty, Jo.Stievenart, NiGA.Curie",
                     "start": "2026-06-10T13:30:00",
                     "end": "2026-06-10T17:00:00",
                     "color": "#0026ad"
@@ -901,7 +901,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale II\nM. VAN LEUVEN, Mme BEAUCHOT\nWa.SalleAca, Wa.Drechsel, Jo.Stievenart",
+                    "title": "Chimie générale II\nM. VAN LEUVEN, Mme BEAUCHOT\nWa.Drechsel, Wa.SalleAca, Jo.Stievenart",
                     "start": "2026-05-15T13:30:00",
                     "end": "2026-05-15T15:30:00",
                     "color": "#0026ad"
@@ -1160,6 +1160,14 @@
                     "title": "Chimie organique II\nMme BEAUCHOT, M. VAN LEUVEN, Mme LAURENT\nNiVésale.LaFontaine",
                     "start": "2026-06-19T10:00:00",
                     "end": "2026-06-19T12:00:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "Elem. bota. B.": [
+                {
+                    "title": "Elem. bota. B.\nM. GHISBAIN\nNiP.0C14",
+                    "start": "2026-06-23T08:00:00",
+                    "end": "2026-06-23T10:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -1787,7 +1795,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. SIMON, M. BROUETTE, M. LAMBOTTE, M. RIVIERE\nNiGA.VanGogh, NiGA.Gutenberg, NiGA.Plisnier, NiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. SIMON, M. LAMBOTTE, M. RIVIERE\nNiGA.VanGogh, NiGA.Gutenberg, NiGA.Plisnier, NiGA.Curie",
                     "start": "2026-05-26T08:15:00",
                     "end": "2026-05-26T11:45:00",
                     "color": "#0026ad"
@@ -1837,7 +1845,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanisme différen. cellulaire\nMme TASSIN, Mme TAGLIATTI\nNiGA.Gutenberg",
+                    "title": "Mécanisme différen. cellulaire\nMme TAGLIATTI, Mme TASSIN\nNiGA.Gutenberg",
                     "start": "2026-05-08T13:30:00",
                     "end": "2026-05-08T15:30:00",
                     "color": "#0026ad"
@@ -2753,7 +2761,7 @@
             ],
             "Rôle transport. membranaires": [
                 {
-                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme LUPANT, Mme AKAN\nNiGA.Gutenberg",
+                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiGA.Gutenberg",
                     "start": "2026-02-09T13:30:00",
                     "end": "2026-02-09T15:30:00",
                     "color": "#0026ad"
@@ -2765,13 +2773,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN\nNiB6.211",
+                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN\nNiB6.211",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme LUPANT, Mme AKAN\nNiB6.18",
+                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiB6.18",
                     "start": "2026-03-05T10:30:00",
                     "end": "2026-03-05T12:30:00",
                     "color": "#0026ad"
@@ -2789,7 +2797,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme LUPANT, Mme AKAN\nNiB6.124",
+                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiB6.124",
                     "start": "2026-03-25T08:15:00",
                     "end": "2026-03-25T10:15:00",
                     "color": "#0026ad"
@@ -2801,7 +2809,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN\nNiB6.211",
+                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN\nNiB6.211",
                     "start": "2026-03-25T13:30:00",
                     "end": "2026-03-25T15:30:00",
                     "color": "#0026ad"
@@ -2825,7 +2833,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN, Mme TAGLIATTI, Mme LUPANT\nNiGA.VanGogh, NiVésale.025",
+                    "title": "Rôle transport. membranaires\nMme TAGLIATTI, Mme AKAN, Mme TASSIN, Mme LUPANT\nNiGA.VanGogh, NiVésale.025",
                     "start": "2026-06-11T13:00:00",
                     "end": "2026-06-11T16:30:00",
                     "color": "#0026ad"
@@ -52370,19 +52378,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse math I B\nMme DUMONCEAU, Mme BRIDOUX, M. TROESTLER\nNiP.0A07",
+                    "title": "Analyse math I B\nMme DUMONCEAU, Mme BRIDOUX, M. TROESTLER\nNiBSM.012.Hermann",
                     "start": "2026-06-22T08:15:00",
                     "end": "2026-06-22T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse math I B\nMme DUMONCEAU, Mme BRIDOUX, M. TROESTLER\nNiP.0A07",
+                    "title": "Analyse math I B\nMme DUMONCEAU, Mme BRIDOUX, M. TROESTLER\nNiBSM.012.Hermann",
                     "start": "2026-06-22T13:30:00",
                     "end": "2026-06-22T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse math I B\nMme DUMONCEAU, Mme BRIDOUX, M. TROESTLER\nNiP.0A07",
+                    "title": "Analyse math I B\nMme DUMONCEAU, Mme BRIDOUX, M. TROESTLER\nNiBSM.012.Hermann",
                     "start": "2026-06-23T08:30:00",
                     "end": "2026-06-23T12:30:00",
                     "color": "#0026ad"
@@ -67583,7 +67591,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
                     "start": "2025-09-30T13:30:00",
                     "end": "2025-09-30T17:30:00",
                     "color": "#0026ad"
@@ -67595,7 +67603,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
                     "start": "2025-10-01T13:30:00",
                     "end": "2025-10-01T17:30:00",
                     "color": "#0026ad"
@@ -67649,7 +67657,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie générale humaine\nMme PAMART\nNiP.0C14, NiP.1E12",
+                    "title": "Biologie générale humaine\nMme PAMART\nNiP.1E12, NiP.0C14",
                     "start": "2025-10-22T13:30:00",
                     "end": "2025-10-22T17:30:00",
                     "color": "#0026ad"
@@ -68017,7 +68025,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT\nNiP.0A07, NiGA.Curie, NiB6.18, RosaParks.0.08.Landercy, NiB6.124, NiGA.Gutenberg, RosaParks.1.09.Delmas-Marty, Jo.Stievenart, NiVésale.023, NiB6.211",
+                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT\nNiP.0A07, NiGA.Curie, RosaParks.0.08.Landercy, NiB6.124, NiGA.Gutenberg, RosaParks.1.09.Delmas-Marty, Jo.Stievenart, NiB6.18, NiVésale.023, NiB6.211",
                     "start": "2025-12-17T13:30:00",
                     "end": "2025-12-17T15:30:00",
                     "color": "#0026ad"
@@ -68247,7 +68255,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale II\nM. VAN LEUVEN, Mme BEAUCHOT\nWa.SalleAca, Wa.Drechsel, Jo.Stievenart",
+                    "title": "Chimie générale II\nM. VAN LEUVEN, Mme BEAUCHOT\nWa.Drechsel, Wa.SalleAca, Jo.Stievenart",
                     "start": "2026-05-15T13:30:00",
                     "end": "2026-05-15T15:30:00",
                     "color": "#0026ad"
@@ -68595,6 +68603,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "Elem. bota. B.": [
+                {
+                    "title": "Elem. bota. B.\nM. GHISBAIN\nNiP.0C14",
+                    "start": "2026-06-23T08:00:00",
+                    "end": "2026-06-23T10:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Eléments botanique - Partie B": [
                 {
                     "title": "Eléments botanique - Partie B\nMme PAMART\nNiB6.019Lab",
@@ -68669,13 +68685,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eléments botanique - Partie B\nMme CARETTE, Mme PAMART, M. GHISBAIN\nNiB6.019Lab",
+                    "title": "Eléments botanique - Partie B\nMme PAMART, Mme CARETTE, M. GHISBAIN\nNiB6.019Lab",
                     "start": "2026-06-17T09:00:00",
                     "end": "2026-06-17T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eléments botanique - Partie B\nMme CARETTE, Mme PAMART, M. GHISBAIN\nNiB6.019Lab",
+                    "title": "Eléments botanique - Partie B\nMme PAMART, Mme CARETTE, M. GHISBAIN\nNiB6.019Lab",
                     "start": "2026-06-18T09:00:00",
                     "end": "2026-06-18T16:00:00",
                     "color": "#0026ad"
@@ -69467,7 +69483,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. LAMBOTTE, M. RIVIERE, M. SIMON\nNiGA.VanGogh, NiGA.Gutenberg, NiGA.Plisnier, NiGA.Curie",
+                    "title": "Math appl sciences de la vie\nM. BROUETTE, M. SIMON, M. LAMBOTTE, M. RIVIERE\nNiGA.VanGogh, NiGA.Gutenberg, NiGA.Plisnier, NiGA.Curie",
                     "start": "2026-05-26T08:15:00",
                     "end": "2026-05-26T11:45:00",
                     "color": "#0026ad"
