@@ -2908,8 +2908,8 @@
                 },
                 {
                     "title": "Statistiques I\nM. LELUBRE\nNiGA.Plisnier",
-                    "start": "2026-06-22T12:30:00",
-                    "end": "2026-06-22T13:15:00",
+                    "start": "2026-06-29T10:30:00",
+                    "end": "2026-06-29T11:15:00",
                     "color": "#0026ad"
                 }
             ]
@@ -3427,9 +3427,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire\nMme DECLEVES\nNiGA.Plisnier",
-                    "start": "2026-06-30T11:30:00",
-                    "end": "2026-06-30T12:30:00",
+                    "title": "Biologie moléculaire\n\nMme DECARNONCLE",
+                    "start": "2026-06-30T10:00:00",
+                    "end": "2026-06-30T11:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -5593,19 +5593,19 @@
         "BAB3": {
             "_": [
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
                     "start": "2025-09-16T10:30:00",
                     "end": "2025-09-16T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiGA.VanGogh",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiGA.VanGogh",
                     "start": "2025-09-16T11:30:00",
                     "end": "2025-09-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.020",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.020",
                     "start": "2025-09-23T12:30:00",
                     "end": "2025-09-23T13:30:00",
                     "color": "#0026ad"
@@ -5925,13 +5925,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.211",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.211",
                     "start": "2026-03-30T10:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
                     "start": "2026-04-01T08:15:00",
                     "end": "2026-04-01T13:00:00",
                     "color": "#0026ad"
@@ -5943,13 +5943,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiP.3C07Lab",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiP.3C07Lab",
                     "start": "2026-04-02T13:30:00",
                     "end": "2026-04-02T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.211",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.211",
                     "start": "2026-04-07T10:30:00",
                     "end": "2026-04-07T12:30:00",
                     "color": "#0026ad"
@@ -5973,19 +5973,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
                     "start": "2026-04-16T13:30:00",
                     "end": "2026-04-16T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiB6.127Info",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiB6.127Info",
                     "start": "2026-04-17T13:30:00",
                     "end": "2026-04-17T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie cellulaire\nMme DEVALCKENEER, Mme BURTEA\nNiDeVinci.Vaughan, NiDeVinci.Russel",
+                    "title": "Biologie cellulaire\nMme BURTEA, Mme DEVALCKENEER\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2026-06-05T13:30:00",
                     "end": "2026-06-05T16:30:00",
                     "color": "#0026ad"
@@ -6031,7 +6031,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Complément biologie molécul.\nM. MARECHAL, Mme DECLEVES, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Complément biologie molécul.\nMme DECARNONCLE, Mme DECLEVES, M. MARECHAL\nNiP.3C07Lab",
                     "start": "2026-02-25T13:30:00",
                     "end": "2026-02-25T16:30:00",
                     "color": "#0026ad"
@@ -6097,7 +6097,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Complément biologie molécul.\nMme DECLEVES, Mme DECARNONCLE, M. LABIAU\nNiB6.124",
+                    "title": "Complément biologie molécul.\nMme DECARNONCLE, M. LABIAU, Mme DECLEVES\nNiB6.124",
                     "start": "2026-06-01T12:00:00",
                     "end": "2026-06-01T15:00:00",
                     "color": "#0026ad"
@@ -6251,7 +6251,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Embryologie humaine\nMme TRELCAT, M. SAUSSEZ\nJo.Stievenart",
+                    "title": "Embryologie humaine\nM. SAUSSEZ, Mme TRELCAT\nJo.Stievenart",
                     "start": "2026-05-26T15:15:00",
                     "end": "2026-05-26T18:15:00",
                     "color": "#0026ad"
@@ -6862,7 +6862,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. modèles/métho. Biomed\nMme TAGLIATTI, Mme LEMOINE\nNiP.0C14, NiB6.127Info",
+                    "title": "Initiat. modèles/métho. Biomed\nMme TAGLIATTI, Mme LEMOINE\nNiB6.127Info, NiP.0C14",
                     "start": "2026-01-22T08:30:00",
                     "end": "2026-01-22T12:30:00",
                     "color": "#0026ad"
@@ -7006,7 +7006,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Interactions non covalentes\nM. STANICKI, Mme BEAUCHOT, Mme LAURENT\nNiVésale.020, NiGA.Plisnier",
+                    "title": "Interactions non covalentes\nMme BEAUCHOT, Mme LAURENT, M. STANICKI\nNiVésale.020, NiGA.Plisnier",
                     "start": "2026-06-10T12:15:00",
                     "end": "2026-06-10T16:15:00",
                     "color": "#0026ad"
@@ -7094,13 +7094,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mammouth\nMme DECARNONCLE, M. CONOTTE, M. LABIAU, Mme TAGLIATTI, Mme LEMOINE, M. JOURNE\nNiP.3C07Lab",
+                    "title": "Mammouth\nM. LABIAU, M. CONOTTE, Mme LEMOINE, Mme DECARNONCLE, M. JOURNE, Mme TAGLIATTI\nNiP.3C07Lab",
                     "start": "2026-06-17T09:00:00",
                     "end": "2026-06-17T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mammouth\nMme DECARNONCLE, Mme AKAN, M. CONOTTE, M. LABIAU, Mme TAGLIATTI, Mme LEMOINE, M. JOURNE\nNiP.3C07Lab",
+                    "title": "Mammouth\nM. LABIAU, M. CONOTTE, Mme AKAN, Mme LEMOINE, Mme DECARNONCLE, M. JOURNE, Mme TAGLIATTI\nNiP.3C07Lab",
                     "start": "2026-06-18T08:15:00",
                     "end": "2026-06-18T17:00:00",
                     "color": "#0026ad"
@@ -7316,7 +7316,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Neurophysio systè. - Partie 1\nMme VILLERS, Mme RIS\nNiVésale.020, NiGA.Plisnier, NiVésale.LaFontaine, NiVésale.025, NiVésale.023",
+                    "title": "Neurophysio systè. - Partie 1\nMme RIS, Mme VILLERS\nNiVésale.020, NiGA.Plisnier, NiVésale.LaFontaine, NiVésale.025, NiVésale.023",
                     "start": "2026-01-16T09:30:00",
                     "end": "2026-01-16T12:30:00",
                     "color": "#0026ad"
@@ -7508,7 +7508,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale\nMme NACHTERGAEL\nNiGA.Curie, NiVésale.023",
+                    "title": "Pharmacologie générale\nMme NACHTERGAEL\nNiVésale.023, NiGA.Curie",
                     "start": "2026-01-20T10:30:00",
                     "end": "2026-01-20T13:30:00",
                     "color": "#0026ad"
@@ -7522,37 +7522,37 @@
             ],
             "Pharmacologie générale Exer.": [
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.LaFontaine",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.LaFontaine",
                     "start": "2025-10-22T15:45:00",
                     "end": "2025-10-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.LaFontaine",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.LaFontaine",
                     "start": "2025-11-05T15:45:00",
                     "end": "2025-11-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.LaFontaine",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.LaFontaine",
                     "start": "2025-11-12T15:45:00",
                     "end": "2025-11-12T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiB6.124",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiB6.124",
                     "start": "2025-12-11T08:15:00",
                     "end": "2025-12-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.020",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.020",
                     "start": "2025-12-12T10:30:00",
                     "end": "2025-12-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL\nNiGA.Curie, NiVésale.023",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE\nNiVésale.023, NiGA.Curie",
                     "start": "2026-01-20T14:30:00",
                     "end": "2026-01-20T17:30:00",
                     "color": "#0026ad"
@@ -7646,13 +7646,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN\nNiGA.Plisnier",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme LUPANT\nNiGA.Plisnier",
                     "start": "2025-09-18T10:30:00",
                     "end": "2025-09-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN\nPCM.500",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, Mme LUPANT\nPCM.500",
                     "start": "2025-09-22T08:00:00",
                     "end": "2025-09-22T10:00:00",
                     "color": "#0026ad"
@@ -7700,13 +7700,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-10-14T18:00:00",
                     "end": "2025-10-14T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-10-15T08:15:00",
                     "end": "2025-10-15T10:15:00",
                     "color": "#0026ad"
@@ -7742,19 +7742,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiP.1E12",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiP.1E12",
                     "start": "2025-11-28T17:45:00",
                     "end": "2025-11-28T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme LUPANT, Mme TASSIN, Mme AKAN\nNiVésale.020, NiGA.Plisnier, NiGA.VanGogh",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiVésale.020, NiGA.Plisnier, NiGA.VanGogh",
                     "start": "2025-12-18T08:15:00",
                     "end": "2025-12-18T10:15:00",
                     "color": "#0026ad"
@@ -7826,6 +7826,12 @@
                     "start": "2026-06-04T10:30:00",
                     "end": "2026-06-04T12:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Physiopathologie système nerv.\nM. MAVROUDAKIS\nNiGA.Escher",
+                    "start": "2026-06-26T08:00:00",
+                    "end": "2026-06-26T10:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Statistiques II": [
@@ -7890,7 +7896,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques II\nM. LELUBRE\nPCM.500, NiGA.Gutenberg",
+                    "title": "Statistiques II\nM. LELUBRE\nNiGA.Gutenberg, PCM.500",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
@@ -8058,7 +8064,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiVésale.030, NiB6.06, NiVésale.025",
+                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiB6.06, NiVésale.030, NiVésale.025",
                     "start": "2026-05-26T08:15:00",
                     "end": "2026-05-26T11:15:00",
                     "color": "#0026ad"
@@ -9064,9 +9070,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire\nMme DECLEVES\nNiGA.Plisnier",
-                    "start": "2026-06-30T11:30:00",
-                    "end": "2026-06-30T12:30:00",
+                    "title": "Biologie moléculaire\n\nMme DECARNONCLE",
+                    "start": "2026-06-30T10:00:00",
+                    "end": "2026-06-30T11:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -9166,9 +9172,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire\nMme DECLEVES\nNiGA.Plisnier",
-                    "start": "2026-06-30T11:30:00",
-                    "end": "2026-06-30T12:30:00",
+                    "title": "Biologie moléculaire\n\nMme DECARNONCLE",
+                    "start": "2026-06-30T10:00:00",
+                    "end": "2026-06-30T11:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -52378,13 +52384,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse math I B\nMme DUMONCEAU, Mme BRIDOUX, M. TROESTLER\nNiBSM.012.Hermann",
+                    "title": "Analyse math I B\nMme DUMONCEAU, Mme BRIDOUX, M. TROESTLER\nNiBSM.012.Hermann, NiP.0A07",
                     "start": "2026-06-22T08:15:00",
                     "end": "2026-06-22T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse math I B\nMme DUMONCEAU, Mme BRIDOUX, M. TROESTLER\nNiBSM.012.Hermann",
+                    "title": "Analyse math I B\nMme DUMONCEAU, Mme BRIDOUX, M. TROESTLER\nNiP.0A07",
                     "start": "2026-06-22T13:30:00",
                     "end": "2026-06-22T17:30:00",
                     "color": "#0026ad"
@@ -68927,6 +68933,12 @@
                     "start": "2026-06-12T13:00:00",
                     "end": "2026-06-12T16:00:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Initiat. recherche Pharm/Biome\nM. LABIAU, Mme TAGLIATTI\nNiGA.Gutenberg",
+                    "start": "2026-06-30T11:30:00",
+                    "end": "2026-06-30T13:30:00",
+                    "color": "#0026ad"
                 }
             ],
             "Intro Math sciences de la vie": [
@@ -70574,8 +70586,8 @@
                 },
                 {
                     "title": "Statistiques I\nM. LELUBRE\nNiGA.Plisnier",
-                    "start": "2026-06-22T12:30:00",
-                    "end": "2026-06-22T13:15:00",
+                    "start": "2026-06-29T10:30:00",
+                    "end": "2026-06-29T11:15:00",
                     "color": "#0026ad"
                 }
             ]
@@ -70951,9 +70963,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire\nMme DECLEVES\nNiGA.Plisnier",
-                    "start": "2026-06-30T11:30:00",
-                    "end": "2026-06-30T12:30:00",
+                    "title": "Biologie moléculaire\n\nMme DECARNONCLE",
+                    "start": "2026-06-30T10:00:00",
+                    "end": "2026-06-30T11:00:00",
                     "color": "#0026ad"
                 }
             ],
