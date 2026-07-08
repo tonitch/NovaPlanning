@@ -723,6 +723,12 @@
                     "start": "2026-08-19T08:15:00",
                     "end": "2026-08-19T13:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie générale I\nMme HENOUMONT, Mme LAURENT\nNiB6.03Lab",
+                    "start": "2026-08-31T14:00:00",
+                    "end": "2026-08-31T16:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Chimie générale II": [
@@ -6767,7 +6773,7 @@
             ],
             "Ethique - déontologie médicale": [
                 {
-                    "title": "Ethique - déontologie médicale\nM. LOSSIGNOL\nNiVésale.LaFontaine, NiGA.Plisnier",
+                    "title": "Ethique - déontologie médicale\nM. LOSSIGNOL\nNiGA.Plisnier, NiVésale.LaFontaine",
                     "start": "2026-06-02T13:00:00",
                     "end": "2026-06-02T15:00:00",
                     "color": "#0026ad"
@@ -7230,13 +7236,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intelligence artificielle I\nM. BRIGANTI, Mme PARRY\nNiB6.124",
+                    "title": "Intelligence artificielle I\nMme PARRY, M. BRIGANTI\nNiB6.124",
                     "start": "2026-01-14T09:30:00",
                     "end": "2026-01-14T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intelligence artificielle I\nM. BRIGANTI, Mme PARRY\nNiGA.Pascal",
+                    "title": "Intelligence artificielle I\nMme PARRY, M. BRIGANTI\nNiGA.Pascal",
                     "start": "2026-08-20T13:00:00",
                     "end": "2026-08-20T15:00:00",
                     "color": "#0026ad"
@@ -7280,7 +7286,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intelligence artificielle II\nM. BRIGANTI, Mme PARRY\nNiVésale.030",
+                    "title": "Intelligence artificielle II\nMme PARRY, M. BRIGANTI\nNiVésale.030",
                     "start": "2026-06-19T09:30:00",
                     "end": "2026-06-19T13:30:00",
                     "color": "#0026ad"
@@ -7428,6 +7434,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "Introduction Pharmacognosie": [
+                {
+                    "title": "Introduction Pharmacognosie\n\nMme NACHTERGAEL, Mme CARETTE",
+                    "start": "2026-08-31T15:00:00",
+                    "end": "2026-08-31T16:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Mammouth": [
                 {
                     "title": "Mammouth\nMme TAGLIATTI, M. LABIAU\nNiP.3C07Lab",
@@ -7442,7 +7456,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mammouth\nM. CONOTTE, Mme AKAN, Mme DECARNONCLE, Mme TAGLIATTI, Mme LEMOINE, M. JOURNE, M. LABIAU\nNiP.3C07Lab",
+                    "title": "Mammouth\nMme AKAN, M. CONOTTE, Mme DECARNONCLE, Mme TAGLIATTI, Mme LEMOINE, M. JOURNE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-06-18T08:15:00",
                     "end": "2026-06-18T17:00:00",
                     "color": "#0026ad"
@@ -7688,7 +7702,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Neurophysio systè. - Partie 1\nMme RIS, Mme VILLERS\nNiGA.Plisnier, NiVésale.023, NiVésale.LaFontaine, NiVésale.025, NiVésale.020",
+                    "title": "Neurophysio systè. - Partie 1\nMme VILLERS, Mme RIS\nNiGA.Plisnier, NiVésale.LaFontaine, NiVésale.020, NiVésale.023, NiVésale.025",
                     "start": "2026-01-16T09:30:00",
                     "end": "2026-01-16T12:30:00",
                     "color": "#0026ad"
@@ -7886,7 +7900,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale\nMme NACHTERGAEL\nNiGA.Curie, NiVésale.023",
+                    "title": "Pharmacologie générale\nMme NACHTERGAEL\nNiVésale.023, NiGA.Curie",
                     "start": "2026-01-20T10:30:00",
                     "end": "2026-01-20T13:30:00",
                     "color": "#0026ad"
@@ -7906,37 +7920,37 @@
             ],
             "Pharmacologie générale Exer.": [
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.LaFontaine",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.LaFontaine",
                     "start": "2025-10-22T15:45:00",
                     "end": "2025-10-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.LaFontaine",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.LaFontaine",
                     "start": "2025-11-05T15:45:00",
                     "end": "2025-11-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.LaFontaine",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.LaFontaine",
                     "start": "2025-11-12T15:45:00",
                     "end": "2025-11-12T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiB6.124",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiB6.124",
                     "start": "2025-12-11T08:15:00",
                     "end": "2025-12-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.020",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN\nNiVésale.020",
                     "start": "2025-12-12T10:30:00",
                     "end": "2025-12-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme CARETTE, Mme ROMAN\nNiGA.Curie, NiVésale.023",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme CARETTE, Mme ROMAN\nNiVésale.023, NiGA.Curie",
                     "start": "2026-01-20T14:30:00",
                     "end": "2026-01-20T17:30:00",
                     "color": "#0026ad"
@@ -8146,13 +8160,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiGA.Plisnier, NiGA.VanGogh, NiVésale.020",
+                    "title": "Physio/Physiopath syst. respi.\nMme AKAN, Mme TASSIN, Mme LUPANT\nNiGA.VanGogh, NiGA.Plisnier, NiVésale.020",
                     "start": "2025-12-18T08:15:00",
                     "end": "2025-12-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nM. LEGRAND, Mme TASSIN\nNiVésale.LaFontaine, NiGA.Plisnier",
+                    "title": "Physio/Physiopath syst. respi.\nM. LEGRAND, Mme TASSIN\nNiGA.Plisnier, NiVésale.LaFontaine",
                     "start": "2026-08-11T08:30:00",
                     "end": "2026-08-11T12:30:00",
                     "color": "#0026ad"
@@ -8220,7 +8234,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiopathologie système nerv.\nM. MAVROUDAKIS\nNiGA.Plisnier, NiVésale.023",
+                    "title": "Physiopathologie système nerv.\nM. MAVROUDAKIS\nNiVésale.023, NiGA.Plisnier",
                     "start": "2026-06-04T10:30:00",
                     "end": "2026-06-04T12:30:00",
                     "color": "#0026ad"
@@ -8324,7 +8338,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques II\nM. LELUBRE\nNiP.1E12, NiB6.127Info",
+                    "title": "Statistiques II\nM. LELUBRE\nNiB6.127Info, NiP.1E12",
                     "start": "2026-01-12T13:00:00",
                     "end": "2026-01-12T17:00:00",
                     "color": "#0026ad"
@@ -8486,7 +8500,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiB6.06, NiVésale.025, NiVésale.030",
+                    "title": "Toxicologie prédictive - 2\nM. COLET\nNiVésale.030, NiB6.06, NiVésale.025",
                     "start": "2026-05-26T08:15:00",
                     "end": "2026-05-26T11:15:00",
                     "color": "#0026ad"
@@ -12901,18 +12915,6 @@
                 },
                 {
                     "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
-                    "start": "2026-08-27T13:30:00",
-                    "end": "2026-08-27T17:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
-                    "start": "2026-08-28T09:00:00",
-                    "end": "2026-08-28T17:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
                     "start": "2026-05-18T08:00:00",
                     "end": "2026-05-18T17:00:00",
                     "color": "#0026ad"
@@ -12939,18 +12941,6 @@
                     "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
                     "start": "2026-05-22T13:30:00",
                     "end": "2026-05-22T18:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
-                    "start": "2026-08-27T13:30:00",
-                    "end": "2026-08-27T17:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
-                    "start": "2026-08-28T09:00:00",
-                    "end": "2026-08-28T17:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -15409,26 +15399,14 @@
             "Rédaction/Com. scientifique": [
                 {
                     "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
-                    "start": "2026-08-27T13:30:00",
-                    "end": "2026-08-27T17:00:00",
+                    "start": "2026-08-19T09:00:00",
+                    "end": "2026-08-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
-                    "start": "2026-08-28T09:00:00",
-                    "end": "2026-08-28T17:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
-                    "start": "2026-08-27T13:30:00",
-                    "end": "2026-08-27T17:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
-                    "start": "2026-08-28T09:00:00",
-                    "end": "2026-08-28T17:00:00",
+                    "start": "2026-08-19T09:00:00",
+                    "end": "2026-08-19T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -17553,8 +17531,8 @@
                 },
                 {
                     "title": "Chim. gén. I\nM. SURIN, Mme WAUTERS, M. BROCORENS, M. VAN VOOREN\nNiB6.103Lab",
-                    "start": "2026-08-18T13:15:00",
-                    "end": "2026-08-18T17:15:00",
+                    "start": "2026-08-18T13:30:00",
+                    "end": "2026-08-18T17:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -18091,6 +18069,12 @@
                     "title": "Elec - Théorie\nM. ROSOLEN, M. VOUE\nNiBSM.008.Kwolek",
                     "start": "2026-06-23T08:15:00",
                     "end": "2026-06-23T12:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Elec - Théorie\nM. DELPLACE\nNiBSM.015.Feynman",
+                    "start": "2026-07-16T10:00:00",
+                    "end": "2026-07-16T11:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -33100,6 +33084,12 @@
                     "title": "Elec - Théorie\nM. ROSOLEN, M. VOUE, M. DELPLACE\nNiVésale.LaFontaine, NiVésale.020, NiVésale.023",
                     "start": "2026-06-01T08:15:00",
                     "end": "2026-06-01T12:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Elec - Théorie\nM. DELPLACE\nNiBSM.015.Feynman",
+                    "start": "2026-07-16T10:00:00",
+                    "end": "2026-07-16T11:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -55013,6 +55003,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Elec - Théorie\nM. DELPLACE\nNiBSM.015.Feynman",
+                    "start": "2026-07-16T10:00:00",
+                    "end": "2026-07-16T11:00:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Elec - Théorie\nM. DELPLACE, M. ROSOLEN, M. VOUE\nNiGA.Gutenberg",
                     "start": "2026-08-10T08:15:00",
                     "end": "2026-08-10T12:15:00",
@@ -71094,6 +71090,12 @@
                     "start": "2026-08-19T08:15:00",
                     "end": "2026-08-19T13:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie générale I\nMme HENOUMONT, Mme LAURENT\nNiB6.03Lab",
+                    "start": "2026-08-31T14:00:00",
+                    "end": "2026-08-31T16:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Chimie générale II": [
@@ -74428,6 +74430,12 @@
                     "start": "2026-06-29T09:00:00",
                     "end": "2026-06-29T11:00:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie générale I\nMme HENOUMONT, Mme LAURENT\nNiB6.03Lab",
+                    "start": "2026-08-31T14:00:00",
+                    "end": "2026-08-31T16:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Chimie organique I": [
@@ -75492,6 +75500,12 @@
                     "start": "2026-08-11T08:15:00",
                     "end": "2026-08-11T10:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Introduction Pharmacognosie\n\nMme NACHTERGAEL, Mme CARETTE",
+                    "start": "2026-08-31T15:00:00",
+                    "end": "2026-08-31T16:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Physio. spéc: endocrino/génit.": [
@@ -76230,13 +76244,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse instrumentale pharma\nM. BLANKERT, M. LEVEQUE, Mme WELLS\nNiGA.Curie",
+                    "title": "Analyse instrumentale pharma\nM. LEVEQUE, M. BLANKERT, Mme WELLS\nNiGA.Curie",
                     "start": "2026-01-23T13:00:00",
                     "end": "2026-01-23T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse instrumentale pharma\nM. BLANKERT, M. LEVEQUE, Mme WELLS\nNiVésale.030, NiVésale.023",
+                    "title": "Analyse instrumentale pharma\nM. LEVEQUE, M. BLANKERT, Mme WELLS\nNiVésale.030, NiVésale.023",
                     "start": "2026-08-24T09:00:00",
                     "end": "2026-08-24T12:00:00",
                     "color": "#0026ad"
@@ -76244,151 +76258,151 @@
             ],
             "Analyse pharma appliquée": [
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiB6.124",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiB6.124",
                     "start": "2025-11-05T10:30:00",
                     "end": "2025-11-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-17T08:00:00",
                     "end": "2025-11-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-17T13:30:00",
                     "end": "2025-11-17T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-18T08:00:00",
                     "end": "2025-11-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-18T13:30:00",
                     "end": "2025-11-18T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-19T08:00:00",
                     "end": "2025-11-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-19T13:30:00",
                     "end": "2025-11-19T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-20T08:00:00",
                     "end": "2025-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-20T13:30:00",
                     "end": "2025-11-20T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-21T08:00:00",
                     "end": "2025-11-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-21T13:30:00",
                     "end": "2025-11-21T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-24T08:00:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-24T13:30:00",
                     "end": "2025-11-24T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-25T08:00:00",
                     "end": "2025-11-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-25T13:30:00",
                     "end": "2025-11-25T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-26T08:00:00",
                     "end": "2025-11-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-26T13:30:00",
                     "end": "2025-11-26T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-27T08:00:00",
                     "end": "2025-11-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-27T13:30:00",
                     "end": "2025-11-27T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-28T08:00:00",
                     "end": "2025-11-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-28T13:30:00",
                     "end": "2025-11-28T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiVésale.025",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiVésale.025",
                     "start": "2025-12-01T10:30:00",
                     "end": "2025-12-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiB6.124",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiB6.124",
                     "start": "2025-12-03T13:30:00",
                     "end": "2025-12-03T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiB6.18",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiB6.18",
                     "start": "2025-12-04T10:30:00",
                     "end": "2025-12-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse pharma appliquée\nMme WELLS, M. LEVEQUE\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Analyse pharma appliquée\nM. LEVEQUE, Mme WELLS\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2025-12-11T10:30:00",
                     "end": "2025-12-11T12:30:00",
                     "color": "#0026ad"
@@ -76428,145 +76442,145 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-23T08:30:00",
                     "end": "2026-02-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-23T13:30:00",
                     "end": "2026-02-23T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-24T11:00:00",
                     "end": "2026-02-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-24T16:30:00",
                     "end": "2026-02-24T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-25T11:00:00",
                     "end": "2026-02-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-25T13:30:00",
                     "end": "2026-02-25T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-26T08:30:00",
                     "end": "2026-02-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-26T13:30:00",
                     "end": "2026-02-26T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-27T08:30:00",
                     "end": "2026-02-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-02-27T13:30:00",
                     "end": "2026-02-27T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-02T08:30:00",
                     "end": "2026-03-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-02T13:30:00",
                     "end": "2026-03-02T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-03T08:30:00",
                     "end": "2026-03-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-04T08:30:00",
                     "end": "2026-03-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-04T13:30:00",
                     "end": "2026-03-04T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-05T08:30:00",
                     "end": "2026-03-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-05T13:30:00",
                     "end": "2026-03-05T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-06T08:30:00",
                     "end": "2026-03-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nMme CARETTE, Mme ROMAN\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Contrôle mat. première Pharma\nMme ROMAN, Mme CARETTE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-03-06T13:30:00",
                     "end": "2026-03-06T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, M. DUFRASNE, Mme ROMAN, Mme NACHTERGAEL\nNiB6.211",
+                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, M. DUFRASNE, Mme NACHTERGAEL, Mme ROMAN\nNiB6.211",
                     "start": "2026-04-15T08:30:00",
                     "end": "2026-04-15T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, Mme CARETTE, Mme ROMAN, Mme NACHTERGAEL\nNiVésale.LaFontaine",
+                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, Mme NACHTERGAEL, Mme ROMAN, Mme CARETTE\nNiVésale.LaFontaine",
                     "start": "2026-06-04T12:00:00",
                     "end": "2026-06-04T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, Mme CARETTE, Mme ROMAN, Mme NACHTERGAEL\nNiVésale.LaFontaine",
+                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, Mme NACHTERGAEL, Mme ROMAN, Mme CARETTE\nNiVésale.LaFontaine",
                     "start": "2026-06-04T16:00:00",
                     "end": "2026-06-04T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, Mme CARETTE, Mme ROMAN, Mme NACHTERGAEL, M. PALMIERI, M. DUFRASNE\nNiB6.06",
+                    "title": "Contrôle mat. première Pharma\nM. BLANKERT, M. DUFRASNE, Mme NACHTERGAEL, M. PALMIERI, Mme ROMAN, Mme CARETTE\nNiB6.06",
                     "start": "2026-08-14T08:00:00",
                     "end": "2026-08-14T09:30:00",
                     "color": "#0026ad"
@@ -76667,6 +76681,12 @@
                     "title": "Eléments de pathologie\nM. HOUGARDY\nNiB6.127Info",
                     "start": "2026-06-13T09:00:00",
                     "end": "2026-06-13T11:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Eléments de pathologie\nM. HOUGARDY\nNiB6.06",
+                    "start": "2026-08-27T14:30:00",
+                    "end": "2026-08-27T17:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -76838,13 +76858,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Etude médicaments inorganiques\nM. BLANKERT, M. LEVEQUE, Mme WELLS\nNiVésale.023",
+                    "title": "Etude médicaments inorganiques\nM. LEVEQUE, M. BLANKERT, Mme WELLS\nNiVésale.023",
                     "start": "2026-06-02T13:00:00",
                     "end": "2026-06-02T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Etude médicaments inorganiques\nM. BLANKERT, M. LEVEQUE, Mme WELLS\nNiB6.211",
+                    "title": "Etude médicaments inorganiques\nM. LEVEQUE, M. BLANKERT, Mme WELLS\nNiB6.211",
                     "start": "2026-08-14T09:45:00",
                     "end": "2026-08-14T12:45:00",
                     "color": "#0026ad"
@@ -76964,7 +76984,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Interactions non covalentes\nMme LAURENT, M. STANICKI, Mme BEAUCHOT\nNiVésale.020, NiGA.Plisnier",
+                    "title": "Interactions non covalentes\nMme LAURENT, M. STANICKI, Mme BEAUCHOT\nNiGA.Plisnier, NiVésale.020",
                     "start": "2026-06-10T12:15:00",
                     "end": "2026-06-10T16:15:00",
                     "color": "#0026ad"
@@ -77136,6 +77156,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "Introduction Pharmacognosie": [
+                {
+                    "title": "Introduction Pharmacognosie\n\nMme NACHTERGAEL, Mme CARETTE",
+                    "start": "2026-08-31T15:00:00",
+                    "end": "2026-08-31T16:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Pharma Thematics -CLIL": [
                 {
                     "title": "Pharma Thematics -CLIL\nMme BOUCHET\nNiVésale.030",
@@ -77180,7 +77208,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharma Thematics -CLIL\nM. BLANKERT, M. VANDERBIST, Mme BOUCHET\nNiP.0A07",
+                    "title": "Pharma Thematics -CLIL\nM. BLANKERT, Mme BOUCHET, M. VANDERBIST\nNiP.0A07",
                     "start": "2026-06-26T08:00:00",
                     "end": "2026-06-26T16:00:00",
                     "color": "#0026ad"
@@ -77326,19 +77354,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacochimie - Partie 1\nMme CARETTE, M. DUFRASNE, M. PALMIERI, Mme NACHTERGAEL\nNiGA.Curie",
+                    "title": "Pharmacochimie - Partie 1\nM. PALMIERI, M. DUFRASNE, Mme NACHTERGAEL, Mme CARETTE\nNiGA.Curie",
                     "start": "2026-01-13T13:00:00",
                     "end": "2026-01-13T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacochimie - Partie 1\nMme CARETTE, M. DUFRASNE, M. PALMIERI, Mme NACHTERGAEL\nNiB6.06",
+                    "title": "Pharmacochimie - Partie 1\nM. PALMIERI, M. DUFRASNE, Mme NACHTERGAEL, Mme CARETTE\nNiB6.06",
                     "start": "2026-02-04T15:00:00",
                     "end": "2026-02-04T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacochimie - Partie 1\nMme CARETTE, M. DUFRASNE, M. PALMIERI, Mme NACHTERGAEL\nNiB6.18, NiVésale.025",
+                    "title": "Pharmacochimie - Partie 1\nM. PALMIERI, M. DUFRASNE, Mme NACHTERGAEL, Mme CARETTE\nNiVésale.025, NiB6.18",
                     "start": "2026-08-20T08:00:00",
                     "end": "2026-08-20T12:00:00",
                     "color": "#0026ad"
@@ -77478,19 +77506,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacognosie II\n\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL",
+                    "title": "Pharmacognosie II\n\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE",
                     "start": "2026-06-12T08:15:00",
                     "end": "2026-06-12T16:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacognosie II\n\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL",
+                    "title": "Pharmacognosie II\n\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE",
                     "start": "2026-06-15T08:15:00",
                     "end": "2026-06-15T16:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacognosie II\n\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL",
+                    "title": "Pharmacognosie II\n\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE",
                     "start": "2026-06-16T08:15:00",
                     "end": "2026-06-16T16:15:00",
                     "color": "#0026ad"
@@ -77508,19 +77536,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacognosie II\n\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL",
+                    "title": "Pharmacognosie II\n\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE",
                     "start": "2026-08-10T13:00:00",
                     "end": "2026-08-10T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacognosie II\n\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL",
+                    "title": "Pharmacognosie II\n\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE",
                     "start": "2026-08-12T13:30:00",
                     "end": "2026-08-12T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacognosie II\n\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL",
+                    "title": "Pharmacognosie II\n\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE",
                     "start": "2026-08-14T13:30:00",
                     "end": "2026-08-14T17:30:00",
                     "color": "#0026ad"
@@ -77594,7 +77622,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL\nNiB6.124",
+                    "title": "Pharmacologie générale\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE\nNiB6.124",
                     "start": "2026-08-13T11:00:00",
                     "end": "2026-08-13T14:00:00",
                     "color": "#0026ad"
@@ -77650,7 +77678,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacologie générale Exer.\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL\nNiGA.Curie, NiVésale.023",
+                    "title": "Pharmacologie générale Exer.\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE\nNiGA.Curie, NiVésale.023",
                     "start": "2026-01-20T14:30:00",
                     "end": "2026-01-20T17:30:00",
                     "color": "#0026ad"
@@ -77658,7 +77686,7 @@
             ],
             "Pharmacologie générale TP": [
                 {
-                    "title": "Pharmacologie générale TP\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL\nNiB6.124",
+                    "title": "Pharmacologie générale TP\nMme NACHTERGAEL, Mme ROMAN, Mme CARETTE\nNiB6.124",
                     "start": "2026-08-13T14:00:00",
                     "end": "2026-08-13T18:00:00",
                     "color": "#0026ad"
@@ -77892,13 +77920,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Principes physico-chimiques\nM. VANDERBIST, Mme QUINTART\nNiGA.Curie",
+                    "title": "Principes physico-chimiques\nMme QUINTART, M. VANDERBIST\nNiGA.Curie",
                     "start": "2026-01-08T10:00:00",
                     "end": "2026-01-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Principes physico-chimiques\nM. VANDERBIST, Mme QUINTART\nNiVésale.025",
+                    "title": "Principes physico-chimiques\nMme QUINTART, M. VANDERBIST\nNiVésale.025",
                     "start": "2026-08-10T08:30:00",
                     "end": "2026-08-10T11:00:00",
                     "color": "#0026ad"
@@ -79368,6 +79396,12 @@
                     "start": "2026-06-25T08:15:00",
                     "end": "2026-06-25T10:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Introduction Pharmacognosie\n\nMme NACHTERGAEL, Mme CARETTE",
+                    "start": "2026-08-31T15:00:00",
+                    "end": "2026-08-31T16:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Médicaments origine biologique": [
@@ -79905,6 +79939,12 @@
                     "title": "Pharmaco. spéciale - Partie 2\nM. BAMPS, Mme PATRIS\nNiVésale.020",
                     "start": "2026-08-18T16:00:00",
                     "end": "2026-08-18T19:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Pharmaco. spéciale - Partie 2\n\nMme PATRIS",
+                    "start": "2026-08-29T12:45:00",
+                    "end": "2026-08-29T13:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -82611,6 +82651,12 @@
                     "title": "Elec - Théorie\nM. ROSOLEN, M. VOUE\nNiBSM.008.Kwolek",
                     "start": "2026-06-18T08:15:00",
                     "end": "2026-06-18T12:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Elec - Théorie\nM. DELPLACE\nNiBSM.015.Feynman",
+                    "start": "2026-07-16T10:00:00",
+                    "end": "2026-07-16T11:00:00",
                     "color": "#0026ad"
                 },
                 {
