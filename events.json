@@ -3001,6 +3001,12 @@
                     "start": "2026-08-17T08:15:00",
                     "end": "2026-08-17T12:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Statistiques I\nM. LELUBRE\nNiGA.VanGogh",
+                    "start": "2026-08-31T10:30:00",
+                    "end": "2026-08-31T12:00:00",
+                    "color": "#0026ad"
                 }
             ]
         },
@@ -3125,7 +3131,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio/outils informa. Biomed\nMme TASSIN\nNiB6.127Info, NiP.1E12",
+                    "title": "Biblio/outils informa. Biomed\nMme TASSIN\nNiP.1E12, NiB6.127Info",
                     "start": "2025-11-14T10:30:00",
                     "end": "2025-11-14T12:30:00",
                     "color": "#0026ad"
@@ -3265,7 +3271,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiGA.Curie, NiB6.18, NiGA.Gutenberg",
+                    "title": "Biochimie métabolique\nMme DECARNONCLE, M. LABIAU\nNiGA.Curie, NiB6.18, NiGA.Gutenberg",
                     "start": "2025-12-16T13:30:00",
                     "end": "2025-12-16T15:30:00",
                     "color": "#0026ad"
@@ -3289,19 +3295,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nMme DECLEVES, M. LABIAU, Mme DECARNONCLE, Mme COPPEE\nNiGA.Curie, Wa.SalleAca, NiVésale.LaFontaine, NiB6.18, NiB6.124",
+                    "title": "Biochimie métabolique\nMme COPPEE, Mme DECARNONCLE, Mme DECLEVES, M. LABIAU\nNiGA.Curie, Wa.SalleAca, NiB6.124, NiVésale.LaFontaine, NiB6.18",
                     "start": "2026-01-14T13:00:00",
                     "end": "2026-01-14T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiGA.Plisnier",
+                    "title": "Biochimie métabolique\nMme DECARNONCLE, M. LABIAU\nNiGA.Plisnier",
                     "start": "2026-02-11T12:30:00",
                     "end": "2026-02-11T13:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nMme DECLEVES, M. LABIAU, Mme DECARNONCLE, Mme COPPEE\nNiGA.Curie, NiVésale.023",
+                    "title": "Biochimie métabolique\nMme COPPEE, Mme DECARNONCLE, Mme DECLEVES, M. LABIAU\nNiGA.Curie, NiVésale.023",
                     "start": "2026-08-25T13:00:00",
                     "end": "2026-08-25T17:00:00",
                     "color": "#0026ad"
@@ -3309,49 +3315,49 @@
             ],
             "Biochimie métabolique TP": [
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiGA.Gutenberg",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiGA.Gutenberg",
                     "start": "2025-09-30T16:15:00",
                     "end": "2025-09-30T17:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.06",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiB6.06",
                     "start": "2025-10-02T16:45:00",
                     "end": "2025-10-02T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiVésale.023",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiVésale.023",
                     "start": "2025-10-28T10:30:00",
                     "end": "2025-10-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2025-11-03T08:00:00",
                     "end": "2025-11-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2025-11-03T13:30:00",
                     "end": "2025-11-03T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.18",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiB6.18",
                     "start": "2025-11-12T16:45:00",
                     "end": "2025-11-12T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiVésale.030",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiVésale.030",
                     "start": "2025-11-25T15:45:00",
                     "end": "2025-11-25T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.18",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiB6.18",
                     "start": "2025-12-10T16:45:00",
                     "end": "2025-12-10T18:45:00",
                     "color": "#0026ad"
@@ -3529,7 +3535,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire\nMme DECLEVES, M. LABIAU, Mme DECARNONCLE\nNiGA.VanGogh",
+                    "title": "Biologie moléculaire\nMme DECARNONCLE, Mme DECLEVES, M. LABIAU\nNiGA.VanGogh",
                     "start": "2026-06-15T13:00:00",
                     "end": "2026-06-15T17:00:00",
                     "color": "#0026ad"
@@ -3541,7 +3547,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire\nMme DECLEVES, M. LABIAU, Mme DECARNONCLE\nWa.SalleAca",
+                    "title": "Biologie moléculaire\nMme DECARNONCLE, Mme DECLEVES, M. LABIAU\nWa.SalleAca",
                     "start": "2026-08-12T08:15:00",
                     "end": "2026-08-12T11:15:00",
                     "color": "#0026ad"
@@ -3555,43 +3561,43 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-02-09T13:30:00",
                     "end": "2026-02-09T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-02-12T08:00:00",
                     "end": "2026-02-12T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-02-13T13:30:00",
                     "end": "2026-02-13T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-02-17T13:30:00",
                     "end": "2026-02-17T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-02-19T08:00:00",
                     "end": "2026-02-19T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-02-20T13:30:00",
                     "end": "2026-02-20T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nMme COPPEE, Mme DECARNONCLE\nNiVésale.025",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, Mme COPPEE\nNiVésale.025",
                     "start": "2026-04-17T15:45:00",
                     "end": "2026-04-17T18:15:00",
                     "color": "#0026ad"
@@ -3779,7 +3785,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English I, part 1\nMme VAN LANCKER, M. DEVILEZ\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "English I, part 1\nMme VAN LANCKER, M. DEVILEZ\nNiDeVinci.Montague, NiDeVinci.Wüster",
                     "start": "2025-12-17T14:30:00",
                     "end": "2025-12-17T16:30:00",
                     "color": "#0026ad"
@@ -3973,7 +3979,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English I, part 2\nM. DEVILEZ\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "English I, part 2\nM. DEVILEZ\nNiDeVinci.Montague, NiDeVinci.Wüster",
                     "start": "2026-05-05T13:30:00",
                     "end": "2026-05-05T15:30:00",
                     "color": "#0026ad"
@@ -4087,7 +4093,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Exploration fonctio. humaine\n\nM. LEGRAND, M. TAYLOR",
+                    "title": "Exploration fonctio. humaine\n\nM. TAYLOR, M. LEGRAND",
                     "start": "2026-03-19T13:30:00",
                     "end": "2026-03-19T17:30:00",
                     "color": "#0026ad"
@@ -4221,31 +4227,31 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiB6.124",
+                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.124",
                     "start": "2026-04-08T08:15:00",
                     "end": "2026-04-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiB6.211",
+                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.211",
                     "start": "2026-04-13T10:30:00",
                     "end": "2026-04-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiB6.18",
+                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.18",
                     "start": "2026-04-13T15:45:00",
                     "end": "2026-04-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiB6.18",
+                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiB6.18",
                     "start": "2026-04-14T15:45:00",
                     "end": "2026-04-14T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Gène à la physiopatho - Biomed\nMme COPPEE, Mme TASSIN\nNiVésale.025",
+                    "title": "Gène à la physiopatho - Biomed\nMme TASSIN, Mme COPPEE\nNiVésale.025",
                     "start": "2026-04-17T10:30:00",
                     "end": "2026-04-17T12:30:00",
                     "color": "#0026ad"
@@ -4355,19 +4361,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale\nM. NONCLERCQ, M. GENNAUX, Mme FRAU, Mme FIEVET\nNiVésale.LaFontaine, NiVésale.025",
+                    "title": "Histologie générale\nMme FRAU, M. NONCLERCQ, Mme FIEVET, M. GENNAUX\nNiVésale.LaFontaine, NiVésale.025",
                     "start": "2026-01-08T09:00:00",
                     "end": "2026-01-08T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale\nM. NONCLERCQ, M. GENNAUX, Mme FRAU, Mme FIEVET\nNiVésale.LaFontaine, NiVésale.025",
+                    "title": "Histologie générale\nMme FRAU, M. NONCLERCQ, Mme FIEVET, M. GENNAUX\nNiVésale.LaFontaine, NiVésale.025",
                     "start": "2026-01-08T13:00:00",
                     "end": "2026-01-08T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale\n\nM. GENNAUX, Mme FRAU, Mme FIEVET",
+                    "title": "Histologie générale\n\nMme FRAU, Mme FIEVET, M. GENNAUX",
                     "start": "2026-02-02T12:30:00",
                     "end": "2026-02-02T15:45:00",
                     "color": "#0026ad"
@@ -4387,55 +4393,55 @@
             ],
             "Histologie générale TP": [
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-10-20T13:30:00",
                     "end": "2025-10-20T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-11-07T15:45:00",
                     "end": "2025-11-07T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX\nNiP.1E11",
+                    "title": "Histologie générale TP\nM. GENNAUX, Mme FIEVET\nNiP.1E11",
                     "start": "2025-11-10T13:30:00",
                     "end": "2025-11-10T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nMme FIEVET, M. GENNAUX\nNiP.1E11",
+                    "title": "Histologie générale TP\nM. GENNAUX, Mme FIEVET\nNiP.1E11",
                     "start": "2025-11-17T13:30:00",
                     "end": "2025-11-17T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-11-21T15:45:00",
                     "end": "2025-11-21T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-11-24T09:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-12-08T09:30:00",
                     "end": "2025-12-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-12-15T09:30:00",
                     "end": "2025-12-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie générale TP\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie générale TP\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2025-12-16T15:45:00",
                     "end": "2025-12-16T18:45:00",
                     "color": "#0026ad"
@@ -4521,7 +4527,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale\nM. NONCLERCQ, M. GENNAUX, Mme FRAU, Mme FIEVET\nNiVésale.020, NiVésale.030",
+                    "title": "Histologie spéciale\nMme FRAU, M. NONCLERCQ, Mme FIEVET, M. GENNAUX\nNiVésale.030, NiVésale.020",
                     "start": "2026-08-13T12:30:00",
                     "end": "2026-08-13T15:30:00",
                     "color": "#0026ad"
@@ -4529,79 +4535,79 @@
             ],
             "Histologie spéciale TP/Exerc.": [
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-02-06T15:45:00",
                     "end": "2026-02-06T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-02-11T15:45:00",
                     "end": "2026-02-11T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-03-04T15:45:00",
                     "end": "2026-03-04T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-03-26T13:30:00",
                     "end": "2026-03-26T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-03-30T09:30:00",
                     "end": "2026-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-04-01T15:45:00",
                     "end": "2026-04-01T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-04-08T15:45:00",
                     "end": "2026-04-08T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-05-04T09:30:00",
                     "end": "2026-05-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-05-11T16:00:00",
                     "end": "2026-05-11T19:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\n\nM. GENNAUX, Mme FRAU, Mme FIEVET",
+                    "title": "Histologie spéciale TP/Exerc.\n\nMme FRAU, Mme FIEVET, M. GENNAUX",
                     "start": "2026-06-08T08:30:00",
                     "end": "2026-06-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\n\nM. GENNAUX, Mme FRAU, Mme FIEVET",
+                    "title": "Histologie spéciale TP/Exerc.\n\nMme FRAU, Mme FIEVET, M. GENNAUX",
                     "start": "2026-06-08T13:00:00",
                     "end": "2026-06-08T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-06-09T13:00:00",
                     "end": "2026-06-09T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale TP/Exerc.\nM. NONCLERCQ, M. GENNAUX, Mme FRAU, Mme FIEVET\nNiP.1E12",
+                    "title": "Histologie spéciale TP/Exerc.\nMme FRAU, M. NONCLERCQ, Mme FIEVET, M. GENNAUX\nNiP.1E12",
                     "start": "2026-08-20T08:30:00",
                     "end": "2026-08-20T17:30:00",
                     "color": "#0026ad"
@@ -4657,7 +4663,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Immunologie\nMme ANDRIS\nNiVésale.020, NiVésale.030",
+                    "title": "Immunologie\nMme ANDRIS\nNiVésale.030, NiVésale.020",
                     "start": "2026-08-19T13:45:00",
                     "end": "2026-08-19T16:45:00",
                     "color": "#0026ad"
@@ -4731,7 +4737,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. recherche Pharm/Biome\nM. JOURNE, Mme DECARNONCLE, M. CONOTTE, Mme TAGLIATTI, Mme LEMOINE, M. LABIAU\nNiP.3C07Lab, NiP.1E11",
+                    "title": "Initiat. recherche Pharm/Biome\nM. CONOTTE, M. JOURNE, Mme DECARNONCLE, M. LABIAU, Mme TAGLIATTI, Mme LEMOINE\nNiP.3C07Lab, NiP.1E11",
                     "start": "2026-01-23T08:30:00",
                     "end": "2026-01-23T18:30:00",
                     "color": "#0026ad"
@@ -4743,7 +4749,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiat. recherche Pharm/Biome\nM. LABIAU, Mme TAGLIATTI, Mme LEMOINE\nNiP.3C07Lab",
+                    "title": "Initiat. recherche Pharm/Biome\nMme LEMOINE, M. LABIAU, Mme TAGLIATTI\nNiP.3C07Lab",
                     "start": "2026-08-18T16:00:00",
                     "end": "2026-08-18T18:30:00",
                     "color": "#0026ad"
@@ -4911,7 +4917,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Neurophysiologie générale\nMme RIS, Mme VILLERS\nNiGA.VanGogh",
+                    "title": "Neurophysiologie générale\nMme VILLERS, Mme RIS\nNiGA.VanGogh",
                     "start": "2026-04-08T13:30:00",
                     "end": "2026-04-08T15:30:00",
                     "color": "#0026ad"
@@ -4971,7 +4977,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Neurophysiologie générale\nMme RIS, Mme VILLERS\nNiGA.Curie, NiGA.Plisnier, NiVésale.LaFontaine, NiVésale.023",
+                    "title": "Neurophysiologie générale\nMme VILLERS, Mme RIS\nNiGA.Curie, NiGA.Plisnier, NiVésale.LaFontaine, NiVésale.023",
                     "start": "2026-05-29T13:00:00",
                     "end": "2026-05-29T16:00:00",
                     "color": "#0026ad"
@@ -4983,7 +4989,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Neurophysiologie générale\nMme RIS, Mme VILLERS\nNiB6.06",
+                    "title": "Neurophysiologie générale\nMme VILLERS, Mme RIS\nNiB6.06",
                     "start": "2026-08-18T08:00:00",
                     "end": "2026-08-18T11:00:00",
                     "color": "#0026ad"
@@ -5431,9 +5437,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale\nMme LUPANT, Mme AKAN, M. LEGRAND, Mme TASSIN\nJo.Stievenart",
-                    "start": "2026-08-17T14:00:00",
-                    "end": "2026-08-17T17:00:00",
+                    "title": "Physiologie générale\n\nMme LUPANT, Mme AKAN, M. LEGRAND, Mme TASSIN",
+                    "start": "2026-08-13T08:00:00",
+                    "end": "2026-08-13T11:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -5499,7 +5505,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale TP\nMme LUPANT, Mme AKAN\nNiGA.VanGogh, NiB6.211, NiGA.Gutenberg",
+                    "title": "Physiologie générale TP\nMme LUPANT, Mme AKAN\nNiGA.VanGogh, NiGA.Gutenberg, NiB6.211",
                     "start": "2025-12-17T08:15:00",
                     "end": "2025-12-17T10:15:00",
                     "color": "#0026ad"
@@ -5507,7 +5513,7 @@
             ],
             "Physique Biomed I": [
                 {
-                    "title": "Physique Biomed I\nM. VUONG, M. GOSSUIN\nNiB6.203Lab",
+                    "title": "Physique Biomed I\nM. GOSSUIN, M. VUONG\nNiB6.203Lab",
                     "start": "2026-06-29T08:30:00",
                     "end": "2026-06-29T11:30:00",
                     "color": "#0026ad"
@@ -6136,6 +6142,12 @@
                     "title": "Biochimie pathologique\nM. PIAGNERELLI\nNiVésale.LaFontaine",
                     "start": "2026-08-20T15:45:00",
                     "end": "2026-08-20T18:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Biochimie pathologique\n\nM. PIAGNERELLI",
+                    "start": "2026-08-27T12:00:00",
+                    "end": "2026-08-27T14:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -8252,6 +8264,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "Statistiques I": [
+                {
+                    "title": "Statistiques I\nM. LELUBRE\nNiGA.VanGogh",
+                    "start": "2026-08-31T10:30:00",
+                    "end": "2026-08-31T12:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Statistiques II": [
                 {
                     "title": "Statistiques II\nM. LELUBRE\nPCM.500",
@@ -9179,6 +9199,12 @@
                     "title": "Bioinformatique\nM. SAND\nNiB6.127Info",
                     "start": "2026-08-24T11:00:00",
                     "end": "2026-08-24T14:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Bioinformatique\nM. SAND\nNiB6.06",
+                    "start": "2026-08-27T11:00:00",
+                    "end": "2026-08-27T12:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -13712,7 +13738,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Tools analyse brain function\nMme KANDANA ARACHCHIGE, M. LA FISCA\nNiB6.06, NiB6.18",
+                    "title": "Tools analyse brain function\nMme KANDANA ARACHCHIGE, M. LA FISCA\nNiB6.18, NiB6.06",
                     "start": "2026-08-19T17:00:00",
                     "end": "2026-08-19T19:00:00",
                     "color": "#0026ad"
@@ -15399,14 +15425,14 @@
             "Rédaction/Com. scientifique": [
                 {
                     "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
-                    "start": "2026-08-19T09:00:00",
-                    "end": "2026-08-19T12:30:00",
+                    "start": "2026-08-31T09:00:00",
+                    "end": "2026-08-31T12:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Rédaction/Com. scientifique\nMme BURTEA\nNiMen.Pauling",
-                    "start": "2026-08-19T09:00:00",
-                    "end": "2026-08-19T12:30:00",
+                    "start": "2026-08-31T09:00:00",
+                    "end": "2026-08-31T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -34843,7 +34869,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Micro et tutorat - AAEP\nMme FAYS\nWa.Drechsel, Wa.SalleAca",
+                    "title": "Intro Micro et tutorat - AAEP\nMme FAYS\nWa.SalleAca, Wa.Drechsel",
                     "start": "2026-08-24T08:00:00",
                     "end": "2026-08-24T12:00:00",
                     "color": "#0026ad"
@@ -34866,6 +34892,12 @@
                     "title": "Intro.à la microéconomie\nMme STARON\nNiP.0A11",
                     "start": "2025-11-05T13:30:00",
                     "end": "2025-11-05T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro.à la microéconomie\nMme STARON\nWa.211W",
+                    "start": "2026-08-31T13:30:00",
+                    "end": "2026-08-31T15:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -35457,13 +35489,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. DUSOLLIER, M. DEVILLEZ, M. BONTE, M. CARDOEN\nNiDeVinci.Russel",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. DUSOLLIER, M. BONTE, M. CARDOEN\nNiDeVinci.Russel",
                     "start": "2026-06-19T08:15:00",
                     "end": "2026-06-19T12:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. DUSOLLIER, M. DEVILLEZ, M. BONTE, M. CARDOEN\nNiDeVinci.Russel",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. DUSOLLIER, M. BONTE, M. CARDOEN\nNiDeVinci.Russel",
                     "start": "2026-08-21T13:30:00",
                     "end": "2026-08-21T17:30:00",
                     "color": "#0026ad"
@@ -73710,6 +73742,12 @@
                     "start": "2026-08-17T08:15:00",
                     "end": "2026-08-17T12:15:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Statistiques I\nM. LELUBRE\nNiGA.VanGogh",
+                    "start": "2026-08-31T10:30:00",
+                    "end": "2026-08-31T12:00:00",
+                    "color": "#0026ad"
                 }
             ]
         },
@@ -73742,49 +73780,49 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme NACHTERGAEL, M. FAUQUET\nNiGA.Curie",
+                    "title": "Biblio./outils informatiques\nM. FAUQUET, Mme NACHTERGAEL\nNiGA.Curie",
                     "start": "2025-11-10T13:30:00",
                     "end": "2025-11-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme NACHTERGAEL, M. FAUQUET\nNiB6.18",
+                    "title": "Biblio./outils informatiques\nM. FAUQUET, Mme NACHTERGAEL\nNiB6.18",
                     "start": "2025-11-21T08:15:00",
                     "end": "2025-11-21T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme NACHTERGAEL, M. FAUQUET\nNiVésale.020",
+                    "title": "Biblio./outils informatiques\nM. FAUQUET, Mme NACHTERGAEL\nNiVésale.020",
                     "start": "2025-12-01T08:15:00",
                     "end": "2025-12-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme ROMAN, Mme CARETTE\nNiB6.127Info",
+                    "title": "Biblio./outils informatiques\nMme CARETTE, Mme ROMAN\nNiB6.127Info",
                     "start": "2025-12-08T08:15:00",
                     "end": "2025-12-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme ROMAN, Mme CARETTE\nNiB6.127Info",
+                    "title": "Biblio./outils informatiques\nMme CARETTE, Mme ROMAN\nNiB6.127Info",
                     "start": "2025-12-10T08:15:00",
                     "end": "2025-12-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme ROMAN, Mme CARETTE\nNiB6.127Info",
+                    "title": "Biblio./outils informatiques\nMme CARETTE, Mme ROMAN\nNiB6.127Info",
                     "start": "2025-12-15T08:15:00",
                     "end": "2025-12-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme ROMAN, Mme CARETTE\nNiB6.127Info",
+                    "title": "Biblio./outils informatiques\nMme CARETTE, Mme ROMAN\nNiB6.127Info",
                     "start": "2025-12-17T08:15:00",
                     "end": "2025-12-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biblio./outils informatiques\nMme ROMAN, Mme NACHTERGAEL, Mme CARETTE\nNiVésale.025",
+                    "title": "Biblio./outils informatiques\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL\nNiVésale.025",
                     "start": "2026-01-23T08:15:00",
                     "end": "2026-01-23T13:30:00",
                     "color": "#0026ad"
@@ -73894,7 +73932,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiGA.Curie, NiGA.Gutenberg, NiB6.18",
+                    "title": "Biochimie métabolique\nMme DECARNONCLE, M. LABIAU\nNiGA.Curie, NiGA.Gutenberg, NiB6.18",
                     "start": "2025-12-16T13:30:00",
                     "end": "2025-12-16T15:30:00",
                     "color": "#0026ad"
@@ -73918,19 +73956,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nM. LABIAU, Mme COPPEE, Mme DECLEVES, Mme DECARNONCLE\nNiVésale.LaFontaine, NiB6.18, NiB6.124, Wa.SalleAca, NiGA.Curie",
+                    "title": "Biochimie métabolique\nMme DECLEVES, Mme DECARNONCLE, M. LABIAU, Mme COPPEE\nNiB6.18, NiB6.124, NiVésale.LaFontaine, Wa.SalleAca, NiGA.Curie",
                     "start": "2026-01-14T13:00:00",
                     "end": "2026-01-14T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiGA.Plisnier",
+                    "title": "Biochimie métabolique\nMme DECARNONCLE, M. LABIAU\nNiGA.Plisnier",
                     "start": "2026-02-11T12:30:00",
                     "end": "2026-02-11T13:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nM. LABIAU, Mme COPPEE, Mme DECLEVES, Mme DECARNONCLE\nNiVésale.023, NiGA.Curie",
+                    "title": "Biochimie métabolique\nMme DECLEVES, Mme DECARNONCLE, M. LABIAU, Mme COPPEE\nNiGA.Curie, NiVésale.023",
                     "start": "2026-08-25T13:00:00",
                     "end": "2026-08-25T17:00:00",
                     "color": "#0026ad"
@@ -73938,55 +73976,55 @@
             ],
             "Biochimie métabolique TP": [
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiGA.Gutenberg",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiGA.Gutenberg",
                     "start": "2025-09-30T16:15:00",
                     "end": "2025-09-30T17:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.06",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiB6.06",
                     "start": "2025-10-02T16:45:00",
                     "end": "2025-10-02T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiVésale.023",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiVésale.023",
                     "start": "2025-10-28T10:30:00",
                     "end": "2025-10-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2025-11-04T13:30:00",
                     "end": "2025-11-04T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.18",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiB6.18",
                     "start": "2025-11-12T16:45:00",
                     "end": "2025-11-12T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2025-11-14T08:00:00",
                     "end": "2025-11-14T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiVésale.030",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiVésale.030",
                     "start": "2025-11-25T15:45:00",
                     "end": "2025-11-25T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2025-12-01T13:30:00",
                     "end": "2025-12-01T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.18",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiB6.18",
                     "start": "2025-12-10T16:45:00",
                     "end": "2025-12-10T18:45:00",
                     "color": "#0026ad"
@@ -74084,7 +74122,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire\nM. LABIAU, Mme DECLEVES, Mme DECARNONCLE\nNiGA.VanGogh",
+                    "title": "Biologie moléculaire\nMme DECLEVES, Mme DECARNONCLE, M. LABIAU\nNiGA.VanGogh",
                     "start": "2026-06-15T13:00:00",
                     "end": "2026-06-15T17:00:00",
                     "color": "#0026ad"
@@ -74096,7 +74134,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire\nM. LABIAU, Mme DECLEVES, Mme DECARNONCLE\nWa.SalleAca",
+                    "title": "Biologie moléculaire\nMme DECLEVES, Mme DECARNONCLE, M. LABIAU\nWa.SalleAca",
                     "start": "2026-08-12T08:15:00",
                     "end": "2026-08-12T11:15:00",
                     "color": "#0026ad"
@@ -74110,25 +74148,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-05-11T08:00:00",
                     "end": "2026-05-11T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-05-11T13:30:00",
                     "end": "2026-05-11T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-05-12T10:30:00",
                     "end": "2026-05-12T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-05-13T08:30:00",
                     "end": "2026-05-13T18:30:00",
                     "color": "#0026ad"
@@ -74160,7 +74198,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiB6.124",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiB6.124",
                     "start": "2025-09-29T13:30:00",
                     "end": "2025-09-29T15:30:00",
                     "color": "#0026ad"
@@ -74172,7 +74210,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, M. BLANKERT, Mme WELLS\nNiGA.Plisnier",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE, M. BLANKERT\nNiGA.Plisnier",
                     "start": "2025-10-01T15:30:00",
                     "end": "2025-10-01T17:30:00",
                     "color": "#0026ad"
@@ -74184,157 +74222,157 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-07T08:30:00",
                     "end": "2025-10-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-07T13:30:00",
                     "end": "2025-10-07T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-08T08:30:00",
                     "end": "2025-10-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-08T13:30:00",
                     "end": "2025-10-08T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-09T08:30:00",
                     "end": "2025-10-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-09T13:30:00",
                     "end": "2025-10-09T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nM. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-10T08:30:00",
                     "end": "2025-10-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-10T13:30:00",
                     "end": "2025-10-10T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-14T08:30:00",
                     "end": "2025-10-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nM. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-14T13:30:00",
                     "end": "2025-10-14T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-15T08:30:00",
                     "end": "2025-10-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-15T13:30:00",
                     "end": "2025-10-15T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-16T08:30:00",
                     "end": "2025-10-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-16T13:30:00",
                     "end": "2025-10-16T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nM. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-17T08:30:00",
                     "end": "2025-10-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-17T13:30:00",
                     "end": "2025-10-17T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-21T08:30:00",
                     "end": "2025-10-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-21T13:30:00",
                     "end": "2025-10-21T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-22T08:30:00",
                     "end": "2025-10-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-22T13:30:00",
                     "end": "2025-10-22T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-23T08:30:00",
                     "end": "2025-10-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nM. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-23T13:30:00",
                     "end": "2025-10-23T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-24T08:30:00",
                     "end": "2025-10-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
+                    "title": "Chimie analytique quantitative\nM. LEVEQUE\nNiMen.Franklin, NiMen.MacDiarmid",
                     "start": "2025-10-24T13:30:00",
                     "end": "2025-10-24T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiGA.Gutenberg",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiGA.Gutenberg",
                     "start": "2025-11-03T13:30:00",
                     "end": "2025-11-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiGA.Gutenberg",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiGA.Gutenberg",
                     "start": "2025-11-05T15:45:00",
                     "end": "2025-11-05T17:45:00",
                     "color": "#0026ad"
@@ -74346,7 +74384,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiVésale.023",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiVésale.023",
                     "start": "2025-11-12T08:15:00",
                     "end": "2025-11-12T10:15:00",
                     "color": "#0026ad"
@@ -74394,7 +74432,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, Mme WELLS\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2025-12-15T16:45:00",
                     "end": "2025-12-15T18:45:00",
                     "color": "#0026ad"
@@ -74418,7 +74456,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. LEVEQUE, M. BLANKERT, Mme WELLS\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE, M. BLANKERT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-08-20T13:00:00",
                     "end": "2026-08-20T16:30:00",
                     "color": "#0026ad"
@@ -74548,13 +74586,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nMme LAURENT, Mme HENOUMONT, Mme BEAUCHOT\nNiVésale.LaFontaine, NiP.0A11",
+                    "title": "Chimie organique I\nMme HENOUMONT, Mme BEAUCHOT, Mme LAURENT\nNiP.0A11, NiVésale.LaFontaine",
                     "start": "2026-01-07T09:00:00",
                     "end": "2026-01-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nMme LAURENT, M. STANICKI, Mme HENOUMONT, Mme BEAUCHOT\nNiGA.Plisnier",
+                    "title": "Chimie organique I\nMme HENOUMONT, Mme BEAUCHOT, Mme LAURENT, M. STANICKI\nNiGA.Plisnier",
                     "start": "2026-08-19T13:30:00",
                     "end": "2026-08-19T17:00:00",
                     "color": "#0026ad"
@@ -74586,7 +74624,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-02-12T13:30:00",
                     "end": "2026-02-12T18:30:00",
                     "color": "#0026ad"
@@ -74604,13 +74642,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-02-16T08:00:00",
                     "end": "2026-02-16T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-02-16T13:30:00",
                     "end": "2026-02-16T18:30:00",
                     "color": "#0026ad"
@@ -74622,13 +74660,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-02-19T08:00:00",
                     "end": "2026-02-19T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-02-19T13:30:00",
                     "end": "2026-02-19T18:30:00",
                     "color": "#0026ad"
@@ -74652,7 +74690,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-02-23T13:30:00",
                     "end": "2026-02-23T18:30:00",
                     "color": "#0026ad"
@@ -74664,7 +74702,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-02-26T08:00:00",
                     "end": "2026-02-26T13:00:00",
                     "color": "#0026ad"
@@ -74682,7 +74720,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-03-02T08:00:00",
                     "end": "2026-03-02T13:00:00",
                     "color": "#0026ad"
@@ -74700,13 +74738,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-03-05T08:00:00",
                     "end": "2026-03-05T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-03-05T13:30:00",
                     "end": "2026-03-05T18:30:00",
                     "color": "#0026ad"
@@ -74718,13 +74756,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-03-09T08:00:00",
                     "end": "2026-03-09T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-03-09T13:30:00",
                     "end": "2026-03-09T18:30:00",
                     "color": "#0026ad"
@@ -74742,13 +74780,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-03-12T08:00:00",
                     "end": "2026-03-12T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-03-12T13:30:00",
                     "end": "2026-03-12T18:30:00",
                     "color": "#0026ad"
@@ -74760,13 +74798,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-03-23T08:00:00",
                     "end": "2026-03-23T13:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nM. STANICKI, Mme BEAUCHOT\nNiB6.03Lab",
+                    "title": "Chimie organique II\nMme BEAUCHOT, M. STANICKI\nNiB6.03Lab",
                     "start": "2026-03-23T13:30:00",
                     "end": "2026-03-23T18:30:00",
                     "color": "#0026ad"
@@ -74808,13 +74846,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nMme LAURENT, M. STANICKI, Mme HENOUMONT\nNiVésale.LaFontaine, NiVésale.020",
+                    "title": "Chimie organique II\nMme HENOUMONT, Mme LAURENT, M. STANICKI\nNiVésale.020, NiVésale.LaFontaine",
                     "start": "2026-06-10T08:30:00",
                     "end": "2026-06-10T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique II\nMme LAURENT, M. STANICKI, Mme HENOUMONT\nNiVésale.023",
+                    "title": "Chimie organique II\nMme HENOUMONT, Mme LAURENT, M. STANICKI\nNiVésale.023",
                     "start": "2026-08-21T13:00:00",
                     "end": "2026-08-21T16:30:00",
                     "color": "#0026ad"
@@ -74894,13 +74932,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eléments physiologie générale\nMme RIS, Mme VILLERS\nWa.SalleAca",
+                    "title": "Eléments physiologie générale\nMme VILLERS, Mme RIS\nWa.SalleAca",
                     "start": "2026-01-05T09:00:00",
                     "end": "2026-01-05T11:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Eléments physiologie générale\n\nMme RIS, Mme VILLERS",
+                    "title": "Eléments physiologie générale\n\nMme VILLERS, Mme RIS",
                     "start": "2026-01-21T11:15:00",
                     "end": "2026-01-21T17:15:00",
                     "color": "#0026ad"
@@ -75398,7 +75436,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro. Psychologie générale\nMme PARRY, M. BRIGANTI\nNiB6.06",
+                    "title": "Intro. Psychologie générale\nM. BRIGANTI, Mme PARRY\nNiB6.06",
                     "start": "2026-08-12T12:30:00",
                     "end": "2026-08-12T14:30:00",
                     "color": "#0026ad"
@@ -75478,31 +75516,31 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction Pharmacognosie\nMme NACHTERGAEL, Mme CARETTE\nNiB6.019Lab",
+                    "title": "Introduction Pharmacognosie\nMme CARETTE, Mme NACHTERGAEL\nNiB6.019Lab",
                     "start": "2026-06-03T09:00:00",
                     "end": "2026-06-03T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction Pharmacognosie\nMme ROMAN, Mme NACHTERGAEL, Mme CARETTE\nNiVésale.020",
+                    "title": "Introduction Pharmacognosie\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL\nNiVésale.020",
                     "start": "2026-06-04T09:00:00",
                     "end": "2026-06-04T12:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction Pharmacognosie\n\nMme ROMAN, Mme NACHTERGAEL, Mme CARETTE",
+                    "title": "Introduction Pharmacognosie\n\nMme CARETTE, Mme ROMAN, Mme NACHTERGAEL",
                     "start": "2026-06-25T08:15:00",
                     "end": "2026-06-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction Pharmacognosie\nMme NACHTERGAEL, Mme CARETTE\nNiVésale.030",
+                    "title": "Introduction Pharmacognosie\nMme CARETTE, Mme NACHTERGAEL\nNiVésale.030",
                     "start": "2026-08-11T08:15:00",
                     "end": "2026-08-11T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introduction Pharmacognosie\n\nMme NACHTERGAEL, Mme CARETTE",
+                    "title": "Introduction Pharmacognosie\n\nMme CARETTE, Mme NACHTERGAEL",
                     "start": "2026-08-31T15:00:00",
                     "end": "2026-08-31T16:00:00",
                     "color": "#0026ad"
@@ -75546,7 +75584,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio. spéc: endocrino/génit.\nMme RIS, Mme VILLERS\nNiVésale.023, NiVésale.LaFontaine",
+                    "title": "Physio. spéc: endocrino/génit.\nMme VILLERS, Mme RIS\nNiVésale.023, NiVésale.LaFontaine",
                     "start": "2026-06-17T08:15:00",
                     "end": "2026-06-17T11:15:00",
                     "color": "#0026ad"
@@ -75558,7 +75596,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio. spéc: endocrino/génit.\nMme RIS, Mme VILLERS\nNiGA.Curie",
+                    "title": "Physio. spéc: endocrino/génit.\nMme VILLERS, Mme RIS\nNiGA.Curie",
                     "start": "2026-08-28T08:30:00",
                     "end": "2026-08-28T11:30:00",
                     "color": "#0026ad"
@@ -75652,7 +75690,7 @@
             ],
             "Psycho. Générale - Méd/Pat.": [
                 {
-                    "title": "Psycho. Générale - Méd/Pat.\nMme PARRY, M. BRIGANTI\nNiVésale.025, NiVésale.020",
+                    "title": "Psycho. Générale - Méd/Pat.\nM. BRIGANTI, Mme PARRY\nNiVésale.025, NiVésale.020",
                     "start": "2026-05-29T09:30:00",
                     "end": "2026-05-29T11:30:00",
                     "color": "#0026ad"
@@ -75836,13 +75874,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopies Pharma/Biomed\nMme LAURENT, Mme HENOUMONT, Mme BEAUCHOT\nNiGA.Plisnier, NiB6.124",
+                    "title": "Spectroscopies Pharma/Biomed\nMme HENOUMONT, Mme BEAUCHOT, Mme LAURENT\nNiGA.Plisnier, NiB6.124",
                     "start": "2026-01-20T08:30:00",
                     "end": "2026-01-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopies Pharma/Biomed\nMme LAURENT, Mme HENOUMONT, Mme BEAUCHOT\nNiGA.Plisnier",
+                    "title": "Spectroscopies Pharma/Biomed\nMme HENOUMONT, Mme BEAUCHOT, Mme LAURENT\nNiGA.Plisnier",
                     "start": "2026-08-24T13:00:00",
                     "end": "2026-08-24T17:00:00",
                     "color": "#0026ad"
@@ -75862,7 +75900,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Splanchnologie Biomed/Pharma\nM. SAUSSEZ\nNiVésale.030, NiVésale.025",
+                    "title": "Splanchnologie Biomed/Pharma\nM. SAUSSEZ\nNiVésale.025, NiVésale.030",
                     "start": "2026-01-13T09:15:00",
                     "end": "2026-01-13T12:15:00",
                     "color": "#0026ad"
@@ -75885,6 +75923,14 @@
                     "title": "Splanchnologie I\n\nMme TRELCAT, M. SAUSSEZ",
                     "start": "2026-02-02T12:30:00",
                     "end": "2026-02-02T13:30:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "Statistiques I": [
+                {
+                    "title": "Statistiques I\nM. LELUBRE\nNiGA.VanGogh",
+                    "start": "2026-08-31T10:30:00",
+                    "end": "2026-08-31T12:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -75950,7 +75996,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques II\nM. LELUBRE\nPCM.500, NiGA.Gutenberg",
+                    "title": "Statistiques II\nM. LELUBRE\nNiGA.Gutenberg, PCM.500",
                     "start": "2025-11-24T10:30:00",
                     "end": "2025-11-24T12:30:00",
                     "color": "#0026ad"
@@ -75974,7 +76020,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques II\nM. LELUBRE\nNiB6.127Info, NiP.1E12",
+                    "title": "Statistiques II\nM. LELUBRE\nNiP.1E12, NiB6.127Info",
                     "start": "2026-01-12T13:00:00",
                     "end": "2026-01-12T17:00:00",
                     "color": "#0026ad"
@@ -76080,13 +76126,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Syst.des plantes (partie A)\nM. MICHEZ, M. GHISBAIN, M. TOURBEZ\nNiVésale.025, NiVésale.020",
+                    "title": "Syst.des plantes (partie A)\nM. TOURBEZ, M. MICHEZ, M. GHISBAIN\nNiVésale.025, NiVésale.020",
                     "start": "2026-05-26T13:30:00",
                     "end": "2026-05-26T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Syst.des plantes (partie A)\nM. MICHEZ, M. GHISBAIN, M. TOURBEZ\nNiVésale.LaFontaine",
+                    "title": "Syst.des plantes (partie A)\nM. TOURBEZ, M. MICHEZ, M. GHISBAIN\nNiVésale.LaFontaine",
                     "start": "2026-08-10T13:30:00",
                     "end": "2026-08-10T15:30:00",
                     "color": "#0026ad"
@@ -76094,7 +76140,7 @@
             ],
             "Systématique des plantes (B)": [
                 {
-                    "title": "Systématique des plantes (B)\nM. GHISBAIN, M. TOURBEZ\nNiP.0A11",
+                    "title": "Systématique des plantes (B)\nM. TOURBEZ, M. GHISBAIN\nNiP.0A11",
                     "start": "2026-06-22T09:00:00",
                     "end": "2026-06-22T11:00:00",
                     "color": "#0026ad"
@@ -79685,8 +79731,8 @@
                 },
                 {
                     "title": "Nutrition/Aspects bromatologie\nM. BAMPS, Mme PATRIS\nNiVésale.025",
-                    "start": "2026-08-14T08:30:00",
-                    "end": "2026-08-14T13:00:00",
+                    "start": "2026-08-14T10:15:00",
+                    "end": "2026-08-14T13:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -79943,8 +79989,8 @@
                 },
                 {
                     "title": "Pharmaco. spéciale - Partie 2\n\nMme PATRIS",
-                    "start": "2026-08-29T12:45:00",
-                    "end": "2026-08-29T13:45:00",
+                    "start": "2026-08-28T14:00:00",
+                    "end": "2026-08-28T15:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -80240,25 +80286,25 @@
             ],
             "Attitudes comport. difficiles": [
                 {
-                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-20T13:30:00",
                     "end": "2025-10-20T16:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-27T08:15:00",
                     "end": "2025-10-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-28T13:30:00",
                     "end": "2025-10-28T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-10-30T10:30:00",
                     "end": "2025-10-30T12:30:00",
                     "color": "#0026ad"
@@ -80270,13 +80316,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-11-04T12:45:00",
                     "end": "2025-11-04T15:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Attitudes comport. difficiles\nMme PATRIS, Mme MERIAUX\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Attitudes comport. difficiles\nMme MERIAUX, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2025-11-05T10:30:00",
                     "end": "2025-11-05T13:30:00",
                     "color": "#0026ad"
@@ -80946,13 +80992,13 @@
             ],
             "Mémoire pharma. (1,5 mois)": [
                 {
-                    "title": "Mémoire pharma. (1,5 mois)\nMme WELLS, M. DUFRASNE, M. VANDERBIST, M. BLANKERT, M. BERGER, Mme PATRIS\nNiVésale.030, NiVésale.025",
+                    "title": "Mémoire pharma. (1,5 mois)\nMme WELLS, M. DUFRASNE, M. BLANKERT, M. BERGER, M. VANDERBIST, Mme PATRIS\nNiVésale.030, NiVésale.025",
                     "start": "2026-08-27T08:00:00",
                     "end": "2026-08-27T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mémoire pharma. (1,5 mois)\nMme NACHTERGAEL, Mme WELLS, M. DUFRASNE, M. VANDERBIST, M. BLANKERT, M. BERGER, Mme PATRIS\nNiP.3E11, NiP.0A07, NiP.3E10",
+                    "title": "Mémoire pharma. (1,5 mois)\nMme NACHTERGAEL, Mme WELLS, M. DUFRASNE, M. BLANKERT, M. BERGER, M. VANDERBIST\nNiP.3E11, NiP.0A07, NiP.3E10",
                     "start": "2026-08-28T08:00:00",
                     "end": "2026-08-28T17:00:00",
                     "color": "#0026ad"
@@ -80960,7 +81006,7 @@
             ],
             "Mémoire recherche": [
                 {
-                    "title": "Mémoire recherche\nMme NACHTERGAEL, Mme WELLS, Mme WOLFF, M. VANDERBIST, M. BLANKERT, M. BERGER, Mme PATRIS\nNiB6.18",
+                    "title": "Mémoire recherche\nMme NACHTERGAEL, Mme WELLS, Mme WOLFF, M. BLANKERT, M. BERGER, M. VANDERBIST, Mme PATRIS\nNiB6.18",
                     "start": "2026-01-15T08:00:00",
                     "end": "2026-01-15T12:30:00",
                     "color": "#0026ad"
@@ -81122,13 +81168,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacie clinique\nMme PATRIS, M. BAMPS\nWa.Drechsel",
+                    "title": "Pharmacie clinique\nM. BAMPS, Mme PATRIS\nWa.Drechsel",
                     "start": "2026-01-05T10:30:00",
                     "end": "2026-01-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Pharmacie clinique\nMme PATRIS, M. BAMPS\nNiVésale.025",
+                    "title": "Pharmacie clinique\nM. BAMPS, Mme PATRIS\nNiVésale.025",
                     "start": "2026-08-13T12:00:00",
                     "end": "2026-08-13T15:00:00",
                     "color": "#0026ad"
@@ -81157,6 +81203,14 @@
                     "title": "Pharmaco-économie\nMme MARBAIX\nNiB6.18",
                     "start": "2025-10-08T19:00:00",
                     "end": "2025-10-08T20:00:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "Pharmaco. spéciale - Partie 2": [
+                {
+                    "title": "Pharmaco. spéciale - Partie 2\n\nMme PATRIS",
+                    "start": "2026-08-28T14:00:00",
+                    "end": "2026-08-28T15:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -81406,49 +81460,49 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage officinal\nMme NACHTERGAEL, M. VANDERBIST, M. BERGER, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
+                    "title": "Stage officinal\nMme NACHTERGAEL, M. BERGER, M. VANDERBIST, Mme PATRIS\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2026-01-21T13:45:00",
                     "end": "2026-01-21T15:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage officinal\nMme NACHTERGAEL, M. VANDERBIST, M. BERGER, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
+                    "title": "Stage officinal\nMme NACHTERGAEL, M. BERGER, M. VANDERBIST, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
                     "start": "2026-06-22T08:00:00",
                     "end": "2026-06-22T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage officinal\nMme NACHTERGAEL, M. VANDERBIST, M. BERGER, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
+                    "title": "Stage officinal\nMme NACHTERGAEL, M. BERGER, M. VANDERBIST, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
                     "start": "2026-06-23T08:00:00",
                     "end": "2026-06-23T10:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage officinal\nMme NACHTERGAEL, M. VANDERBIST, M. BERGER, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
+                    "title": "Stage officinal\nMme NACHTERGAEL, M. BERGER, M. VANDERBIST, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
                     "start": "2026-06-23T14:00:00",
                     "end": "2026-06-23T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage officinal\nMme NACHTERGAEL, M. VANDERBIST, M. BERGER, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
+                    "title": "Stage officinal\nMme NACHTERGAEL, M. BERGER, M. VANDERBIST, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
                     "start": "2026-06-24T08:00:00",
                     "end": "2026-06-24T16:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage officinal\nMme NACHTERGAEL, M. VANDERBIST, M. BERGER, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
+                    "title": "Stage officinal\nMme NACHTERGAEL, M. BERGER, M. VANDERBIST, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
                     "start": "2026-08-24T08:00:00",
                     "end": "2026-08-24T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage officinal\nMme NACHTERGAEL, M. VANDERBIST, M. BERGER, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
+                    "title": "Stage officinal\nMme NACHTERGAEL, M. BERGER, M. VANDERBIST, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
                     "start": "2026-08-25T08:00:00",
                     "end": "2026-08-25T17:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stage officinal\nMme NACHTERGAEL, M. VANDERBIST, M. BERGER, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
+                    "title": "Stage officinal\nMme NACHTERGAEL, M. BERGER, M. VANDERBIST, Mme PATRIS\nNiMen.MacDiarmid, NiMen.Franklin, NiMen.Pauling",
                     "start": "2026-08-26T08:00:00",
                     "end": "2026-08-26T17:00:00",
                     "color": "#0026ad"
