@@ -1483,7 +1483,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Math sciences de la vie\nM. SIMON, M. BROUETTE, M. LAMBOTTE, M. RIVIERE\nNiGA.VanGogh, NiGA.Gutenberg, NiGA.Curie",
+                    "title": "Intro Math sciences de la vie\nM. SIMON, M. BROUETTE, M. LAMBOTTE, M. RIVIERE\nNiGA.VanGogh, NiGA.Gutenberg",
                     "start": "2026-08-13T08:15:00",
                     "end": "2026-08-13T11:15:00",
                     "color": "#0026ad"
@@ -5437,9 +5437,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale\n\nMme LUPANT, Mme AKAN, M. LEGRAND, Mme TASSIN",
-                    "start": "2026-08-13T08:00:00",
-                    "end": "2026-08-13T11:00:00",
+                    "title": "Physiologie générale\nMme LUPANT, Mme AKAN, M. LEGRAND, Mme TASSIN\nNiGA.Gutenberg",
+                    "start": "2026-08-22T09:00:00",
+                    "end": "2026-08-22T12:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -69971,7 +69971,7 @@
                 {
                     "title": "Stage prép.ens.phys\nMme LACROIX\nNiBSM.004.Penrose",
                     "start": "2026-08-21T09:00:00",
-                    "end": "2026-08-21T12:00:00",
+                    "end": "2026-08-21T13:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -70360,7 +70360,7 @@
                 {
                     "title": "Stage prép.ens.phys\nMme LACROIX\nNiBSM.004.Penrose",
                     "start": "2026-08-21T09:00:00",
-                    "end": "2026-08-21T12:00:00",
+                    "end": "2026-08-21T13:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -72270,7 +72270,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Math sciences de la vie\nM. BROUETTE, M. LAMBOTTE, M. RIVIERE, M. SIMON\nNiGA.VanGogh, NiGA.Gutenberg, NiGA.Curie",
+                    "title": "Intro Math sciences de la vie\nM. BROUETTE, M. LAMBOTTE, M. RIVIERE, M. SIMON\nNiGA.VanGogh, NiGA.Gutenberg",
                     "start": "2026-08-13T08:15:00",
                     "end": "2026-08-13T11:15:00",
                     "color": "#0026ad"
@@ -95909,7 +95909,7 @@
                 {
                     "title": "Stage prép.ens.phys\nMme LACROIX\nNiBSM.004.Penrose",
                     "start": "2026-08-21T09:00:00",
-                    "end": "2026-08-21T12:00:00",
+                    "end": "2026-08-21T13:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -96379,7 +96379,7 @@
                 {
                     "title": "Stage prép.ens.phys\nMme LACROIX\nNiBSM.004.Penrose",
                     "start": "2026-08-21T09:00:00",
-                    "end": "2026-08-21T12:00:00",
+                    "end": "2026-08-21T13:00:00",
                     "color": "#0026ad"
                 }
             ],
