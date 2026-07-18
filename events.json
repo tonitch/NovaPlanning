@@ -4895,6 +4895,12 @@
                     "start": "2026-08-11T13:00:00",
                     "end": "2026-08-11T16:00:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Intro. Microbiologie générale\nMme MARTINY\nNiB6.18",
+                    "start": "2026-09-01T17:00:00",
+                    "end": "2026-09-01T18:30:00",
+                    "color": "#0026ad"
                 }
             ],
             "Neurophysiologie générale": [
@@ -12774,12 +12780,6 @@
                     "start": "2026-06-19T08:30:00",
                     "end": "2026-06-19T16:30:00",
                     "color": "#0026ad"
-                },
-                {
-                    "title": "Protéomie - Travaux personnels\nM. WATTIEZ\nNiP.3C07Lab",
-                    "start": "2026-08-11T08:30:00",
-                    "end": "2026-08-11T12:30:00",
-                    "color": "#0026ad"
                 }
             ],
             "Protéomie struct et fonction A": [
@@ -12838,9 +12838,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiB6.06",
-                    "start": "2026-08-10T08:00:00",
-                    "end": "2026-08-10T11:45:00",
+                    "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiP.3C07Lab",
+                    "start": "2026-08-28T08:15:00",
+                    "end": "2026-08-28T11:15:00",
                     "color": "#0026ad"
                 }
             ],
@@ -71748,6 +71748,12 @@
                     "start": "2026-08-20T08:00:00",
                     "end": "2026-08-20T10:30:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Elem. bota. A.\n\nNiP.0C14",
+                    "start": "2026-08-28T13:00:00",
+                    "end": "2026-08-28T15:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Elem. bota. B.": [
@@ -73808,13 +73814,13 @@
         "BAB2": {
             "_": [
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.LaFontaine",
+                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.LaFontaine",
                     "start": "2025-09-19T10:30:00",
                     "end": "2025-09-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nNiVésale.020",
+                    "title": "_\nMme HORDIES, Mme LUPANT\nNiVésale.020",
                     "start": "2025-09-23T12:30:00",
                     "end": "2025-09-23T13:30:00",
                     "color": "#0026ad"
@@ -74924,6 +74930,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "Elem. bota. A.": [
+                {
+                    "title": "Elem. bota. A.\n\nNiP.0C14",
+                    "start": "2026-08-28T13:00:00",
+                    "end": "2026-08-28T15:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Eléments physiologie générale": [
                 {
                     "title": "Eléments physiologie générale\nMme RIS\nNiVésale.023",
@@ -75018,13 +75032,13 @@
             ],
             "English for Medical Sci II": [
                 {
-                    "title": "English for Medical Sci II\nMme VAN LANCKER, Mme DESMET, Mme GORTON\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "English for Medical Sci II\nMme DESMET, Mme VAN LANCKER, Mme GORTON\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-05-27T13:00:00",
                     "end": "2026-05-27T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Medical Sci II\nMme VAN LANCKER, Mme DESMET, Mme GORTON\nNiDeVinci.Russel, NiDeVinci.Vaughan",
+                    "title": "English for Medical Sci II\nMme DESMET, Mme VAN LANCKER, Mme GORTON\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2026-08-27T09:00:00",
                     "end": "2026-08-27T14:00:00",
                     "color": "#0026ad"
@@ -75505,6 +75519,12 @@
                     "title": "Intro. Psychologie générale\nM. BRIGANTI, Mme PARRY\nNiB6.06",
                     "start": "2026-08-12T12:30:00",
                     "end": "2026-08-12T14:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro. Psychologie générale\n\nM. BRIGANTI, Mme PARRY",
+                    "start": "2026-08-19T11:00:00",
+                    "end": "2026-08-19T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -77265,6 +77285,12 @@
                     "title": "Intro. Microbiologie générale\nMme MARTINY\nNiVésale.LaFontaine, NiVésale.023",
                     "start": "2026-08-11T13:00:00",
                     "end": "2026-08-11T16:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro. Microbiologie générale\nMme MARTINY\nNiB6.18",
+                    "start": "2026-09-01T17:00:00",
+                    "end": "2026-09-01T18:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -79499,6 +79525,14 @@
                     "title": "Galénique & biopharmacie TP\nM. BAMPS, Mme QUINTART\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2025-11-14T13:30:00",
                     "end": "2025-11-14T17:30:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "Intro. Microbiologie générale": [
+                {
+                    "title": "Intro. Microbiologie générale\nMme MARTINY\nNiB6.18",
+                    "start": "2026-09-01T17:00:00",
+                    "end": "2026-09-01T18:30:00",
                     "color": "#0026ad"
                 }
             ],
