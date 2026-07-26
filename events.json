@@ -39,7 +39,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES, M. LAMBOTTE, Mme HOCQ, Mme GODEAU, Mme PAMART\nNiGA.Curie",
+                    "title": "_\nMme LUPANT, M. LAMBOTTE, Mme HOCQ, Mme GODEAU, Mme HORDIES, Mme PAMART\nNiGA.Curie",
                     "start": "2025-11-04T18:00:00",
                     "end": "2025-11-04T20:00:00",
                     "color": "#0026ad"
@@ -725,7 +725,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme HENOUMONT, Mme LAURENT, M. STANICKI, M. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT\nNiGA.VanGogh, NiB6.06, Jo.Stievenart",
+                    "title": "Chimie générale I\nMme HENOUMONT, Mme LAURENT, M. STANICKI, M. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT\nNiGA.VanGogh, NiGA.Plisnier, NiB6.06, Jo.Stievenart",
                     "start": "2026-08-19T08:15:00",
                     "end": "2026-08-19T13:15:00",
                     "color": "#0026ad"
@@ -1533,7 +1533,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN, Mme SOGALOW, Mme TRELCAT\nJo.Stievenart",
+                    "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN, Mme CHELLE\nJo.Stievenart",
                     "start": "2026-08-11T12:45:00",
                     "end": "2026-08-11T15:45:00",
                     "color": "#0026ad"
@@ -70500,7 +70500,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HOCQ, Mme LUPANT, M. LAMBOTTE, Mme GODEAU, Mme PAMART\nNiGA.VanGogh",
+                    "title": "_\nMme HOCQ, M. LAMBOTTE, Mme GODEAU, Mme LUPANT, Mme PAMART\nNiGA.VanGogh",
                     "start": "2025-09-23T18:00:00",
                     "end": "2025-09-23T20:00:00",
                     "color": "#0026ad"
@@ -70512,7 +70512,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HOCQ, Mme LUPANT, M. LAMBOTTE, Mme HORDIES, Mme GODEAU, Mme PAMART\nNiGA.Curie",
+                    "title": "_\nMme HOCQ, Mme HORDIES, M. LAMBOTTE, Mme GODEAU, Mme LUPANT, Mme PAMART\nNiGA.Curie",
                     "start": "2025-11-04T18:00:00",
                     "end": "2025-11-04T20:00:00",
                     "color": "#0026ad"
@@ -71172,7 +71172,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nMme LAURENT, Mme GODEAU, M. STANICKI, Mme HENOUMONT, M. VAN LEUVEN, Mme BEAUCHOT\nNiGA.VanGogh, NiB6.06, Jo.Stievenart",
+                    "title": "Chimie générale I\nMme LAURENT, Mme GODEAU, M. STANICKI, Mme HENOUMONT, M. VAN LEUVEN, Mme BEAUCHOT\nNiGA.VanGogh, NiB6.06, NiGA.Plisnier, Jo.Stievenart",
                     "start": "2026-08-19T08:15:00",
                     "end": "2026-08-19T13:15:00",
                     "color": "#0026ad"
@@ -72374,7 +72374,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN, Mme SOGALOW, Mme TRELCAT\nJo.Stievenart",
+                    "title": "Intro. anat. humaine/ima. méd.\nM. LECHIEN, Mme CHELLE\nJo.Stievenart",
                     "start": "2026-08-11T12:45:00",
                     "end": "2026-08-11T15:45:00",
                     "color": "#0026ad"
