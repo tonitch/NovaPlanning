@@ -27,7 +27,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme LUPANT, M. LAMBOTTE, Mme HOCQ, Mme GODEAU, Mme PAMART\nNiGA.VanGogh",
+                    "title": "_\nMme LUPANT, M. LAMBOTTE, Mme GODEAU, Mme PAMART, Mme HOCQ\nNiGA.VanGogh",
                     "start": "2025-09-23T18:00:00",
                     "end": "2025-09-23T20:00:00",
                     "color": "#0026ad"
@@ -39,7 +39,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme LUPANT, M. LAMBOTTE, Mme HOCQ, Mme GODEAU, Mme HORDIES, Mme PAMART\nNiGA.Curie",
+                    "title": "_\nMme LUPANT, M. LAMBOTTE, Mme GODEAU, Mme HORDIES, Mme PAMART, Mme HOCQ\nNiGA.Curie",
                     "start": "2025-11-04T18:00:00",
                     "end": "2025-11-04T20:00:00",
                     "color": "#0026ad"
@@ -1089,7 +1089,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie organique I\nMme HENOUMONT, Mme LAURENT, M. STANICKI, M. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT\nNiVésale.023, RosaParks.1.09.Delmas-Marty, NiB6.211, NiGA.Curie, NiVésale.030, NiVésale.025, NiGA.Plisnier, NiVésale.LaFontaine, RosaParks.0.08.Landercy, NiGA.Gutenberg, NiVésale.020, NiB6.06, NiGA.VanGogh, NiB6.124",
+                    "title": "Chimie organique I\nMme HENOUMONT, Mme LAURENT, M. STANICKI, M. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT\nNiVésale.023, RosaParks.1.09.Delmas-Marty, NiB6.211, NiGA.Curie, NiVésale.030, NiVésale.025, NiGA.Plisnier, NiVésale.LaFontaine, RosaParks.0.08.Landercy, NiGA.Gutenberg, NiB6.06, NiGA.VanGogh, NiB6.124, NiVésale.020",
                     "start": "2026-01-15T09:30:00",
                     "end": "2026-01-15T12:30:00",
                     "color": "#0026ad"
@@ -1935,7 +1935,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mécanisme différen. cellulaire\nMme TASSIN, Mme TAGLIATTI\nNiGA.Gutenberg",
+                    "title": "Mécanisme différen. cellulaire\nMme TAGLIATTI, Mme TASSIN\nNiGA.Gutenberg",
                     "start": "2026-05-08T13:30:00",
                     "end": "2026-05-08T15:30:00",
                     "color": "#0026ad"
@@ -1943,9 +1943,17 @@
             ],
             "Physio/Physiopath syst. dig.": [
                 {
-                    "title": "Physio/Physiopath syst. dig.\nMme TASSIN, M. LEGRAND\nNiGA.VanGogh",
+                    "title": "Physio/Physiopath syst. dig.\nM. LEGRAND, Mme TASSIN\nNiGA.VanGogh",
                     "start": "2026-06-24T08:30:00",
                     "end": "2026-06-24T11:30:00",
+                    "color": "#0026ad"
+                }
+            ],
+            "Physiologie générale": [
+                {
+                    "title": "Physiologie générale\nM. LEGRAND, Mme TASSIN\nNiGA.Gutenberg",
+                    "start": "2026-08-27T10:30:00",
+                    "end": "2026-08-27T11:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -2065,7 +2073,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique Biomed I\nM. GOSSUIN, M. VUONG\nNiVésale.023, NiVésale.020, Jo.Stievenart, NiGA.Curie, NiGA.VanGogh, NiVésale.025, NiGA.Plisnier",
+                    "title": "Physique Biomed I\nM. GOSSUIN, M. VUONG\nNiVésale.023, Jo.Stievenart, NiGA.Curie, NiGA.VanGogh, NiVésale.025, NiGA.Plisnier, NiVésale.020",
                     "start": "2026-01-05T13:00:00",
                     "end": "2026-01-05T16:00:00",
                     "color": "#0026ad"
@@ -2083,7 +2091,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique Biomed I\nM. GOSSUIN, M. VUONG\nNiVésale.023, NiVésale.LaFontaine, NiVésale.020, PCM.200, PCM.500",
+                    "title": "Physique Biomed I\nM. GOSSUIN, M. VUONG\nNiVésale.023, NiVésale.LaFontaine, PCM.200, NiVésale.020, PCM.500",
                     "start": "2026-08-18T13:00:00",
                     "end": "2026-08-18T15:00:00",
                     "color": "#0026ad"
@@ -2869,7 +2877,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN\nNiB6.211",
+                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN\nNiB6.211",
                     "start": "2026-03-03T13:30:00",
                     "end": "2026-03-03T15:30:00",
                     "color": "#0026ad"
@@ -2905,7 +2913,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Rôle transport. membranaires\nMme TASSIN, Mme AKAN\nNiB6.211",
+                    "title": "Rôle transport. membranaires\nMme AKAN, Mme TASSIN\nNiB6.211",
                     "start": "2026-03-25T13:30:00",
                     "end": "2026-03-25T15:30:00",
                     "color": "#0026ad"
@@ -2991,7 +2999,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques I\nM. LELUBRE\nNiGA.Gutenberg, NiVésale.020, NiGA.Curie, NiGA.Plisnier, NiVésale.LaFontaine",
+                    "title": "Statistiques I\nM. LELUBRE\nNiGA.Gutenberg, NiGA.Curie, NiGA.Plisnier, NiVésale.020, NiVésale.LaFontaine",
                     "start": "2026-01-19T08:15:00",
                     "end": "2026-01-19T12:15:00",
                     "color": "#0026ad"
@@ -3023,7 +3031,7 @@
                 {
                     "title": "Statistiques I\nM. LELUBRE\nNiGA.VanGogh",
                     "start": "2026-08-31T10:30:00",
-                    "end": "2026-08-31T12:00:00",
+                    "end": "2026-08-31T11:30:00",
                     "color": "#0026ad"
                 }
             ]
@@ -4419,6 +4427,12 @@
                     "start": "2026-08-10T15:45:00",
                     "end": "2026-08-10T17:45:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Histologie générale\n\nM. NONCLERCQ",
+                    "start": "2026-08-31T13:00:00",
+                    "end": "2026-08-31T15:30:00",
+                    "color": "#0026ad"
                 }
             ],
             "Histologie générale TP": [
@@ -4557,9 +4571,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Histologie spéciale\nM. GENNAUX, Mme FRAU, Mme FIEVET, M. NONCLERCQ\nNiVésale.030, NiVésale.020",
+                    "title": "Histologie spéciale\nM. GENNAUX, Mme FRAU, Mme FIEVET, M. NONCLERCQ\nNiVésale.020, NiVésale.030",
                     "start": "2026-08-13T12:30:00",
                     "end": "2026-08-13T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Histologie spéciale\n\nM. NONCLERCQ",
+                    "start": "2026-08-31T09:30:00",
+                    "end": "2026-08-31T11:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -4693,7 +4713,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Immunologie\nMme ANDRIS\nNiVésale.030, NiVésale.020",
+                    "title": "Immunologie\nMme ANDRIS\nNiVésale.020, NiVésale.030",
                     "start": "2026-08-19T13:45:00",
                     "end": "2026-08-19T16:45:00",
                     "color": "#0026ad"
@@ -4891,7 +4911,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro. Microbiologie générale\nMme MARTINY\nNiGA.VanGogh, NiVésale.023",
+                    "title": "Intro. Microbiologie générale\nMme MARTINY\nNiVésale.023, NiGA.VanGogh",
                     "start": "2026-05-30T08:00:00",
                     "end": "2026-05-30T11:00:00",
                     "color": "#0026ad"
@@ -5269,6 +5289,12 @@
                     "start": "2026-08-21T13:30:00",
                     "end": "2026-08-21T16:00:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Physio/Physiopath syst. dig.\nM. LEGRAND\nNiGA.VanGogh",
+                    "start": "2026-09-01T13:00:00",
+                    "end": "2026-09-01T14:00:00",
+                    "color": "#0026ad"
                 }
             ],
             "Physio/Physiopath syst. endoc.": [
@@ -5477,6 +5503,12 @@
                     "start": "2026-08-22T09:00:00",
                     "end": "2026-08-22T12:00:00",
                     "color": "#0026ad"
+                },
+                {
+                    "title": "Physiologie générale\nM. LEGRAND, Mme TASSIN\nNiGA.Gutenberg",
+                    "start": "2026-08-27T10:30:00",
+                    "end": "2026-08-27T11:30:00",
+                    "color": "#0026ad"
                 }
             ],
             "Physiologie générale TP": [
@@ -5541,7 +5573,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale TP\nMme LUPANT, Mme AKAN\nNiB6.211, NiGA.VanGogh, NiGA.Gutenberg",
+                    "title": "Physiologie générale TP\nMme LUPANT, Mme AKAN\nNiB6.211, NiGA.Gutenberg, NiGA.VanGogh",
                     "start": "2025-12-17T08:15:00",
                     "end": "2025-12-17T10:15:00",
                     "color": "#0026ad"
@@ -6059,13 +6091,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anatomie pathologique générale\nMme D'HAENE, Mme REMMELINK\nNiGA.Plisnier, NiVésale.020",
+                    "title": "Anatomie pathologique générale\nMme REMMELINK, Mme D'HAENE\nNiGA.Plisnier, NiVésale.020",
                     "start": "2026-01-07T10:30:00",
                     "end": "2026-01-07T13:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anatomie pathologique générale\nMme D'HAENE, Mme REMMELINK\nNiB6.18",
+                    "title": "Anatomie pathologique générale\nMme REMMELINK, Mme D'HAENE\nNiB6.18",
                     "start": "2026-08-14T15:00:00",
                     "end": "2026-08-14T17:30:00",
                     "color": "#0026ad"
@@ -6337,7 +6369,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Complément biologie molécul.\nMme DECLEVES, M. MARECHAL, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Complément biologie molécul.\nMme DECLEVES, Mme DECARNONCLE, M. MARECHAL\nNiP.3C07Lab",
                     "start": "2026-02-25T13:30:00",
                     "end": "2026-02-25T16:30:00",
                     "color": "#0026ad"
@@ -6409,7 +6441,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Complément biologie molécul.\nMme DECARNONCLE, Mme DECLEVES\nNiB6.211",
+                    "title": "Complément biologie molécul.\nMme DECLEVES, Mme DECARNONCLE\nNiB6.211",
                     "start": "2026-08-24T13:00:00",
                     "end": "2026-08-24T16:00:00",
                     "color": "#0026ad"
@@ -7390,13 +7422,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Interactions non covalentes\nMme BEAUCHOT, M. STANICKI, Mme LAURENT\nNiGA.Plisnier, NiVésale.020",
+                    "title": "Interactions non covalentes\nM. STANICKI, Mme LAURENT, Mme BEAUCHOT\nNiGA.Plisnier, NiVésale.020",
                     "start": "2026-06-10T12:15:00",
                     "end": "2026-06-10T16:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Interactions non covalentes\nM. STANICKI, Mme BEAUCHOT\nNiB6.211",
+                    "title": "Interactions non covalentes\nMme BEAUCHOT, M. STANICKI\nNiB6.211",
                     "start": "2026-08-27T08:00:00",
                     "end": "2026-08-27T11:00:00",
                     "color": "#0026ad"
@@ -8092,6 +8124,14 @@
                     "color": "#0026ad"
                 }
             ],
+            "Physio/Physiopath syst. dig.": [
+                {
+                    "title": "Physio/Physiopath syst. dig.\nM. LEGRAND\nNiGA.VanGogh",
+                    "start": "2026-09-01T13:00:00",
+                    "end": "2026-09-01T14:00:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Physio/Physiopath syst. respi.": [
                 {
                     "title": "Physio/Physiopath syst. respi.\nM. LEGRAND\nNiGA.Curie",
@@ -8214,7 +8254,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physio/Physiopath syst. respi.\nM. LEGRAND, Mme TASSIN\nNiGA.Plisnier, NiVésale.LaFontaine",
+                    "title": "Physio/Physiopath syst. respi.\nMme TASSIN, M. LEGRAND\nNiGA.Plisnier, NiVésale.LaFontaine",
                     "start": "2026-08-11T08:30:00",
                     "end": "2026-08-11T12:30:00",
                     "color": "#0026ad"
@@ -8304,7 +8344,7 @@
                 {
                     "title": "Statistiques I\nM. LELUBRE\nNiGA.VanGogh",
                     "start": "2026-08-31T10:30:00",
-                    "end": "2026-08-31T12:00:00",
+                    "end": "2026-08-31T11:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -40654,7 +40694,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Dvlpt dirigé par les modèles\nM. DUPONT\nCha.ZG.N.3.12",
+                    "title": "Dvlpt dirigé par les modèles\nM. DUPONT\nCha.ZG.N.3.12, Cha.ZG.N.3.11",
                     "start": "2026-08-12T18:00:00",
                     "end": "2026-08-12T21:00:00",
                     "color": "#0026ad"
@@ -47271,7 +47311,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.1.02",
+                    "title": "Structures de données\n\nMme BRUYERE",
                     "start": "2026-08-12T18:00:00",
                     "end": "2026-08-12T21:00:00",
                     "color": "#0026ad"
@@ -73836,7 +73876,7 @@
                 {
                     "title": "Statistiques I\nM. LELUBRE\nNiGA.VanGogh",
                     "start": "2026-08-31T10:30:00",
-                    "end": "2026-08-31T12:00:00",
+                    "end": "2026-08-31T11:30:00",
                     "color": "#0026ad"
                 }
             ]
@@ -76052,7 +76092,7 @@
                 {
                     "title": "Statistiques I\nM. LELUBRE\nNiGA.VanGogh",
                     "start": "2026-08-31T10:30:00",
-                    "end": "2026-08-31T12:00:00",
+                    "end": "2026-08-31T11:30:00",
                     "color": "#0026ad"
                 }
             ],
