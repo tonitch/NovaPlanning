@@ -212,6 +212,7 @@ while i <=262:
         driver.close()
         driver = webdriver.Firefox(options=options)
         driver.get(url)
+        driver.execute_script(f"window.localStorage.setItem('etatAffichageCookiesInfo_2', 'false');")
         driver.refresh()
         select_recap_cours(driver)
         click_dropdown_cours(driver)
