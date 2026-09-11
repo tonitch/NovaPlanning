@@ -45,7 +45,7 @@ def getColor(color):
 
 def get_information(driver):
 
-    cursus_id = driver.find_element(By.XPATH,'//div[@id="GInterface.Instances[1].Instances[1].bouton_Edit"]').text
+    cursus_id = driver.find_element(By.XPATH,'//div[@id="IE.Identite.collection._2.Instances[1].Instances[1].bouton_Edit"]').text
 
     # if no course skip this cursus
     # if len(driver.find_elements(By.XPATH, '//table[@class="Table"]/tbody/tr/td/br'))>0: return True
@@ -117,7 +117,8 @@ def select_recap_cours(driver):
     action.click()
     action.perform()
 
-    recap = driver.find_elements(By.XPATH , '//li[@data-genre="DIPLOME.RECAPCOURS"]')[1]
+    recap = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, '//li[@data-genre="DIPLOME.RECAPCOURS"]')))
+    # recap = driver.find_elements(By.XPATH , '//li[@data-genre="DIPLOME.RECAPCOURS"]')[0]
     action = ActionChains(driver)
     action.move_to_element(recap)
     action.click()
@@ -127,7 +128,7 @@ def select_recap_cours(driver):
 def click_dropdown_cours(driver):
     dropdowned = False
     while not dropdowned:
-        select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-select  ie-ripple"]')
+        select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-select ie-ripple"]')
         action = ActionChains(driver)
         action.move_to_element(select)
         action.click()
@@ -137,7 +138,7 @@ def click_dropdown_cours(driver):
 
 
 def move_down(driver,n, i):
-    el = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, f'//*[@id="GInterface.Instances[1].Instances[1]_{i}"]')))
+    el = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.XPATH, f'//*[@id="IE.Identite.collection._2.Instances[1].Instances[1]_{i}"]')))
     action = ActionChains(driver)
     for i in range(n):
        action.send_keys(Keys.ARROW_DOWN)
@@ -187,8 +188,9 @@ options = Options()
 options.add_argument('-headless')
 driver = webdriver.Firefox(options=options)
 driver.set_window_size(1920, 1080)
-url = "https://hplanning2025.umons.ac.be/invite"
+url = "https://hplanning2026.umons.ac.be/invite"
 driver.get(url)
+driver.execute_script(f"window.localStorage.setItem('etatAffichageCookiesInfo_2', 'false');")
 driver.refresh()
 
 select_recap_cours(driver)
@@ -198,7 +200,7 @@ move_down(driver,0, 2)
 get_information(driver)
 
 i = 0
-while i <=262:
+while i <=263:
     try:
         click_dropdown_cours(driver)
         move_down(driver,1, i + 2)
@@ -210,6 +212,7 @@ while i <=262:
         driver.close()
         driver = webdriver.Firefox(options=options)
         driver.get(url)
+        driver.execute_script(f"window.localStorage.setItem('etatAffichageCookiesInfo_2', 'false');")
         driver.refresh()
         select_recap_cours(driver)
         click_dropdown_cours(driver)
@@ -217,5 +220,7 @@ while i <=262:
 
 driver.close()
 
+print("writing to event.json")
+print(output)
 with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(output, indent=4, ensure_ascii=False))
