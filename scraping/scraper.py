@@ -187,7 +187,7 @@ options = Options()
 options.add_argument('-headless')
 driver = webdriver.Firefox(options=options)
 driver.set_window_size(1920, 1080)
-url = "https://hplanning2025.umons.ac.be/invite"
+url = "https://hplanning2026.umons.ac.be/invite"
 driver.get(url)
 driver.refresh()
 
