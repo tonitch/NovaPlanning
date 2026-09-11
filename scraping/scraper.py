@@ -200,7 +200,7 @@ move_down(driver,0, 2)
 get_information(driver)
 
 i = 0
-while i <=262:
+while i <=263:
     try:
         click_dropdown_cours(driver)
         move_down(driver,1, i + 2)
@@ -220,5 +220,7 @@ while i <=262:
 
 driver.close()
 
+print("writing to event.json")
+print(output)
 with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(output, indent=4, ensure_ascii=False))
