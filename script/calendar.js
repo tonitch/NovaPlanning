@@ -23,9 +23,9 @@
             //automatic suppresion of oudated events in storage, after modifying data storage methode
             //some people were unable to open the planning because outdated event path was stored
             //this remove this cookies but it allow them to reconnect to the website
-            console.log(checkRemoveData(key, events_fetch[option]));
-            console.log(checkRemoveData(key, events_fetch[option][cursus]));
             console.log(checkRemoveData(key, events_fetch[option][cursus][course]));
+            console.log(checkRemoveData(key, events_fetch[option][cursus]));
+            console.log(checkRemoveData(key, events_fetch[option]));
             if (checkRemoveData(key, events_fetch[option])) continue;
             if (checkRemoveData(key, events_fetch[option][cursus])) continue;
             if (checkRemoveData(key, events_fetch[option][cursus][course])) continue;
