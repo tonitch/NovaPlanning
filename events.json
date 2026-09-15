@@ -15,9 +15,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nJo.Stievenart",
-                    "start": "2026-09-18T13:30:00",
-                    "end": "2026-09-18T15:30:00",
+                    "title": "_\n\nMme LUPANT, Mme HORDIES",
+                    "start": "2026-09-18T12:30:00",
+                    "end": "2026-09-18T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -2674,9 +2674,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nJo.Stievenart",
-                    "start": "2026-09-18T13:30:00",
-                    "end": "2026-09-18T15:30:00",
+                    "title": "_\n\nMme HORDIES, Mme LUPANT",
+                    "start": "2026-09-18T12:30:00",
+                    "end": "2026-09-18T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -2736,7 +2736,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Apprentissage ECG normal\nMme LUPANT\nNiGA.Interactiv1, NiGA.Plisnier",
+                    "title": "Apprentissage ECG normal\nMme LUPANT\nNiGA.Plisnier, NiGA.Interactiv1",
                     "start": "2027-04-15T13:30:00",
                     "end": "2027-04-15T15:30:00",
                     "color": "#0026ad"
@@ -2760,7 +2760,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Apprentissage ECG normal\nMme TASSIN, Mme LUPANT\nNiVésale.025, NiGA.Curie, NiVésale.LaFontaine",
+                    "title": "Apprentissage ECG normal\nMme TASSIN, Mme LUPANT\nNiVésale.LaFontaine, NiVésale.025, NiGA.Curie",
                     "start": "2027-05-13T10:30:00",
                     "end": "2027-05-13T12:30:00",
                     "color": "#0026ad"
@@ -2938,7 +2938,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique\nM. LABIAU, Mme DECARNONCLE\nNiGA.Curie, NiGA.Gutenberg",
+                    "title": "Biochimie métabolique\nMme DECARNONCLE, M. LABIAU\nNiGA.Curie, NiGA.Gutenberg",
                     "start": "2026-12-15T13:30:00",
                     "end": "2026-12-15T15:30:00",
                     "color": "#0026ad"
@@ -2958,49 +2958,49 @@
             ],
             "Biochimie métabolique TP": [
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiGA.Curie",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiGA.Curie",
                     "start": "2026-09-29T15:45:00",
                     "end": "2026-09-29T17:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.06",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiB6.06",
                     "start": "2026-10-01T16:45:00",
                     "end": "2026-10-01T18:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.18",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiB6.18",
                     "start": "2026-10-19T08:15:00",
                     "end": "2026-10-19T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-11-02T13:30:00",
                     "end": "2026-11-02T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.18",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiB6.18",
                     "start": "2026-11-12T17:45:00",
                     "end": "2026-11-12T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiVésale.030",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiVésale.030",
                     "start": "2026-11-24T15:45:00",
                     "end": "2026-11-24T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2026-12-01T13:30:00",
                     "end": "2026-12-01T18:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie métabolique TP\nM. LABIAU, Mme DECARNONCLE\nNiB6.18",
+                    "title": "Biochimie métabolique TP\nMme DECARNONCLE, M. LABIAU\nNiB6.18",
                     "start": "2026-12-08T17:00:00",
                     "end": "2026-12-08T19:00:00",
                     "color": "#0026ad"
@@ -3168,43 +3168,43 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2027-03-22T13:30:00",
                     "end": "2027-03-22T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2027-03-31T13:30:00",
                     "end": "2027-03-31T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2027-04-05T13:30:00",
                     "end": "2027-04-05T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2027-04-06T13:30:00",
                     "end": "2027-04-06T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2027-04-07T13:30:00",
                     "end": "2027-04-07T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiP.3C07Lab",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiP.3C07Lab",
                     "start": "2027-04-08T13:30:00",
                     "end": "2027-04-08T18:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biologie moléculaire TP\nM. LABIAU, Mme DECARNONCLE\nNiVésale.025",
+                    "title": "Biologie moléculaire TP\nMme DECARNONCLE, M. LABIAU\nNiVésale.025",
                     "start": "2027-05-05T10:30:00",
                     "end": "2027-05-05T12:30:00",
                     "color": "#0026ad"
@@ -4158,7 +4158,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "In. rech. Phar/Biom (RIBS)\nM. LABIAU, Mme TAGLIATTI\nNiGA.Plisnier",
+                    "title": "In. rech. Phar/Biom (RIBS)\nMme TAGLIATTI, M. LABIAU\nNiGA.Plisnier",
                     "start": "2026-10-13T13:30:00",
                     "end": "2026-10-13T18:30:00",
                     "color": "#0026ad"
@@ -4178,7 +4178,7 @@
             ],
             "Intro. analyse données reche.": [
                 {
-                    "title": "Intro. analyse données reche.\nM. CONOTTE\nNiB6.127Info, NiP.1E12",
+                    "title": "Intro. analyse données reche.\nM. CONOTTE\nNiP.1E12, NiB6.127Info",
                     "start": "2027-02-02T08:15:00",
                     "end": "2027-02-02T10:15:00",
                     "color": "#0026ad"
@@ -4814,7 +4814,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physiologie générale TP\nMme LUPANT\nNiB6.211, NiGA.VanGogh, NiGA.Gutenberg",
+                    "title": "Physiologie générale TP\nMme LUPANT\nNiGA.VanGogh, NiB6.211, NiGA.Gutenberg",
                     "start": "2026-12-16T08:15:00",
                     "end": "2026-12-16T10:15:00",
                     "color": "#0026ad"
@@ -4920,7 +4920,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Spectroscopies biomed\nM. STANICKI\nNiB6.06",
+                    "title": "Spectroscopies biomed\nM. STANICKI\nNiMen.Pauling",
                     "start": "2026-09-22T08:15:00",
                     "end": "2026-09-22T10:15:00",
                     "color": "#0026ad"
@@ -5048,9 +5048,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nJo.Stievenart",
-                    "start": "2026-09-18T13:30:00",
-                    "end": "2026-09-18T15:30:00",
+                    "title": "_\n\nMme LUPANT, Mme HORDIES",
+                    "start": "2026-09-18T12:30:00",
+                    "end": "2026-09-18T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -24963,14 +24963,14 @@
                 },
                 {
                     "title": "GestDurMat\nMme VITRY, Mme DELAUNOIS\nEpB04.218.SDMA.SC",
-                    "start": "2026-11-16T13:30:00",
-                    "end": "2026-11-16T15:30:00",
+                    "start": "2026-11-16T08:15:00",
+                    "end": "2026-11-16T10:15:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "GestDurMat\nMme VITRY, Mme DELAUNOIS\nEpB04.218.SDMA.SC",
-                    "start": "2026-11-17T10:30:00",
-                    "end": "2026-11-17T12:30:00",
+                    "start": "2026-11-16T13:30:00",
+                    "end": "2026-11-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -36745,19 +36745,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mobile applications\nM. HANI, M. MAHMOUDI, M. DELEHOUZEE\nHo.IGLab",
+                    "title": "Mobile applications\nM. MAHMOUDI, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2027-03-26T08:30:00",
                     "end": "2027-03-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mobile applications\nM. HANI, M. MAHMOUDI, M. DELEHOUZEE\nHo.IGLab",
+                    "title": "Mobile applications\nM. MAHMOUDI, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2027-04-02T08:30:00",
                     "end": "2027-04-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mobile applications\nM. HANI, M. MAHMOUDI, M. DELEHOUZEE\nHo.IGLab",
+                    "title": "Mobile applications\nM. MAHMOUDI, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2027-04-09T08:30:00",
                     "end": "2027-04-09T12:30:00",
                     "color": "#0026ad"
@@ -37337,7 +37337,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. DELEHOUZEE\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2026-11-04T08:30:00",
                     "end": "2026-11-04T12:30:00",
                     "color": "#0026ad"
@@ -37367,61 +37367,61 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. DELEHOUZEE\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2026-11-18T08:30:00",
                     "end": "2026-11-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. MAHMOUDI\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. MAHMOUDI\nHo.IGLab",
                     "start": "2026-11-23T13:30:00",
                     "end": "2026-11-23T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. DELEHOUZEE\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2026-11-25T08:30:00",
                     "end": "2026-11-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. MAHMOUDI\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. MAHMOUDI\nHo.IGLab",
                     "start": "2026-11-30T13:30:00",
                     "end": "2026-11-30T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. DELEHOUZEE\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2026-12-02T08:30:00",
                     "end": "2026-12-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. MAHMOUDI\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. MAHMOUDI\nHo.IGLab",
                     "start": "2026-12-07T13:30:00",
                     "end": "2026-12-07T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. DELEHOUZEE\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2026-12-09T08:30:00",
                     "end": "2026-12-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. MAHMOUDI, M. DELEHOUZEE\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. MAHMOUDI, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2026-12-14T08:30:00",
                     "end": "2026-12-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. MAHMOUDI\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. MAHMOUDI\nHo.IGLab",
                     "start": "2026-12-14T13:30:00",
                     "end": "2026-12-14T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. DELEHOUZEE\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2026-12-16T08:30:00",
                     "end": "2026-12-16T12:30:00",
                     "color": "#0026ad"
@@ -41051,13 +41051,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 1\nM. DEVILEZ\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "English for Sc Com part 1\nM. DEVILEZ\nNiDeVinci.Montague, NiDeVinci.Wüster",
                     "start": "2026-12-18T08:15:00",
                     "end": "2026-12-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Sc Com part 1\nM. DEVILEZ\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "English for Sc Com part 1\nM. DEVILEZ\nNiDeVinci.Montague, NiDeVinci.Wüster",
                     "start": "2026-12-18T10:30:00",
                     "end": "2026-12-18T12:30:00",
                     "color": "#0026ad"
@@ -42648,19 +42648,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mobile applications\nM. DELEHOUZEE, M. HANI, M. MAHMOUDI\nHo.IGLab",
+                    "title": "Mobile applications\nM. DELEHOUZEE, M. MAHMOUDI\nHo.IGLab",
                     "start": "2027-03-26T08:30:00",
                     "end": "2027-03-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mobile applications\nM. DELEHOUZEE, M. HANI, M. MAHMOUDI\nHo.IGLab",
+                    "title": "Mobile applications\nM. DELEHOUZEE, M. MAHMOUDI\nHo.IGLab",
                     "start": "2027-04-02T08:30:00",
                     "end": "2027-04-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mobile applications\nM. DELEHOUZEE, M. HANI, M. MAHMOUDI\nHo.IGLab",
+                    "title": "Mobile applications\nM. DELEHOUZEE, M. MAHMOUDI\nHo.IGLab",
                     "start": "2027-04-09T08:30:00",
                     "end": "2027-04-09T12:30:00",
                     "color": "#0026ad"
@@ -43240,7 +43240,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. DELEHOUZEE, M. BENDJELLOUL, M. ROUKH\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. DELEHOUZEE, M. BENDJELLOUL\nHo.IGLab",
                     "start": "2026-11-04T08:30:00",
                     "end": "2026-11-04T12:30:00",
                     "color": "#0026ad"
@@ -43270,61 +43270,61 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. DELEHOUZEE, M. BENDJELLOUL, M. ROUKH\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. DELEHOUZEE, M. BENDJELLOUL\nHo.IGLab",
                     "start": "2026-11-18T08:30:00",
                     "end": "2026-11-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. MAHMOUDI\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. MAHMOUDI\nHo.IGLab",
                     "start": "2026-11-23T13:30:00",
                     "end": "2026-11-23T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. DELEHOUZEE, M. BENDJELLOUL, M. ROUKH\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. DELEHOUZEE, M. BENDJELLOUL\nHo.IGLab",
                     "start": "2026-11-25T08:30:00",
                     "end": "2026-11-25T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. MAHMOUDI\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. MAHMOUDI\nHo.IGLab",
                     "start": "2026-11-30T13:30:00",
                     "end": "2026-11-30T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. DELEHOUZEE, M. BENDJELLOUL, M. ROUKH\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. DELEHOUZEE, M. BENDJELLOUL\nHo.IGLab",
                     "start": "2026-12-02T08:30:00",
                     "end": "2026-12-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. MAHMOUDI\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. MAHMOUDI\nHo.IGLab",
                     "start": "2026-12-07T13:30:00",
                     "end": "2026-12-07T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. DELEHOUZEE, M. BENDJELLOUL, M. ROUKH\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. DELEHOUZEE, M. BENDJELLOUL\nHo.IGLab",
                     "start": "2026-12-09T08:30:00",
                     "end": "2026-12-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. DELEHOUZEE, M. BENDJELLOUL, M. ROUKH, M. MAHMOUDI\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. DELEHOUZEE, M. BENDJELLOUL, M. MAHMOUDI\nHo.IGLab",
                     "start": "2026-12-14T08:30:00",
                     "end": "2026-12-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. BENDJELLOUL, M. ROUKH, M. MAHMOUDI\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. MAHMOUDI\nHo.IGLab",
                     "start": "2026-12-14T13:30:00",
                     "end": "2026-12-14T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. DELEHOUZEE, M. BENDJELLOUL, M. ROUKH\nHo.IGLab",
+                    "title": "ProjExpertDigLog\nM. ROUKH, M. DELEHOUZEE, M. BENDJELLOUL\nHo.IGLab",
                     "start": "2026-12-16T08:30:00",
                     "end": "2026-12-16T12:30:00",
                     "color": "#0026ad"
@@ -59071,15 +59071,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Econométrie - AAEP\nMme VOLRAL\nWa.Drechsel",
-                    "start": "2026-11-20T10:30:00",
-                    "end": "2026-11-20T12:30:00",
+                    "title": "Econométrie - AAEP\nMme THIEBAULT\nWa.218W",
+                    "start": "2026-11-19T08:15:00",
+                    "end": "2026-11-19T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Econométrie - AAEP\nMme THIEBAULT\nWa.204P",
-                    "start": "2026-11-26T10:30:00",
-                    "end": "2026-11-26T12:30:00",
+                    "title": "Econométrie - AAEP\nMme VOLRAL\nWa.Drechsel",
+                    "start": "2026-11-20T10:30:00",
+                    "end": "2026-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -60646,6 +60646,12 @@
                     "title": "_\nMme HORDIES, Mme LUPANT\nJo.Stievenart",
                     "start": "2026-09-18T10:30:00",
                     "end": "2026-09-18T11:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "_\n\nMme HORDIES, Mme LUPANT",
+                    "start": "2026-09-18T12:30:00",
+                    "end": "2026-09-18T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63650,9 +63656,15 @@
         "BAB2": {
             "_": [
                 {
-                    "title": "_\nMme HORDIES, Mme LUPANT\nJo.Stievenart",
+                    "title": "_\nMme LUPANT, Mme HORDIES\nJo.Stievenart",
                     "start": "2026-09-18T10:30:00",
                     "end": "2026-09-18T11:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "_\n\nMme LUPANT, Mme HORDIES",
+                    "start": "2026-09-18T12:30:00",
+                    "end": "2026-09-18T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -65811,9 +65823,15 @@
         "BAB3": {
             "_": [
                 {
-                    "title": "_\nMme LUPANT, Mme HORDIES\nJo.Stievenart",
+                    "title": "_\nMme HORDIES, Mme LUPANT\nJo.Stievenart",
                     "start": "2026-09-18T10:30:00",
                     "end": "2026-09-18T11:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "_\n\nMme HORDIES, Mme LUPANT",
+                    "start": "2026-09-18T12:30:00",
+                    "end": "2026-09-18T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -68174,12 +68192,6 @@
             "Galénique & biopharmacie - 1": [
                 {
                     "title": "Galénique & biopharmacie - 1\nM. VANDERBIST\nNiVésale.030",
-                    "start": "2026-09-14T13:30:00",
-                    "end": "2026-09-14T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Galénique & biopharmacie - 1\nM. VANDERBIST\nNiVésale.030",
                     "start": "2026-09-16T13:30:00",
                     "end": "2026-09-16T15:30:00",
                     "color": "#0026ad"
@@ -69341,12 +69353,6 @@
                 }
             ],
             "Comptabilité/Gestion officine": [
-                {
-                    "title": "Comptabilité/Gestion officine\nM. DELPATURE\nNiB6.06",
-                    "start": "2026-09-17T10:30:00",
-                    "end": "2026-09-17T12:30:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Comptabilité/Gestion officine\nM. DELPATURE\nNiB6.06",
                     "start": "2026-09-24T10:30:00",
