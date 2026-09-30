@@ -1157,12 +1157,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nNiVésale.023",
-                    "start": "2026-09-29T15:45:00",
-                    "end": "2026-09-29T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Intro Math sciences de la vie\nM. RANDOUR\nJo.Stievenart",
                     "start": "2026-09-30T08:00:00",
                     "end": "2026-09-30T10:00:00",
@@ -19933,15 +19927,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA\nNiP.3E11",
-                    "start": "2026-11-03T13:30:00",
-                    "end": "2026-11-03T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA\nNiBSM.016.Dresselhaus",
                     "start": "2026-11-10T13:30:00",
                     "end": "2026-11-10T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA\nNiBSM.015.Feynman",
+                    "start": "2026-12-08T10:30:00",
+                    "end": "2026-12-08T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -21493,8 +21487,8 @@
                 },
                 {
                     "title": "Chimie des polymères médicaux\nMme MINCHEVA\nNiBSM.015.Feynman",
-                    "start": "2026-12-17T13:30:00",
-                    "end": "2026-12-17T15:30:00",
+                    "start": "2026-12-15T10:30:00",
+                    "end": "2026-12-15T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -22056,15 +22050,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA\nNiP.3E11",
-                    "start": "2026-11-03T13:30:00",
-                    "end": "2026-11-03T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA\nNiBSM.016.Dresselhaus",
                     "start": "2026-11-10T13:30:00",
                     "end": "2026-11-10T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA\nNiBSM.015.Feynman",
+                    "start": "2026-12-08T10:30:00",
+                    "end": "2026-12-08T12:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -28642,7 +28636,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nMme BRUYERE, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2026-12-01T08:15:00",
                     "end": "2026-12-01T10:15:00",
                     "color": "#0026ad"
@@ -36150,9 +36144,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méthodes formelles : Fondem.\nMme CAPON, M. RANDOUR\nNiBSM.016.Dresselhaus",
-                    "start": "2026-10-01T13:30:00",
-                    "end": "2026-10-01T15:30:00",
+                    "title": "Méthodes formelles : Fondem.\nMme CAPON, M. RANDOUR\nNiBSM.002.Knight",
+                    "start": "2026-10-01T15:45:00",
+                    "end": "2026-10-01T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -36735,12 +36729,6 @@
                 },
                 {
                     "title": "OptimNonLin\nM. VANDAELE, M. BAECKELANT\nHo.23",
-                    "start": "2026-10-06T15:45:00",
-                    "end": "2026-10-06T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "OptimNonLin\nM. VANDAELE, M. BAECKELANT\nHo.23",
                     "start": "2026-10-13T13:30:00",
                     "end": "2026-10-13T15:30:00",
                     "color": "#0026ad"
@@ -36758,33 +36746,33 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "OptimNonLin\nM. VANDAELE, M. BAECKELANT\nHo.23",
-                    "start": "2026-10-20T15:45:00",
-                    "end": "2026-10-20T17:45:00",
+                    "title": "OptimNonLin\nM. VANDAELE, M. BAECKELANT\nHo.22",
+                    "start": "2026-11-23T13:30:00",
+                    "end": "2026-11-23T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "OptimNonLin\nM. VANDAELE, M. BAECKELANT\nHo.22",
+                    "start": "2026-11-23T15:45:00",
+                    "end": "2026-11-23T17:45:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "OptimNonLin\nM. VANDAELE, M. BAECKELANT\nHo.23",
-                    "start": "2026-11-06T08:15:00",
-                    "end": "2026-11-06T10:15:00",
+                    "start": "2026-11-25T13:30:00",
+                    "end": "2026-11-25T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "OptimNonLin\nM. VANDAELE, M. BAECKELANT\nHo.23",
-                    "start": "2026-11-06T10:30:00",
-                    "end": "2026-11-06T12:30:00",
+                    "title": "OptimNonLin\nM. BAECKELANT\nHo.25",
+                    "start": "2026-11-30T13:30:00",
+                    "end": "2026-11-30T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "OptimNonLin\nM. VANDAELE, M. BAECKELANT\nHo.23",
-                    "start": "2026-11-13T08:15:00",
-                    "end": "2026-11-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "OptimNonLin\nM. VANDAELE, M. BAECKELANT\nHo.23",
-                    "start": "2026-11-13T10:30:00",
-                    "end": "2026-11-13T12:30:00",
+                    "title": "OptimNonLin\nM. BAECKELANT\nHo.25",
+                    "start": "2026-11-30T15:45:00",
+                    "end": "2026-11-30T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -37262,9 +37250,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2026-12-01T08:15:00",
-                    "end": "2026-12-01T10:15:00",
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Russel",
+                    "start": "2026-11-30T10:30:00",
+                    "end": "2026-11-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -42047,9 +42035,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méthodes formelles : Fondem.\nMme CAPON, M. RANDOUR\nNiBSM.016.Dresselhaus",
-                    "start": "2026-10-01T13:30:00",
-                    "end": "2026-10-01T15:30:00",
+                    "title": "Méthodes formelles : Fondem.\nMme CAPON, M. RANDOUR\nNiBSM.002.Knight",
+                    "start": "2026-10-01T15:45:00",
+                    "end": "2026-10-01T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -42632,12 +42620,6 @@
                 },
                 {
                     "title": "OptimNonLin\nM. BAECKELANT, M. VANDAELE\nHo.23",
-                    "start": "2026-10-06T15:45:00",
-                    "end": "2026-10-06T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "OptimNonLin\nM. BAECKELANT, M. VANDAELE\nHo.23",
                     "start": "2026-10-13T13:30:00",
                     "end": "2026-10-13T15:30:00",
                     "color": "#0026ad"
@@ -42655,33 +42637,33 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "OptimNonLin\nM. BAECKELANT, M. VANDAELE\nHo.23",
-                    "start": "2026-10-20T15:45:00",
-                    "end": "2026-10-20T17:45:00",
+                    "title": "OptimNonLin\nM. BAECKELANT, M. VANDAELE\nHo.22",
+                    "start": "2026-11-23T13:30:00",
+                    "end": "2026-11-23T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "OptimNonLin\nM. BAECKELANT, M. VANDAELE\nHo.22",
+                    "start": "2026-11-23T15:45:00",
+                    "end": "2026-11-23T17:45:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "OptimNonLin\nM. BAECKELANT, M. VANDAELE\nHo.23",
-                    "start": "2026-11-06T08:15:00",
-                    "end": "2026-11-06T10:15:00",
+                    "start": "2026-11-25T13:30:00",
+                    "end": "2026-11-25T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "OptimNonLin\nM. BAECKELANT, M. VANDAELE\nHo.23",
-                    "start": "2026-11-06T10:30:00",
-                    "end": "2026-11-06T12:30:00",
+                    "title": "OptimNonLin\nM. BAECKELANT\nHo.25",
+                    "start": "2026-11-30T13:30:00",
+                    "end": "2026-11-30T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "OptimNonLin\nM. BAECKELANT, M. VANDAELE\nHo.23",
-                    "start": "2026-11-13T08:15:00",
-                    "end": "2026-11-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "OptimNonLin\nM. BAECKELANT, M. VANDAELE\nHo.23",
-                    "start": "2026-11-13T10:30:00",
-                    "end": "2026-11-13T12:30:00",
+                    "title": "OptimNonLin\nM. BAECKELANT\nHo.25",
+                    "start": "2026-11-30T15:45:00",
+                    "end": "2026-11-30T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -43159,9 +43141,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2026-12-01T08:15:00",
-                    "end": "2026-12-01T10:15:00",
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Russel",
+                    "start": "2026-11-30T10:30:00",
+                    "end": "2026-11-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -46551,12 +46533,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Algèbre linéaire & géométrieII\nM. RAMLOT\nNiBSM.015.Feynman",
-                    "start": "2026-09-29T15:45:00",
-                    "end": "2026-09-29T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Algèbre linéaire & géométrieII\nMme VOLKOV\nNiBSM.010.Lonsdale",
                     "start": "2026-10-01T13:30:00",
                     "end": "2026-10-01T15:30:00",
@@ -48537,7 +48513,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données I\nMme BRUYERE, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Structures de données I\nM. DUSOLLIER, Mme BRUYERE, M. VANDENHOVE\nNiDeVinci.Russel, NiDeVinci.Vaughan",
                     "start": "2026-12-01T08:15:00",
                     "end": "2026-12-01T10:15:00",
                     "color": "#0026ad"
@@ -54018,9 +53994,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2026-12-01T08:15:00",
-                    "end": "2026-12-01T10:15:00",
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Russel",
+                    "start": "2026-11-30T10:30:00",
+                    "end": "2026-11-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -56732,9 +56708,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méthodes formelles : Fondem.\nM. RANDOUR, Mme CAPON\nNiBSM.016.Dresselhaus",
-                    "start": "2026-10-01T13:30:00",
-                    "end": "2026-10-01T15:30:00",
+                    "title": "Méthodes formelles : Fondem.\nM. RANDOUR, Mme CAPON\nNiBSM.002.Knight",
+                    "start": "2026-10-01T15:45:00",
+                    "end": "2026-10-01T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -58258,9 +58234,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Vaughan",
-                    "start": "2026-12-01T08:15:00",
-                    "end": "2026-12-01T10:15:00",
+                    "title": "Selected topics computer net.\nM. DUSOLLIER\nNiDeVinci.Russel",
+                    "start": "2026-11-30T10:30:00",
+                    "end": "2026-11-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -61768,21 +61744,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nNiVésale.LaFontaine",
-                    "start": "2026-10-01T13:30:00",
-                    "end": "2026-10-01T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nJo.Stievenart",
                     "start": "2026-10-05T08:15:00",
                     "end": "2026-10-05T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Intro Math sciences de la vie\nM. LAMBOTTE\nNiGA.Gutenberg",
-                    "start": "2026-10-06T15:45:00",
-                    "end": "2026-10-06T17:45:00",
                     "color": "#0026ad"
                 },
                 {
