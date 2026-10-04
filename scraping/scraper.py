@@ -23,7 +23,8 @@ temp_filter = [
     "Sc. chimiques",
     "Sc. physiques",
     "Sc. biomédicales",
-    "Sc. pharmaceutiques"
+    "Sc. pharmaceutiques",
+    "Ing. de gestion"
     ]
 
 colorTab = {
