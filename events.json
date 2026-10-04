@@ -12700,37 +12700,37 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiMen.Pauling",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiMen.Pauling",
                     "start": "2026-11-12T08:15:00",
                     "end": "2026-11-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiP.0A07",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiP.0A07",
                     "start": "2026-11-25T08:15:00",
                     "end": "2026-11-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiB6.06",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiB6.06",
                     "start": "2026-11-26T10:30:00",
                     "end": "2026-11-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiP.0A11",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiP.0A11",
                     "start": "2026-12-03T10:30:00",
                     "end": "2026-12-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiP.0A11",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiP.0A11",
                     "start": "2026-12-10T10:30:00",
                     "end": "2026-12-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiB6.06",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiB6.06",
                     "start": "2026-12-17T10:30:00",
                     "end": "2026-12-17T12:30:00",
                     "color": "#0026ad"
@@ -12748,37 +12748,37 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiMen.Pauling",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiMen.Pauling",
                     "start": "2026-11-12T08:15:00",
                     "end": "2026-11-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiP.0A07",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiP.0A07",
                     "start": "2026-11-25T08:15:00",
                     "end": "2026-11-25T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiB6.06",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiB6.06",
                     "start": "2026-11-26T10:30:00",
                     "end": "2026-11-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiP.0A11",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiP.0A11",
                     "start": "2026-12-03T10:30:00",
                     "end": "2026-12-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiP.0A11",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiP.0A11",
                     "start": "2026-12-10T10:30:00",
                     "end": "2026-12-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Risques hospitaliers\nM. COLET\nNiB6.06",
+                    "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiB6.06",
                     "start": "2026-12-17T10:30:00",
                     "end": "2026-12-17T12:30:00",
                     "color": "#0026ad"
@@ -13908,7 +13908,7 @@
         "BAB1": {
             "_": [
                 {
-                    "title": "_\nM. MELOT, Mme BRIDOUX, M. MICHEZ, M. SEMAY, M. TROESTLER, M. MICHAUX, M. VOUE\nNiGA.VanGogh",
+                    "title": "_\nMme BRIDOUX, M. TROESTLER, M. MICHEZ, M. MELOT, M. MICHAUX, M. SEMAY, M. VOUE\nNiGA.VanGogh",
                     "start": "2026-09-14T13:30:00",
                     "end": "2026-09-14T16:30:00",
                     "color": "#0026ad"
@@ -13922,33 +13922,33 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
-                    "start": "2026-11-02T08:15:00",
-                    "end": "2026-11-02T10:15:00",
+                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiBSM.016.Dresselhaus",
+                    "start": "2026-11-12T08:15:00",
+                    "end": "2026-11-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
-                    "start": "2026-11-16T08:15:00",
-                    "end": "2026-11-16T10:15:00",
+                    "title": "Aide à la réussite (Partie A)\n\nNiP.0A07",
+                    "start": "2026-11-13T15:45:00",
+                    "end": "2026-11-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
-                    "start": "2026-11-23T08:15:00",
-                    "end": "2026-11-23T10:15:00",
+                    "title": "Aide à la réussite (Partie A)\n\nNiMen.Pauling",
+                    "start": "2026-11-23T15:45:00",
+                    "end": "2026-11-23T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
-                    "start": "2026-11-30T08:15:00",
-                    "end": "2026-11-30T10:15:00",
+                    "title": "Aide à la réussite (Partie A)\n\nNiP.0A07",
+                    "start": "2026-11-30T15:45:00",
+                    "end": "2026-11-30T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
-                    "start": "2026-12-07T08:15:00",
-                    "end": "2026-12-07T10:15:00",
+                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiB6.18",
+                    "start": "2026-12-04T10:30:00",
+                    "end": "2026-12-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -13958,15 +13958,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
-                    "start": "2026-12-14T08:15:00",
-                    "end": "2026-12-14T10:15:00",
+                    "title": "Aide à la réussite (Partie A)\n\nNiP.3E10",
+                    "start": "2026-12-16T15:45:00",
+                    "end": "2026-12-16T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E10",
-                    "start": "2026-12-14T10:30:00",
-                    "end": "2026-12-14T12:30:00",
+                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.0A07",
+                    "start": "2026-12-18T13:30:00",
+                    "end": "2026-12-18T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -19795,9 +19795,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA\nNiP.3E11",
-                    "start": "2026-10-06T13:30:00",
-                    "end": "2026-10-06T15:30:00",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA\nNiP.3E20",
+                    "start": "2026-10-07T10:30:00",
+                    "end": "2026-10-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -20931,7 +20931,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Transfo avancée des polymères\nM. RAQUEZ, M. ODENT, Mme MINCHEVA\nNiP.3E11",
+                    "title": "Transfo avancée des polymères\nM. RAQUEZ, M. ODENT\nNiP.3E11",
                     "start": "2026-10-07T10:30:00",
                     "end": "2026-10-07T12:30:00",
                     "color": "#0026ad"
@@ -21918,9 +21918,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA\nNiP.3E11",
-                    "start": "2026-10-06T13:30:00",
-                    "end": "2026-10-06T15:30:00",
+                    "title": "Ingénierie biomacromoléculaire\nMme MINCHEVA\nNiP.3E20",
+                    "start": "2026-10-07T10:30:00",
+                    "end": "2026-10-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -24104,7 +24104,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Transfo avancée des polymères\nMme MINCHEVA, M. RAQUEZ, M. ODENT\nNiP.3E11",
+                    "title": "Transfo avancée des polymères\nM. RAQUEZ, M. ODENT\nNiP.3E11",
                     "start": "2026-10-07T10:30:00",
                     "end": "2026-10-07T12:30:00",
                     "color": "#0026ad"
@@ -27596,15 +27596,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro.à la microéconomie\nMme STARON\nNiVésale.030",
-                    "start": "2026-10-05T08:15:00",
-                    "end": "2026-10-05T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Intro.à la microéconomie\nMme STARON\nNiP.0A11",
                     "start": "2026-10-14T08:15:00",
                     "end": "2026-10-14T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Intro.à la microéconomie\n\nMme STARON",
+                    "start": "2026-10-20T13:30:00",
+                    "end": "2026-10-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63521,12 +63521,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie analytique quantitative\nM. BLANKERT\nNiVésale.023",
-                    "start": "2026-10-02T13:30:00",
-                    "end": "2026-10-02T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Chimie analytique quantitative\nMme WELLS, M. LEVEQUE\nNiMen.MacDiarmid, NiMen.Franklin",
                     "start": "2026-10-05T13:30:00",
                     "end": "2026-10-05T15:30:00",
@@ -65363,12 +65357,6 @@
                     "title": "Analyse instrumentale pharma\nM. BLANKERT\nNiVésale.025",
                     "start": "2026-11-05T13:30:00",
                     "end": "2026-11-05T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Analyse instrumentale pharma\nM. BLANKERT\nNiB6.18",
-                    "start": "2026-11-09T10:30:00",
-                    "end": "2026-11-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -69910,13 +69898,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
-                    "start": "2026-11-16T08:15:00",
-                    "end": "2026-11-16T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Aide à la réussite (Partie A)\nM. VAN VOOREN\nNiP.3E20",
+                    "title": "Aide à la réussite (Partie A)\n\nM. VAN VOOREN",
                     "start": "2026-11-30T08:15:00",
                     "end": "2026-11-30T10:15:00",
                     "color": "#0026ad"
