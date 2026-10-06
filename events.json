@@ -245,13 +245,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "BusEngl 1B-AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nNiDeVinci.Montague, NiDeVinci.Wüster",
+                    "title": "BusEngl 1B-AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2027-03-11T13:30:00",
                     "end": "2027-03-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "BusEngl 1B-AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang, Wa.027LInfo",
+                    "title": "BusEngl 1B-AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.027LInfo, Wa.A38LLang, Wa.029LInfo, Wa.A39LLang",
                     "start": "2027-03-16T13:30:00",
                     "end": "2027-03-16T15:30:00",
                     "color": "#0026ad"
@@ -365,7 +365,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "BusEngl 1B-AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.A39LLang, Wa.A38LLang, Wa.A34LMulti, Wa.029LInfo, Wa.027LInfo",
+                    "title": "BusEngl 1B-AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A38LLang, Wa.A39LLang, Wa.A34LMulti, Wa.027LInfo, Wa.029LInfo",
                     "start": "2027-04-13T15:45:00",
                     "end": "2027-04-13T17:45:00",
                     "color": "#0026ad"
@@ -421,25 +421,25 @@
             ],
             "Business English 1A - AAEP": [
                 {
-                    "title": "Business English 1A - AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.Drechsel",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.Drechsel",
                     "start": "2026-09-14T10:30:00",
                     "end": "2026-09-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.A38LLang, Wa.A34LMulti, Wa.029LInfo, Wa.A39LLang",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A34LMulti, Wa.A38LLang, Wa.029LInfo, Wa.A39LLang",
                     "start": "2026-09-15T10:30:00",
                     "end": "2026-09-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.A38LLang, Wa.A34LMulti, Wa.029LInfo, Wa.A39LLang",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A34LMulti, Wa.A38LLang, Wa.029LInfo, Wa.A39LLang",
                     "start": "2026-09-15T13:30:00",
                     "end": "2026-09-15T16:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.A38LLang, Wa.A34LMulti, Wa.029LInfo, Wa.A39LLang",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A34LMulti, Wa.A38LLang, Wa.029LInfo, Wa.A39LLang",
                     "start": "2026-09-22T10:30:00",
                     "end": "2026-09-22T12:30:00",
                     "color": "#0026ad"
@@ -499,7 +499,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nM. MACALUSO\nNiVésale.020",
+                    "title": "Business English 1A - AAEP\nM. MACALUSO\nWa.230L",
                     "start": "2026-10-06T13:30:00",
                     "end": "2026-10-06T15:30:00",
                     "color": "#0026ad"
@@ -553,25 +553,25 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
                     "start": "2026-10-20T10:30:00",
                     "end": "2026-10-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nNiDeVinci.Montague, NiDeVinci.Wüster",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-10-20T13:30:00",
                     "end": "2026-10-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
                     "start": "2026-10-27T10:30:00",
                     "end": "2026-10-27T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
                     "start": "2026-10-27T13:30:00",
                     "end": "2026-10-27T15:30:00",
                     "color": "#0026ad"
@@ -757,13 +757,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
                     "start": "2026-12-08T10:30:00",
                     "end": "2026-12-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nMme CLOSSET, M. MACALUSO, Mme GORTON\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
                     "start": "2026-12-08T13:30:00",
                     "end": "2026-12-08T15:30:00",
                     "color": "#0026ad"
@@ -1723,13 +1723,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Esp empr 1B-AAEP\nMme DRUART, Mme BARBIEUX\nWa.029LInfo",
+                    "title": "Esp empr 1B-AAEP\nMme BARBIEUX, Mme DRUART\nWa.029LInfo",
                     "start": "2027-05-04T08:15:00",
                     "end": "2027-05-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Esp empr 1B-AAEP\nMme DRUART, Mme BARBIEUX\nNiGA.Gutenberg",
+                    "title": "Esp empr 1B-AAEP\nMme BARBIEUX, Mme DRUART\nNiGA.Gutenberg",
                     "start": "2027-05-12T13:30:00",
                     "end": "2027-05-12T15:30:00",
                     "color": "#0026ad"
@@ -1737,7 +1737,7 @@
             ],
             "Español empresarial 1A - AAEP": [
                 {
-                    "title": "Español empresarial 1A - AAEP\nMme DRUART, Mme BARBIEUX\nNiGA.Curie",
+                    "title": "Español empresarial 1A - AAEP\nMme BARBIEUX, Mme DRUART\nNiGA.Curie",
                     "start": "2026-09-14T13:30:00",
                     "end": "2026-09-14T15:30:00",
                     "color": "#0026ad"
@@ -1983,19 +1983,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Español empresarial 1A - AAEP\nMme DRUART, Mme BARBIEUX\nWa.029LInfo",
+                    "title": "Español empresarial 1A - AAEP\nMme BARBIEUX, Mme DRUART\nWa.029LInfo",
                     "start": "2026-12-07T08:15:00",
                     "end": "2026-12-07T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Español empresarial 1A - AAEP\nMme DRUART, Mme BARBIEUX\nWa.A38LLang, Wa.A39LLang",
+                    "title": "Español empresarial 1A - AAEP\nMme BARBIEUX, Mme DRUART\nWa.A38LLang, Wa.A39LLang",
                     "start": "2026-12-07T10:30:00",
                     "end": "2026-12-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Español empresarial 1A - AAEP\nMme DRUART, Mme BARBIEUX\nNiGA.VanGogh",
+                    "title": "Español empresarial 1A - AAEP\nMme BARBIEUX, Mme DRUART\nNiGA.VanGogh",
                     "start": "2026-12-14T08:15:00",
                     "end": "2026-12-14T10:15:00",
                     "color": "#0026ad"
@@ -2277,14 +2277,6 @@
                     "color": "#0026ad"
                 }
             ],
-            "Initiation à la rech, partie 1": [
-                {
-                    "title": "Initiation à la rech, partie 1\nMme DEPLUS\nWa.Drechsel, NiGA.Gutenberg",
-                    "start": "2026-10-26T10:30:00",
-                    "end": "2026-10-26T12:30:00",
-                    "color": "#0026ad"
-                }
-            ],
             "Intro au droit et droit - AAEP": [
                 {
                     "title": "Intro au droit et droit - AAEP\nM. MEURISSE\nJo.Stievenart",
@@ -2422,7 +2414,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Micro et tutorat - AAEP\nM. WAROQUIER, Mme FERAUGE\nWa.203P, Wa.Hotyat, Wa.110111P, Wa.236L, Wa.224L, Wa.218W, Wa.220W, Wa.222L, Wa.204P, Wa.226L, Wa.Drechsel",
+                    "title": "Intro Micro et tutorat - AAEP\nMme FERAUGE, M. WAROQUIER\nWa.203P, Wa.222L, Wa.Hotyat, Wa.226L, Wa.236L, Wa.218W, Wa.220W, Wa.110111P, Wa.204P, Wa.224L, Wa.Drechsel",
                     "start": "2026-10-06T12:30:00",
                     "end": "2026-10-06T13:30:00",
                     "color": "#0026ad"
@@ -2440,15 +2432,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Micro et tutorat - AAEP\nMme STARON\nWa.236L",
-                    "start": "2026-10-12T13:30:00",
-                    "end": "2026-10-12T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Intro Micro et tutorat - AAEP\nMme STARON\nWa.203P",
-                    "start": "2026-10-12T15:45:00",
-                    "end": "2026-10-12T17:45:00",
+                    "start": "2026-10-13T15:45:00",
+                    "end": "2026-10-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -2458,7 +2444,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Micro et tutorat - AAEP\nM. WAROQUIER, Mme FERAUGE\nWa.SalleAca, Wa.203P, Wa.110111P, Wa.230L, Wa.236L, Wa.224L, Wa.218W, Wa.220W, Wa.222L, Wa.204P, Wa.226L",
+                    "title": "Intro Micro et tutorat - AAEP\nMme FERAUGE, M. WAROQUIER\nWa.SalleAca, Wa.203P, Wa.222L, Wa.226L, Wa.236L, Wa.218W, Wa.230L, Wa.220W, Wa.110111P, Wa.204P, Wa.224L",
                     "start": "2026-10-14T12:30:00",
                     "end": "2026-10-14T13:30:00",
                     "color": "#0026ad"
@@ -2548,7 +2534,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Micro et tutorat - AAEP\nM. WAROQUIER, Mme FERAUGE\nWa.203P, Wa.Hotyat, Wa.110111P, Wa.230L, Wa.236L, Wa.224L, Wa.218W, Wa.220W, Wa.222L, Wa.204P, Wa.226L",
+                    "title": "Intro Micro et tutorat - AAEP\nMme FERAUGE, M. WAROQUIER\nWa.203P, Wa.222L, Wa.Hotyat, Wa.226L, Wa.236L, Wa.218W, Wa.230L, Wa.220W, Wa.110111P, Wa.204P, Wa.224L",
                     "start": "2026-11-03T12:30:00",
                     "end": "2026-11-03T13:30:00",
                     "color": "#0026ad"
@@ -2644,7 +2630,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Micro et tutorat - AAEP\nM. WAROQUIER, Mme FERAUGE\nWa.SalleAca, Wa.203P, Wa.228L, Wa.110111P, Wa.230L, Wa.224L, Wa.220W, Wa.MarinetteBruwier, Wa.204P, Wa.226L, Wa.216W",
+                    "title": "Intro Micro et tutorat - AAEP\nMme FERAUGE, M. WAROQUIER\nWa.SalleAca, Wa.203P, Wa.226L, Wa.216W, Wa.230L, Wa.220W, Wa.MarinetteBruwier, Wa.110111P, Wa.204P, Wa.224L, Wa.228L",
                     "start": "2026-11-25T08:15:00",
                     "end": "2026-11-25T10:15:00",
                     "color": "#0026ad"
@@ -2686,7 +2672,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Micro et tutorat - AAEP\nM. WAROQUIER, Mme FERAUGE\nWa.SalleAca, Wa.228L, Wa.Hotyat, Wa.110111P, Wa.236L, Wa.224L, Wa.MarinetteBruwier, Wa.226L, Wa.216W, Wa.Drechsel, Wa.206PVisio",
+                    "title": "Intro Micro et tutorat - AAEP\nMme FERAUGE, M. WAROQUIER\nWa.SalleAca, Wa.Hotyat, Wa.226L, Wa.236L, Wa.216W, Wa.MarinetteBruwier, Wa.110111P, Wa.224L, Wa.228L, Wa.Drechsel, Wa.206PVisio",
                     "start": "2026-12-02T08:15:00",
                     "end": "2026-12-02T10:15:00",
                     "color": "#0026ad"
@@ -2736,9 +2722,9 @@
             ],
             "Intro.à la microéconomie": [
                 {
-                    "title": "Intro.à la microéconomie\nMme FAYS\nWa.220W",
-                    "start": "2026-10-13T15:45:00",
-                    "end": "2026-10-13T17:45:00",
+                    "title": "Intro.à la microéconomie\nMme STARON\nWa.236L",
+                    "start": "2026-11-04T15:45:00",
+                    "end": "2026-11-04T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -2774,7 +2760,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.228L, Wa.Hotyat, Wa.110111P, Wa.230L, Wa.236L, Wa.218W, Wa.220W, Wa.222L, Wa.204P, Wa.226L, Wa.216W",
+                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.222L, Wa.Hotyat, Wa.226L, Wa.236L, Wa.216W, Wa.218W, Wa.230L, Wa.220W, Wa.110111P, Wa.204P, Wa.228L",
                     "start": "2027-02-10T12:30:00",
                     "end": "2027-02-10T13:30:00",
                     "color": "#0026ad"
@@ -2798,7 +2784,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.228L, Wa.Hotyat, Wa.110111P, Wa.230L, Wa.236L, Wa.218W, Wa.220W, Wa.222L, Wa.204P, Wa.226L, Wa.216W",
+                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.222L, Wa.Hotyat, Wa.226L, Wa.236L, Wa.216W, Wa.218W, Wa.230L, Wa.220W, Wa.110111P, Wa.204P, Wa.228L",
                     "start": "2027-02-17T12:30:00",
                     "end": "2027-02-17T13:30:00",
                     "color": "#0026ad"
@@ -2882,7 +2868,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.228L, Wa.Hotyat, Wa.110111P, Wa.230L, Wa.236L, Wa.218W, Wa.220W, Wa.222L, Wa.204P, Wa.226L, Wa.216W",
+                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.222L, Wa.Hotyat, Wa.226L, Wa.236L, Wa.216W, Wa.218W, Wa.230L, Wa.220W, Wa.110111P, Wa.204P, Wa.228L",
                     "start": "2027-03-09T12:30:00",
                     "end": "2027-03-09T13:30:00",
                     "color": "#0026ad"
@@ -2930,7 +2916,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.228L, Wa.Hotyat, Wa.110111P, Wa.230L, Wa.236L, Wa.218W, Wa.220W, Wa.222L, Wa.204P, Wa.226L, Wa.216W",
+                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.222L, Wa.Hotyat, Wa.226L, Wa.236L, Wa.216W, Wa.218W, Wa.230L, Wa.220W, Wa.110111P, Wa.204P, Wa.228L",
                     "start": "2027-03-23T12:30:00",
                     "end": "2027-03-23T13:30:00",
                     "color": "#0026ad"
@@ -3032,7 +3018,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.228L, Wa.Hotyat, Wa.110111P, Wa.224L, Wa.218W, Wa.220W, Wa.222L, Wa.204P, Wa.226L, Wa.216W, Wa.029LInfo",
+                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.222L, Wa.Hotyat, Wa.226L, Wa.216W, Wa.218W, Wa.029LInfo, Wa.220W, Wa.110111P, Wa.204P, Wa.224L, Wa.228L",
                     "start": "2027-04-08T13:30:00",
                     "end": "2027-04-08T15:30:00",
                     "color": "#0026ad"
@@ -3074,7 +3060,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.228L, Wa.110111P, Wa.230L, Wa.236L, Wa.224L, Wa.218W, Wa.220W, Wa.222L, Wa.226L, Wa.216W, Wa.Drechsel",
+                    "title": "Macro et tutorat - AAEP\nMme FERAUGE\nWa.203P, Wa.222L, Wa.226L, Wa.236L, Wa.216W, Wa.218W, Wa.230L, Wa.220W, Wa.110111P, Wa.224L, Wa.228L, Wa.Drechsel",
                     "start": "2027-04-16T13:30:00",
                     "end": "2027-04-16T15:30:00",
                     "color": "#0026ad"
@@ -3091,6 +3077,12 @@
                     "title": "Maitrise langue franç univ Q1\nMme DEPLUS\nWa.110111P",
                     "start": "2026-09-30T10:30:00",
                     "end": "2026-09-30T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Maitrise langue franç univ Q1\n\n",
+                    "start": "2026-10-26T10:30:00",
+                    "end": "2026-10-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -3844,13 +3836,13 @@
             ],
             "Monitorat": [
                 {
-                    "title": "Monitorat\nM. BREDART, Mme FERAUGE\nWa.SalleAca",
+                    "title": "Monitorat\nMme FERAUGE, M. BREDART\nWa.SalleAca",
                     "start": "2026-10-08T10:30:00",
                     "end": "2026-10-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Monitorat\nM. BREDART, Mme FERAUGE\nWa.SalleAca",
+                    "title": "Monitorat\nMme FERAUGE, M. BREDART\nWa.SalleAca",
                     "start": "2026-10-08T12:30:00",
                     "end": "2026-10-08T13:30:00",
                     "color": "#0026ad"
@@ -4002,7 +3994,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nederl op de werkvl 1B-AAEP\nMme DE RO, Mme STEVENS\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
+                    "title": "Nederl op de werkvl 1B-AAEP\nMme STEVENS, Mme DE RO\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
                     "start": "2027-03-18T08:15:00",
                     "end": "2027-03-18T10:15:00",
                     "color": "#0026ad"
@@ -4080,7 +4072,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nederl op de werkvl 1B-AAEP\nMme DE RO, Mme STEVENS\nWa.A38LLang, Wa.A39LLang",
+                    "title": "Nederl op de werkvl 1B-AAEP\nMme STEVENS, Mme DE RO\nWa.A38LLang, Wa.A39LLang",
                     "start": "2027-04-15T10:30:00",
                     "end": "2027-04-15T12:30:00",
                     "color": "#0026ad"
@@ -4112,13 +4104,13 @@
             ],
             "Nederlands 1A - AAEP": [
                 {
-                    "title": "Nederlands 1A - AAEP\nMme DE RO, Mme STEVENS\nWa.Drechsel",
+                    "title": "Nederlands 1A - AAEP\nMme STEVENS, Mme DE RO\nWa.Drechsel",
                     "start": "2026-09-14T13:30:00",
                     "end": "2026-09-14T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nederlands 1A - AAEP\nMme DE RO, Mme STEVENS\nWa.A38LLang, Wa.A34LMulti, Wa.A39LLang",
+                    "title": "Nederlands 1A - AAEP\nMme STEVENS, Mme DE RO\nWa.A34LMulti, Wa.A38LLang, Wa.A39LLang",
                     "start": "2026-09-18T13:30:00",
                     "end": "2026-09-18T17:30:00",
                     "color": "#0026ad"
@@ -4292,7 +4284,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nederlands 1A - AAEP\nMme DE RO, Mme STEVENS\nWa.A38LLang, Wa.A39LLang",
+                    "title": "Nederlands 1A - AAEP\nMme STEVENS, Mme DE RO\nWa.A38LLang, Wa.A39LLang",
                     "start": "2026-11-23T08:15:00",
                     "end": "2026-11-23T12:30:00",
                     "color": "#0026ad"
@@ -11687,15 +11679,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Finance ent. . - Part.1 - AAEP\nMme CULTRERA\nWa.110111P",
-                    "start": "2026-10-19T10:30:00",
-                    "end": "2026-10-19T12:30:00",
+                    "title": "Finance ent. . - Part.1 - AAEP\nMme CULTRERA\nWa.204P",
+                    "start": "2026-10-07T13:30:00",
+                    "end": "2026-10-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Finance ent. . - Part.1 - AAEP\nMme CULTRERA\nWa.104P",
-                    "start": "2026-10-19T13:30:00",
-                    "end": "2026-10-19T15:30:00",
+                    "title": "Finance ent. . - Part.1 - AAEP\nMme CULTRERA\nWa.218W",
+                    "start": "2026-10-09T08:15:00",
+                    "end": "2026-10-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -13794,12 +13786,6 @@
                     "title": "Finance ent. . - Part.2 - AAEP\nMme CULTRERA\nWa.222L",
                     "start": "2026-10-05T08:15:00",
                     "end": "2026-10-05T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Finance ent. . - Part.2 - AAEP\nMme CULTRERA\nWa.222L",
-                    "start": "2026-10-19T08:15:00",
-                    "end": "2026-10-19T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -20894,7 +20880,7 @@
             ],
             "Ethique/intégrité - Biomed": [
                 {
-                    "title": "Ethique/intégrité - Biomed\n\nM. LOSSIGNOL",
+                    "title": "Ethique/intégrité - Biomed\nM. LOSSIGNOL\nNiP.3E11",
                     "start": "2026-10-06T13:30:00",
                     "end": "2026-10-06T15:30:00",
                     "color": "#0026ad"
@@ -24347,7 +24333,7 @@
             ],
             "Molecul & Cell Biology Cancer": [
                 {
-                    "title": "Molecul & Cell Biology Cancer\n\nM. JOURNE",
+                    "title": "Molecul & Cell Biology Cancer\nM. JOURNE\nNiP.1E11",
                     "start": "2026-10-05T10:30:00",
                     "end": "2026-10-05T12:30:00",
                     "color": "#0026ad"
@@ -24383,7 +24369,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Molecul & Cell Biology Cancer\n\nM. JOURNE",
+                    "title": "Molecul & Cell Biology Cancer\nM. JOURNE\nNiP.1E11",
                     "start": "2026-10-05T10:30:00",
                     "end": "2026-10-05T12:30:00",
                     "color": "#0026ad"
@@ -25365,18 +25351,6 @@
                 },
                 {
                     "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiB6.124",
-                    "start": "2026-10-14T13:30:00",
-                    "end": "2026-10-14T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiB6.124",
-                    "start": "2026-10-15T10:30:00",
-                    "end": "2026-10-15T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiB6.124",
                     "start": "2026-10-21T13:30:00",
                     "end": "2026-10-21T15:30:00",
                     "color": "#0026ad"
@@ -26193,12 +26167,6 @@
                     "title": "Thérapie génique\nMme COPPEE\nNiP.3E10",
                     "start": "2026-09-28T08:15:00",
                     "end": "2026-09-28T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Thérapie génique\nMme COPPEE\nNiP.3E20",
-                    "start": "2026-10-05T08:15:00",
-                    "end": "2026-10-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -27718,18 +27686,6 @@
             ],
             "Risques hospitaliers": [
                 {
-                    "title": "Risques hospitaliers\nM. EL HIKI\nNiP.0A11",
-                    "start": "2026-09-28T13:30:00",
-                    "end": "2026-09-28T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI\nNiP.0A11",
-                    "start": "2026-10-05T13:30:00",
-                    "end": "2026-10-05T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiMen.Pauling",
                     "start": "2026-11-12T08:15:00",
                     "end": "2026-11-12T10:15:00",
@@ -27763,18 +27719,6 @@
                     "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiB6.06",
                     "start": "2026-12-17T10:30:00",
                     "end": "2026-12-17T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI\nNiP.0A11",
-                    "start": "2026-09-28T13:30:00",
-                    "end": "2026-09-28T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Risques hospitaliers\nM. EL HIKI\nNiP.0A11",
-                    "start": "2026-10-05T13:30:00",
-                    "end": "2026-10-05T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -29130,12 +29074,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bio. gen. I\nMme COLIGNON\nNiB6.019Lab",
-                    "start": "2026-10-12T08:30:00",
-                    "end": "2026-10-12T12:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Bio. gen. I\nM. GILLAN\nNiVésale.LaFontaine",
                     "start": "2026-10-15T10:30:00",
                     "end": "2026-10-15T12:30:00",
@@ -29145,6 +29083,12 @@
                     "title": "Bio. gen. I\nM. GILLAN\nNiVésale.023",
                     "start": "2026-10-16T10:30:00",
                     "end": "2026-10-16T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Bio. gen. I\nMme COLIGNON\nNiB6.019Lab",
+                    "start": "2026-10-19T08:30:00",
+                    "end": "2026-10-19T12:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -31003,12 +30947,6 @@
                     "title": "Biochimie générale\nM. WATTIEZ\nNiGA.Plisnier",
                     "start": "2026-10-07T08:15:00",
                     "end": "2026-10-07T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Biochimie générale\nM. WATTIEZ\nNiGA.Plisnier",
-                    "start": "2026-10-14T08:15:00",
-                    "end": "2026-10-14T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -33727,12 +33665,6 @@
                 },
                 {
                     "title": "Métabolisme du carbone\nM. WATTIEZ\nNiBSM.012.Hermann",
-                    "start": "2026-10-13T08:15:00",
-                    "end": "2026-10-13T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Métabolisme du carbone\nM. WATTIEZ\nNiBSM.012.Hermann",
                     "start": "2026-10-20T08:15:00",
                     "end": "2026-10-20T10:15:00",
                     "color": "#0026ad"
@@ -34374,12 +34306,6 @@
                 },
                 {
                     "title": "Chim poly 2 : structure propr.\nM. RAQUEZ, M. ODENT, Mme MINCHEVA\nNiMen.Pauling",
-                    "start": "2026-10-05T15:45:00",
-                    "end": "2026-10-05T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chim poly 2 : structure propr.\nM. RAQUEZ, M. ODENT, Mme MINCHEVA\nNiMen.Pauling",
                     "start": "2026-10-12T15:45:00",
                     "end": "2026-10-12T17:45:00",
                     "color": "#0026ad"
@@ -34943,9 +34869,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méthodes d'analyse des biomolé\nM. GERBAUX, M. DE WINTER\nNiP.0A07",
-                    "start": "2026-10-06T15:45:00",
-                    "end": "2026-10-06T17:45:00",
+                    "title": "Méthodes d'analyse des biomolé\nM. GERBAUX, M. DE WINTER\nNiBSM.008.Kwolek",
+                    "start": "2026-10-06T10:30:00",
+                    "end": "2026-10-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -36203,12 +36129,6 @@
                     "title": "Chim poly 2 : structure propr.\nMme MINCHEVA, M. RAQUEZ, M. ODENT\nNiMen.Pauling",
                     "start": "2026-09-28T15:45:00",
                     "end": "2026-09-28T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Chim poly 2 : structure propr.\nMme MINCHEVA, M. RAQUEZ, M. ODENT\nNiMen.Pauling",
-                    "start": "2026-10-05T15:45:00",
-                    "end": "2026-10-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -38383,18 +38303,6 @@
                     "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiB6.124",
                     "start": "2026-10-08T13:30:00",
                     "end": "2026-10-08T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiB6.124",
-                    "start": "2026-10-14T13:30:00",
-                    "end": "2026-10-14T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Protéomie struct et fonction A\nM. WATTIEZ\nNiB6.124",
-                    "start": "2026-10-15T10:30:00",
-                    "end": "2026-10-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -42632,9 +42540,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro.à la microéconomie\n\nMme STARON",
-                    "start": "2026-10-20T13:30:00",
-                    "end": "2026-10-20T15:30:00",
+                    "title": "Intro.à la microéconomie\nMme STARON\nNiBSM.010.Lonsdale",
+                    "start": "2026-10-21T08:15:00",
+                    "end": "2026-10-21T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -42771,6 +42679,12 @@
                     "title": "Nombres complexes\nM. RAMLOT, M. RIVIERE\nNiVésale.023",
                     "start": "2026-09-30T08:15:00",
                     "end": "2026-09-30T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Nombres complexes\nM. RAMLOT, M. RIVIERE\nNiVésale.LaFontaine",
+                    "start": "2026-10-22T15:45:00",
+                    "end": "2026-10-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -53054,13 +52968,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Crypto et sécurité syst. d'inf\nM. BUYS\nCha.ZG.N.1.08",
+                    "title": "Crypto et sécurité syst. d'inf\n\nM. BUYS",
                     "start": "2027-02-11T18:00:00",
                     "end": "2027-02-11T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Crypto et sécurité syst. d'inf\nM. BUYS\nCha.ZG.N.1.08",
+                    "title": "Crypto et sécurité syst. d'inf\n\nM. BUYS",
                     "start": "2027-02-18T18:00:00",
                     "end": "2027-02-18T21:00:00",
                     "color": "#0026ad"
@@ -53072,7 +52986,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Crypto et sécurité syst. d'inf\nM. BUYS\nCha.ZG.N.1.08",
+                    "title": "Crypto et sécurité syst. d'inf\n\nM. BUYS",
                     "start": "2027-03-04T18:00:00",
                     "end": "2027-03-04T21:00:00",
                     "color": "#0026ad"
@@ -53084,7 +52998,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Crypto et sécurité syst. d'inf\nM. BUYS\nCha.ZG.N.1.08",
+                    "title": "Crypto et sécurité syst. d'inf\n\nM. BUYS",
                     "start": "2027-03-25T18:00:00",
                     "end": "2027-03-25T21:00:00",
                     "color": "#0026ad"
@@ -53096,7 +53010,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Crypto et sécurité syst. d'inf\nM. BUYS\nCha.ZG.N.1.08",
+                    "title": "Crypto et sécurité syst. d'inf\n\nM. BUYS",
                     "start": "2027-04-08T18:00:00",
                     "end": "2027-04-08T21:00:00",
                     "color": "#0026ad"
@@ -61203,6 +61117,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Nombres complexes\nM. RAMLOT, M. RIVIERE\nNiVésale.LaFontaine",
+                    "start": "2026-10-22T15:45:00",
+                    "end": "2026-10-22T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Nombres complexes\nM. RAMLOT, M. RIVIERE\nNiGA.Gutenberg",
                     "start": "2026-10-28T08:15:00",
                     "end": "2026-10-28T10:15:00",
@@ -61458,6 +61378,12 @@
                     "title": "Algèbre linéaire & géométrieII\nMme VOLKOV\nNiBSM.010.Lonsdale",
                     "start": "2026-10-15T13:30:00",
                     "end": "2026-10-15T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Algèbre linéaire & géométrieII\nM. RAMLOT\nNiBSM.015.Feynman",
+                    "start": "2026-10-19T15:45:00",
+                    "end": "2026-10-19T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -63656,6 +63582,12 @@
                     "title": "Algèbre III\nMme VOLKOV\nNiBSM.002.Knight",
                     "start": "2026-10-20T10:30:00",
                     "end": "2026-10-20T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Algèbre III\nM. RAMLOT, Mme VOLKOV\nNiP.0A11",
+                    "start": "2026-10-21T10:30:00",
+                    "end": "2026-10-21T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -84087,38 +84019,7 @@
                     "color": "#0026ad"
                 }
             ],
-            "Lab on a chip": [
-                {
-                    "title": "Lab on a chip\nM. BLANKERT\nNiGA.Pascal",
-                    "start": "2026-10-08T10:30:00",
-                    "end": "2026-10-08T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Lab on a chip\nM. BLANKERT\nNiP.3E20",
-                    "start": "2026-10-09T13:30:00",
-                    "end": "2026-10-09T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Lab on a chip\nM. BLANKERT\nNiP.3E10",
-                    "start": "2026-10-15T10:30:00",
-                    "end": "2026-10-15T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Lab on a chip\nM. BLANKERT\nNiP.3E11",
-                    "start": "2026-10-27T13:30:00",
-                    "end": "2026-10-27T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Lab on a chip\nM. BLANKERT\nNiP.3E20",
-                    "start": "2026-10-29T13:30:00",
-                    "end": "2026-10-29T15:30:00",
-                    "color": "#0026ad"
-                }
-            ],
+            "Lab on a chip": [],
             "Législ/Déont/Ethique pharma": [
                 {
                     "title": "Législ/Déont/Ethique pharma\nM. KOHL\nNiP.0A07",
@@ -89109,6 +89010,18 @@
                     "title": "Biblio./outils informatiques\nM. FAUQUET, Mme NACHTERGAEL\nNiVésale.020",
                     "start": "2026-11-30T08:00:00",
                     "end": "2026-11-30T10:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Biblio./outils informatiques\nM. VOUE\nNiDeVinci.Mirzakhani",
+                    "start": "2026-12-08T13:30:00",
+                    "end": "2026-12-08T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Biblio./outils informatiques\nMme NACHTERGAEL\nNiDeVinci.Mirzakhani",
+                    "start": "2026-12-16T08:30:00",
+                    "end": "2026-12-16T12:00:00",
                     "color": "#0026ad"
                 }
             ],
