@@ -565,15 +565,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
-                    "start": "2026-10-27T10:30:00",
-                    "end": "2026-10-27T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A38LLang, Wa.029LInfo, Wa.A39LLang",
-                    "start": "2026-10-27T13:30:00",
-                    "end": "2026-10-27T15:30:00",
+                    "title": "Business English 1A - AAEP\nMme GORTON, Mme CLOSSET, M. MACALUSO\nWa.A38LLang, Wa.A39LLang",
+                    "start": "2026-10-30T13:00:00",
+                    "end": "2026-10-30T15:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -2432,7 +2426,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Micro et tutorat - AAEP\nMme FERAUGE\nWa.218W, Wa.110111P, Wa.220W",
+                    "title": "Intro Micro et tutorat - AAEP\nMme FERAUGE\nWa.216W, Wa.218W, Wa.110111P, Wa.220W",
                     "start": "2026-10-12T12:30:00",
                     "end": "2026-10-12T13:30:00",
                     "color": "#0026ad"
@@ -2814,15 +2808,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Macro et tutorat - AAEP\nMme STARON\nWa.203P",
-                    "start": "2027-02-24T10:30:00",
-                    "end": "2027-02-24T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Macro et tutorat - AAEP\nMme STARON\nNiVésale.030",
                     "start": "2027-02-24T13:30:00",
                     "end": "2027-02-24T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Macro et tutorat - AAEP\nMme STARON\nWa.Hotyat",
+                    "start": "2027-02-24T15:45:00",
+                    "end": "2027-02-24T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -5226,13 +5220,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Comptabilité de gestion - AAEP\nM. DUDANT\nWa.Hotyat",
-                    "start": "2026-10-12T08:15:00",
-                    "end": "2026-10-12T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Comptabilité de gestion - AAEP\nM. VANDERSTEENE\nWa.220W",
+                    "title": "Comptabilité de gestion - AAEP\nM. DUDANT, M. VANDERSTEENE\nWa.Drechsel",
                     "start": "2026-10-12T08:15:00",
                     "end": "2026-10-12T10:15:00",
                     "color": "#0026ad"
@@ -5256,7 +5244,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Comptabilité de gestion - AAEP\nM. VANDERSTEENE\nWa.220W",
+                    "title": "Comptabilité de gestion - AAEP\nM. VANDERSTEENE\nWa.Drechsel",
                     "start": "2026-10-19T08:15:00",
                     "end": "2026-10-19T10:15:00",
                     "color": "#0026ad"
@@ -5280,9 +5268,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Comptabilité de gestion - AAEP\nM. VANDERSTEENE\nWa.220W",
+                    "title": "Comptabilité de gestion - AAEP\nM. VANDERSTEENE\nWa.Drechsel",
                     "start": "2026-11-02T08:15:00",
                     "end": "2026-11-02T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Comptabilité de gestion - AAEP\nMme BUGHIN\nWa.SalleAca",
+                    "start": "2026-11-05T15:45:00",
+                    "end": "2026-11-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -5304,7 +5298,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Comptabilité de gestion - AAEP\nM. VANDERSTEENE\nWa.220W",
+                    "title": "Comptabilité de gestion - AAEP\nM. VANDERSTEENE\nWa.Drechsel",
                     "start": "2026-11-09T08:15:00",
                     "end": "2026-11-09T10:15:00",
                     "color": "#0026ad"
@@ -7333,18 +7327,6 @@
                 },
                 {
                     "title": "Transformation num - AAEP\nM. DELCOUCQ\nWa.029LInfo",
-                    "start": "2026-10-15T08:15:00",
-                    "end": "2026-10-15T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Transformation num - AAEP\nM. DELCOUCQ\nWa.029LInfo",
-                    "start": "2026-10-15T13:30:00",
-                    "end": "2026-10-15T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Transformation num - AAEP\nM. DELCOUCQ\nWa.029LInfo",
                     "start": "2026-10-16T15:45:00",
                     "end": "2026-10-16T17:45:00",
                     "color": "#0026ad"
@@ -8011,12 +7993,6 @@
                     "title": "Econométrie - AAEP\n\nWa.Hotyat",
                     "start": "2026-10-29T13:30:00",
                     "end": "2026-10-29T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Econométrie - AAEP\nMme THIEBAULT\nWa.204P",
-                    "start": "2026-11-04T10:30:00",
-                    "end": "2026-11-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -8854,9 +8830,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiation à l'entrepr. - AAEP\nMme VANDENBULCKE\nWa.230L",
-                    "start": "2026-11-12T10:30:00",
-                    "end": "2026-11-12T12:30:00",
+                    "title": "Initiation à l'entrepr. - AAEP\n\nMme VANDENBULCKE",
+                    "start": "2026-12-03T08:30:00",
+                    "end": "2026-12-03T10:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -9028,7 +9004,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro Micro et tutorat - AAEP\nMme FERAUGE\nWa.220W, Wa.218W, Wa.110111P",
+                    "title": "Intro Micro et tutorat - AAEP\nMme FERAUGE\nWa.220W, Wa.218W, Wa.110111P, Wa.216W",
                     "start": "2026-10-12T12:30:00",
                     "end": "2026-10-12T13:30:00",
                     "color": "#0026ad"
@@ -9918,9 +9894,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "TAF - AAEP\nMme HELDENBERGH\nNiVésale.020",
-                    "start": "2026-10-15T08:15:00",
-                    "end": "2026-10-15T10:15:00",
+                    "title": "TAF - AAEP\n\nMme HELDENBERGH",
+                    "start": "2026-10-23T10:30:00",
+                    "end": "2026-10-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -10033,6 +10009,12 @@
                     "title": "Visite en milieu indus - AAEP\nMme SCOUBEAU\nWa.222L",
                     "start": "2026-11-04T13:30:00",
                     "end": "2026-11-04T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Visite en milieu indus - AAEP\n\nMme SCOUBEAU",
+                    "start": "2026-12-04T10:15:00",
+                    "end": "2026-12-04T16:00:00",
                     "color": "#0026ad"
                 }
             ]
@@ -10176,12 +10158,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Banque et assurance - AAEP\nMme POZNIAK\nWa.110111P",
-                    "start": "2026-11-02T13:30:00",
-                    "end": "2026-11-02T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Banque et assurance - AAEP\nMme POZNIAK\nWa.222L",
                     "start": "2026-11-09T13:30:00",
                     "end": "2026-11-09T15:30:00",
@@ -10203,6 +10179,12 @@
                     "title": "Banque et assurance - AAEP\nMme POZNIAK\nWa.110111P",
                     "start": "2026-12-07T13:30:00",
                     "end": "2026-12-07T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Banque et assurance - AAEP\nMme POZNIAK\nWa.110111P",
+                    "start": "2026-12-08T10:30:00",
+                    "end": "2026-12-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -10270,7 +10252,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business Across Cultures AAEP\nMme CLOSSET\nWa.218W",
+                    "title": "Business Across Cultures AAEP\nMme CLOSSET\nWa.228L",
                     "start": "2027-02-12T08:15:00",
                     "end": "2027-02-12T10:15:00",
                     "color": "#0026ad"
@@ -10288,19 +10270,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business Across Cultures AAEP\nMme CLOSSET\nWa.218W",
+                    "title": "Business Across Cultures AAEP\nMme CLOSSET\nWa.228L",
                     "start": "2027-03-05T08:15:00",
                     "end": "2027-03-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business Across Cultures AAEP\nMme CLOSSET\nWa.218W",
+                    "title": "Business Across Cultures AAEP\nMme CLOSSET\nWa.228L",
                     "start": "2027-03-12T08:15:00",
                     "end": "2027-03-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Business Across Cultures AAEP\nMme CLOSSET\nWa.218W",
+                    "title": "Business Across Cultures AAEP\nMme CLOSSET\nWa.228L",
                     "start": "2027-03-26T08:15:00",
                     "end": "2027-03-26T10:15:00",
                     "color": "#0026ad"
@@ -12299,7 +12281,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Internat Finan. - AAEP\nM. VERMEYLEN\nWa.MarinetteBruwier",
+                    "title": "Internat Finan. - AAEP\nM. VERMEYLEN\nWa.110111P",
                     "start": "2026-10-12T10:30:00",
                     "end": "2026-10-12T12:30:00",
                     "color": "#0026ad"
@@ -13601,15 +13583,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Intern Comm - AAEP\nMme WAIMBERG\nWa.216W",
+                    "title": "English for Intern Comm - AAEP\nMme CLOSSET\nWa.204P",
                     "start": "2026-12-09T13:30:00",
                     "end": "2026-12-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Intern Comm - AAEP\nMme CLOSSET\nWa.204P",
-                    "start": "2026-12-09T13:30:00",
-                    "end": "2026-12-09T15:30:00",
+                    "title": "English for Intern Comm - AAEP\n\n",
+                    "start": "2026-12-10T08:15:00",
+                    "end": "2026-12-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -15525,13 +15507,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiVésale.023, NiVésale.025",
+                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiVésale.025, NiVésale.023",
                     "start": "2026-11-12T13:30:00",
                     "end": "2026-11-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiVésale.023, NiVésale.025",
+                    "title": "Chimie générale I\nM. VAN LEUVEN, Mme GODEAU\nNiVésale.025, NiVésale.023",
                     "start": "2026-11-12T15:45:00",
                     "end": "2026-11-12T17:45:00",
                     "color": "#0026ad"
@@ -16456,8 +16438,8 @@
                 },
                 {
                     "title": "Introduction physique\nM. GOSSUIN\nJo.Stievenart",
-                    "start": "2026-10-15T08:15:00",
-                    "end": "2026-10-15T10:15:00",
+                    "start": "2026-10-15T08:00:00",
+                    "end": "2026-10-15T10:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -16769,7 +16751,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physique Biomed I\nM. VUONG\nNiVésale.023, NiVésale.LaFontaine, NiVésale.025, NiGA.VanGogh, Jo.Stievenart, NiGA.Gutenberg, NiVésale.020",
+                    "title": "Physique Biomed I\nM. VUONG\nNiVésale.023, NiVésale.LaFontaine, NiVésale.020, NiVésale.025, NiGA.VanGogh, Jo.Stievenart, NiGA.Gutenberg",
                     "start": "2026-10-30T08:15:00",
                     "end": "2026-10-30T10:15:00",
                     "color": "#0026ad"
@@ -17343,15 +17325,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Reméd. Chimie générale I\nMme GODEAU\nWa.SalleAca, NiVésale.LaFontaine",
-                    "start": "2026-10-13T10:30:00",
-                    "end": "2026-10-13T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Reméd. Chimie générale I\nM. LAMBOTTE, M. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT, M. HENRARD, Mme PAMART\nNiGA.Plisnier",
                     "start": "2026-10-19T16:00:00",
                     "end": "2026-10-19T18:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Reméd. Chimie générale I\nMme GODEAU\nJo.Stievenart",
+                    "start": "2026-10-26T13:30:00",
+                    "end": "2026-10-26T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -25163,7 +25145,44 @@
                     "color": "#0026ad"
                 }
             ],
-            "Preclinical Models Cancerology": [],
+            "Preclinical Models Cancerology": [
+                {
+                    "title": "Preclinical Models Cancerology\nMme MASCAUX\nNiB6.06",
+                    "start": "2026-10-20T15:45:00",
+                    "end": "2026-10-20T18:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Preclinical Models Cancerology\nMme MASCAUX\nNiVésale.030",
+                    "start": "2026-10-21T08:15:00",
+                    "end": "2026-10-21T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Preclinical Models Cancerology\nMme MASCAUX\nNiB6.18",
+                    "start": "2026-10-24T08:15:00",
+                    "end": "2026-10-24T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Preclinical Models Cancerology\nMme MASCAUX\nNiB6.06",
+                    "start": "2026-10-20T15:45:00",
+                    "end": "2026-10-20T18:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Preclinical Models Cancerology\nMme MASCAUX\nNiVésale.030",
+                    "start": "2026-10-21T08:15:00",
+                    "end": "2026-10-21T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Preclinical Models Cancerology\nMme MASCAUX\nNiB6.18",
+                    "start": "2026-10-24T08:15:00",
+                    "end": "2026-10-24T12:30:00",
+                    "color": "#0026ad"
+                }
+            ],
             "Préparation technique mémoire": [
                 {
                     "title": "Préparation technique mémoire\nMme LEMOINE, M. JOURNE\nNiP.0C14",
@@ -26894,6 +26913,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Drugs & Strategies Cancer 1\nM. JOURNE\nNiGA.Pascal",
+                    "start": "2026-10-22T15:45:00",
+                    "end": "2026-10-22T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Drugs & Strategies Cancer 1\nM. JOURNE\nNiP.3E11",
                     "start": "2026-09-15T08:15:00",
                     "end": "2026-09-15T10:15:00",
@@ -26909,6 +26934,12 @@
                     "title": "Drugs & Strategies Cancer 1\nM. JOURNE\nNiGA.Pascal",
                     "start": "2026-10-13T08:15:00",
                     "end": "2026-10-13T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Drugs & Strategies Cancer 1\nM. JOURNE\nNiGA.Pascal",
+                    "start": "2026-10-22T15:45:00",
+                    "end": "2026-10-22T17:45:00",
                     "color": "#0026ad"
                 }
             ],
@@ -27298,6 +27329,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Laboratory Methods Cancero.\nM. JOURNE\nNiGA.Pascal",
+                    "start": "2026-10-28T10:30:00",
+                    "end": "2026-10-28T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Laboratory Methods Cancero.\nM. JOURNE\nNiB6.06",
                     "start": "2026-11-04T10:30:00",
                     "end": "2026-11-04T12:30:00",
@@ -27325,6 +27362,12 @@
                     "title": "Laboratory Methods Cancero.\nM. JOURNE\nNiGA.Pascal",
                     "start": "2026-10-21T10:30:00",
                     "end": "2026-10-21T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Laboratory Methods Cancero.\nM. JOURNE\nNiGA.Pascal",
+                    "start": "2026-10-28T10:30:00",
+                    "end": "2026-10-28T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -29110,7 +29153,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bio. gen. I\nM. GILLAN\nNiVésale.LaFontaine",
+                    "title": "Bio. gen. I\nM. GILLAN\nNiGA.Curie",
                     "start": "2026-10-22T10:30:00",
                     "end": "2026-10-22T12:30:00",
                     "color": "#0026ad"
@@ -31586,7 +31629,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nMme DELMOTTE\nNiBSM.002.Knight",
+                    "title": "English for Science, part 1\nMme VAN LANCKER, Mme DELMOTTE\nNiBSM.008.Kwolek",
                     "start": "2026-10-12T08:15:00",
                     "end": "2026-10-12T10:15:00",
                     "color": "#0026ad"
@@ -34723,7 +34766,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chimie du solide\nM. THIRY\nNiMen.Pauling",
+                    "title": "Chimie du solide\nM. THIRY\nNiBSM.015.Feynman",
                     "start": "2026-12-11T08:15:00",
                     "end": "2026-12-11T10:15:00",
                     "color": "#0026ad"
@@ -36520,7 +36563,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Corrosion Science\nMme OLIVIER, Mme TOURNAY-DUFRENNE\nEpB02.115.SDMA.Lab1",
+                    "title": "Corrosion Science\nMme TOURNAY-DUFRENNE, Mme OLIVIER\nEpB02.115.SDMA.Lab1",
                     "start": "2027-04-05T08:30:00",
                     "end": "2027-04-05T11:30:00",
                     "color": "#0026ad"
@@ -36776,13 +36819,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiP.3E20",
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.010.Lonsdale",
+                    "start": "2026-11-04T13:45:00",
+                    "end": "2026-11-04T15:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.008.Kwolek",
                     "start": "2026-11-09T08:15:00",
                     "end": "2026-11-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiP.3E20",
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.008.Kwolek",
                     "start": "2026-11-12T15:45:00",
                     "end": "2026-11-12T17:45:00",
                     "color": "#0026ad"
@@ -36818,13 +36867,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiP.3E20",
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.010.Lonsdale",
+                    "start": "2026-11-04T13:45:00",
+                    "end": "2026-11-04T15:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.008.Kwolek",
                     "start": "2026-11-09T08:15:00",
                     "end": "2026-11-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiP.3E20",
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.008.Kwolek",
                     "start": "2026-11-12T15:45:00",
                     "end": "2026-11-12T17:45:00",
                     "color": "#0026ad"
@@ -36860,13 +36915,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiP.3E20",
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.010.Lonsdale",
+                    "start": "2026-11-04T13:45:00",
+                    "end": "2026-11-04T15:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.008.Kwolek",
                     "start": "2026-11-09T08:15:00",
                     "end": "2026-11-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiP.3E20",
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.008.Kwolek",
                     "start": "2026-11-12T15:45:00",
                     "end": "2026-11-12T17:45:00",
                     "color": "#0026ad"
@@ -36930,13 +36991,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
+                    "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2026-11-16T13:30:00",
                     "end": "2026-11-16T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
+                    "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2026-11-23T13:30:00",
                     "end": "2026-11-23T17:30:00",
                     "color": "#0026ad"
@@ -36948,19 +37009,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
+                    "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2026-11-30T13:30:00",
                     "end": "2026-11-30T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\nMme HENOUMONT, Mme LAURENT\nNiP.0A11",
+                    "title": "Introd.chim.médicinale\nMme LAURENT, Mme HENOUMONT\nNiP.0A11",
                     "start": "2026-12-01T08:15:00",
                     "end": "2026-12-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Introd.chim.médicinale\n\nMme HENOUMONT, Mme LAURENT",
+                    "title": "Introd.chim.médicinale\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2026-12-07T13:30:00",
                     "end": "2026-12-07T17:30:00",
                     "color": "#0026ad"
@@ -37200,13 +37261,13 @@
             ],
             "Méth invest interact non cov": [
                 {
-                    "title": "Méth invest interact non cov\n\nMme HENOUMONT, Mme LAURENT",
+                    "title": "Méth invest interact non cov\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2026-11-04T08:15:00",
                     "end": "2026-11-04T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth invest interact non cov\n\nMme HENOUMONT, Mme LAURENT",
+                    "title": "Méth invest interact non cov\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2026-11-12T13:30:00",
                     "end": "2026-11-12T15:30:00",
                     "color": "#0026ad"
@@ -37218,19 +37279,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth invest interact non cov\n\nMme HENOUMONT, Mme LAURENT",
+                    "title": "Méth invest interact non cov\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2026-12-02T08:15:00",
                     "end": "2026-12-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth invest interact non cov\n\nMme HENOUMONT, Mme LAURENT",
+                    "title": "Méth invest interact non cov\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2026-12-09T08:15:00",
                     "end": "2026-12-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth invest interact non cov\n\nMme HENOUMONT, Mme LAURENT",
+                    "title": "Méth invest interact non cov\n\nMme LAURENT, Mme HENOUMONT",
                     "start": "2026-12-16T08:15:00",
                     "end": "2026-12-16T10:15:00",
                     "color": "#0026ad"
@@ -37338,43 +37399,43 @@
             ],
             "Modélisation mol": [
                 {
-                    "title": "Modélisation mol\nM. SURIN, M. BROCORENS\nNiP.3E10",
+                    "title": "Modélisation mol\nM. BROCORENS, M. SURIN\nNiP.3E10",
                     "start": "2026-09-21T13:30:00",
                     "end": "2026-09-21T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Modélisation mol\nM. SURIN, M. BROCORENS\nNiP.3E10",
+                    "title": "Modélisation mol\nM. BROCORENS, M. SURIN\nNiP.3E10",
                     "start": "2026-10-05T13:30:00",
                     "end": "2026-10-05T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Modélisation mol\nM. SURIN, M. BROCORENS\nNiP.3E10",
+                    "title": "Modélisation mol\nM. BROCORENS, M. SURIN\nNiP.3E10",
                     "start": "2026-10-07T13:30:00",
                     "end": "2026-10-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Modélisation mol\nM. SURIN, M. BROCORENS\nNiP.3E10",
+                    "title": "Modélisation mol\nM. BROCORENS, M. SURIN\nNiP.3E10",
                     "start": "2026-10-12T13:30:00",
                     "end": "2026-10-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Modélisation mol\nM. SURIN, M. BROCORENS\nNiP.3E10",
+                    "title": "Modélisation mol\nM. BROCORENS, M. SURIN\nNiP.3E10",
                     "start": "2026-10-19T13:30:00",
                     "end": "2026-10-19T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Modélisation mol\nM. SURIN, M. BROCORENS\nNiP.3E10",
+                    "title": "Modélisation mol\nM. BROCORENS, M. SURIN\nNiP.3E10",
                     "start": "2026-11-02T13:30:00",
                     "end": "2026-11-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Modélisation mol\nM. SURIN, M. BROCORENS\nNiP.3E20",
+                    "title": "Modélisation mol\nM. BROCORENS, M. SURIN\nNiP.3E20",
                     "start": "2026-11-09T10:30:00",
                     "end": "2026-11-09T12:30:00",
                     "color": "#0026ad"
@@ -37382,19 +37443,25 @@
             ],
             "Modélisation moléculaire appli": [
                 {
-                    "title": "Modélisation moléculaire appli\n\nM. SURIN, M. BROCORENS",
+                    "title": "Modélisation moléculaire appli\nM. LEMAUR, M. BROCORENS\nNiBSM.015.Feynman",
+                    "start": "2026-11-03T10:30:00",
+                    "end": "2026-11-03T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Modélisation moléculaire appli\n\nM. BROCORENS, M. SURIN",
                     "start": "2026-11-20T13:30:00",
                     "end": "2026-11-20T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Modélisation moléculaire appli\n\nM. SURIN, M. BROCORENS",
+                    "title": "Modélisation moléculaire appli\n\nM. BROCORENS, M. SURIN",
                     "start": "2026-11-27T13:30:00",
                     "end": "2026-11-27T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Modélisation moléculaire appli\n\nM. SURIN, M. BROCORENS",
+                    "title": "Modélisation moléculaire appli\n\nM. BROCORENS, M. SURIN",
                     "start": "2026-12-04T13:30:00",
                     "end": "2026-12-04T17:45:00",
                     "color": "#0026ad"
@@ -37770,7 +37837,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie des surfaces\nM. THIRY, Mme BOL\nNiMen.Lauterbur",
+                    "title": "Physico-chimie des surfaces\nMme BOL, M. THIRY\nNiMen.Lauterbur",
                     "start": "2027-03-17T13:45:00",
                     "end": "2027-03-17T18:45:00",
                     "color": "#0026ad"
@@ -37794,7 +37861,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie des surfaces\nM. THIRY, Mme BOL\nNiMen.Lauterbur",
+                    "title": "Physico-chimie des surfaces\nMme BOL, M. THIRY\nNiMen.Lauterbur",
                     "start": "2027-04-05T13:30:00",
                     "end": "2027-04-05T18:30:00",
                     "color": "#0026ad"
@@ -37806,7 +37873,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie des surfaces\nM. THIRY, Mme BOL\nNiMen.Lauterbur",
+                    "title": "Physico-chimie des surfaces\nMme BOL, M. THIRY\nNiMen.Lauterbur",
                     "start": "2027-04-13T13:00:00",
                     "end": "2027-04-13T18:00:00",
                     "color": "#0026ad"
@@ -37830,7 +37897,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Physico-chimie des surfaces\nM. THIRY, Mme BOL\nNiMen.Lauterbur",
+                    "title": "Physico-chimie des surfaces\nMme BOL, M. THIRY\nNiMen.Lauterbur",
                     "start": "2027-04-16T08:30:00",
                     "end": "2027-04-16T13:30:00",
                     "color": "#0026ad"
@@ -38392,7 +38459,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.016.Dresselhaus",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.016.Dresselhaus",
                     "start": "2027-03-24T10:30:00",
                     "end": "2027-03-24T12:30:00",
                     "color": "#0026ad"
@@ -38410,7 +38477,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.016.Dresselhaus",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.016.Dresselhaus",
                     "start": "2027-04-02T15:45:00",
                     "end": "2027-04-02T17:45:00",
                     "color": "#0026ad"
@@ -38440,7 +38507,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.015.Feynman",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.015.Feynman",
                     "start": "2027-04-15T10:30:00",
                     "end": "2027-04-15T12:30:00",
                     "color": "#0026ad"
@@ -38458,13 +38525,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\n\nM. ABEBE, M. MAES",
+                    "title": "Semiconductors\n\nM. MAES, M. ABEBE",
                     "start": "2027-05-04T13:30:00",
                     "end": "2027-05-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
                     "start": "2027-05-07T13:30:00",
                     "end": "2027-05-07T15:30:00",
                     "color": "#0026ad"
@@ -38476,7 +38543,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
                     "start": "2027-05-12T15:45:00",
                     "end": "2027-05-12T17:45:00",
                     "color": "#0026ad"
@@ -38488,7 +38555,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Semiconductors\nM. ABEBE, M. MAES\nNiBSM.004.Penrose",
+                    "title": "Semiconductors\nM. MAES, M. ABEBE\nNiBSM.004.Penrose",
                     "start": "2027-05-14T13:30:00",
                     "end": "2027-05-14T15:30:00",
                     "color": "#0026ad"
@@ -39082,7 +39149,7 @@
             ],
             "Eff syst educ": [
                 {
-                    "title": "Eff syst educ\n\nMme LOTHAIRE",
+                    "title": "Eff syst educ\nMme LOTHAIRE\nHo.12",
                     "start": "2026-10-14T13:00:00",
                     "end": "2026-10-14T16:00:00",
                     "color": "#0026ad"
@@ -39227,73 +39294,73 @@
             ],
             "Defi IA": [
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-10-01T18:00:00",
                     "end": "2026-10-01T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-10-08T18:00:00",
                     "end": "2026-10-08T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-10-15T18:00:00",
                     "end": "2026-10-15T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-10-22T18:00:00",
                     "end": "2026-10-22T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-10-29T18:00:00",
                     "end": "2026-10-29T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-11-05T18:00:00",
                     "end": "2026-11-05T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-11-12T18:00:00",
                     "end": "2026-11-12T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-11-19T18:00:00",
                     "end": "2026-11-19T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-11-26T18:00:00",
                     "end": "2026-11-26T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-12-03T18:00:00",
                     "end": "2026-12-03T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-12-10T18:00:00",
                     "end": "2026-12-10T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Defi IA\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
+                    "title": "Defi IA\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Wüster, NiDeVinci.Montague",
                     "start": "2026-12-17T18:00:00",
                     "end": "2026-12-17T21:00:00",
                     "color": "#0026ad"
@@ -39549,145 +39616,145 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-09T13:30:00",
                     "end": "2026-10-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-09T15:45:00",
                     "end": "2026-10-09T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-15T13:30:00",
                     "end": "2026-10-15T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-15T15:45:00",
                     "end": "2026-10-15T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-16T13:30:00",
                     "end": "2026-10-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-16T15:45:00",
                     "end": "2026-10-16T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-22T13:30:00",
                     "end": "2026-10-22T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-22T15:45:00",
                     "end": "2026-10-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-23T13:30:00",
                     "end": "2026-10-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-23T15:45:00",
                     "end": "2026-10-23T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-30T13:30:00",
                     "end": "2026-10-30T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-10-30T15:45:00",
                     "end": "2026-10-30T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-11-06T13:30:00",
                     "end": "2026-11-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-11-06T15:45:00",
                     "end": "2026-11-06T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-11-13T13:30:00",
                     "end": "2026-11-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-11-13T15:45:00",
                     "end": "2026-11-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-11-20T13:30:00",
                     "end": "2026-11-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-11-20T15:45:00",
                     "end": "2026-11-20T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-11-27T13:30:00",
                     "end": "2026-11-27T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-11-27T15:45:00",
                     "end": "2026-11-27T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-12-04T13:30:00",
                     "end": "2026-12-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-12-04T15:45:00",
                     "end": "2026-12-04T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-12-11T13:30:00",
                     "end": "2026-12-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "QualSécEnv\nM. DELVOSALLE, M. BROHEZ\nEpB01.116.GPRO.SC2",
+                    "title": "QualSécEnv\nM. BROHEZ, M. DELVOSALLE\nEpB01.116.GPRO.SC2",
                     "start": "2026-12-11T15:45:00",
                     "end": "2026-12-11T17:45:00",
                     "color": "#0026ad"
@@ -39695,43 +39762,43 @@
             ],
             "SéminIntArtf": [
                 {
-                    "title": "SéminIntArtf\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Mirzakhani",
+                    "title": "SéminIntArtf\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Mirzakhani",
                     "start": "2026-09-29T18:00:00",
                     "end": "2026-09-29T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SéminIntArtf\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Mirzakhani",
+                    "title": "SéminIntArtf\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Mirzakhani",
                     "start": "2026-10-06T18:00:00",
                     "end": "2026-10-06T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SéminIntArtf\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Mirzakhani",
+                    "title": "SéminIntArtf\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Mirzakhani",
                     "start": "2026-10-13T18:00:00",
                     "end": "2026-10-13T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SéminIntArtf\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Mirzakhani",
+                    "title": "SéminIntArtf\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Mirzakhani",
                     "start": "2026-10-20T18:00:00",
                     "end": "2026-10-20T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SéminIntArtf\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Mirzakhani",
+                    "title": "SéminIntArtf\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Mirzakhani",
                     "start": "2026-10-27T18:00:00",
                     "end": "2026-10-27T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SéminIntArtf\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Mirzakhani",
+                    "title": "SéminIntArtf\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Mirzakhani",
                     "start": "2026-11-03T18:00:00",
                     "end": "2026-11-03T20:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SéminIntArtf\nM. DUPONT, M. MAHMOUDI, M. BEN TAIEB, M. SIEBERT, M. DUTOIT\nNiDeVinci.Mirzakhani",
+                    "title": "SéminIntArtf\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Mirzakhani",
                     "start": "2026-12-01T18:00:00",
                     "end": "2026-12-01T19:00:00",
                     "color": "#0026ad"
@@ -39769,7 +39836,7 @@
             ],
             "Eff syst educ": [
                 {
-                    "title": "Eff syst educ\n\nMme LOTHAIRE",
+                    "title": "Eff syst educ\nMme LOTHAIRE\nHo.12",
                     "start": "2026-10-14T13:00:00",
                     "end": "2026-10-14T16:00:00",
                     "color": "#0026ad"
@@ -39991,6 +40058,12 @@
                     "title": "_\n\nNiDeVinci.Mirzakhani, NiGA.Turing",
                     "start": "2026-09-24T10:30:00",
                     "end": "2026-09-24T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "_\n\nNiGA.Pascal",
+                    "start": "2026-10-20T12:30:00",
+                    "end": "2026-10-20T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -41854,6 +41927,18 @@
         "BAB2": {
             "_": [
                 {
+                    "title": "_\n\nHo.25",
+                    "start": "2026-10-15T18:00:00",
+                    "end": "2026-10-15T20:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "_\n\nNiGA.Pascal",
+                    "start": "2026-10-20T18:00:00",
+                    "end": "2026-10-20T20:00:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "_\n\n",
                     "start": "2027-04-14T12:30:00",
                     "end": "2027-04-14T15:45:00",
@@ -42148,7 +42233,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English for Science, part 1\nMme DELMOTTE\nNiBSM.002.Knight",
+                    "title": "English for Science, part 1\nMme DELMOTTE\nNiBSM.008.Kwolek",
                     "start": "2026-10-12T10:30:00",
                     "end": "2026-10-12T12:30:00",
                     "color": "#0026ad"
@@ -43106,73 +43191,73 @@
             ],
             "Projet de programmation": [
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-02-02T15:45:00",
                     "end": "2027-02-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-02-09T15:45:00",
                     "end": "2027-02-09T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-02-16T15:45:00",
                     "end": "2027-02-16T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-02-23T10:30:00",
                     "end": "2027-02-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-03-02T10:30:00",
                     "end": "2027-03-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-03-09T10:30:00",
                     "end": "2027-03-09T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-03-23T10:30:00",
                     "end": "2027-03-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-03-30T10:30:00",
                     "end": "2027-03-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-04-06T10:30:00",
                     "end": "2027-04-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-04-13T10:30:00",
                     "end": "2027-04-13T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-05-04T10:30:00",
                     "end": "2027-05-04T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de programmation\nM. FOUCART, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Projet de programmation\nM. DEVILLEZ, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-05-11T10:30:00",
                     "end": "2027-05-11T12:30:00",
                     "color": "#0026ad"
@@ -43504,13 +43589,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiBSM.012.Hermann",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiBSM.012.Hermann",
                     "start": "2026-09-22T15:45:00",
                     "end": "2026-09-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Vaughan",
                     "start": "2026-09-29T15:45:00",
                     "end": "2026-09-29T17:45:00",
                     "color": "#0026ad"
@@ -43522,7 +43607,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Vaughan",
                     "start": "2026-10-06T15:45:00",
                     "end": "2026-10-06T17:45:00",
                     "color": "#0026ad"
@@ -43534,7 +43619,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Vaughan",
                     "start": "2026-10-13T15:45:00",
                     "end": "2026-10-13T17:45:00",
                     "color": "#0026ad"
@@ -43546,7 +43631,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Vaughan",
                     "start": "2026-10-20T15:45:00",
                     "end": "2026-10-20T17:45:00",
                     "color": "#0026ad"
@@ -43558,7 +43643,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Vaughan",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Vaughan",
                     "start": "2026-11-03T15:45:00",
                     "end": "2026-11-03T17:45:00",
                     "color": "#0026ad"
@@ -43570,7 +43655,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Russel",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-11-10T13:30:00",
                     "end": "2026-11-10T15:30:00",
                     "color": "#0026ad"
@@ -43582,7 +43667,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Russel",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-11-18T13:30:00",
                     "end": "2026-11-18T15:30:00",
                     "color": "#0026ad"
@@ -43594,7 +43679,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Russel",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-11-25T13:30:00",
                     "end": "2026-11-25T15:30:00",
                     "color": "#0026ad"
@@ -43606,7 +43691,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Russel",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-12-02T13:30:00",
                     "end": "2026-12-02T15:30:00",
                     "color": "#0026ad"
@@ -43618,7 +43703,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Russel",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-12-09T13:30:00",
                     "end": "2026-12-09T15:30:00",
                     "color": "#0026ad"
@@ -43630,7 +43715,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Systèmes d'exploitation\nM. VANDENHOVE, M. DEVILLEZ\nNiDeVinci.Russel",
+                    "title": "Systèmes d'exploitation\nM. DEVILLEZ, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2026-12-16T13:30:00",
                     "end": "2026-12-16T15:30:00",
                     "color": "#0026ad"
@@ -45495,7 +45580,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données II\nMme BRUYERE\nNiB6.18",
+                    "title": "Structures de données II\nMme BRUYERE\nNiBSM.002.Knight",
                     "start": "2026-10-09T10:30:00",
                     "end": "2026-10-09T12:30:00",
                     "color": "#0026ad"
@@ -47279,7 +47364,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données II\nMme BRUYERE\nNiB6.18",
+                    "title": "Structures de données II\nMme BRUYERE\nNiBSM.002.Knight",
                     "start": "2026-10-09T10:30:00",
                     "end": "2026-10-09T12:30:00",
                     "color": "#0026ad"
@@ -47427,7 +47512,7 @@
             ],
             "Anglais 1": [
                 {
-                    "title": "Anglais 1\nMme DASTY\nCha.ZG.N.1.01",
+                    "title": "Anglais 1\nMme DASTY\nCha.ZG.S.1.07",
                     "start": "2027-02-04T18:00:00",
                     "end": "2027-02-04T21:00:00",
                     "color": "#0026ad"
@@ -47463,9 +47548,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Anglais 1\nMme DASTY\nCha.ZG.S.2.03",
+                    "title": "Anglais 1\n\nMme DASTY",
                     "start": "2027-04-08T18:00:00",
                     "end": "2027-04-08T21:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Anglais 1\nMme DASTY\nCha.ZG.S.2.15",
+                    "start": "2027-04-15T18:00:00",
+                    "end": "2027-04-15T21:00:00",
                     "color": "#0026ad"
                 }
             ],
@@ -47609,61 +47700,61 @@
             ],
             "Mod.log.orientée obj": [
                 {
-                    "title": "Mod.log.orientée obj\nM. CARDOEN, M. MENS\nCha.ZG.S.2.16",
+                    "title": "Mod.log.orientée obj\nM. MENS, M. CARDOEN\nCha.ZG.S.2.16",
                     "start": "2026-09-23T18:00:00",
                     "end": "2026-09-23T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mod.log.orientée obj\nM. CARDOEN, M. MENS\nCha.ZG.S.2.05",
+                    "title": "Mod.log.orientée obj\nM. MENS, M. CARDOEN\nCha.ZG.S.2.05",
                     "start": "2026-09-25T18:00:00",
                     "end": "2026-09-25T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mod.log.orientée obj\nM. CARDOEN, M. MENS\nCha.ZG.N.3.12, Cha.ZG.N.3.11",
+                    "title": "Mod.log.orientée obj\nM. MENS, M. CARDOEN\nCha.ZG.N.3.11, Cha.ZG.N.3.12",
                     "start": "2026-10-02T18:00:00",
                     "end": "2026-10-02T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mod.log.orientée obj\nM. CARDOEN, M. MENS\nCha.ZG.S.2.16",
+                    "title": "Mod.log.orientée obj\nM. MENS, M. CARDOEN\nCha.ZG.S.2.16",
                     "start": "2026-10-07T18:00:00",
                     "end": "2026-10-07T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mod.log.orientée obj\nM. CARDOEN, M. MENS\nCha.ZG.S.2.16",
+                    "title": "Mod.log.orientée obj\nM. MENS, M. CARDOEN\nCha.ZG.S.2.16",
                     "start": "2026-10-14T18:00:00",
                     "end": "2026-10-14T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mod.log.orientée obj\nM. CARDOEN, M. MENS\nCha.ZG.S.2.05",
+                    "title": "Mod.log.orientée obj\nM. MENS, M. CARDOEN\nCha.ZG.S.2.05",
                     "start": "2026-10-16T18:00:00",
                     "end": "2026-10-16T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mod.log.orientée obj\nM. CARDOEN, M. MENS\nCha.ZG.N.3.12, Cha.ZG.N.3.11",
+                    "title": "Mod.log.orientée obj\nM. MENS, M. CARDOEN\nCha.ZG.W.2.02",
                     "start": "2026-10-21T18:00:00",
                     "end": "2026-10-21T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mod.log.orientée obj\nM. CARDOEN, M. MENS\nCha.ZG.S.2.16",
+                    "title": "Mod.log.orientée obj\nM. MENS, M. CARDOEN\nCha.ZG.S.2.16",
                     "start": "2026-11-04T18:00:00",
                     "end": "2026-11-04T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mod.log.orientée obj\nM. CARDOEN, M. MENS\nCha.ZG.N.3.12, Cha.ZG.N.3.11",
+                    "title": "Mod.log.orientée obj\nM. MENS, M. CARDOEN\nCha.ZG.S.2.05",
                     "start": "2026-11-06T18:00:00",
                     "end": "2026-11-06T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mod.log.orientée obj\nM. CARDOEN, M. MENS\nCha.ZG.N.3.12, Cha.ZG.N.3.11",
+                    "title": "Mod.log.orientée obj\nM. MENS, M. CARDOEN\nCha.ZG.S.2.16",
                     "start": "2026-11-13T18:00:00",
                     "end": "2026-11-13T21:00:00",
                     "color": "#0026ad"
@@ -47775,7 +47866,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Strat.et pol.en res hum - AAEP\nMme DUPONT\nCha.ZG.S.2.05",
+                    "title": "Strat.et pol.en res hum - AAEP\nMme DUPONT\nCha.ZG.S.0.05",
                     "start": "2026-10-12T18:00:00",
                     "end": "2026-10-12T21:00:00",
                     "color": "#0026ad"
@@ -48349,12 +48440,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AdvTopArtifIntel\nM. DUPONT\nHo.23",
-                    "start": "2026-10-12T10:30:00",
-                    "end": "2026-10-12T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "AdvTopArtifIntel\nM. DUPONT\nHo.IGLab",
                     "start": "2026-10-12T13:30:00",
                     "end": "2026-10-12T16:30:00",
@@ -48382,6 +48467,12 @@
                     "title": "AdvTopArtifIntel\nM. DUPONT\nHo.IGLab",
                     "start": "2026-11-12T08:15:00",
                     "end": "2026-11-12T11:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "AdvTopArtifIntel\nM. DUPONT\nHo.23",
+                    "start": "2026-11-17T08:15:00",
+                    "end": "2026-11-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -50876,9 +50967,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiP.3E10",
-                    "start": "2027-03-23T10:30:00",
-                    "end": "2027-03-23T12:30:00",
+                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiDeVinci.Vaughan",
+                    "start": "2027-03-22T15:45:00",
+                    "end": "2027-03-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -50888,9 +50979,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiP.3E10",
-                    "start": "2027-03-30T10:30:00",
-                    "end": "2027-03-30T12:30:00",
+                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiBSM.016.Dresselhaus",
+                    "start": "2027-03-31T10:30:00",
+                    "end": "2027-03-31T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -50924,9 +51015,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiP.3E10",
-                    "start": "2027-05-04T10:30:00",
-                    "end": "2027-05-04T12:30:00",
+                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiBSM.002.Knight",
+                    "start": "2027-04-16T13:30:00",
+                    "end": "2027-04-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -51467,12 +51558,6 @@
                 },
                 {
                     "title": "NetworkSecMan\nM. MEGRET\nHo.22",
-                    "start": "2026-10-16T10:30:00",
-                    "end": "2026-10-16T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "NetworkSecMan\nM. MEGRET\nHo.22",
                     "start": "2026-10-20T08:15:00",
                     "end": "2026-10-20T10:15:00",
                     "color": "#0026ad"
@@ -51499,6 +51584,12 @@
                     "title": "NetworkSecMan\nM. MEGRET\nHo.22",
                     "start": "2026-11-19T10:30:00",
                     "end": "2026-11-19T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "NetworkSecMan\nM. MEGRET\nHo.22",
+                    "start": "2026-11-26T10:30:00",
+                    "end": "2026-11-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -53850,12 +53941,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AdvTopArtifIntel\nM. DUPONT\nHo.23",
-                    "start": "2026-10-12T10:30:00",
-                    "end": "2026-10-12T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "AdvTopArtifIntel\nM. DUPONT\nHo.IGLab",
                     "start": "2026-10-12T13:30:00",
                     "end": "2026-10-12T16:30:00",
@@ -53883,6 +53968,12 @@
                     "title": "AdvTopArtifIntel\nM. DUPONT\nHo.IGLab",
                     "start": "2026-11-12T08:15:00",
                     "end": "2026-11-12T11:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "AdvTopArtifIntel\nM. DUPONT\nHo.23",
+                    "start": "2026-11-17T08:15:00",
+                    "end": "2026-11-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -53940,12 +54031,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "AdvTopArtifIntel\nM. DUPONT\nHo.23",
-                    "start": "2026-10-12T10:30:00",
-                    "end": "2026-10-12T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "AdvTopArtifIntel\nM. DUPONT\nHo.IGLab",
                     "start": "2026-10-12T13:30:00",
                     "end": "2026-10-12T16:30:00",
@@ -53973,6 +54058,12 @@
                     "title": "AdvTopArtifIntel\nM. DUPONT\nHo.IGLab",
                     "start": "2026-11-12T08:15:00",
                     "end": "2026-11-12T11:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "AdvTopArtifIntel\nM. DUPONT\nHo.23",
+                    "start": "2026-11-17T08:15:00",
+                    "end": "2026-11-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -56767,9 +56858,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiP.3E10",
-                    "start": "2027-03-23T10:30:00",
-                    "end": "2027-03-23T12:30:00",
+                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiDeVinci.Vaughan",
+                    "start": "2027-03-22T15:45:00",
+                    "end": "2027-03-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -56779,9 +56870,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiP.3E10",
-                    "start": "2027-03-30T10:30:00",
-                    "end": "2027-03-30T12:30:00",
+                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiBSM.016.Dresselhaus",
+                    "start": "2027-03-31T10:30:00",
+                    "end": "2027-03-31T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -56815,9 +56906,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiP.3E10",
-                    "start": "2027-05-04T10:30:00",
-                    "end": "2027-05-04T12:30:00",
+                    "title": "Méth. formelles application\nMme CAPON, M. RANDOUR\nNiBSM.002.Knight",
+                    "start": "2027-04-16T13:30:00",
+                    "end": "2027-04-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -57358,12 +57449,6 @@
                 },
                 {
                     "title": "NetworkSecMan\nM. MEGRET\nHo.22",
-                    "start": "2026-10-16T10:30:00",
-                    "end": "2026-10-16T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "NetworkSecMan\nM. MEGRET\nHo.22",
                     "start": "2026-10-20T08:15:00",
                     "end": "2026-10-20T10:15:00",
                     "color": "#0026ad"
@@ -57390,6 +57475,12 @@
                     "title": "NetworkSecMan\nM. MEGRET\nHo.22",
                     "start": "2026-11-19T10:30:00",
                     "end": "2026-11-19T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "NetworkSecMan\nM. MEGRET\nHo.22",
+                    "start": "2026-11-26T10:30:00",
+                    "end": "2026-11-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -59032,6 +59123,12 @@
                     "title": "_\n\nNiDeVinci.Mirzakhani, NiDeVinci.Vaughan, NiDeVinci.Russel",
                     "start": "2026-09-23T10:30:00",
                     "end": "2026-09-23T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "_\n\nNiGA.Pascal",
+                    "start": "2026-10-20T12:30:00",
+                    "end": "2026-10-20T13:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -63423,7 +63520,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Topologie\nM. BROUETTE\nNiBSM.008.Kwolek",
+                    "title": "Topologie\nM. BROUETTE\nNiBSM.002.Knight",
                     "start": "2026-10-12T10:30:00",
                     "end": "2026-10-12T12:30:00",
                     "color": "#0026ad"
@@ -64520,12 +64617,6 @@
                     "title": "Compilation\nMme BRUYERE\nNiP.0A11",
                     "start": "2027-03-31T13:30:00",
                     "end": "2027-03-31T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Compilation\nMme BRUYERE\nNiP.0A11",
-                    "start": "2027-04-05T08:15:00",
-                    "end": "2027-04-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -65752,8 +65843,8 @@
                 },
                 {
                     "title": "Logique Math & intro thema B\nM. RANDOUR\nNiBSM.002.Knight",
-                    "start": "2027-02-26T15:45:00",
-                    "end": "2027-02-26T17:45:00",
+                    "start": "2027-02-24T10:30:00",
+                    "end": "2027-02-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -65763,9 +65854,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique Math & intro thema B\nM. RANDOUR\nNiP.3E10",
-                    "start": "2027-03-09T15:45:00",
-                    "end": "2027-03-09T17:45:00",
+                    "title": "Logique Math & intro thema B\nM. RANDOUR\nNiBSM.002.Knight",
+                    "start": "2027-03-11T13:30:00",
+                    "end": "2027-03-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -65787,15 +65878,15 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique Math & intro thema B\nM. RANDOUR\nNiP.3E10",
-                    "start": "2027-04-06T15:45:00",
-                    "end": "2027-04-06T17:45:00",
+                    "title": "Logique Math & intro thema B\nM. RANDOUR\nNiBSM.016.Dresselhaus",
+                    "start": "2027-04-05T08:15:00",
+                    "end": "2027-04-05T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique Math & intro thema B\nMme CAPON\nNiDeVinci.Vaughan",
-                    "start": "2027-04-09T15:45:00",
-                    "end": "2027-04-09T17:45:00",
+                    "title": "Logique Math & intro thema B\nMme CAPON\nNiGA.Turing",
+                    "start": "2027-04-07T13:30:00",
+                    "end": "2027-04-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -65811,9 +65902,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Logique Math & intro thema B\nMme CAPON\nNiDeVinci.Vaughan",
-                    "start": "2027-05-11T15:45:00",
-                    "end": "2027-05-11T17:45:00",
+                    "title": "Logique Math & intro thema B\nMme CAPON\nNiB6.127Info",
+                    "start": "2027-05-14T13:30:00",
+                    "end": "2027-05-14T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -65961,91 +66052,91 @@
             ],
             "Méca. quant. applications": [
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2027-02-01T15:45:00",
                     "end": "2027-02-01T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2027-02-08T15:45:00",
                     "end": "2027-02-08T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2027-02-15T15:45:00",
                     "end": "2027-02-15T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2027-02-22T15:45:00",
                     "end": "2027-02-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2027-03-01T15:45:00",
                     "end": "2027-03-01T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A11",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A11",
                     "start": "2027-03-03T10:30:00",
                     "end": "2027-03-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2027-03-08T15:45:00",
                     "end": "2027-03-08T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.3E20",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.3E20",
                     "start": "2027-03-10T10:30:00",
                     "end": "2027-03-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2027-03-22T15:45:00",
                     "end": "2027-03-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2027-04-05T15:45:00",
                     "end": "2027-04-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.3E20",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.3E20",
                     "start": "2027-04-07T10:30:00",
                     "end": "2027-04-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.3E20",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.3E20",
                     "start": "2027-04-09T08:15:00",
                     "end": "2027-04-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2027-05-03T15:45:00",
                     "end": "2027-05-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.3E20",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.3E20",
                     "start": "2027-05-05T10:30:00",
                     "end": "2027-05-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. applications\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2027-05-10T15:45:00",
                     "end": "2027-05-10T17:45:00",
                     "color": "#0026ad"
@@ -66053,91 +66144,91 @@
             ],
             "Méca. quant. théorie": [
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nM. SEMAY\nNiP.0A11",
                     "start": "2026-09-16T13:30:00",
                     "end": "2026-09-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A11",
                     "start": "2026-09-18T08:15:00",
                     "end": "2026-09-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A11",
                     "start": "2026-10-02T08:15:00",
                     "end": "2026-10-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A11",
                     "start": "2026-10-07T13:30:00",
                     "end": "2026-10-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2026-10-13T13:30:00",
                     "end": "2026-10-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2026-10-20T13:30:00",
                     "end": "2026-10-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2026-11-03T08:15:00",
                     "end": "2026-11-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A11",
                     "start": "2026-11-10T13:30:00",
                     "end": "2026-11-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A11",
                     "start": "2026-11-13T08:15:00",
                     "end": "2026-11-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2026-11-17T08:15:00",
                     "end": "2026-11-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2026-11-24T08:15:00",
                     "end": "2026-11-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2026-12-01T08:15:00",
                     "end": "2026-12-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A11",
                     "start": "2026-12-02T13:30:00",
                     "end": "2026-12-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2026-12-08T08:15:00",
                     "end": "2026-12-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nMme Tourbez, M. SEMAY\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nMme TOURBEZ, M. SEMAY\nNiP.0A07",
                     "start": "2026-12-15T08:15:00",
                     "end": "2026-12-15T10:15:00",
                     "color": "#0026ad"
@@ -66417,8 +66508,8 @@
                 },
                 {
                     "title": "Prob. II\nM. SIMON\nNiP.3E10",
-                    "start": "2026-10-15T13:30:00",
-                    "end": "2026-10-15T15:30:00",
+                    "start": "2026-10-19T15:45:00",
+                    "end": "2026-10-19T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -66694,12 +66785,6 @@
                     "title": "Program.fonct.\nM. CARDOEN\nNiDeVinci.Vaughan",
                     "start": "2027-03-08T15:45:00",
                     "end": "2027-03-08T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Program.fonct.\nM. MENS\nNiVésale.023",
-                    "start": "2027-03-11T13:30:00",
-                    "end": "2027-03-11T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -67119,12 +67204,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Simulation\nM. BUYS\nNiP.0A11",
-                    "start": "2027-02-24T10:30:00",
-                    "end": "2027-02-24T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Simulation\nM. BUYS\nNiP.0A07",
                     "start": "2027-03-03T13:30:00",
                     "end": "2027-03-03T15:30:00",
@@ -67134,12 +67213,6 @@
                     "title": "Simulation\nM. BUYS\nNiP.0A07",
                     "start": "2027-03-10T13:30:00",
                     "end": "2027-03-10T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Simulation\nM. BUYS\nNiP.0A11",
-                    "start": "2027-04-07T13:30:00",
-                    "end": "2027-04-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -67273,7 +67346,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données II\nMme BRUYERE\nNiB6.18",
+                    "title": "Structures de données II\nMme BRUYERE\nNiBSM.002.Knight",
                     "start": "2026-10-09T10:30:00",
                     "end": "2026-10-09T12:30:00",
                     "color": "#0026ad"
@@ -67453,12 +67526,6 @@
                     "title": "Théorie des groupes\nM. WEICKMANS, M. BOULANGER\nNiBSM.002.Knight",
                     "start": "2027-05-11T13:30:00",
                     "end": "2027-05-11T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Théorie des groupes\nM. WEICKMANS, M. BOULANGER\nNiBSM.002.Knight",
-                    "start": "2027-05-14T13:30:00",
-                    "end": "2027-05-14T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -68673,8 +68740,8 @@
                 },
                 {
                     "title": "Projet prob.stat.\nM. THIANDOUM, M. SIMON\nNiBSM.016.Dresselhaus",
-                    "start": "2026-10-16T10:30:00",
-                    "end": "2026-10-16T12:30:00",
+                    "start": "2026-10-19T13:30:00",
+                    "end": "2026-10-19T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -71038,7 +71105,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. OBERTHÜR, M. TUYTTENS, M. ROUZE\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-11-13T13:30:00",
                     "end": "2026-11-13T16:30:00",
                     "color": "#0026ad"
@@ -71050,7 +71117,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. OBERTHÜR, M. TUYTTENS, M. ROUZE\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-11-20T13:30:00",
                     "end": "2026-11-20T16:30:00",
                     "color": "#0026ad"
@@ -71062,7 +71129,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. OBERTHÜR, M. TUYTTENS, M. ROUZE\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-11-27T13:30:00",
                     "end": "2026-11-27T16:30:00",
                     "color": "#0026ad"
@@ -71074,7 +71141,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. OBERTHÜR, M. TUYTTENS, M. ROUZE\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-12-04T13:30:00",
                     "end": "2026-12-04T16:30:00",
                     "color": "#0026ad"
@@ -71086,13 +71153,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. OBERTHÜR, M. TUYTTENS, M. ROUZE\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-12-11T08:30:00",
                     "end": "2026-12-11T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. OBERTHÜR, M. TUYTTENS, M. ROUZE\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-12-11T13:30:00",
                     "end": "2026-12-11T16:30:00",
                     "color": "#0026ad"
@@ -71124,7 +71191,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Internat Finan. - AAEP\nM. VERMEYLEN\nWa.MarinetteBruwier",
+                    "title": "Internat Finan. - AAEP\nM. VERMEYLEN\nWa.110111P",
                     "start": "2026-10-12T10:30:00",
                     "end": "2026-10-12T12:30:00",
                     "color": "#0026ad"
@@ -71452,9 +71519,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth. formelles application\nM. RANDOUR, Mme CAPON\nNiP.3E10",
-                    "start": "2027-03-23T10:30:00",
-                    "end": "2027-03-23T12:30:00",
+                    "title": "Méth. formelles application\nM. RANDOUR, Mme CAPON\nNiDeVinci.Vaughan",
+                    "start": "2027-03-22T15:45:00",
+                    "end": "2027-03-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -71464,9 +71531,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth. formelles application\nM. RANDOUR, Mme CAPON\nNiP.3E10",
-                    "start": "2027-03-30T10:30:00",
-                    "end": "2027-03-30T12:30:00",
+                    "title": "Méth. formelles application\nM. RANDOUR, Mme CAPON\nNiBSM.016.Dresselhaus",
+                    "start": "2027-03-31T10:30:00",
+                    "end": "2027-03-31T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -71500,9 +71567,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méth. formelles application\nM. RANDOUR, Mme CAPON\nNiP.3E10",
-                    "start": "2027-05-04T10:30:00",
-                    "end": "2027-05-04T12:30:00",
+                    "title": "Méth. formelles application\nM. RANDOUR, Mme CAPON\nNiBSM.002.Knight",
+                    "start": "2027-04-16T13:30:00",
+                    "end": "2027-04-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -71868,7 +71935,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Models and methods in Data Sci\nM. GILLIS, M. SICILIA\nHo.06PC",
+                    "title": "Models and methods in Data Sci\nM. SICILIA, M. GILLIS\nHo.06PC",
                     "start": "2026-09-25T08:15:00",
                     "end": "2026-09-25T10:15:00",
                     "color": "#0026ad"
@@ -71880,7 +71947,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Models and methods in Data Sci\nM. GILLIS, M. SICILIA\nHo.06PC",
+                    "title": "Models and methods in Data Sci\nM. SICILIA, M. GILLIS\nHo.06PC",
                     "start": "2026-10-02T08:15:00",
                     "end": "2026-10-02T10:15:00",
                     "color": "#0026ad"
@@ -71898,13 +71965,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Models and methods in Data Sci\nM. GILLIS, M. SICILIA\nHo.06PC",
+                    "title": "Models and methods in Data Sci\nM. SICILIA, M. GILLIS\nHo.06PC",
                     "start": "2026-10-13T08:15:00",
                     "end": "2026-10-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Models and methods in Data Sci\nM. GILLIS, M. SICILIA\nHo.06PC",
+                    "title": "Models and methods in Data Sci\nM. SICILIA, M. GILLIS\nHo.06PC",
                     "start": "2026-10-16T08:15:00",
                     "end": "2026-10-16T10:15:00",
                     "color": "#0026ad"
@@ -71916,13 +71983,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Models and methods in Data Sci\nM. GILLIS, M. SICILIA\nHo.06PC",
+                    "title": "Models and methods in Data Sci\nM. SICILIA, M. GILLIS\nHo.06PC",
                     "start": "2026-10-23T08:15:00",
                     "end": "2026-10-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Models and methods in Data Sci\nM. GILLIS, M. SICILIA\nHo.06PC",
+                    "title": "Models and methods in Data Sci\nM. SICILIA, M. GILLIS\nHo.06PC",
                     "start": "2026-10-23T10:30:00",
                     "end": "2026-10-23T12:30:00",
                     "color": "#0026ad"
@@ -72176,151 +72243,151 @@
             ],
             "Projet géom.alg.": [
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-09-17T10:30:00",
                     "end": "2026-09-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-09-24T10:30:00",
                     "end": "2026-09-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-10-01T10:30:00",
                     "end": "2026-10-01T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-10-08T10:30:00",
                     "end": "2026-10-08T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-10-15T10:30:00",
                     "end": "2026-10-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-10-22T10:30:00",
                     "end": "2026-10-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-11-05T10:30:00",
                     "end": "2026-11-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-11-12T10:30:00",
                     "end": "2026-11-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-11-19T10:30:00",
                     "end": "2026-11-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-11-26T10:30:00",
                     "end": "2026-11-26T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-12-03T10:30:00",
                     "end": "2026-12-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-12-10T10:30:00",
                     "end": "2026-12-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiBSM.016.Dresselhaus",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiBSM.016.Dresselhaus",
                     "start": "2026-12-17T10:30:00",
                     "end": "2026-12-17T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-02-02T13:30:00",
                     "end": "2027-02-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-02-09T13:30:00",
                     "end": "2027-02-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-02-16T13:30:00",
                     "end": "2027-02-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-02-23T13:30:00",
                     "end": "2027-02-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-03-02T13:30:00",
                     "end": "2027-03-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-03-09T13:30:00",
                     "end": "2027-03-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-03-23T13:30:00",
                     "end": "2027-03-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-03-30T13:30:00",
                     "end": "2027-03-30T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-04-06T13:30:00",
                     "end": "2027-04-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-04-13T13:30:00",
                     "end": "2027-04-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-05-04T13:30:00",
                     "end": "2027-05-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet géom.alg.\nMme VOLKOV, M. DEBAISIEUX\nNiP.0A11",
+                    "title": "Projet géom.alg.\nM. DEBAISIEUX, Mme VOLKOV\nNiP.0A11",
                     "start": "2027-05-11T13:30:00",
                     "end": "2027-05-11T15:30:00",
                     "color": "#0026ad"
@@ -72359,50 +72426,38 @@
                 },
                 {
                     "title": "Projet Math appliquées\nM. RIVIERE\nNiBSM.016.Dresselhaus",
-                    "start": "2026-10-20T08:15:00",
-                    "end": "2026-10-20T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Projet Math appliquées\nM. RIVIERE\nNiBSM.016.Dresselhaus",
                     "start": "2026-10-23T13:30:00",
                     "end": "2026-10-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Projet Math appliquées\nM. RIVIERE\nNiBSM.016.Dresselhaus",
-                    "start": "2026-11-03T08:15:00",
-                    "end": "2026-11-03T10:15:00",
+                    "start": "2026-11-03T13:30:00",
+                    "end": "2026-11-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Projet Math appliquées\nM. RIVIERE\nNiBSM.016.Dresselhaus",
-                    "start": "2026-11-17T08:15:00",
-                    "end": "2026-11-17T10:15:00",
+                    "start": "2026-11-17T13:30:00",
+                    "end": "2026-11-17T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Projet Math appliquées\nM. RIVIERE\nNiBSM.016.Dresselhaus",
-                    "start": "2026-11-24T08:15:00",
-                    "end": "2026-11-24T10:15:00",
+                    "start": "2026-11-24T13:30:00",
+                    "end": "2026-11-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Projet Math appliquées\nM. RIVIERE\nNiBSM.016.Dresselhaus",
-                    "start": "2026-12-01T08:15:00",
-                    "end": "2026-12-01T10:15:00",
+                    "start": "2026-12-01T13:30:00",
+                    "end": "2026-12-01T15:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "Projet Math appliquées\nM. RIVIERE\nNiBSM.016.Dresselhaus",
-                    "start": "2026-12-08T08:15:00",
-                    "end": "2026-12-08T10:15:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Projet Math appliquées\nM. RIVIERE\nNiBSM.016.Dresselhaus",
-                    "start": "2026-12-15T08:15:00",
-                    "end": "2026-12-15T10:15:00",
+                    "start": "2026-12-08T13:30:00",
+                    "end": "2026-12-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -72795,8 +72850,8 @@
                 },
                 {
                     "title": "Projet prob.stat.\nM. SIMON, M. THIANDOUM\nNiBSM.016.Dresselhaus",
-                    "start": "2026-10-16T10:30:00",
-                    "end": "2026-10-16T12:30:00",
+                    "start": "2026-10-19T13:30:00",
+                    "end": "2026-10-19T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -72850,115 +72905,115 @@
             ],
             "Quest app dida math": [
                 {
-                    "title": "Quest app dida math\nMme BRIDOUX, M. DRAMAIX, Mme MAINIL\nNiBSM.004.Penrose",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme MAINIL, Mme BRIDOUX\nNiBSM.004.Penrose",
                     "start": "2026-09-16T16:45:00",
                     "end": "2026-09-16T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme BRIDOUX, M. DRAMAIX, Mme MAINIL\nNiBSM.004.Penrose",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme MAINIL, Mme BRIDOUX\nNiBSM.004.Penrose",
                     "start": "2026-09-23T16:45:00",
                     "end": "2026-09-23T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme BRIDOUX, M. DRAMAIX, Mme MAINIL\nNiBSM.004.Penrose",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme MAINIL, Mme BRIDOUX\nNiBSM.004.Penrose",
                     "start": "2026-10-07T16:45:00",
                     "end": "2026-10-07T19:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme BRIDOUX, M. DRAMAIX, Mme MAINIL\nNiBSM.004.Penrose",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme MAINIL, Mme BRIDOUX\nNiBSM.004.Penrose",
                     "start": "2026-10-14T17:45:00",
                     "end": "2026-10-14T20:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme MAINIL, Mme BRIDOUX, M. DRAMAIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme BRIDOUX, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-11-04T15:45:00",
                     "end": "2026-11-04T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme MAINIL, Mme BRIDOUX, M. DRAMAIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme BRIDOUX, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-11-18T15:45:00",
                     "end": "2026-11-18T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme MAINIL, Mme BRIDOUX, M. DRAMAIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme BRIDOUX, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-11-25T15:45:00",
                     "end": "2026-11-25T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme MAINIL, Mme BRIDOUX, M. DRAMAIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme BRIDOUX, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-12-02T15:45:00",
                     "end": "2026-12-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme MAINIL, Mme BRIDOUX, M. DRAMAIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme BRIDOUX, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-12-09T15:45:00",
                     "end": "2026-12-09T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme MAINIL, Mme BRIDOUX, M. DRAMAIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme BRIDOUX, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2026-12-16T15:45:00",
                     "end": "2026-12-16T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme MAINIL, Mme BRIDOUX, M. DRAMAIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme BRIDOUX, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2027-02-03T15:45:00",
                     "end": "2027-02-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme MAINIL, Mme BRIDOUX, M. DRAMAIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme BRIDOUX, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2027-02-10T15:45:00",
                     "end": "2027-02-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme MAINIL, Mme BRIDOUX, M. DRAMAIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme BRIDOUX, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2027-02-17T15:45:00",
                     "end": "2027-02-17T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme MAINIL, Mme BRIDOUX, M. DRAMAIX\nNiBSM.016.Dresselhaus",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme BRIDOUX, Mme MAINIL\nNiBSM.016.Dresselhaus",
                     "start": "2027-02-24T15:45:00",
                     "end": "2027-02-24T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\n\nMme BRIDOUX, M. DRAMAIX, Mme MAINIL",
+                    "title": "Quest app dida math\n\nM. DRAMAIX, Mme MAINIL, Mme BRIDOUX",
                     "start": "2027-03-03T17:15:00",
                     "end": "2027-03-03T20:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme BRIDOUX, M. DRAMAIX, Mme MAINIL\nNiBSM.008.Kwolek",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme MAINIL, Mme BRIDOUX\nNiBSM.008.Kwolek",
                     "start": "2027-03-10T17:15:00",
                     "end": "2027-03-10T20:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\n\nMme BRIDOUX, M. DRAMAIX, Mme MAINIL",
+                    "title": "Quest app dida math\n\nM. DRAMAIX, Mme MAINIL, Mme BRIDOUX",
                     "start": "2027-03-24T17:15:00",
                     "end": "2027-03-24T20:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\n\nMme BRIDOUX, M. DRAMAIX, Mme MAINIL",
+                    "title": "Quest app dida math\n\nM. DRAMAIX, Mme MAINIL, Mme BRIDOUX",
                     "start": "2027-04-07T17:15:00",
                     "end": "2027-04-07T20:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Quest app dida math\nMme BRIDOUX, M. DRAMAIX, Mme MAINIL\nNiBSM.004.Penrose",
+                    "title": "Quest app dida math\nM. DRAMAIX, Mme MAINIL, Mme BRIDOUX\nNiBSM.004.Penrose",
                     "start": "2027-05-05T17:15:00",
                     "end": "2027-05-05T20:15:00",
                     "color": "#0026ad"
@@ -73332,7 +73387,7 @@
             ],
             "Eff syst educ": [
                 {
-                    "title": "Eff syst educ\n\nMme LOTHAIRE",
+                    "title": "Eff syst educ\nMme LOTHAIRE\nHo.12",
                     "start": "2026-10-14T13:00:00",
                     "end": "2026-10-14T16:00:00",
                     "color": "#0026ad"
@@ -74680,7 +74735,7 @@
             ],
             "Eff syst educ": [
                 {
-                    "title": "Eff syst educ\n\nMme LOTHAIRE",
+                    "title": "Eff syst educ\nMme LOTHAIRE\nHo.12",
                     "start": "2026-10-14T13:00:00",
                     "end": "2026-10-14T16:00:00",
                     "color": "#0026ad"
@@ -74863,7 +74918,7 @@
             ],
             "Eff syst educ": [
                 {
-                    "title": "Eff syst educ\n\nMme LOTHAIRE",
+                    "title": "Eff syst educ\nMme LOTHAIRE\nHo.12",
                     "start": "2026-10-14T13:00:00",
                     "end": "2026-10-14T16:00:00",
                     "color": "#0026ad"
@@ -76845,8 +76900,8 @@
                 },
                 {
                     "title": "Introduction physique\nM. GOSSUIN\nJo.Stievenart",
-                    "start": "2026-10-15T08:15:00",
-                    "end": "2026-10-15T10:15:00",
+                    "start": "2026-10-15T08:00:00",
+                    "end": "2026-10-15T10:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -77841,6 +77896,12 @@
                     "title": "Reméd. Chimie générale I\nM. LAMBOTTE, M. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT, M. HENRARD, Mme PAMART\nNiGA.Plisnier",
                     "start": "2026-10-19T16:00:00",
                     "end": "2026-10-19T18:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Reméd. Chimie générale I\nMme GODEAU\nJo.Stievenart",
+                    "start": "2026-10-26T13:30:00",
+                    "end": "2026-10-26T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -80304,9 +80365,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Analyse instrumentale pharma\nM. BLANKERT\nNiB6.124",
-                    "start": "2026-10-12T10:30:00",
-                    "end": "2026-10-12T12:30:00",
+                    "title": "Analyse instrumentale pharma\nM. BLANKERT\nNiGA.Plisnier",
+                    "start": "2026-10-14T10:30:00",
+                    "end": "2026-10-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -81595,12 +81656,6 @@
                     "title": "Principes physico-chimiques\nM. VANDERBIST\nNiB6.18",
                     "start": "2026-10-08T10:30:00",
                     "end": "2026-10-08T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Principes physico-chimiques\nM. VANDERBIST\nNiB6.18",
-                    "start": "2026-10-09T13:30:00",
-                    "end": "2026-10-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -83397,18 +83452,6 @@
                     "title": "Pharmacochimie - Partie 2\nM. BERGER\nNiGA.Plisnier",
                     "start": "2026-10-08T10:30:00",
                     "end": "2026-10-08T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Pharmacochimie - Partie 2\nM. BERGER\nNiVésale.025",
-                    "start": "2026-10-12T10:30:00",
-                    "end": "2026-10-12T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Pharmacochimie - Partie 2\n\nM. BERGER",
-                    "start": "2026-10-15T10:30:00",
-                    "end": "2026-10-15T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -86949,6 +86992,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "_\n\nNiGA.Pascal",
+                    "start": "2026-10-20T12:30:00",
+                    "end": "2026-10-20T13:30:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "_\n\n",
                     "start": "2027-04-14T12:30:00",
                     "end": "2027-04-14T15:45:00",
@@ -89377,13 +89426,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiP.3E20",
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.010.Lonsdale",
+                    "start": "2026-11-04T13:45:00",
+                    "end": "2026-11-04T15:45:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.008.Kwolek",
                     "start": "2026-11-09T08:15:00",
                     "end": "2026-11-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiP.3E20",
+                    "title": "Hist. pensée scientifique\nMme GOLDBERG\nNiBSM.008.Kwolek",
                     "start": "2026-11-12T15:45:00",
                     "end": "2026-11-12T17:45:00",
                     "color": "#0026ad"
@@ -89511,91 +89566,91 @@
             ],
             "Méca. quant. applications": [
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2027-02-01T15:45:00",
                     "end": "2027-02-01T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2027-02-08T15:45:00",
                     "end": "2027-02-08T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2027-02-15T15:45:00",
                     "end": "2027-02-15T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2027-02-22T15:45:00",
                     "end": "2027-02-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2027-03-01T15:45:00",
                     "end": "2027-03-01T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A11",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A11",
                     "start": "2027-03-03T10:30:00",
                     "end": "2027-03-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2027-03-08T15:45:00",
                     "end": "2027-03-08T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.3E20",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.3E20",
                     "start": "2027-03-10T10:30:00",
                     "end": "2027-03-10T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2027-03-22T15:45:00",
                     "end": "2027-03-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2027-04-05T15:45:00",
                     "end": "2027-04-05T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.3E20",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.3E20",
                     "start": "2027-04-07T10:30:00",
                     "end": "2027-04-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.3E20",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.3E20",
                     "start": "2027-04-09T08:15:00",
                     "end": "2027-04-09T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2027-05-03T15:45:00",
                     "end": "2027-05-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.3E20",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.3E20",
                     "start": "2027-05-05T10:30:00",
                     "end": "2027-05-05T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. applications\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. applications\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2027-05-10T15:45:00",
                     "end": "2027-05-10T17:45:00",
                     "color": "#0026ad"
@@ -89603,91 +89658,91 @@
             ],
             "Méca. quant. théorie": [
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nM. SEMAY\nNiP.0A11",
                     "start": "2026-09-16T13:30:00",
                     "end": "2026-09-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A11",
                     "start": "2026-09-18T08:15:00",
                     "end": "2026-09-18T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A11",
                     "start": "2026-10-02T08:15:00",
                     "end": "2026-10-02T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A11",
                     "start": "2026-10-07T13:30:00",
                     "end": "2026-10-07T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2026-10-13T13:30:00",
                     "end": "2026-10-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2026-10-20T13:30:00",
                     "end": "2026-10-20T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2026-11-03T08:15:00",
                     "end": "2026-11-03T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A11",
                     "start": "2026-11-10T13:30:00",
                     "end": "2026-11-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A11",
                     "start": "2026-11-13T08:15:00",
                     "end": "2026-11-13T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2026-11-17T08:15:00",
                     "end": "2026-11-17T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2026-11-24T08:15:00",
                     "end": "2026-11-24T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2026-12-01T08:15:00",
                     "end": "2026-12-01T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A11",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A11",
                     "start": "2026-12-02T13:30:00",
                     "end": "2026-12-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2026-12-08T08:15:00",
                     "end": "2026-12-08T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Méca. quant. théorie\nM. SEMAY, Mme Tourbez\nNiP.0A07",
+                    "title": "Méca. quant. théorie\nM. SEMAY, Mme TOURBEZ\nNiP.0A07",
                     "start": "2026-12-15T08:15:00",
                     "end": "2026-12-15T10:15:00",
                     "color": "#0026ad"
@@ -91661,7 +91716,7 @@
             ],
             "Intro to ML & DS": [
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-02-01T13:30:00",
                     "end": "2027-02-01T15:30:00",
                     "color": "#0026ad"
@@ -91673,7 +91728,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-02-08T13:30:00",
                     "end": "2027-02-08T15:30:00",
                     "color": "#0026ad"
@@ -91685,145 +91740,145 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-02-15T13:30:00",
                     "end": "2027-02-15T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-02-22T13:30:00",
                     "end": "2027-02-22T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-03-01T13:30:00",
                     "end": "2027-03-01T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2027-03-02T13:30:00",
                     "end": "2027-03-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.012.Hermann",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.012.Hermann",
                     "start": "2027-03-03T10:30:00",
                     "end": "2027-03-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-03-08T13:30:00",
                     "end": "2027-03-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2027-03-09T13:30:00",
                     "end": "2027-03-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-03-22T13:30:00",
                     "end": "2027-03-22T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2027-03-23T13:30:00",
                     "end": "2027-03-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2027-03-24T10:30:00",
                     "end": "2027-03-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2027-03-30T13:30:00",
                     "end": "2027-03-30T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
                     "start": "2027-03-31T15:45:00",
                     "end": "2027-03-31T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-04-02T10:30:00",
                     "end": "2027-04-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-04-05T13:30:00",
                     "end": "2027-04-05T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2027-04-06T13:30:00",
                     "end": "2027-04-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2027-04-07T10:30:00",
                     "end": "2027-04-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
                     "start": "2027-04-12T13:30:00",
                     "end": "2027-04-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2027-04-14T10:30:00",
                     "end": "2027-04-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiGA.Turing",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiGA.Turing",
                     "start": "2027-04-16T10:30:00",
                     "end": "2027-04-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-05-03T13:30:00",
                     "end": "2027-05-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2027-05-04T13:30:00",
                     "end": "2027-05-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
                     "start": "2027-05-07T10:30:00",
                     "end": "2027-05-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
                     "start": "2027-05-10T13:30:00",
                     "end": "2027-05-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
                     "start": "2027-05-11T13:30:00",
                     "end": "2027-05-11T15:30:00",
                     "color": "#0026ad"
@@ -92281,9 +92336,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.016.Dresselhaus",
-                    "start": "2026-10-12T13:30:00",
-                    "end": "2026-10-12T15:30:00",
+                    "title": "Micro et nanophotonique\nM. CAVENAILE, M. MAES\nNiBSM.009.Kohn",
+                    "start": "2026-10-13T13:30:00",
+                    "end": "2026-10-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -93327,7 +93382,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
+                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
                     "start": "2026-11-04T10:30:00",
                     "end": "2026-11-04T12:30:00",
                     "color": "#0026ad"
@@ -93345,7 +93400,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
+                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
                     "start": "2026-11-18T10:30:00",
                     "end": "2026-11-18T12:30:00",
                     "color": "#0026ad"
@@ -93357,7 +93412,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
+                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
                     "start": "2026-11-25T10:30:00",
                     "end": "2026-11-25T12:30:00",
                     "color": "#0026ad"
@@ -93517,61 +93572,61 @@
             ],
             "Technologies plasma trait A": [
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2026-11-04T15:45:00",
                     "end": "2026-11-04T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2026-11-06T10:30:00",
                     "end": "2026-11-06T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2026-11-10T15:45:00",
                     "end": "2026-11-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2026-11-12T10:30:00",
                     "end": "2026-11-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2026-11-18T15:45:00",
                     "end": "2026-11-18T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2026-11-19T10:30:00",
                     "end": "2026-11-19T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2026-11-25T15:45:00",
                     "end": "2026-11-25T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2026-12-02T15:45:00",
                     "end": "2026-12-02T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2026-12-09T15:45:00",
                     "end": "2026-12-09T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Technologies plasma trait A\nM. SNYDERS, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Technologies plasma trait A\nM. KONSTANTINIDIS, M. SNYDERS\nNiMen.Pauling",
                     "start": "2026-12-16T15:45:00",
                     "end": "2026-12-16T17:45:00",
                     "color": "#0026ad"
@@ -93757,7 +93812,7 @@
             ],
             "Eff syst educ": [
                 {
-                    "title": "Eff syst educ\n\nMme LOTHAIRE",
+                    "title": "Eff syst educ\nMme LOTHAIRE\nHo.12",
                     "start": "2026-10-14T13:00:00",
                     "end": "2026-10-14T16:00:00",
                     "color": "#0026ad"
@@ -94875,12 +94930,6 @@
                     "title": "Micro et nanophotonique\nM. MAES\nNiBSM.004.Penrose",
                     "start": "2026-10-08T10:30:00",
                     "end": "2026-10-08T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Micro et nanophotonique\nM. MAES\nNiBSM.016.Dresselhaus",
-                    "start": "2026-10-12T13:30:00",
-                    "end": "2026-10-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -96319,7 +96368,7 @@
             ],
             "Eff syst educ": [
                 {
-                    "title": "Eff syst educ\n\nMme LOTHAIRE",
+                    "title": "Eff syst educ\nMme LOTHAIRE\nHo.12",
                     "start": "2026-10-14T13:00:00",
                     "end": "2026-10-14T16:00:00",
                     "color": "#0026ad"
@@ -96462,7 +96511,7 @@
             ],
             "Eff syst educ": [
                 {
-                    "title": "Eff syst educ\n\nMme LOTHAIRE",
+                    "title": "Eff syst educ\nMme LOTHAIRE\nHo.12",
                     "start": "2026-10-14T13:00:00",
                     "end": "2026-10-14T16:00:00",
                     "color": "#0026ad"
