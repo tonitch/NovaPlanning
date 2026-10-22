@@ -8570,9 +8570,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Fiscalité IPP - AAEP\nMme WALLEMACQ\nWa.203P",
-                    "start": "2026-12-03T10:30:00",
-                    "end": "2026-12-03T12:30:00",
+                    "title": "Fiscalité IPP - AAEP\nMme WALLEMACQ\nWa.Drechsel",
+                    "start": "2026-12-02T10:30:00",
+                    "end": "2026-12-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -12875,12 +12875,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Produits fin. dérivés - AAEP\nMme CROQUET\nWa.220W",
-                    "start": "2026-10-21T10:30:00",
-                    "end": "2026-10-21T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Produits fin. dérivés - AAEP\nMme CROQUET\nWa.110111P",
                     "start": "2026-10-22T13:30:00",
                     "end": "2026-10-22T15:30:00",
@@ -14974,6 +14968,12 @@
                     "title": "_\nMme HOCQ, Mme HORDIES, Mme LUPANT, M. LAMBOTTE, Mme GODEAU, Mme PAMART\nNiGA.Curie",
                     "start": "2026-11-03T18:00:00",
                     "end": "2026-11-03T20:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "_\nMme HOCQ, Mme HORDIES, Mme LUPANT, M. LAMBOTTE, Mme GODEAU, Mme PAMART\nNiGA.Curie",
+                    "start": "2026-11-24T18:00:00",
+                    "end": "2026-11-24T20:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -17277,7 +17277,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Reméd. Chimie générale I\nM. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT, Mme PAMART\nNiGA.VanGogh",
+                    "title": "Reméd. Chimie générale I\nM. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT, M. HENRARD, Mme PAMART\nNiGA.VanGogh",
                     "start": "2026-10-27T10:30:00",
                     "end": "2026-10-27T12:30:00",
                     "color": "#0026ad"
@@ -28876,7 +28876,7 @@
         "BAB1": {
             "_": [
                 {
-                    "title": "_\nMme BRIDOUX, M. TROESTLER, M. MICHEZ, M. MELOT, M. MICHAUX, M. SEMAY, M. VOUE\nNiGA.VanGogh",
+                    "title": "_\nMme BRIDOUX, M. TROESTLER, M. MICHEZ, M. MELOT, M. VOUE, M. SEMAY, M. MICHAUX\nNiGA.VanGogh",
                     "start": "2026-09-14T13:30:00",
                     "end": "2026-09-14T16:30:00",
                     "color": "#0026ad"
@@ -29154,31 +29154,31 @@
             ],
             "Chim. gén. appli (partie B)": [
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-02-01T13:30:00",
                     "end": "2027-02-01T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-02-03T13:30:00",
                     "end": "2027-02-03T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-02-04T13:30:00",
                     "end": "2027-02-04T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-02-10T13:30:00",
                     "end": "2027-02-10T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-02-11T13:30:00",
                     "end": "2027-02-11T17:30:00",
                     "color": "#0026ad"
@@ -29190,13 +29190,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-02-17T13:30:00",
                     "end": "2027-02-17T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-02-18T13:30:00",
                     "end": "2027-02-18T17:30:00",
                     "color": "#0026ad"
@@ -29208,13 +29208,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-02-24T13:30:00",
                     "end": "2027-02-24T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-02-25T13:30:00",
                     "end": "2027-02-25T17:30:00",
                     "color": "#0026ad"
@@ -29226,7 +29226,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-03-03T13:30:00",
                     "end": "2027-03-03T17:30:00",
                     "color": "#0026ad"
@@ -29238,7 +29238,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-03-10T13:30:00",
                     "end": "2027-03-10T17:30:00",
                     "color": "#0026ad"
@@ -29256,7 +29256,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-04-07T13:30:00",
                     "end": "2027-04-07T17:30:00",
                     "color": "#0026ad"
@@ -29274,7 +29274,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-04-14T13:30:00",
                     "end": "2027-04-14T17:30:00",
                     "color": "#0026ad"
@@ -29292,7 +29292,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli (partie B)\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli (partie B)\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2027-05-05T13:30:00",
                     "end": "2027-05-05T17:30:00",
                     "color": "#0026ad"
@@ -29324,13 +29324,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli A\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli A\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-09-24T13:30:00",
                     "end": "2026-09-24T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli A\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli A\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-10-01T13:30:00",
                     "end": "2026-10-01T17:30:00",
                     "color": "#0026ad"
@@ -29342,13 +29342,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli A\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli A\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-10-08T13:30:00",
                     "end": "2026-10-08T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli A\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli A\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-10-15T13:30:00",
                     "end": "2026-10-15T17:30:00",
                     "color": "#0026ad"
@@ -29360,7 +29360,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli A\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli A\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-10-22T13:30:00",
                     "end": "2026-10-22T17:30:00",
                     "color": "#0026ad"
@@ -29372,13 +29372,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli A\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli A\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-11-05T13:30:00",
                     "end": "2026-11-05T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli A\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli A\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-11-12T13:30:00",
                     "end": "2026-11-12T17:30:00",
                     "color": "#0026ad"
@@ -29390,19 +29390,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli A\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli A\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-11-19T13:30:00",
                     "end": "2026-11-19T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli A\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli A\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-11-26T13:30:00",
                     "end": "2026-11-26T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim. gén. appli A\nMme WAUTERS, M. BROCORENS\nNiB6.103Lab",
+                    "title": "Chim. gén. appli A\nM. BROCORENS, Mme WAUTERS\nNiB6.103Lab",
                     "start": "2026-12-03T13:30:00",
                     "end": "2026-12-03T17:30:00",
                     "color": "#0026ad"
@@ -30036,7 +30036,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.020, NiVésale.025, NiVésale.023, NiVésale.LaFontaine",
+                    "title": "Elec - Théorie\nM. VOUE\nNiVésale.023, NiVésale.025, NiVésale.LaFontaine, NiVésale.020",
                     "start": "2027-03-11T10:30:00",
                     "end": "2027-03-11T12:30:00",
                     "color": "#0026ad"
@@ -30386,7 +30386,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mathématiques I\nM. MENET\nNiGA.Plisnier",
+                    "title": "Mathématiques I\nM. MENET\nNiGA.Plisnier, NiBSM.012.Hermann",
                     "start": "2026-11-18T15:45:00",
                     "end": "2026-11-18T17:45:00",
                     "color": "#0026ad"
@@ -30802,7 +30802,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Phys. gén. II - TD et TP\nM. VOUE, M. ROSOLEN\nNiGA.Curie",
+                    "title": "Phys. gén. II - TD et TP\nM. ROSOLEN, M. VOUE\nNiGA.Curie",
                     "start": "2027-05-04T15:45:00",
                     "end": "2027-05-04T17:45:00",
                     "color": "#0026ad"
@@ -30884,13 +30884,13 @@
             ],
             "Travaux personnels BA1": [
                 {
-                    "title": "Travaux personnels BA1\nM. GERBAUX, M. BROCORENS, Mme LAURENT, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Travaux personnels BA1\nM. GERBAUX, Mme LAURENT, M. KONSTANTINIDIS, M. BROCORENS\nNiMen.Pauling",
                     "start": "2027-05-10T13:30:00",
                     "end": "2027-05-10T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Travaux personnels BA1\nM. GERBAUX, M. BROCORENS, Mme LAURENT, M. KONSTANTINIDIS\nNiMen.Pauling",
+                    "title": "Travaux personnels BA1\nM. GERBAUX, Mme LAURENT, M. KONSTANTINIDIS, M. BROCORENS\nNiMen.Pauling",
                     "start": "2027-05-12T08:15:00",
                     "end": "2027-05-12T18:00:00",
                     "color": "#0026ad"
@@ -30968,7 +30968,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Biochimie générale\nM. WATTIEZ\nNiGA.Plisnier",
+                    "title": "Biochimie générale\nM. WATTIEZ\nNiGA.Plisnier, NiB6.124",
                     "start": "2026-11-18T08:15:00",
                     "end": "2026-11-18T10:15:00",
                     "color": "#0026ad"
@@ -33924,15 +33924,15 @@
             ],
             "TP Méthodes num pour les chim.": [
                 {
-                    "title": "TP Méthodes num pour les chim.\nMme BOL\nNiDeVinci.Russel",
-                    "start": "2026-11-09T15:45:00",
-                    "end": "2026-11-09T18:45:00",
+                    "title": "TP Méthodes num pour les chim.\nMme BOL\nNiGA.Turing",
+                    "start": "2026-11-10T13:30:00",
+                    "end": "2026-11-10T16:30:00",
                     "color": "#0026ad"
                 },
                 {
                     "title": "TP Méthodes num pour les chim.\nMme BOL\nNiGA.Turing",
-                    "start": "2026-11-10T13:30:00",
-                    "end": "2026-11-10T16:30:00",
+                    "start": "2026-11-12T13:30:00",
+                    "end": "2026-11-12T16:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -34219,7 +34219,7 @@
             "Biochimie macromoléculaire": [],
             "Chim indust. et gest risq chi": [
                 {
-                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ, M. DUBOIS, M. ODENT, M. DE WINTER, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Chim indust. et gest risq chi\nM. ODENT, M. RAQUEZ, M. DUBOIS, Mme MINCHEVA, M. DE WINTER\nNiMen.Pauling",
                     "start": "2026-09-14T13:30:00",
                     "end": "2026-09-14T15:30:00",
                     "color": "#0026ad"
@@ -34231,75 +34231,75 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ, M. DUBOIS, M. ODENT, M. DE WINTER, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Chim indust. et gest risq chi\nM. ODENT, M. RAQUEZ, M. DUBOIS, Mme MINCHEVA, M. DE WINTER\nNiMen.Pauling",
                     "start": "2026-09-24T13:30:00",
                     "end": "2026-09-24T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ, M. DUBOIS, M. ODENT, M. DE WINTER, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Chim indust. et gest risq chi\nM. ODENT, M. RAQUEZ, M. DUBOIS, Mme MINCHEVA, M. DE WINTER\nNiMen.Pauling",
                     "start": "2026-09-28T13:30:00",
                     "end": "2026-09-28T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ, M. DUBOIS, M. ODENT, M. DE WINTER, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Chim indust. et gest risq chi\nM. ODENT, M. RAQUEZ, M. DUBOIS, Mme MINCHEVA, M. DE WINTER\nNiMen.Pauling",
                     "start": "2026-10-05T13:30:00",
                     "end": "2026-10-05T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ, M. DUBOIS, M. ODENT, M. DE WINTER, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Chim indust. et gest risq chi\nM. ODENT, M. RAQUEZ, M. DUBOIS, Mme MINCHEVA, M. DE WINTER\nNiMen.Pauling",
                     "start": "2026-10-08T13:30:00",
                     "end": "2026-10-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ, M. DUBOIS, M. ODENT, M. DE WINTER, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Chim indust. et gest risq chi\nM. ODENT, M. RAQUEZ, M. DUBOIS, Mme MINCHEVA, M. DE WINTER\nNiMen.Pauling",
                     "start": "2026-10-12T13:30:00",
                     "end": "2026-10-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ, M. DUBOIS, M. ODENT, M. DE WINTER, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Chim indust. et gest risq chi\nM. ODENT, M. RAQUEZ, M. DUBOIS, Mme MINCHEVA, M. DE WINTER\nNiMen.Pauling",
                     "start": "2026-10-15T13:30:00",
                     "end": "2026-10-15T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ, M. DUBOIS, M. ODENT, Mme MINCHEVA\nNiBSM.002.Knight",
+                    "title": "Chim indust. et gest risq chi\nM. ODENT, M. RAQUEZ, Mme MINCHEVA, M. DUBOIS\nNiBSM.002.Knight",
                     "start": "2026-10-16T10:30:00",
                     "end": "2026-10-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ, M. DUBOIS, M. ODENT, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chim indust. et gest risq chi\nM. ODENT, M. RAQUEZ, M. DUBOIS, M. DE WINTER\nNiMen.Pauling",
                     "start": "2026-10-19T13:30:00",
                     "end": "2026-10-19T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim indust. et gest risq chi\nM. RAQUEZ, M. DUBOIS, M. DE WINTER\nNiMen.Pauling",
-                    "start": "2026-10-22T13:30:00",
-                    "end": "2026-10-22T15:30:00",
+                    "title": "Chim indust. et gest risq chi\nM. ODENT, M. RAQUEZ, M. DUBOIS\nNiP.0A07",
+                    "start": "2026-11-05T13:30:00",
+                    "end": "2026-11-05T15:30:00",
                     "color": "#0026ad"
                 }
             ],
             "Chim poly 2 : structure propr.": [
                 {
-                    "title": "Chim poly 2 : structure propr.\nM. RAQUEZ, M. ODENT, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Chim poly 2 : structure propr.\nM. ODENT, M. RAQUEZ, Mme MINCHEVA\nNiMen.Pauling",
                     "start": "2026-09-23T15:45:00",
                     "end": "2026-09-23T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim poly 2 : structure propr.\nM. RAQUEZ, M. ODENT, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Chim poly 2 : structure propr.\nM. ODENT, M. RAQUEZ, Mme MINCHEVA\nNiMen.Pauling",
                     "start": "2026-09-28T15:45:00",
                     "end": "2026-09-28T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim poly 2 : structure propr.\nM. RAQUEZ, M. ODENT, Mme MINCHEVA\nNiMen.Pauling",
+                    "title": "Chim poly 2 : structure propr.\nM. ODENT, M. RAQUEZ, Mme MINCHEVA\nNiMen.Pauling",
                     "start": "2026-10-15T15:45:00",
                     "end": "2026-10-15T17:45:00",
                     "color": "#0026ad"
@@ -34307,31 +34307,31 @@
             ],
             "Chim.indus. sém": [
                 {
-                    "title": "Chim.indus. sém\nM. RAQUEZ, M. DUBOIS, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chim.indus. sém\nM. RAQUEZ, M. DE WINTER, M. DUBOIS\nNiMen.Pauling",
                     "start": "2027-04-09T13:30:00",
                     "end": "2027-04-09T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim.indus. sém\nM. RAQUEZ, M. DUBOIS, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chim.indus. sém\nM. RAQUEZ, M. DE WINTER, M. DUBOIS\nNiMen.Pauling",
                     "start": "2027-05-05T13:30:00",
                     "end": "2027-05-05T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim.indus. sém\nM. RAQUEZ, M. DUBOIS, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chim.indus. sém\nM. RAQUEZ, M. DE WINTER, M. DUBOIS\nNiMen.Pauling",
                     "start": "2027-05-07T13:30:00",
                     "end": "2027-05-07T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim.indus. sém\nM. RAQUEZ, M. DUBOIS, M. DE WINTER\nNiP.3E20",
+                    "title": "Chim.indus. sém\nM. RAQUEZ, M. DE WINTER, M. DUBOIS\nNiP.3E20",
                     "start": "2027-05-12T13:30:00",
                     "end": "2027-05-12T17:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Chim.indus. sém\nM. RAQUEZ, M. DUBOIS, M. DE WINTER\nNiMen.Pauling",
+                    "title": "Chim.indus. sém\nM. RAQUEZ, M. DE WINTER, M. DUBOIS\nNiMen.Pauling",
                     "start": "2027-05-14T08:15:00",
                     "end": "2027-05-14T17:30:00",
                     "color": "#0026ad"
@@ -34612,6 +34612,12 @@
                     "title": "Chimie du solide\nM. THIRY\nNiBSM.002.Knight",
                     "start": "2026-10-21T08:15:00",
                     "end": "2026-10-21T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Chimie du solide\nM. THIRY\nNiMen.Pauling",
+                    "start": "2026-10-23T08:15:00",
+                    "end": "2026-10-23T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -35695,7 +35701,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Stages en laboratoire\nM. RAQUEZ, M. CORNIL, M. BELJONNE, M. DAMMAN, M. SNYDERS, M. SURIN\nNiVésale.030",
+                    "title": "Stages en laboratoire\nM. CORNIL, M. RAQUEZ, M. BELJONNE, M. DAMMAN, M. SNYDERS, M. SURIN\nNiVésale.030",
                     "start": "2027-05-10T08:30:00",
                     "end": "2027-05-10T18:00:00",
                     "color": "#0026ad"
@@ -35857,19 +35863,19 @@
             ],
             "Transfo avancée des polymères": [
                 {
-                    "title": "Transfo avancée des polymères\nM. RAQUEZ, M. ODENT, Mme MINCHEVA\nNiP.3E20",
+                    "title": "Transfo avancée des polymères\nM. ODENT, M. RAQUEZ, Mme MINCHEVA\nNiP.3E20",
                     "start": "2026-09-23T10:30:00",
                     "end": "2026-09-23T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Transfo avancée des polymères\nM. RAQUEZ, M. ODENT, Mme MINCHEVA\nNiP.3E11",
+                    "title": "Transfo avancée des polymères\nM. ODENT, M. RAQUEZ, Mme MINCHEVA\nNiP.3E11",
                     "start": "2026-09-30T10:30:00",
                     "end": "2026-09-30T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Transfo avancée des polymères\nM. RAQUEZ, M. ODENT\nNiP.0A11",
+                    "title": "Transfo avancée des polymères\nM. ODENT, M. RAQUEZ\nNiP.0A11",
                     "start": "2026-10-08T10:30:00",
                     "end": "2026-10-08T12:30:00",
                     "color": "#0026ad"
@@ -38262,7 +38268,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Protéomie struct et fonct B\nM. WATTIEZ\nNiB6.124",
+                    "title": "Protéomie struct et fonct B\nM. WATTIEZ\nNiB6.18",
                     "start": "2026-11-19T10:30:00",
                     "end": "2026-11-19T12:30:00",
                     "color": "#0026ad"
@@ -41600,7 +41606,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mathématiques discrètes\nM. BRIHAYE\nNiGA.Plisnier",
+                    "title": "Mathématiques discrètes\nM. BRIHAYE\nNiB6.124, NiGA.Plisnier",
                     "start": "2026-11-19T10:30:00",
                     "end": "2026-11-19T12:30:00",
                     "color": "#0026ad"
@@ -47799,7 +47805,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Strat.et pol.en res hum - AAEP\nMme DUPONT\nCha.ZG.S.2.05",
+                    "title": "Strat.et pol.en res hum - AAEP\nMme DUPONT\nCha.ZG.S.0.05",
                     "start": "2026-11-09T18:00:00",
                     "end": "2026-11-09T21:00:00",
                     "color": "#0026ad"
@@ -52838,7 +52844,7 @@
             ],
             "Anglais 2": [
                 {
-                    "title": "Anglais 2\nMme DASTY\nCha.ZG.N.3.12, Cha.ZG.N.3.11",
+                    "title": "Anglais 2\nMme DASTY\nCha.ZG.N.3.11, Cha.ZG.N.3.12",
                     "start": "2026-09-17T18:00:00",
                     "end": "2026-09-17T21:00:00",
                     "color": "#0026ad"
@@ -52924,7 +52930,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nCha.ZG.S.1.07",
+                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nCha.ZG.S.1.07",
                     "start": "2026-10-23T18:00:00",
                     "end": "2026-10-23T21:00:00",
                     "color": "#0026ad"
@@ -52936,13 +52942,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nCha.ZG.S.1.07",
+                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nCha.ZG.S.1.07",
                     "start": "2026-11-06T18:00:00",
                     "end": "2026-11-06T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nCha.ZG.S.1.07",
+                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nCha.ZG.S.1.07",
                     "start": "2026-11-13T18:00:00",
                     "end": "2026-11-13T21:00:00",
                     "color": "#0026ad"
@@ -52966,7 +52972,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nCha.ZG.S.1.07",
+                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nCha.ZG.S.1.07",
                     "start": "2026-11-27T18:00:00",
                     "end": "2026-11-27T21:00:00",
                     "color": "#0026ad"
@@ -53332,7 +53338,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.15",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.02",
                     "start": "2026-11-02T18:00:00",
                     "end": "2026-11-02T21:00:00",
                     "color": "#0026ad"
@@ -53344,43 +53350,43 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.15",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.02",
                     "start": "2026-11-09T18:00:00",
                     "end": "2026-11-09T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.15",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.02",
                     "start": "2026-11-16T18:00:00",
                     "end": "2026-11-16T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.15",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.W.2.12",
                     "start": "2026-11-23T18:00:00",
                     "end": "2026-11-23T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.15",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.W.2.03",
                     "start": "2026-11-26T18:00:00",
                     "end": "2026-11-26T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.15",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.W.0.01",
                     "start": "2026-11-30T18:00:00",
                     "end": "2026-11-30T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.15",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.02",
                     "start": "2026-12-07T18:00:00",
                     "end": "2026-12-07T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.15",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.02",
                     "start": "2026-12-14T18:00:00",
                     "end": "2026-12-14T21:00:00",
                     "color": "#0026ad"
@@ -61955,9 +61961,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "calcul tens et rel. rest.\nM. SEMAY\nNiP.0A11",
-                    "start": "2026-11-10T15:45:00",
-                    "end": "2026-11-10T17:45:00",
+                    "title": "calcul tens et rel. rest.\nM. SEMAY\nNiP.0A07",
+                    "start": "2026-11-09T15:45:00",
+                    "end": "2026-11-09T17:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -73498,12 +73504,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Produits fin. dérivés - AAEP\nMme CROQUET\nWa.220W",
-                    "start": "2026-10-21T10:30:00",
-                    "end": "2026-10-21T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Produits fin. dérivés - AAEP\nMme CROQUET\nWa.110111P",
                     "start": "2026-10-22T13:30:00",
                     "end": "2026-10-22T15:30:00",
@@ -74973,6 +74973,12 @@
                     "title": "_\nMme HORDIES, Mme LUPANT, M. LAMBOTTE, Mme HOCQ, Mme GODEAU, Mme PAMART\nNiGA.Curie",
                     "start": "2026-11-03T18:00:00",
                     "end": "2026-11-03T20:00:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "_\nMme HORDIES, Mme LUPANT, M. LAMBOTTE, Mme HOCQ, Mme GODEAU, Mme PAMART\nNiGA.Curie",
+                    "start": "2026-11-24T18:00:00",
+                    "end": "2026-11-24T20:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -77710,7 +77716,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Reméd. Chimie générale I\nM. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT, Mme PAMART\nNiGA.VanGogh",
+                    "title": "Reméd. Chimie générale I\nM. VAN LEUVEN, Mme GODEAU, Mme BEAUCHOT, M. HENRARD, Mme PAMART\nNiGA.VanGogh",
                     "start": "2026-10-27T10:30:00",
                     "end": "2026-10-27T12:30:00",
                     "color": "#0026ad"
@@ -80191,12 +80197,6 @@
                     "title": "Analyse instrumentale pharma\nM. BLANKERT\nNiB6.124",
                     "start": "2026-10-19T10:30:00",
                     "end": "2026-10-19T12:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Analyse instrumentale pharma\n\nM. BLANKERT",
-                    "start": "2026-10-22T10:30:00",
-                    "end": "2026-10-22T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -83268,7 +83268,7 @@
                 {
                     "title": "Pharmacochimie - Partie 2\nM. BERGER\nNiVésale.025",
                     "start": "2026-10-22T10:30:00",
-                    "end": "2026-10-22T12:30:00",
+                    "end": "2026-10-22T13:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -86235,7 +86235,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Mathématiques I\nM. MENET\nNiGA.Plisnier",
+                    "title": "Mathématiques I\nM. MENET\nNiBSM.012.Hermann, NiGA.Plisnier",
                     "start": "2026-11-18T15:45:00",
                     "end": "2026-11-18T17:45:00",
                     "color": "#0026ad"
@@ -87047,9 +87047,9 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "calcul tens et rel. rest.\nM. SEMAY\nNiP.0A11",
-                    "start": "2026-11-10T15:45:00",
-                    "end": "2026-11-10T17:45:00",
+                    "title": "calcul tens et rel. rest.\nM. SEMAY\nNiP.0A07",
+                    "start": "2026-11-09T15:45:00",
+                    "end": "2026-11-09T17:45:00",
                     "color": "#0026ad"
                 },
                 {
