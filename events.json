@@ -1091,7 +1091,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compta générale - AAEP\nM. VANDERSTEENE\nNiVésale.020",
+                    "title": "Compta générale - AAEP\nM. FEUILLET\nNiVésale.020",
                     "start": "2026-11-09T13:30:00",
                     "end": "2026-11-09T15:30:00",
                     "color": "#0026ad"
@@ -1127,7 +1127,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Compta générale - AAEP\nM. FEUILLET\nNiVésale.020",
+                    "title": "Compta générale - AAEP\nM. VANDERSTEENE\nNiVésale.020",
                     "start": "2026-11-16T15:45:00",
                     "end": "2026-11-16T17:45:00",
                     "color": "#0026ad"
@@ -6749,12 +6749,6 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Nederlands 2 - AAEP\nM. BOUSSAUW\nWa.222L",
-                    "start": "2026-11-03T10:30:00",
-                    "end": "2026-11-03T12:30:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Nederlands 2 - AAEP\nMme DE RO\nWa.226L",
                     "start": "2026-11-09T13:30:00",
                     "end": "2026-11-09T15:30:00",
@@ -6848,6 +6842,12 @@
                     "title": "Nederlands 2 - AAEP\nMme DE RO\nWa.226L",
                     "start": "2026-12-14T13:30:00",
                     "end": "2026-12-14T15:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Nederlands 2 - AAEP\nM. BOUSSAUW\nWa.222L",
+                    "start": "2026-12-15T08:15:00",
+                    "end": "2026-12-15T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -9353,12 +9353,6 @@
                 },
                 {
                     "title": "Nederlands 3 - AAEP\nMme DE RO\nWa.220W",
-                    "start": "2026-11-03T13:30:00",
-                    "end": "2026-11-03T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Nederlands 3 - AAEP\nM. BOUSSAUW\nWa.216W",
                     "start": "2026-11-03T13:30:00",
                     "end": "2026-11-03T15:30:00",
                     "color": "#0026ad"
@@ -13329,7 +13323,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Comunicación comercial 2- AAEP\nMme DASTY\nWa.MarinetteBruwier",
+                    "title": "Comunicación comercial 2- AAEP\nMme DASTY\nWa.Drechsel",
                     "start": "2026-11-16T10:30:00",
                     "end": "2026-11-16T12:30:00",
                     "color": "#0026ad"
@@ -16704,8 +16698,8 @@
                 },
                 {
                     "title": "Physique Biomed I\nM. GOSSUIN\nPCM.500",
-                    "start": "2026-11-03T08:15:00",
-                    "end": "2026-11-03T10:15:00",
+                    "start": "2026-11-03T08:00:00",
+                    "end": "2026-11-03T10:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -18246,7 +18240,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English I, part 1\nM. DEVILEZ\nNiVésale.030",
+                    "title": "English I, part 1\nM. DEVILEZ\nNiMen.Pauling",
                     "start": "2026-11-12T13:30:00",
                     "end": "2026-11-12T15:30:00",
                     "color": "#0026ad"
@@ -21627,9 +21621,9 @@
             ],
             "Pharmacologie générale Exer.": [
                 {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiGA.Plisnier",
-                    "start": "2026-11-04T15:45:00",
-                    "end": "2026-11-04T17:45:00",
+                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiVésale.030",
+                    "start": "2026-11-12T08:15:00",
+                    "end": "2026-11-12T10:15:00",
                     "color": "#0026ad"
                 },
                 {
@@ -27645,8 +27639,8 @@
                 },
                 {
                     "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiB6.06",
-                    "start": "2026-12-17T10:30:00",
-                    "end": "2026-12-17T12:30:00",
+                    "start": "2026-12-17T13:30:00",
+                    "end": "2026-12-17T15:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -27681,8 +27675,8 @@
                 },
                 {
                     "title": "Risques hospitaliers\nM. COLET, M. EL HIKI\nNiB6.06",
-                    "start": "2026-12-17T10:30:00",
-                    "end": "2026-12-17T12:30:00",
+                    "start": "2026-12-17T13:30:00",
+                    "end": "2026-12-17T15:30:00",
                     "color": "#0026ad"
                 }
             ],
@@ -31644,7 +31638,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.0.08.Landercy",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.0.08.Landercy",
                     "start": "2026-10-30T08:15:00",
                     "end": "2026-10-30T10:15:00",
                     "color": "#0026ad"
@@ -39421,6 +39415,12 @@
                     "color": "#0026ad"
                 },
                 {
+                    "title": "Prop.intell.et intell.strat.\nMme GENLAIN\nNiBSM.010.Lonsdale",
+                    "start": "2026-12-03T15:45:00",
+                    "end": "2026-12-03T17:45:00",
+                    "color": "#0026ad"
+                },
+                {
                     "title": "Prop.intell.et intell.strat.\nMme GENLAIN\nNiBSM.012.Hermann",
                     "start": "2026-12-07T08:15:00",
                     "end": "2026-12-07T10:15:00",
@@ -39638,12 +39638,6 @@
                     "title": "SéminIntArtf\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Mirzakhani",
                     "start": "2026-10-27T18:00:00",
                     "end": "2026-10-27T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "SéminIntArtf\nM. BEN TAIEB, M. MAHMOUDI, M. SIEBERT, M. DUPONT, M. DUTOIT\nNiDeVinci.Mirzakhani",
-                    "start": "2026-11-03T18:00:00",
-                    "end": "2026-11-03T20:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -42176,7 +42170,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.0.08.Landercy",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.0.08.Landercy, RosaParks.2.08",
                     "start": "2026-10-30T08:15:00",
                     "end": "2026-10-30T10:15:00",
                     "color": "#0026ad"
@@ -43686,7 +43680,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiDeVinci.Russel",
                     "start": "2027-02-24T08:15:00",
                     "end": "2027-02-24T10:15:00",
                     "color": "#0026ad"
@@ -43698,7 +43692,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiDeVinci.Russel",
                     "start": "2027-03-03T08:15:00",
                     "end": "2027-03-03T10:15:00",
                     "color": "#0026ad"
@@ -43710,13 +43704,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiDeVinci.Russel",
                     "start": "2027-03-10T08:15:00",
                     "end": "2027-03-10T10:15:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiDeVinci.Russel",
                     "start": "2027-03-10T10:30:00",
                     "end": "2027-03-10T12:30:00",
                     "color": "#0026ad"
@@ -43728,7 +43722,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiDeVinci.Russel",
                     "start": "2027-03-24T08:15:00",
                     "end": "2027-03-24T10:15:00",
                     "color": "#0026ad"
@@ -43740,7 +43734,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiDeVinci.Russel",
                     "start": "2027-03-31T10:30:00",
                     "end": "2027-03-31T12:30:00",
                     "color": "#0026ad"
@@ -43752,7 +43746,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiDeVinci.Russel",
                     "start": "2027-04-07T08:15:00",
                     "end": "2027-04-07T10:15:00",
                     "color": "#0026ad"
@@ -43764,13 +43758,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiBSM.010.Lonsdale",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiBSM.010.Lonsdale",
                     "start": "2027-04-12T10:30:00",
                     "end": "2027-04-12T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiDeVinci.Russel",
                     "start": "2027-04-16T08:15:00",
                     "end": "2027-04-16T10:15:00",
                     "color": "#0026ad"
@@ -43782,13 +43776,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiB6.127Info",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiB6.127Info",
                     "start": "2027-05-03T10:30:00",
                     "end": "2027-05-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiDeVinci.Vaughan",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiDeVinci.Vaughan",
                     "start": "2027-05-05T10:30:00",
                     "end": "2027-05-05T12:30:00",
                     "color": "#0026ad"
@@ -43806,7 +43800,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Bases de données II\nM. FOUCART, M. WIJSEN\nNiDeVinci.Russel",
+                    "title": "Bases de données II\nM. WIJSEN, M. FOUCART\nNiDeVinci.Russel",
                     "start": "2027-05-12T10:30:00",
                     "end": "2027-05-12T12:30:00",
                     "color": "#0026ad"
@@ -44274,7 +44268,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. ROUZE, M. TUYTTENS, M. OBERTHÜR\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-11-13T13:30:00",
                     "end": "2026-11-13T16:30:00",
                     "color": "#0026ad"
@@ -44286,7 +44280,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. ROUZE, M. TUYTTENS, M. OBERTHÜR\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-11-20T13:30:00",
                     "end": "2026-11-20T16:30:00",
                     "color": "#0026ad"
@@ -44298,7 +44292,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. ROUZE, M. TUYTTENS, M. OBERTHÜR\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-11-27T13:30:00",
                     "end": "2026-11-27T16:30:00",
                     "color": "#0026ad"
@@ -44310,7 +44304,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. ROUZE, M. TUYTTENS, M. OBERTHÜR\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-12-04T13:30:00",
                     "end": "2026-12-04T16:30:00",
                     "color": "#0026ad"
@@ -44322,13 +44316,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. ROUZE, M. TUYTTENS, M. OBERTHÜR\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-12-11T08:30:00",
                     "end": "2026-12-11T11:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "GraphOptComb\nM. ROUZE, M. TUYTTENS, M. OBERTHÜR\nHo.23",
+                    "title": "GraphOptComb\nM. TUYTTENS, M. OBERTHÜR, M. ROUZE\nHo.23",
                     "start": "2026-12-11T13:30:00",
                     "end": "2026-12-11T16:30:00",
                     "color": "#0026ad"
@@ -44422,37 +44416,37 @@
             ],
             "Initiation à l'épistémologie": [
                 {
-                    "title": "Initiation à l'épistémologie\nM. BUISSERET, Mme STAQUET\nNiP.3E10",
+                    "title": "Initiation à l'épistémologie\nMme STAQUET, M. BUISSERET\nNiP.3E10",
                     "start": "2026-09-15T15:45:00",
                     "end": "2026-09-15T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiation à l'épistémologie\nM. BUISSERET, Mme STAQUET\nNiP.3E10",
+                    "title": "Initiation à l'épistémologie\nMme STAQUET, M. BUISSERET\nNiP.3E10",
                     "start": "2026-09-22T15:45:00",
                     "end": "2026-09-22T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiation à l'épistémologie\nM. BUISSERET, Mme STAQUET\nNiP.3E10",
+                    "title": "Initiation à l'épistémologie\nMme STAQUET, M. BUISSERET\nNiP.3E10",
                     "start": "2026-09-29T15:45:00",
                     "end": "2026-09-29T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiation à l'épistémologie\nM. BUISSERET, Mme STAQUET\nNiP.3E10",
+                    "title": "Initiation à l'épistémologie\nMme STAQUET, M. BUISSERET\nNiP.3E10",
                     "start": "2026-10-06T15:45:00",
                     "end": "2026-10-06T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiation à l'épistémologie\nM. BUISSERET, Mme STAQUET\nNiP.3E10",
+                    "title": "Initiation à l'épistémologie\nMme STAQUET, M. BUISSERET\nNiP.3E10",
                     "start": "2026-10-13T15:45:00",
                     "end": "2026-10-13T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Initiation à l'épistémologie\nM. BUISSERET, Mme STAQUET\nNiP.3E10",
+                    "title": "Initiation à l'épistémologie\nMme STAQUET, M. BUISSERET\nNiP.3E10",
                     "start": "2026-10-20T15:45:00",
                     "end": "2026-10-20T17:45:00",
                     "color": "#0026ad"
@@ -44508,7 +44502,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro à la compta\nM. FEUILLET\nWa.218W",
+                    "title": "Intro à la compta\nM. FEUILLET\nWa.204P",
                     "start": "2026-11-05T15:45:00",
                     "end": "2026-11-05T17:45:00",
                     "color": "#0026ad"
@@ -44772,7 +44766,7 @@
             ],
             "Intro to ML & DS": [
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-02-01T13:30:00",
                     "end": "2027-02-01T15:30:00",
                     "color": "#0026ad"
@@ -44784,7 +44778,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-02-08T13:30:00",
                     "end": "2027-02-08T15:30:00",
                     "color": "#0026ad"
@@ -44796,157 +44790,157 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-02-15T13:30:00",
                     "end": "2027-02-15T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-02-16T13:30:00",
                     "end": "2027-02-16T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-02-22T13:30:00",
                     "end": "2027-02-22T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-02-23T13:30:00",
                     "end": "2027-02-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-03-01T13:30:00",
                     "end": "2027-03-01T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-03-02T13:30:00",
                     "end": "2027-03-02T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.012.Hermann",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.012.Hermann",
                     "start": "2027-03-03T10:30:00",
                     "end": "2027-03-03T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-03-08T13:30:00",
                     "end": "2027-03-08T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-03-09T13:30:00",
                     "end": "2027-03-09T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-03-22T13:30:00",
                     "end": "2027-03-22T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-03-23T13:30:00",
                     "end": "2027-03-23T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-03-24T10:30:00",
                     "end": "2027-03-24T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-03-30T13:30:00",
                     "end": "2027-03-30T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
                     "start": "2027-03-31T15:45:00",
                     "end": "2027-03-31T17:45:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-04-02T10:30:00",
                     "end": "2027-04-02T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-04-05T13:30:00",
                     "end": "2027-04-05T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-04-06T13:30:00",
                     "end": "2027-04-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-04-07T10:30:00",
                     "end": "2027-04-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
                     "start": "2027-04-12T13:30:00",
                     "end": "2027-04-12T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-04-14T10:30:00",
                     "end": "2027-04-14T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiGA.Turing",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiGA.Turing",
                     "start": "2027-04-16T10:30:00",
                     "end": "2027-04-16T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-05-03T13:30:00",
                     "end": "2027-05-03T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-05-04T13:30:00",
                     "end": "2027-05-04T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.010.Lonsdale",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.010.Lonsdale",
                     "start": "2027-05-07T10:30:00",
                     "end": "2027-05-07T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiBSM.008.Kwolek",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiBSM.008.Kwolek",
                     "start": "2027-05-10T13:30:00",
                     "end": "2027-05-10T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Intro to ML & DS\nM. BEN TAIEB, M. VANDENHOVE\nNiDeVinci.Russel",
+                    "title": "Intro to ML & DS\nM. VANDENHOVE, M. BEN TAIEB\nNiDeVinci.Russel",
                     "start": "2027-05-11T13:30:00",
                     "end": "2027-05-11T15:30:00",
                     "color": "#0026ad"
@@ -45067,19 +45061,19 @@
             ],
             "Projet anal. & concept. log.": [
                 {
-                    "title": "Projet anal. & concept. log.\nM. FOUCART, M. CARDOEN, M. MENS\nNiBSM.010.Lonsdale",
+                    "title": "Projet anal. & concept. log.\nM. CARDOEN, M. FOUCART, M. MENS\nNiBSM.010.Lonsdale",
                     "start": "2026-10-06T13:30:00",
                     "end": "2026-10-06T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet anal. & concept. log.\nM. FOUCART, M. CARDOEN, M. MENS\nNiBSM.010.Lonsdale",
+                    "title": "Projet anal. & concept. log.\nM. CARDOEN, M. FOUCART, M. MENS\nNiBSM.010.Lonsdale",
                     "start": "2026-10-13T13:30:00",
                     "end": "2026-10-13T15:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet anal. & concept. log.\nM. FOUCART, M. CARDOEN, M. MENS\nNiP.0A07",
+                    "title": "Projet anal. & concept. log.\nM. CARDOEN, M. FOUCART, M. MENS\nNiP.0A07",
                     "start": "2026-10-19T13:30:00",
                     "end": "2026-10-19T15:30:00",
                     "color": "#0026ad"
@@ -45111,7 +45105,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Projet de développement logici\nM. DUSOLLIER, M. CARDOEN, M. MENS, M. FOUCART\nNiBSM.010.Lonsdale",
+                    "title": "Projet de développement logici\nM. CARDOEN, M. DUSOLLIER, M. FOUCART, M. MENS\nNiBSM.010.Lonsdale",
                     "start": "2027-05-14T13:00:00",
                     "end": "2027-05-14T18:00:00",
                     "color": "#0026ad"
@@ -45127,37 +45121,37 @@
             ],
             "Séminaire d'informatique": [
                 {
-                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nNiDeVinci.Mirzakhani",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nNiDeVinci.Mirzakhani",
                     "start": "2027-02-17T18:00:00",
                     "end": "2027-02-17T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nCha.ZG.S.2.15",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nCha.ZG.S.2.15",
                     "start": "2027-02-24T18:00:00",
                     "end": "2027-02-24T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nNiDeVinci.Mirzakhani",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nNiDeVinci.Mirzakhani",
                     "start": "2027-03-03T18:00:00",
                     "end": "2027-03-03T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nNiDeVinci.Mirzakhani",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nNiDeVinci.Mirzakhani",
                     "start": "2027-03-10T18:00:00",
                     "end": "2027-03-10T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nNiDeVinci.Mirzakhani",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nNiDeVinci.Mirzakhani",
                     "start": "2027-03-24T18:00:00",
                     "end": "2027-03-24T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nCha.ZG.W.2.02",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nCha.ZG.W.2.02",
                     "start": "2027-03-31T18:00:00",
                     "end": "2027-03-31T21:00:00",
                     "color": "#0026ad"
@@ -45169,19 +45163,19 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nNiDeVinci.Mirzakhani",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nNiDeVinci.Mirzakhani",
                     "start": "2027-04-14T18:00:00",
                     "end": "2027-04-14T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nNiDeVinci.Mirzakhani",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nNiDeVinci.Mirzakhani",
                     "start": "2027-05-05T18:00:00",
                     "end": "2027-05-05T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Séminaire d'informatique\nM. BEN TAIEB, M. DEVILLEZ\nCha.ZG.W.2.02",
+                    "title": "Séminaire d'informatique\nM. DEVILLEZ, M. BEN TAIEB\nCha.ZG.W.2.02",
                     "start": "2027-05-12T18:00:00",
                     "end": "2027-05-12T21:00:00",
                     "color": "#0026ad"
@@ -45231,7 +45225,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
+                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
                     "start": "2026-11-04T10:30:00",
                     "end": "2026-11-04T12:30:00",
                     "color": "#0026ad"
@@ -45243,13 +45237,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
+                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
                     "start": "2026-11-18T10:30:00",
                     "end": "2026-11-18T12:30:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "SignProces1\nM. LA FISCA, M. HUBENS\nHo.23",
+                    "title": "SignProces1\nM. HUBENS, M. LA FISCA\nHo.23",
                     "start": "2026-11-25T10:30:00",
                     "end": "2026-11-25T12:30:00",
                     "color": "#0026ad"
@@ -45331,7 +45325,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques\nM. SIMON\nNiB6.124",
+                    "title": "Statistiques\nM. THIANDOUM\nNiB6.124",
                     "start": "2026-11-02T10:30:00",
                     "end": "2026-11-02T12:30:00",
                     "color": "#0026ad"
@@ -51714,21 +51708,21 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. MAHMOUDI\nHo.IGLab",
-                    "start": "2026-11-16T13:30:00",
-                    "end": "2026-11-16T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "ProjExpertDigLog\nM. MAHMOUDI\nHo.IGLab",
-                    "start": "2026-11-16T15:45:00",
-                    "end": "2026-11-16T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "ProjExpertDigLog\nM. ROUKH, M. BENDJELLOUL, M. DELEHOUZEE\nHo.IGLab",
                     "start": "2026-11-18T08:30:00",
                     "end": "2026-11-18T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "ProjExpertDigLog\nM. MAHMOUDI\nHo.IGLab",
+                    "start": "2026-11-20T08:15:00",
+                    "end": "2026-11-20T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "ProjExpertDigLog\n\nHo.IGLab",
+                    "start": "2026-11-20T10:30:00",
+                    "end": "2026-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -52353,12 +52347,6 @@
                     "title": "SéminIntArtf\nM. DUPONT, M. DUTOIT, M. BEN TAIEB, M. SIEBERT, M. MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2026-10-27T18:00:00",
                     "end": "2026-10-27T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "SéminIntArtf\nM. DUPONT, M. DUTOIT, M. BEN TAIEB, M. SIEBERT, M. MAHMOUDI\nNiDeVinci.Mirzakhani",
-                    "start": "2026-11-03T18:00:00",
-                    "end": "2026-11-03T20:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -53290,7 +53278,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.02",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.W.0.01",
                     "start": "2026-11-16T18:00:00",
                     "end": "2026-11-16T21:00:00",
                     "color": "#0026ad"
@@ -53314,13 +53302,13 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.02",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.W.0.01",
                     "start": "2026-12-07T18:00:00",
                     "end": "2026-12-07T21:00:00",
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.S.2.02",
+                    "title": "Structures de données\nMme BRUYERE\nCha.ZG.W.0.01",
                     "start": "2026-12-14T18:00:00",
                     "end": "2026-12-14T21:00:00",
                     "color": "#0026ad"
@@ -57605,21 +57593,21 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "ProjExpertDigLog\nM. MAHMOUDI\nHo.IGLab",
-                    "start": "2026-11-16T13:30:00",
-                    "end": "2026-11-16T15:30:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "ProjExpertDigLog\nM. MAHMOUDI\nHo.IGLab",
-                    "start": "2026-11-16T15:45:00",
-                    "end": "2026-11-16T17:45:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "ProjExpertDigLog\nM. ROUKH, M. DELEHOUZEE, M. BENDJELLOUL\nHo.IGLab",
                     "start": "2026-11-18T08:30:00",
                     "end": "2026-11-18T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "ProjExpertDigLog\nM. MAHMOUDI\nHo.IGLab",
+                    "start": "2026-11-20T08:15:00",
+                    "end": "2026-11-20T10:15:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "ProjExpertDigLog\n\nHo.IGLab",
+                    "start": "2026-11-20T10:30:00",
+                    "end": "2026-11-20T12:30:00",
                     "color": "#0026ad"
                 },
                 {
@@ -58184,12 +58172,6 @@
                     "title": "SéminIntArtf\nM. DUPONT, M. DUTOIT, M. BEN TAIEB, M. SIEBERT, M. MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2026-10-27T18:00:00",
                     "end": "2026-10-27T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "SéminIntArtf\nM. DUPONT, M. DUTOIT, M. BEN TAIEB, M. SIEBERT, M. MAHMOUDI\nNiDeVinci.Mirzakhani",
-                    "start": "2026-11-03T18:00:00",
-                    "end": "2026-11-03T20:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -58898,12 +58880,6 @@
                     "title": "SéminIntArtf\nM. DUPONT, M. SIEBERT, M. BEN TAIEB, M. MAHMOUDI, M. DUTOIT\nNiDeVinci.Mirzakhani",
                     "start": "2026-10-27T18:00:00",
                     "end": "2026-10-27T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "SéminIntArtf\nM. DUPONT, M. SIEBERT, M. BEN TAIEB, M. MAHMOUDI, M. DUTOIT\nNiDeVinci.Mirzakhani",
-                    "start": "2026-11-03T18:00:00",
-                    "end": "2026-11-03T20:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -62135,7 +62111,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.0.08.Landercy",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.2.08, RosaParks.0.08.Landercy",
                     "start": "2026-10-30T08:15:00",
                     "end": "2026-10-30T10:15:00",
                     "color": "#0026ad"
@@ -67011,7 +66987,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques\nM. SIMON\nNiB6.124",
+                    "title": "Statistiques\nM. THIANDOUM\nNiB6.124",
                     "start": "2026-11-02T10:30:00",
                     "end": "2026-11-02T12:30:00",
                     "color": "#0026ad"
@@ -72957,12 +72933,6 @@
                 },
                 {
                     "title": "SéminIntArtf\nM. DUTOIT, M. BEN TAIEB, M. DUPONT, M. SIEBERT, M. MAHMOUDI\nNiDeVinci.Mirzakhani",
-                    "start": "2026-11-03T18:00:00",
-                    "end": "2026-11-03T20:00:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "SéminIntArtf\nM. DUTOIT, M. BEN TAIEB, M. DUPONT, M. SIEBERT, M. MAHMOUDI\nNiDeVinci.Mirzakhani",
                     "start": "2026-12-01T18:00:00",
                     "end": "2026-12-01T19:00:00",
                     "color": "#0026ad"
@@ -76933,8 +76903,8 @@
                 },
                 {
                     "title": "Physique Biomed I\nM. GOSSUIN\nPCM.500",
-                    "start": "2026-11-03T08:15:00",
-                    "end": "2026-11-03T10:15:00",
+                    "start": "2026-11-03T08:00:00",
+                    "end": "2026-11-03T10:00:00",
                     "color": "#0026ad"
                 },
                 {
@@ -80650,7 +80620,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "English, part 3\nM. DEVILEZ\nNiGA.Pascal",
+                    "title": "English, part 3\nM. DEVILEZ\nNiVésale.030",
                     "start": "2026-12-03T08:15:00",
                     "end": "2026-12-03T10:15:00",
                     "color": "#0026ad"
@@ -81289,12 +81259,6 @@
                 }
             ],
             "Pharmacologie générale Exer.": [
-                {
-                    "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiGA.Plisnier",
-                    "start": "2026-11-04T15:45:00",
-                    "end": "2026-11-04T17:45:00",
-                    "color": "#0026ad"
-                },
                 {
                     "title": "Pharmacologie générale Exer.\nMme ROMAN, Mme NACHTERGAEL\nNiGA.Plisnier",
                     "start": "2026-11-13T10:30:00",
@@ -84401,12 +84365,6 @@
                     "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv2, NiGA.Interactiv1",
                     "start": "2026-10-16T15:45:00",
                     "end": "2026-10-16T18:45:00",
-                    "color": "#0026ad"
-                },
-                {
-                    "title": "Soins d'urgence\nM. GHISLAIN\nNiGA.Interactiv2, NiGA.Interactiv1",
-                    "start": "2026-10-30T15:45:00",
-                    "end": "2026-10-30T18:45:00",
                     "color": "#0026ad"
                 },
                 {
@@ -87592,7 +87550,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.0.08.Landercy",
+                    "title": "Enjeux et défis dév dur\nMme HANTSON\nRosaParks.0.08.Landercy, RosaParks.2.08",
                     "start": "2026-10-30T08:15:00",
                     "end": "2026-10-30T10:15:00",
                     "color": "#0026ad"
@@ -90252,7 +90210,7 @@
                     "color": "#0026ad"
                 },
                 {
-                    "title": "Statistiques\nM. SIMON\nNiB6.124",
+                    "title": "Statistiques\nM. THIANDOUM\nNiB6.124",
                     "start": "2026-11-02T10:30:00",
                     "end": "2026-11-02T12:30:00",
                     "color": "#0026ad"
@@ -95258,12 +95216,6 @@
             ],
             "Prop.intell.et intell.strat.": [
                 {
-                    "title": "Prop.intell.et intell.strat.\n\nMme GENLAIN",
-                    "start": "2026-11-04T08:00:00",
-                    "end": "2026-11-04T10:00:00",
-                    "color": "#0026ad"
-                },
-                {
                     "title": "Prop.intell.et intell.strat.\nMme GENLAIN\nNiBSM.012.Hermann",
                     "start": "2026-11-18T13:30:00",
                     "end": "2026-11-18T15:30:00",
@@ -95285,6 +95237,12 @@
                     "title": "Prop.intell.et intell.strat.\nMme GENLAIN\nNiGA.Curie",
                     "start": "2026-11-30T10:30:00",
                     "end": "2026-11-30T12:30:00",
+                    "color": "#0026ad"
+                },
+                {
+                    "title": "Prop.intell.et intell.strat.\nMme GENLAIN\nNiBSM.010.Lonsdale",
+                    "start": "2026-12-03T15:45:00",
+                    "end": "2026-12-03T17:45:00",
                     "color": "#0026ad"
                 },
                 {
